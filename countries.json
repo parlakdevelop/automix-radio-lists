@@ -1,0 +1,80 @@
+[
+  {
+    "code": "tr",
+    "name": "Türkiye",
+    "flag": "🇹🇷",
+    "file_path": "countries/tr.json"
+  },
+  {
+    "code": "de",
+    "name": "Almanya",
+    "flag": "🇩🇪",
+    "file_path": "countries/de.json"
+  },
+  {
+    "code": "us",
+    "name": "Amerika Birleşik Devletleri",
+    "flag": "🇺🇸",
+    "file_path": "countries/us.json"
+  },
+  {
+    "code": "fr",
+    "name": "Fransa",
+    "flag": "🇫🇷",
+    "file_path": "countries/fr.json"
+  },
+  {
+    "code": "it",
+    "name": "İtalya",
+    "flag": "🇮🇹",
+    "file_path": "countries/it.json"
+  },
+  {
+    "code": "sv",
+    "name": "İsveç",
+    "flag": "🇸🇪",
+    "file_path": "countries/sv.json"
+  },
+  {
+    "code": "ch",
+    "name": "İsviçre",
+    "flag": "🇨🇭",
+    "file_path": "countries/ch.json"
+  },
+  {
+    "code": "uk",
+    "name": "Birleşik Krallık",
+    "flag": "🇬🇧",
+    "file_path": "countries/uk.json"
+  },
+  {
+    "code": "ca",
+    "name": "Kanada",
+    "flag": "🇨🇦",
+    "file_path": "countries/ca.json"
+  },
+  {
+    "code": "br",
+    "name": "Brezilya",
+    "flag": "🇧🇷",
+    "file_path": "countries/br.json"
+  },
+  {
+    "code": "ar",
+    "name": "Arjantin",
+    "flag": "🇦🇷",
+    "file_path": "countries/ar.json"
+  },
+  {
+    "code": "ru",
+    "name": "Rusya",
+    "flag": "🇷🇺",
+    "file_path": "countries/ru.json"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaycan",
+    "flag": "🇦🇿",
+    "file_path": "countries/az.json"
+  }
+]
