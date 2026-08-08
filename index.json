@@ -7,74 +7,80 @@
   },
   {
     "code": "de",
-    "name": "Almanya",
+    "name": "Deutschland",
     "flag": "🇩🇪",
     "file_path": "countries/de.json"
   },
   {
     "code": "us",
-    "name": "Amerika Birleşik Devletleri",
+    "name": "United States",
     "flag": "🇺🇸",
     "file_path": "countries/us.json"
   },
   {
     "code": "fr",
-    "name": "Fransa",
+    "name": "France",
     "flag": "🇫🇷",
     "file_path": "countries/fr.json"
   },
   {
     "code": "it",
-    "name": "İtalya",
+    "name": "Italia",
     "flag": "🇮🇹",
     "file_path": "countries/it.json"
   },
   {
     "code": "sv",
-    "name": "İsveç",
+    "name": "Sverige",
     "flag": "🇸🇪",
     "file_path": "countries/sv.json"
   },
   {
     "code": "ch",
-    "name": "İsviçre",
+    "name": "Schweiz",
     "flag": "🇨🇭",
     "file_path": "countries/ch.json"
   },
   {
     "code": "uk",
-    "name": "Birleşik Krallık",
+    "name": "United Kingdom",
     "flag": "🇬🇧",
     "file_path": "countries/uk.json"
   },
   {
     "code": "ca",
-    "name": "Kanada",
+    "name": "Canada",
     "flag": "🇨🇦",
     "file_path": "countries/ca.json"
   },
   {
     "code": "br",
-    "name": "Brezilya",
+    "name": "Brasil",
     "flag": "🇧🇷",
     "file_path": "countries/br.json"
   },
   {
     "code": "ar",
-    "name": "Arjantin",
+    "name": "Argentina",
     "flag": "🇦🇷",
     "file_path": "countries/ar.json"
   },
   {
     "code": "ru",
-    "name": "Rusya",
+    "name": "Россия",
     "flag": "🇷🇺",
     "file_path": "countries/ru.json"
   },
   {
     "code": "az",
-    "name": "Azerbaycan",
+    "name": "Azərbaycan",
     "flag": "🇦🇿",
     "file_path": "countries/az.json"
+  },
+  {
+    "code": "jp",
+    "name": "日本",
+    "flag": "🇯🇵",
+    "file_path": "countries/jp.json"
   }
 ]
