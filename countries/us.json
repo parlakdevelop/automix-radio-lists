@@ -1,32 +1,7 @@
 [
-  {
-    "name": "Radio Punjabi USA",
-    "url": "http://198.178.123.5:7016/;stream.mp3",
-    "country": "US",
-    "favicon": "",
-    "working_url": "http://198.178.123.5:7016/;stream.mp3"
-  },
-  {
-    "name": "radio radio X",
-    "url": "http://www.ophanim.net:9220/;stream/1%23.mp3",
-    "country": "US",
-    "favicon": "",
-    "working_url": "http://www.ophanim.net:9220/;stream/1%23.mp3"
-  },
-  {
-    "name": "Radio Random",
-    "url": "http://radiorandom.org:8000/WBJM",
-    "country": "US",
-    "favicon": "https://radiorandom.org/img/icon.png",
-    "working_url": "http://radiorandom.org:8000/WBJM"
-  },
-  {
-    "name": "Radio Random | WBJM-IP",
-    "url": "http://radiorandom.org:8000/WBJM",
-    "country": "US",
-    "favicon": "https://radiorandom.org/img/icon.png",
-    "working_url": "http://radiorandom.org:8000/WBJM"
-  },
+  
+  
+  
   {
     "name": "Radio RCA",
     "url": "https://broadcast.miami/proxy/rca?mp=/stream/;",
@@ -48,13 +23,7 @@
     "favicon": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
     "working_url": "https://streaming.radiostreamlive.com/radiorockon_devices"
   },
-  {
-    "name": "Radio Rouge FM 99.3 Country Hits",
-    "url": "http://uk1.streamingpulse.com:7073/stream",
-    "country": "US",
-    "favicon": "",
-    "working_url": "http://uk1.streamingpulse.com:7073/stream"
-  },
+ 
   {
     "name": "Radio Rumba Vacilon",
     "url": "https://sonic.globalstreaming.net/8120/;",
@@ -69,13 +38,7 @@
     "favicon": "https://radio.rusrek.com/images/l/logo-max8.png",
     "working_url": "https://securestreams5.autopo.st:1844/stream"
   },
-  {
-    "name": "Radio Rusrek Радио Русская Реклама 96.3 FM-HD3 New York",
-    "url": "http://s1.premium-streaming.com:9002/stream",
-    "country": "US",
-    "favicon": "https://play-lh.googleusercontent.com/1cH88jLFD307RXVsGNE9hrWoKY_WgvQ9RBmlyvImob3YekFB_gN9fcUt8M1fRUgtQQ",
-    "working_url": "http://s1.premium-streaming.com:9002/stream"
-  },
+  
   {
     "name": "Radio Salsoul",
     "url": "https://broadcast.miami/proxy/salsoul?mp=/stream",
@@ -83,13 +46,7 @@
     "favicon": "",
     "working_url": "https://broadcast.miami/proxy/salsoul?mp=/stream"
   },
-  {
-    "name": "Radio Santa (MP3)",
-    "url": "http://streaming.live365.com/a53827",
-    "country": "US",
-    "favicon": "https://i.ibb.co/VMLf3Ds/750d9e80-9e84-49ab-bdcf-7b59e5b9157b-jpg.jpg",
-    "working_url": "http://das-edge63-live365-dal03.cdnstream.com/a53827"
-  },
+ 
   {
     "name": "Radio Santa Claus",
     "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
@@ -97,13 +54,7 @@
     "favicon": "",
     "working_url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E"
   },
-  {
-    "name": "Radio Sausalito",
-    "url": "https://radiosausalito.org/128k",
-    "country": "US",
-    "favicon": "https://radiosausalito.org/wp-content/uploads/2012/03/header_pano_w_color_logo.jpg",
-    "working_url": "http://quarrel.str3am.com:7090/live"
-  },
+  
   {
     "name": "Radio Sausalito 1610 - Sausalito, CA",
     "url": "http://radiosausalito.org/128k",
