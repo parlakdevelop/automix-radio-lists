@@ -1,0 +1,3001 @@
+[
+    {
+        "name": "181.FM - Classical Guitar",
+        "url": "http://listen.livestreamingservice.com/181-classicalguitar_64k.aac",
+        "country": "US",
+        "tags": [
+            "classical guitar"
+        ],
+        "favicon": "https://www.181.fm/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://listen.livestreamingservice.com/181-classicalguitar_64k.aac"
+    },
+    {
+        "name": "181.FM - Classical Music",
+        "url": "http://listen.181fm.com/181-classical_128k.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-classical_128k.mp3"
+    },
+    {
+        "name": "181.FM Classical Music",
+        "url": "http://listen.livestreamingservice.com/181-classical_128k.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.livestreamingservice.com/181-classical_128k.mp3"
+    },
+    {
+        "name": "6forty Radio",
+        "url": "http://radio.6forty.com:8000/6forty",
+        "country": "US",
+        "tags": [
+            "deep indie",
+            "modern classical",
+            "post-metal",
+            "post-rock",
+            "shoegaze"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s256562g.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radio.6forty.com:8000/6forty"
+    },
+    {
+        "name": "88.7 WICR - The Diamond",
+        "url": "https://live.amperwave.net/direct/univofindy-wicrhd1mp3-ibc4",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "https://wicronline.org/wicrfm/wp-content/uploads/2022/01/wicrfm-logo.jpg",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "https://prod-54-166-216-244.amperwave.net/univofindy-wicrhd1mp3-ibc4?session-id=eeda50392c5d82c4ee655298eeb3bfbf"
+    },
+    {
+        "name": "89.5 fm KBACH",
+        "url": "http://stream.kbaq.org/kbaq_mp3_128",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.kbaq.org/kbaq_mp3_128"
+    },
+    {
+        "name": "99.5 WCRB - Bach Channel",
+        "url": "http://wgbh.streamguys.com/Bach-8108",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/0664751/2147483647/strip/true/crop/1281x855+0+0/resize/360x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwcrb%2Ffiles%2F202009%2FCRB_Classical995_rgb_white.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wgbh.streamguys.com/Bach-8108"
+    },
+    {
+        "name": "All Classical Portland",
+        "url": "https://allclassical.streamguys1.com/ac96k",
+        "country": "US",
+        "tags": [
+            "classical",
+            "portland"
+        ],
+        "favicon": "https://www.allclassical.org/wp-content/themes/acp-theme/img/acp_logo_600x600.jpg",
+        "codec": "AAC",
+        "bitrate": 96,
+        "working_url": "https://allclassical.streamguys1.com/ac96k"
+    },
+    {
+        "name": "Ancient Faith Radio",
+        "url": "https://ancientfaith.streamguys1.com/music",
+        "country": "US",
+        "tags": [
+            "classical",
+            "medieval",
+            "religious"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://ancientfaith.streamguys1.com/music"
+    },
+    {
+        "name": "Babe Radio",
+        "url": "http://usa14.fastcast4u.com:5252/;",
+        "country": "US",
+        "tags": [
+            "classical",
+            "contemporary",
+            "disco",
+            "jazz",
+            "jukebox",
+            "lovesong",
+            "mellow",
+            "metalcore",
+            "opm",
+            "rock",
+            "smooth"
+        ],
+        "favicon": "https://file.garden/Zzg7g9nzzkEeNTar/BabeRadio.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://usa14.fastcast4u.com:5252/;"
+    },
+    {
+        "name": "Blindbtradio",
+        "url": "https://s4.voscast.com:9673/stream",
+        "country": "US",
+        "tags": [
+            "blues",
+            "classical",
+            "easy listening",
+            "jazz",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s4.voscast.com:9673/stream"
+    },
+    {
+        "name": "BSPR Music (Classical, KBSU)",
+        "url": "https://boisestate.streamguys1.com/Music1-aac-128k-icy",
+        "country": "US",
+        "tags": [
+            "boise",
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.boisestatepublicradio.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
+    },
+    {
+        "name": "Capital Public Radio Classical",
+        "url": "http://16613.live.streamtheworld.com/CLASSICALSTREAM_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://16613.live.streamtheworld.com/CLASSICALSTREAM_SC"
+    },
+    {
+        "name": "Capital Public Radio Music (KXPR, KXSR, KXJS)",
+        "url": "http://18433.live.streamtheworld.com:3690/KXPR_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic",
+            "jazz",
+            "public radio",
+            "roots"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://18433.live.streamtheworld.com:3690/KXPR_SC"
+    },
+    {
+        "name": "Chicago Symphony Orchestra",
+        "url": "http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio"
+    },
+    {
+        "name": "Classica by Kondarte",
+        "url": "https://sonoxis.com:8443/classica",
+        "country": "US",
+        "tags": [
+            "cello",
+            "classical guitar",
+            "classical music",
+            "classical piano",
+            "moda de viola",
+            "radio",
+            "technology",
+            "viola",
+            "violin"
+        ],
+        "favicon": "https://kondarte.com/classica/favicons/favicon-32x32.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://sonoxis.com:8443/classica"
+    },
+    {
+        "name": "Classical 89",
+        "url": "https://radio.byub.org/classical89/classical89_aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.classical89.org/_nuxt/icons/icon_192x192.c80ea2.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://radio.byub.org/classical89/classical89_aac"
+    },
+    {
+        "name": "Classical 89 KBYU-FM",
+        "url": "https://radio.byub.org/classical89/classical89_mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "sermons"
+        ],
+        "favicon": "https://www.classical89.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.byub.org/classical89/classical89_mp3"
+    },
+    {
+        "name": "Classical 89.7 FM",
+        "url": "https://14623.live.streamtheworld.com/KCNVFMAAC_SC",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.knpr.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://14623.live.streamtheworld.com/KCNVFMAAC_SC"
+    },
+    {
+        "name": "Classical California KDFC AAC",
+        "url": "https://14923.live.streamtheworld.com/KDFCFMAAC96_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "opera"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://14923.live.streamtheworld.com/KDFCFMAAC96_SC"
+    },
+    {
+        "name": "Classical Catholic Radio",
+        "url": "https://streaming.live365.com/a64105",
+        "country": "US",
+        "tags": [
+            "catholic",
+            "choral",
+            "classical",
+            "liturgical",
+            "religious",
+            "sacred",
+            "traditional christian"
+        ],
+        "favicon": "https://classicalliberalarts.com/wp-content/uploads/classical-catholic-radio.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a64105"
+    },
+    {
+        "name": "Classical Charlottesville (A service of WTJU 91.1 FM) | The University of Virginia, Charlottesville, VA",
+        "url": "https://streams.wtju.net/wtju-classical.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical choral",
+            "classical music"
+        ],
+        "favicon": "https://images.squarespace-cdn.com/content/v1/5efcca7b0619de5e131c795c/1601395030491-GZBKOSLEX08R693KAJND/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://streams.wtju.net/wtju-classical.mp3"
+    },
+    {
+        "name": "Classical HQR 92.7",
+        "url": "https://whqr.streamguys1.com/whqr_hd2",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/897cf99/2147483647/strip/true/crop/635x630+0+0/resize/1760x1746!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwhqr%2Ffiles%2F201604%2Fhqr_classical_logo.jpg",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://whqr.streamguys1.com/whqr_hd2"
+    },
+    {
+        "name": "Classical King FM - Evergreen Channel",
+        "url": "https://classicalking.streamguys1.com/evergreen-aac-128k",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1108/2019/05/15152826/cropped-favico-192x192.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://classicalking.streamguys1.com/evergreen-aac-128k"
+    },
+    {
+        "name": "Classical KUSC",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCAAC64.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.kusc.org/icons/kusc/apple-touch-icon-120x120.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://14103.live.streamtheworld.com/KUSCAAC64.aac"
+    },
+    {
+        "name": "Classical KUSC MP3 256",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical california",
+            "los angeles"
+        ],
+        "favicon": "https://www.kusc.org/icons/kusc/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://14933.live.streamtheworld.com/KUSCMP256.mp3"
+    },
+    {
+        "name": "classical piano",
+        "url": "https://cms.stream.publicradio.org/cms.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://cms.stream.publicradio.org/cms.aac"
+    },
+    {
+        "name": "Classical Radio Essential",
+        "url": "https://drive.uber.radio/uber-app/cressentialclassics/icecast.audio",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://drive.uber.radio/uber-app/cressentialclassics/icecast.audio"
+    },
+    {
+        "name": "Classically Christian - WCNP",
+        "url": "https://ice23.securenetsystems.net/WCNP",
+        "country": "US",
+        "tags": [
+            "christian",
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice23.securenetsystems.net/WCNP"
+    },
+    {
+        "name": "ClassicFM-M-Movies",
+        "url": "http://media-the.musicradio.com/ClassicFM-M-Movies",
+        "country": "US",
+        "tags": [
+            "classical",
+            "music",
+            "古典音乐",
+            "音乐"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://media-the.musicradio.com/ClassicFM-M-Movies"
+    },
+    {
+        "name": "CleansingMusic - Classically (MP3)",
+        "url": "http://hemnos.cdnstream.com/1485_128",
+        "country": "US",
+        "tags": [
+            "classical",
+            "soundtracks"
+        ],
+        "favicon": "https://i.ibb.co/KjNWH0q/22397-v3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://hemnos.cdnstream.com/1485_128"
+    },
+    {
+        "name": "Colorado Public Radio - Classical",
+        "url": "http://stream2.cprnetwork.org:8000/cpr2_aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://stream2.cprnetwork.org:8000/cpr2_aac"
+    },
+    {
+        "name": "Colorado Public Radio Classical",
+        "url": "https://stream1.cprnetwork.org/cpr2_lo",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.cpr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "https://stream1.cprnetwork.org/cpr2_lo"
+    },
+    {
+        "name": "Colorado Public Radio OpenAir",
+        "url": "http://stream1.cprnetwork.org/cpr3_lo",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.cpr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://stream1.cprnetwork.org/cpr3_lo"
+    },
+    {
+        "name": "CPR Classical AAC 128",
+        "url": "https://stream1.cprnetwork.org/2110_128.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.cpr.org/icons/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://stream1.cprnetwork.org/2110_128.aac"
+    },
+    {
+        "name": "CPR Classical AAC 256",
+        "url": "https://stream1.cprnetwork.org/2110_256.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.cpr.org/icons/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://stream1.cprnetwork.org/2110_256.aac"
+    },
+    {
+        "name": "CRB - Bach Channel",
+        "url": "https://wgbh-live.streamguys1.com/Bach-8108-aac",
+        "country": "US",
+        "tags": [
+            "bach",
+            "boston",
+            "classical",
+            "gbh"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wgbh-live.streamguys1.com/Bach-8108-aac"
+    },
+    {
+        "name": "CRB - Boston Early Music",
+        "url": "https://wgbh-live.streamguys1.com/BostonEarlyMusic-8112-aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "classical",
+            "early music",
+            "gbh"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wgbh-live.streamguys1.com/BostonEarlyMusic-8112-aac"
+    },
+    {
+        "name": "CRB - BSO Channel",
+        "url": "https://wgbh-live.streamguys1.com/BSOConcert-8106-aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "boston symphony orchestra",
+            "classical",
+            "gbh"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wgbh-live.streamguys1.com/BSOConcert-8106-aac"
+    },
+    {
+        "name": "CRB - Holiday Classical Mix",
+        "url": "https://wgbh-live.streamguys1.com/holiday2.aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "christmas",
+            "classical",
+            "gbh"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wgbh-live.streamguys1.com/holiday2.aac"
+    },
+    {
+        "name": "CRB - Holiday Classics",
+        "url": "https://wgbh-live.streamguys1.com/holiday3.aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "christmas",
+            "classical",
+            "gbh"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 127,
+        "working_url": "https://wgbh-live.streamguys1.com/holiday3.aac"
+    },
+    {
+        "name": "CRB - Holiday Party Soundtrack",
+        "url": "https://wgbh-live.streamguys1.com/holiday1.aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "christmas",
+            "classical",
+            "gbh"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wgbh-live.streamguys1.com/holiday1.aac"
+    },
+    {
+        "name": "CRB Classical 99.5",
+        "url": "https://wgbh-live.streamguys1.com/classical-hi",
+        "country": "US",
+        "tags": [
+            "boston",
+            "classical",
+            "gbh",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://wgbh-live.streamguys1.com/classical-hi"
+    },
+    {
+        "name": "CRB Classical 99.5 AAC 256",
+        "url": "https://wgbh-live.streamguys1.com/wcrb-itunes-256k",
+        "country": "US",
+        "tags": [
+            "boston",
+            "classical",
+            "gbh",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 255,
+        "working_url": "https://wgbh-live.streamguys1.com/wcrb-itunes-256k"
+    },
+    {
+        "name": "CRB Classical 99.5 HLS",
+        "url": "https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "boston",
+            "classical",
+            "gbh",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.classicalwcrb.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8"
+    },
+    {
+        "name": "Discover Classical",
+        "url": "https://wdpr-ice.streamguys1.com/live-aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://wdpr-ice.streamguys1.com/live-aac"
+    },
+    {
+        "name": "Friends of 'CSB (Tuner feed of 89.3 FM)",
+        "url": "https://s20.myradiostream.com:18792/listen.mp3",
+        "country": "US",
+        "tags": [
+            "beats",
+            "blues",
+            "drums",
+            "electronic",
+            "experimental",
+            "folk",
+            "free jazz",
+            "free radio",
+            "freestyle",
+            "funk",
+            "hip hop",
+            "hip-hop",
+            "hippy noise",
+            "independent",
+            "japanoise",
+            "jazz",
+            "metal",
+            "modern classical",
+            "mumbling",
+            "noise",
+            "noise rock",
+            "non-commercial",
+            "psychedelic",
+            "punk",
+            "reggae",
+            "rock",
+            "rockabilly",
+            "ska",
+            "talk",
+            "techno"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s20.myradiostream.com:18792/listen.mp3"
+    },
+    {
+        "name": "GBH (WGBH) 87.9",
+        "url": "https://wgbh-live.streamguys1.com/wgbh.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "music",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://radioink.com/wp-content/uploads/2023/01/WGBH-Radio.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://wgbh-live.streamguys1.com/wgbh.mp3"
+    },
+    {
+        "name": "Gentle Praise from Family Life",
+        "url": "https://streaming.live365.com/a59845_2",
+        "country": "US",
+        "tags": [
+            "christian",
+            "classical",
+            "easy listening",
+            "instrumental",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a59845_2"
+    },
+    {
+        "name": "Global Community Radio 3 (GCR-3)",
+        "url": "http://142.4.219.8:8327/",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic programming",
+            "jazz",
+            "music",
+            "variety"
+        ],
+        "favicon": "https://globalcommunityradio.blogspot.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://142.4.219.8:8327/"
+    },
+    {
+        "name": "Hawaii Public Radio HPR-2 (KIPO)",
+        "url": "http://khpr-ice.streamguys1.com/kipo2",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://hawaiipublicradio.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://khpr-ice.streamguys1.com/kipo2"
+    },
+    {
+        "name": "High Plains Public Radio - 91.1 KANZ",
+        "url": "http://14843.live.streamtheworld.com/KANZFM_HPPR_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "folk",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://hppr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://14843.live.streamtheworld.com/KANZFM_HPPR_SC"
+    },
+    {
+        "name": "Hopsain Radio",
+        "url": "https://stream.radio.co/sb4fa1aec1/listen",
+        "country": "US",
+        "tags": [
+            "afro house",
+            "afrobeats",
+            "afrofusion",
+            "amapiano",
+            "ambient",
+            "classical",
+            "dance",
+            "dancehall",
+            "electronic",
+            "gqom",
+            "house",
+            "jazz",
+            "techno",
+            "world",
+            "world music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.radio.co/sb4fa1aec1/listen"
+    },
+    {
+        "name": "Houston Public Media Classical",
+        "url": "https://stream.houstonpublicmedia.org/classical-aac",
+        "country": "US",
+        "tags": [
+            "baroque",
+            "beethoven",
+            "classical",
+            "classical 24",
+            "classical music",
+            "houston",
+            "mozart"
+        ],
+        "favicon": "https://cdn.houstonpublicmedia.org/assets/images/ListenLive_Classical.png.webp",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://stream.houstonpublicmedia.org/classical-aac"
+    },
+    {
+        "name": "Iheart Classical Highlights",
+        "url": "http://stream.revma.ihrhls.com/zc6377",
+        "country": "US",
+        "tags": [
+            "classical music"
+        ],
+        "favicon": "https://i.iheart.com/v3/re/assets/images/6377.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://cloud.revma.ihrhls.com/zc6377?rj-org=n1db-e2&rj-ttl=5&rj-tok=AAABn-hZWeoABFLvnn6v-kxZ3A"
+    },
+    {
+        "name": "Interlochen Public Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://26273.live.streamtheworld.com/WIAAFM.mp3"
+    },
+    {
+        "name": "IPR Classical",
+        "url": "https://classical-stream.iowapublicradio.org/Classical.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://classical-stream.iowapublicradio.org/Classical.mp3"
+    },
+    {
+        "name": "KAMU Radio FM 90.9",
+        "url": "http://kamu.streamguys1.com/hd1-192",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://kamu.streamguys1.com/hd1-192"
+    },
+    {
+        "name": "KAMU-Classical",
+        "url": "https://kamu.streamguys1.com/hd2-192",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "texas"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://kamu.streamguys1.com/hd2-192"
+    },
+    {
+        "name": "KANU 91.5 \"Kansas Public Radio\" Lawrence, KS",
+        "url": "http://streaming.kansaspublicradio.org:8000/kpr1",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz",
+            "kansas public radio",
+            "lawrence",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://kansaspublicradio.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://streaming.kansaspublicradio.org:8000/kpr1"
+    },
+    {
+        "name": "KAWC News and Information",
+        "url": "http://23023.live.streamtheworld.com:3690/KAWCFM_SC",
+        "country": "US",
+        "tags": [
+            "bbc",
+            "classical",
+            "npr",
+            "pri"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://23023.live.streamtheworld.com:3690/KAWCFM_SC"
+    },
+    {
+        "name": "KBACH 89.5 FM AAC 64",
+        "url": "https://kbaq.streamguys1.com/kbaq_aac_64",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "phoenix",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 65,
+        "working_url": "https://kbaq.streamguys1.com/kbaq_aac_64"
+    },
+    {
+        "name": "KBIA HD2 (Classical 90.5, KMUC)",
+        "url": "https://das-sa43.cdnstream1.com/6063_256k.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.kbia.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://das-sa43.cdnstream1.com/6063_256k.aac"
+    },
+    {
+        "name": "KCHE Classic Hits 92.1",
+        "url": "https://ice3.securenetsystems.net/KCHEFM",
+        "country": "US",
+        "tags": [
+            "cherokee",
+            "classical",
+            "commercial"
+        ],
+        "favicon": "https://www.kcheradio.com/images/favicon/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice3.securenetsystems.net/KCHEFM"
+    },
+    {
+        "name": "KCME 88.7 Manitou Springs, CO",
+        "url": "http://ice9.securenetsystems.net/KCME",
+        "country": "US",
+        "tags": [
+            "classical",
+            "manitou springs",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://ice9.securenetsystems.net/KCME"
+    },
+    {
+        "name": "KDAQ-HD2 \"Red River Radio Classical Stream\" Shreveport, LA",
+        "url": "http://26443.live.streamtheworld.com:3690/KDAQHD2_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://26443.live.streamtheworld.com:3690/KDAQHD2_SC"
+    },
+    {
+        "name": "KDFC Arcade",
+        "url": "https://19273.live.streamtheworld.com/CC8_S01AAC_96_SC",
+        "country": "US",
+        "tags": [
+            "arcade",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://19273.live.streamtheworld.com/CC8_S01AAC_96_SC"
+    },
+    {
+        "name": "KDFC Classical California Ultimate Playlist",
+        "url": "https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC"
+    },
+    {
+        "name": "KDFC Classical Christmas",
+        "url": "https://16643.live.streamtheworld.com/CC2_S01AAC_96_SC",
+        "country": "US",
+        "tags": [
+            "christmas",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://16643.live.streamtheworld.com/CC2_S01AAC_96_SC"
+    },
+    {
+        "name": "KDFC Glissando",
+        "url": "https://16643.live.streamtheworld.com/CC9_S01AAC_96_SC",
+        "country": "US",
+        "tags": [
+            "children",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://16643.live.streamtheworld.com/CC9_S01AAC_96_SC"
+    },
+    {
+        "name": "KDFC Great Escape",
+        "url": "https://16643.live.streamtheworld.com/CC4_S01AAC_96_SC",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://16643.live.streamtheworld.com/CC4_S01AAC_96_SC"
+    },
+    {
+        "name": "KFUO Christ for You. Anytime. Anywhere",
+        "url": "https://kfuo.streamguys1.com/kfuo",
+        "country": "US",
+        "tags": [
+            "choir",
+            "chorale",
+            "christian",
+            "classical",
+            "cultural",
+            "lutheran",
+            "talk"
+        ],
+        "favicon": "https://www.kfuo.org/wp-content/uploads/2017/08/WebLogo_KFUO_circlewaves_green-whiteback-03.png",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://kfuo.streamguys1.com/kfuo"
+    },
+    {
+        "name": "KHFM Classical Public Radio",
+        "url": "https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3",
+        "country": "US",
+        "tags": [
+            "classical music",
+            "public radio"
+        ],
+        "favicon": "https://khfm.org/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://prod-3-92-193-219.amperwave.net/agmedia28-khfmfmaac-ibc3?session-id=0cffd7f4f6676416ed1a49b39913a9f1"
+    },
+    {
+        "name": "KLCC 89.7 Eugene, OR",
+        "url": "http://tektite.streamguys1.com:5020/klcc.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic",
+            "eugene",
+            "jazz",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 80,
+        "working_url": "http://tektite.streamguys1.com:5020/klcc.mp3"
+    },
+    {
+        "name": "KMFA",
+        "url": "https://kmfa.streamguys1.com/KMFA-mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kmfa.streamguys1.com/KMFA-mp3"
+    },
+    {
+        "name": "KMFA Classical 89.5 Austin TX",
+        "url": "https://kmfa.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "austin",
+            "classical",
+            "public radio"
+        ],
+        "favicon": "https://www.kmfa.org/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://kmfa.streamguys1.com/live"
+    },
+    {
+        "name": "KPAC 88.3 FM TPR Classical",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPACFMAAC.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://22983.live.streamtheworld.com/KPACFMAAC.aac"
+    },
+    {
+        "name": "kpbs Classical San Diego",
+        "url": "http://kpbs-classical.streamguys1.com/kpbs-classical",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://cdn-profiles.tunein.com/s52557/images/logog.jpg?t=156346",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://kpbs-classical.streamguys1.com/kpbs-classical"
+    },
+    {
+        "name": "KPBS Classical San Diego AAC 256",
+        "url": "https://kpbs-classical.streamguys1.com/kpbs-classical-itunes-256k.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio",
+            "san diego"
+        ],
+        "favicon": "https://www.kpbs.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 56,
+        "working_url": "https://kpbs-classical.streamguys1.com/kpbs-classical-itunes-256k.aac"
+    },
+    {
+        "name": "KPBS-HD2 Classical San Diego",
+        "url": "http://kpbs.streamguys1.com/kpbs-mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio",
+            "san diego"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://kpbs.streamguys1.com/kpbs-mp3"
+    },
+    {
+        "name": "KRCU Public Radio for Southeast Missouri",
+        "url": "https://krculive.semo.edu:8443/128k",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://krculive.semo.edu:8443/128k"
+    },
+    {
+        "name": "KSJN 99.5 \"Classical Minnesota Public Radio\" Minneapolis-St. Paul, MN",
+        "url": "http://cms.stream.publicradio.org/cms.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "minneapolis",
+            "minnesota public radio",
+            "npr",
+            "public radio",
+            "st. paul"
+        ],
+        "favicon": "http://www.classicalmpr.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://cms.stream.publicradio.org/cms.mp3"
+    },
+    {
+        "name": "KSMU 90.1 \"Ozarks Public Radio\" Springfield, MO",
+        "url": "http://ksmu.streamguys1.com/ksmu3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public npr",
+            "springfield"
+        ],
+        "favicon": "http://ksmu.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ksmu.streamguys1.com/ksmu3"
+    },
+    {
+        "name": "KSUT Four Corners Public Radio Ignacio, CO",
+        "url": "http://ksut.streamguys1.com/ksut",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio",
+            "tribal"
+        ],
+        "favicon": "https://www.ksut.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "http://ksut.streamguys1.com/ksut"
+    },
+    {
+        "name": "KUAF-HD2 Classical Stream - Fayetteville, AR",
+        "url": "https://war.streamguys1.com:7031/kuaf2",
+        "country": "US",
+        "tags": [
+            "classical",
+            "fayetteville",
+            "public radio"
+        ],
+        "favicon": "http://kuaf.com/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://war.streamguys1.com:7031/kuaf2"
+    },
+    {
+        "name": "KUSC 91.5 Los Angeles, CA (96kbps AAC)",
+        "url": "https://16603.live.streamtheworld.com/KUSCAAC96_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "los angeles",
+            "public radio"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://16603.live.streamtheworld.com/KUSCAAC96_SC"
+    },
+    {
+        "name": "KUSD-HD2 \"South Dakota Public Broadcasting\" Vermillion, SD",
+        "url": "http://15723.live.streamtheworld.com/KUSDHD2_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio",
+            "vermillion"
+        ],
+        "favicon": "http://www.sdpb.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://15723.live.streamtheworld.com/KUSDHD2_SC"
+    },
+    {
+        "name": "KVNO 90.7 University of Nebraska at Omaha, NE",
+        "url": "http://kvnovm-hd1.unomaha.edu:8000/listen.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "omaha",
+            "public radio",
+            "university radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://kvnovm-hd1.unomaha.edu:8000/listen.mp3"
+    },
+    {
+        "name": "KVPR 89.3 \"Valley Public Radio\" Fresno, CA (AAC)",
+        "url": "http://27033.live.streamtheworld.com/KVPRFMAAC_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://kvpr.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://27033.live.streamtheworld.com/KVPRFMAAC_SC"
+    },
+    {
+        "name": "KVPR 89.3 \"Valley Public Radio\" Fresno, CA (MP3)",
+        "url": "http://27033.live.streamtheworld.com/KVPRFM_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://kvpr.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://27033.live.streamtheworld.com/KVPRFM_SC"
+    },
+    {
+        "name": "KWMU3 classical",
+        "url": "https://kwmu1-ice.streamguys1.com/kwmu3.m3u",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kwmu1-ice.streamguys1.com/kwmu3.m3u"
+    },
+    {
+        "name": "La Classica",
+        "url": "https://stream.laclassica.be:18023/stream2",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://stream.laclassica.be:18023/stream2"
+    },
+    {
+        "name": "LIR",
+        "url": "https://streaming.live365.com/a95442?listenerId=Live365-AdBlock&aw_1_1st.playerId=Live365&aw_1_1st.skey=1688219513375",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a95442?listenerId=Live365-AdBlock&aw_1_1st.playerId=Live365&aw_1_1st.skey=1688219513375"
+    },
+    {
+        "name": "Lounge24 Radio",
+        "url": "https://radio.aklein.studio/listen/lounge24_radio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "deep house",
+            "dub reggae",
+            "house",
+            "jazz",
+            "jungle"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.aklein.studio/listen/lounge24_radio/radio.mp3"
+    },
+    {
+        "name": "Lutheran Public Radio - Collinsville, IL",
+        "url": "http://lpr.streamguys1.com/lpr-aac",
+        "country": "US",
+        "tags": [
+            "christian",
+            "classical",
+            "lutheran",
+            "sacred"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://lpr.streamguys1.com/lpr-aac"
+    },
+    {
+        "name": "Minnesota Public Radio Classical Music Stream",
+        "url": "http://ycradio.stream.publicradio.org/ycradio.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ycradio.stream.publicradio.org/ycradio.mp3"
+    },
+    {
+        "name": "MPR Classical 24/7",
+        "url": "https://cms.stream.publicradio.org/cms.mp3",
+        "country": "US",
+        "tags": [
+            "classical baroque",
+            "classical music"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://cms.stream.publicradio.org/cms.mp3"
+    },
+    {
+        "name": "MPR Classical Piano",
+        "url": "https://holiday.stream.publicradio.org/peacefulpiano.mp3",
+        "country": "US",
+        "tags": [
+            "classical piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://holiday.stream.publicradio.org/peacefulpiano.mp3"
+    },
+    {
+        "name": "Northwest Public Broadcasting - Classical and News",
+        "url": "https://nwpb.streamguys1.com/nwprclassical-aac-128-icy",
+        "country": "US",
+        "tags": [
+            "classical",
+            "news talk"
+        ],
+        "favicon": "https://www.nwpb.org/wp-content/uploads/2017/11/cropped-site_emoticon-300x300.png",
+        "codec": "AAC",
+        "bitrate": 130,
+        "working_url": "https://nwpb.streamguys1.com/nwprclassical-aac-128-icy"
+    },
+    {
+        "name": "octave radio",
+        "url": "https://octaverecords.out.airtime.pro/octaverecords_a",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://octaverecords.out.airtime.pro/octaverecords_a"
+    },
+    {
+        "name": "Organ Magic",
+        "url": "https://outpostradio.com/listen/omagic",
+        "country": "US",
+        "tags": [
+            "baroque",
+            "classical",
+            "organ",
+            "pipe organ"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen1.outpostradio.com/omagic"
+    },
+    {
+        "name": "Organlive",
+        "url": "http://play.organlive.com:7000/192",
+        "country": "US",
+        "tags": [
+            "classical",
+            "organ"
+        ],
+        "favicon": "https://i.imgur.com/msLmVuF.jpg",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://play.organlive.com:7000/192"
+    },
+    {
+        "name": "Organlive.com [128 kbps]",
+        "url": "http://play.organlive.com:7000/128",
+        "country": "US",
+        "tags": [
+            "classical",
+            "organ"
+        ],
+        "favicon": "https://www.organlive.com/eighthnotes.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://play.organlive.com:7000/128"
+    },
+    {
+        "name": "PAC 98.7",
+        "url": "https://ice42.securenetsystems.net/WPAC",
+        "country": "US",
+        "tags": [
+            "98.7",
+            "classical",
+            "music",
+            "wpac"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice42.securenetsystems.net/WPAC"
+    },
+    {
+        "name": "Peaceful Christmas from Family Life",
+        "url": "https://streaming.live365.com/a51517_2",
+        "country": "US",
+        "tags": [
+            "christian",
+            "christmas",
+            "classical",
+            "easy listening",
+            "instrumental music",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a51517_2"
+    },
+    {
+        "name": "Positively Baroque",
+        "url": "http://www.positivelybaroque.com/320eu",
+        "country": "US",
+        "tags": [
+            "classical baroque"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://play2.organlive.com:7020/320"
+    },
+    {
+        "name": "Prairie Public Radio FM 1 Classical (KCND)",
+        "url": "http://26283.live.streamtheworld.com:3690/KCNDHD2_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://image.pbs.org/bento3-prod/kfme-bento-live-pbs/04d8181aa3_favicon-transparent.png?resize=180x180",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://26283.live.streamtheworld.com:3690/KCNDHD2_SC"
+    },
+    {
+        "name": "Radio Nightingale Steampunk",
+        "url": "http://streams.radioriel.org:8030/stream",
+        "country": "US",
+        "tags": [
+            "cabaret",
+            "classical",
+            "dark",
+            "steampunk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streams.radioriel.org:8030/stream"
+    },
+    {
+        "name": "Radio Symphony",
+        "url": "https://streaming.radiostreamlive.com/radiosymphony_devices",
+        "country": "US",
+        "tags": [
+            "classical",
+            "new york city",
+            "rsl",
+            "symphony"
+        ],
+        "favicon": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.radiostreamlive.com/radiosymphony_devices"
+    },
+    {
+        "name": "Smooth Jazz",
+        "url": "https://smoothjazz.cdnstream1.com/2585_320.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_320.mp3"
+    },
+    {
+        "name": "spiritual Christian radio",
+        "url": "http://stream.zeno.fm/oquahf0ik0rvv/",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-178.surfernetwork.com/oquahf0ik0rvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvcXVhaGYwaWswcnZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImxIcmxfREIzUTFDcGM3SXlQWXVrdVEiLCJpYXQiOjE3ODYzMDkwMDIsImV4cCI6MTc4NjMwOTA2Mn0.jZBy4WMqih02gm4meAU1VH5ThoFPUmIlm-i0llJE5kI"
+    },
+    {
+        "name": "Sunday Baroque",
+        "url": "http://wshu.streamguys.org/wshu-baroque",
+        "country": "US",
+        "tags": [
+            "baroque",
+            "classical"
+        ],
+        "favicon": "http://sundaybaroque.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://wshu.streamguys.org/wshu-baroque"
+    },
+    {
+        "name": "Sunny 105 - Feel Good Christmas Variety",
+        "url": "http://us5.internet-radio.com:8121/stream",
+        "country": "US",
+        "tags": [
+            "70s",
+            "80s",
+            "90s",
+            "christmas",
+            "classical",
+            "holiday"
+        ],
+        "favicon": "https://www.internet-radio.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://us5.internet-radio.com:8121/stream"
+    },
+    {
+        "name": "The Classical Station",
+        "url": "https://17653.live.streamtheworld.com/WCPE_FM.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://17653.live.streamtheworld.com/WCPE_FM.mp3"
+    },
+    {
+        "name": "thegreatiamb Radio",
+        "url": "https://stream.zeno.fm/0ntnamyl4q7uv",
+        "country": "US",
+        "tags": [
+            "americana",
+            "catholic",
+            "christian",
+            "classical",
+            "classics",
+            "creative commons",
+            "culture",
+            "fine arts",
+            "independent",
+            "jazz",
+            "literature",
+            "poetry",
+            "pop",
+            "popular culture",
+            "public domain",
+            "spoken art",
+            "spoken word",
+            "vinyl"
+        ],
+        "favicon": "https://zeno.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-177.surfernetwork.com/0ntnamyl4q7uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwbnRuYW15bDRxN3V2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFiQl9iU09fVHUyYjRmYWMzY0dPbFEiLCJpYXQiOjE3ODYzMDkwMDMsImV4cCI6MTc4NjMwOTA2M30.iyBvNs_wr0_sEewN8aeo4S4j7KEabcX6XXbDUPEM5Ak"
+    },
+    {
+        "name": "University Of Oregon - KWAX",
+        "url": "http://streaming.kwax.com:8000/stream1",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s26208q.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://streaming.kwax.com:8000/stream1"
+    },
+    {
+        "name": "Vermont Public Radio \"VPR Classical\"",
+        "url": "http://vprclassical.streamguys.net/vprclassical64.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "http://vprclassical.streamguys.net/vprclassical64.aac"
+    },
+    {
+        "name": "VPR(Vermont Public Radio) Classical",
+        "url": "https://vprclassical.streamguys1.com/vprclassical64.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://vprclassical.streamguys1.com/vprclassical64.aac"
+    },
+    {
+        "name": "WALM 2 HD",
+        "url": "https://icecast.walmradio.com:8443/walm2",
+        "country": "US",
+        "tags": [
+            "choral",
+            "christian",
+            "christian music",
+            "classical music",
+            "hymns",
+            "orchestral",
+            "talk",
+            "talk radio",
+            "traditional christian"
+        ],
+        "favicon": "https://icecast.walmradio.com:8443/walm.jpg",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://icecast.walmradio.com:8443/walm2"
+    },
+    {
+        "name": "WALM 2 HD Opus",
+        "url": "https://icecast.walmradio.com:8443/walm2_opus",
+        "country": "US",
+        "tags": [
+            "choral",
+            "christian",
+            "christian music",
+            "classical music",
+            "hymns",
+            "opus",
+            "orchestral",
+            "talk",
+            "talk radio",
+            "traditional christian"
+        ],
+        "favicon": "https://icecast.walmradio.com:8443/walm.jpg",
+        "codec": "OGG",
+        "bitrate": 192,
+        "working_url": "https://icecast.walmradio.com:8443/walm2_opus"
+    },
+    {
+        "name": "WBAA Classical 101.3 HD-2 West Lafayette, IN",
+        "url": "https://wfyi-live.streamguys1.com/wbaa-classical-aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/9c5ceb6/2147483647/strip/true/crop/995x433+0+0/resize/534x232!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Fda%2Fd1ea298f48b48673fff46920dfae%2Fwbaa-logo-white-letters.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://wfyi-live.streamguys1.com/wbaa-classical-aac"
+    },
+    {
+        "name": "WBHM 90.3 Birmingham, AL",
+        "url": "https://audio.wbhm.org/live.mp3",
+        "country": "US",
+        "tags": [
+            "alabama",
+            "apm",
+            "birmingham",
+            "classical",
+            "local music",
+            "local news",
+            "news talk",
+            "npr",
+            "prx",
+            "public radio"
+        ],
+        "favicon": "https://wbhm.org/media/apple-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://audio.wbhm.org/live.mp3"
+    },
+    {
+        "name": "WCLV Ideastream Public Media",
+        "url": "https://live.ideastream.org/wclv.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "cleveland",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.phonostar.de/images/auto_created/WCLV2184x184.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://live.ideastream.org/wclv.aac"
+    },
+    {
+        "name": "WCNH1 New Hampshire",
+        "url": "https://nhpr.streamguys1.com/classical",
+        "country": "US",
+        "tags": [
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://nhpr.streamguys1.com/classical"
+    },
+    {
+        "name": "WCPE The Classical Station",
+        "url": "http://audio-ogg.ibiblio.org:8000/wcpe.ogg",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "http://audio-ogg.ibiblio.org:8000/wcpe.ogg"
+    },
+    {
+        "name": "WCPE TheClassicalStation",
+        "url": "http://audio-ice1.ibiblio.org:8000/wcpe128.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "http://audio-ice1.ibiblio.org:8000/wcpe128.aac"
+    },
+    {
+        "name": "WCUW",
+        "url": "http://peridot.streamguys.com:5490/live",
+        "country": "US",
+        "tags": [
+            "americana",
+            "blues",
+            "classical",
+            "community radio",
+            "folk",
+            "scottish",
+            "world music"
+        ],
+        "favicon": "https://wcuw.org/wp-content/uploads/2018/05/wcuw-logo-small4.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://peridot.streamguys.com:5490/live"
+    },
+    {
+        "name": "WDAV - Classical Public Radio 89.9 FM",
+        "url": "http://audio-mp3.ibiblio.org:8000/wdav-112k",
+        "country": "US",
+        "tags": [
+            "classic",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://audio-mp3.ibiblio.org:8000/wdav-112k"
+    },
+    {
+        "name": "WDAV 89.9 \"Classical Public Radio\" Charlotte, NC",
+        "url": "https://audio-mp3.ibiblio.org/wdav-112k",
+        "country": "US",
+        "tags": [
+            "charlotte",
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://audio-mp3.ibiblio.org/wdav-112k"
+    },
+    {
+        "name": "WDAV 89.9 Classical Public Radio",
+        "url": "https://wdav-ice.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "charlotte",
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://wdav.org/wp-content/themes/wdav2024/images/favicon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wdav-ice.streamguys1.com/live"
+    },
+    {
+        "name": "WETA Classical",
+        "url": "https://weta.streamguys1.com/wetaclassical-icy",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://weta.org/themes/custom/weta/favicons/android-chrome-512x512.png",
+        "codec": "AAC+",
+        "bitrate": 127,
+        "working_url": "https://weta.streamguys1.com/wetaclassical-icy"
+    },
+    {
+        "name": "WETA Virtuoso",
+        "url": "https://weta.streamguys1.com/wetavirtuoso-icy",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://weta.org/themes/custom/weta/images/logos/virtuoso-white.png",
+        "codec": "AAC+",
+        "bitrate": 127,
+        "working_url": "https://weta.streamguys1.com/wetavirtuoso-icy"
+    },
+    {
+        "name": "WETA VivaLaVoce",
+        "url": "https://weta.streamguys1.com/wetavivalavoce-icy",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://weta.org/themes/custom/weta/images/logos/vivalavoce-white.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://weta.streamguys1.com/wetavivalavoce-icy"
+    },
+    {
+        "name": "WFCL \"Classical 91.1\"  Nashville Public Radio, TN",
+        "url": "https://wpln.streamguys1.com/wfclfm.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "nashville",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://wpln.streamguys1.com/wfclfm.mp3"
+    },
+    {
+        "name": "WFCR 88.5 - NPR Classical Amherst, MA",
+        "url": "http://nepr.iad.streamguys1.com/WFCR.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.nepm.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://nepr.iad.streamguys1.com/WFCR.mp3"
+    },
+    {
+        "name": "WFCR 88.5 New England Public Radio - Amherst, MA",
+        "url": "http://nepr.iad.streamguys1.com/WFCR",
+        "country": "US",
+        "tags": [
+            "amherst",
+            "classical",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 56,
+        "working_url": "http://nepr.iad.streamguys1.com/WFCR"
+    },
+    {
+        "name": "WFMT 98.7 Chicago, IL (AAC)",
+        "url": "http://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "chicago",
+            "classical",
+            "folk"
+        ],
+        "favicon": "https://www.wfmt.com/wp-content/uploads/2018/07/cropped-wfmt-favicon_512-180x180.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8"
+    },
+    {
+        "name": "WFMT 98.7 Chicago, IL (MP3)",
+        "url": "http://stream.wfmt.com/main-mp3",
+        "country": "US",
+        "tags": [
+            "chicago",
+            "classical",
+            "fine arts",
+            "folks"
+        ],
+        "favicon": "https://www.wfmt.com/cdn-cgi/image/width=180,height=180,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2018/07/cropped-wfmt-favicon_512-180x180.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.wfmt.com/main-mp3"
+    },
+    {
+        "name": "WFMT Classical AAC 128",
+        "url": "https://wfmt.streamguys1.com/main128.aac",
+        "country": "US",
+        "tags": [
+            "chicago",
+            "classical"
+        ],
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/XBEtTEnnMS.jpg",
+        "codec": "AAC",
+        "bitrate": 130,
+        "working_url": "https://wfmt.streamguys1.com/main128.aac"
+    },
+    {
+        "name": "WFMT Classical AAC 256",
+        "url": "https://wfmt.streamguys1.com/main-source",
+        "country": "US",
+        "tags": [
+            "chicago",
+            "classical"
+        ],
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/XBEtTEnnMS.jpg",
+        "codec": "AAC",
+        "bitrate": 258,
+        "working_url": "https://wfmt.streamguys1.com/main-source"
+    },
+    {
+        "name": "WFMT Classical AAC 64",
+        "url": "https://wfmt.streamguys1.com/main64.aac",
+        "country": "US",
+        "tags": [
+            "chicago",
+            "classical"
+        ],
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/XBEtTEnnMS.jpg",
+        "codec": "AAC",
+        "bitrate": 130,
+        "working_url": "https://wfmt.streamguys1.com/main64.aac"
+    },
+    {
+        "name": "WGUC \"Classical 90.9\" Cincinatti, OH",
+        "url": "http://cpr2.streamguys.net/wguc",
+        "country": "US",
+        "tags": [
+            "cincinatti",
+            "classical",
+            "public radio"
+        ],
+        "favicon": "https://wguc.org/wp-content/themes/wguc/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://cpr2.streamguys.net/wguc"
+    },
+    {
+        "name": "Whispering Solo Piano Radio",
+        "url": "http://pianosolo.streamguys.net/live",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://pianosolo.streamguys.net/live"
+    },
+    {
+        "name": "Whisperings Solo Piano Radio",
+        "url": "https://pianosolo.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "classical",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://pianosolo.streamguys1.com/live"
+    },
+    {
+        "name": "Whisperings: Solo Piano Radio (AAC 48)",
+        "url": "https://pianosolo.streamguys1.com/pianosolo48.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "melodic",
+            "piano",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://pianosolo.streamguys1.com/pianosolo48.aac"
+    },
+    {
+        "name": "WHPK",
+        "url": "https://whpk-stream.uchicago.edu/stream",
+        "country": "US",
+        "tags": [
+            "classical",
+            "college radio",
+            "community radio",
+            "folk",
+            "jazz"
+        ],
+        "favicon": "https://whpk.org/_assets/resources/images/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://whpk-stream.uchicago.edu/stream"
+    },
+    {
+        "name": "WHRW Binghamton 90.5 FM",
+        "url": "http://stream.whrwfm.org/new",
+        "country": "US",
+        "tags": [
+            "classical",
+            "experimental",
+            "folk",
+            "hip-hop",
+            "jazz",
+            "moe loogham",
+            "public affairs",
+            "punk",
+            "space",
+            "trivia"
+        ],
+        "favicon": "https://whrw.fm/wp-content/uploads/2019/09/WHRW_logo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://stream.whrwfm.org/new"
+    },
+    {
+        "name": "WILL FM",
+        "url": "http://icecast.will.illinois.edu:8000/WILLFM-48",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 24,
+        "working_url": "http://icecast.will.illinois.edu:8000/WILLFM-48"
+    },
+    {
+        "name": "Wisconsin Public Radio - 24 Hour Classical",
+        "url": "http://wpr-ice.streamguys.net/wpr-ideas-mp3-64",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://wpr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://wpr-ice.streamguys.net/wpr-ideas-mp3-64"
+    },
+    {
+        "name": "WKAR Classical - East Lansing, MI",
+        "url": "http://mozart.wkar.msu.edu/wkar-classical",
+        "country": "US",
+        "tags": [
+            "classical",
+            "east lansing",
+            "npr"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mozart.wkar.msu.edu/wkar-classical"
+    },
+    {
+        "name": "WKCR 89.9 Columbia New York NY",
+        "url": "https://wkcr.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "classical",
+            "college radio",
+            "experimental/avant garde",
+            "https",
+            "indie",
+            "jazz",
+            "university radio",
+            "world music"
+        ],
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.lj-UTY-I043PwbKRo70s3gAAAA%26pid%3DApi&f=1&ipt=17b148591a456a6714ccf2ee7e7263e92aee27ce9ebbfc0debf22c26d433ceae&ipo=images",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "https://wkcr.streamguys1.com/live"
+    },
+    {
+        "name": "WKMS Classical",
+        "url": "https://wkms.streamguys1.com/WKMSHD2.mp3?uuid=1iziv1ao",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/21a3a73/2147483647/strip/true/crop/1115x748+0+0/resize/358x240!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/7d/bd/58d22a7940d392884ba7256b5e9e/wkms2017navy.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "https://wkms.streamguys1.com/WKMSHD2.mp3?uuid=1iziv1ao"
+    },
+    {
+        "name": "WKNC 88.1 HD1",
+        "url": "https://streaming.live365.com/a45877",
+        "country": "US",
+        "tags": [
+            "blues",
+            "classical",
+            "college radio",
+            "indie",
+            "jazz",
+            "local music",
+            "post-rock",
+            "rap",
+            "rhythm and blues",
+            "rock",
+            "variety"
+        ],
+        "favicon": "https://wknc.org/wp-content/uploads/2020/05/wknc881inline-w-768x231.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge14-live365-dal02.cdnstream.com/a45877"
+    },
+    {
+        "name": "WKSU Classical",
+        "url": "https://stream.wksu.org/wksu3.mp3.128",
+        "country": "US",
+        "tags": [
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.wksu.org/wksu3.mp3.128"
+    },
+    {
+        "name": "WKSU HD4 News & More",
+        "url": "https://live.ideastream.org/wksu4.128.mp3",
+        "country": "US",
+        "tags": [
+            "chopin",
+            "classical",
+            "news",
+            "opera",
+            "polish"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://live.ideastream.org/wksu4.128.mp3"
+    },
+    {
+        "name": "WKSU-HD3 All Classical AAC 64",
+        "url": "https://live.ideastream.org/wksu3-64.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.ideastream.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://live.ideastream.org/wksu3-64.aac"
+    },
+    {
+        "name": "WKU Classical 97.5",
+        "url": "https://dal-wku-stream-2.neighborhoodca.com/xstream",
+        "country": "US",
+        "tags": [
+            "bowling green",
+            "bowling green ky",
+            "classical",
+            "college radio",
+            "kentucky",
+            "public radio",
+            "western kentucky university",
+            "wku"
+        ],
+        "favicon": "https://www.wkyufm.org/sites/wkyu/files/201606/WKUPublicRadio_0.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://dal-wku-stream-2.neighborhoodca.com/xstream"
+    },
+    {
+        "name": "WLRN Classical",
+        "url": "https://wlrn.streamguys1.com/wlrn-classical-web-icy",
+        "country": "US",
+        "tags": [
+            "classical",
+            "miami",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/f3a02e7/2147483647/strip/true/crop/600x467+0+0/resize/308x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fdf%2Fd2313bd840e991cb307384d1dba7%2Fwlrn-logo-white-pbs-npr.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://wlrn.streamguys1.com/wlrn-classical-web-icy"
+    },
+    {
+        "name": "WMEA Maine Public Broadcasting Classical Stereo Stream - Portland, ME",
+        "url": "http://26223.live.streamtheworld.com:3690/WMEA_CLASSICAL_ADP_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "mpbn",
+            "npr",
+            "portland",
+            "public radio"
+        ],
+        "favicon": "http://mainepublic.org/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 256,
+        "working_url": "http://26223.live.streamtheworld.com:3690/WMEA_CLASSICAL_ADP_SC"
+    },
+    {
+        "name": "WMFE-HD2 Orlando, FL",
+        "url": "http://wmfe.iad.streamguys1.com/wmfe2",
+        "country": "US",
+        "tags": [
+            "classical",
+            "orlando",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "http://wmfe.iad.streamguys1.com/wmfe2"
+    },
+    {
+        "name": "WMHT Classical 89.1 - Schenectady, NY",
+        "url": "https://wmht.streamguys1.com/wmht1",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.classicalwmht.org/favicon-32x32.png",
+        "codec": "AAC",
+        "bitrate": 96,
+        "working_url": "https://wmht.streamguys1.com/wmht1"
+    },
+    {
+        "name": "WMNR Fine Arts Radio",
+        "url": "http://amber.streamguys.com:6050/live",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.wmnr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://amber.streamguys.com:6050/live"
+    },
+    {
+        "name": "WNIN Tri-State Public Media Inc.",
+        "url": "https://wnin.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "classical",
+            "public radio"
+        ],
+        "favicon": "https://dc79r36mj3c9w.cloudfront.net/prod/3.121.0/staticfiles/bento_cms/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://wnin.streamguys1.com/live"
+    },
+    {
+        "name": "WNYC WQXR",
+        "url": "http://stream.wqxr.org/wqxr",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.wqxr.org/wqxr"
+    },
+    {
+        "name": "WOSU Classical 101 AAC 256",
+        "url": "https://wosu.streamguys1.com/Classical_256",
+        "country": "US",
+        "tags": [
+            "classical",
+            "columbus",
+            "public radio"
+        ],
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/gsqzkfbmhsee.png",
+        "codec": "AAC+",
+        "bitrate": 256,
+        "working_url": "https://wosu.streamguys1.com/Classical_256"
+    },
+    {
+        "name": "WPSU 91.5 Penn State University - State College, PA",
+        "url": "http://wpsu-ice.streamguys1.com/wpsu1",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "penn state",
+            "pri",
+            "public radio",
+            "state college"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://wpsu-ice.streamguys1.com/wpsu1"
+    },
+    {
+        "name": "WQED Pittsburgh",
+        "url": "http://ice-1.streamhoster.com/lv_wqed--893",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.wqed.org/wp-content/uploads/2023/06/cropped-favicon-2-180x180.png",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "http://ice-1.streamhoster.com/lv_wqed--893"
+    },
+    {
+        "name": "WQED Pittsburgh Concert Channel",
+        "url": "https://ice-1.streamhoster.com/lv_wqed--concert",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music",
+            "concert"
+        ],
+        "favicon": "https://www.wqed.org/listen-live-pittsburgh-concert-channel/",
+        "codec": "AAC+",
+        "bitrate": 192,
+        "working_url": "https://ice-1.streamhoster.com/lv_wqed--concert"
+    },
+    {
+        "name": "WQED-FM 89.3",
+        "url": "https://ice-1.streamhoster.com/lv_wqed--893",
+        "country": "US",
+        "tags": [
+            "classical music",
+            "opera",
+            "public radio",
+            "symphony"
+        ],
+        "favicon": "https://www.wqed.org/wp-content/uploads/2023/06/cropped-favicon-2-180x180.png",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://ice-1.streamhoster.com/lv_wqed--893"
+    },
+    {
+        "name": "WQXR",
+        "url": "https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600",
+        "country": "US",
+        "tags": [
+            "classical",
+            "new york public radio"
+        ],
+        "favicon": "https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600"
+    },
+    {
+        "name": "WQXR \"Q2 Stream\" New York Public Radio - Newark, NJ",
+        "url": "https://q2stream.wqxr.org/q2.aac",
+        "country": "US",
+        "tags": [
+            "contemporary classical",
+            "new jersey",
+            "new york city",
+            "new york public radio",
+            "newark"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://q2stream.wqxr.org/q2.aac"
+    },
+    {
+        "name": "WQXR New York Public Radio \"Operavore\" Stream",
+        "url": "http://opera-stream.wqxr.org/operavore-tunein",
+        "country": "US",
+        "tags": [
+            "classical",
+            "new york public radio",
+            "opera"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://opera-stream.wqxr.org/operavore-tunein"
+    },
+    {
+        "name": "WQXR Q2 New York Public Radio",
+        "url": "http://q2stream.wqxr.org/q2",
+        "country": "US",
+        "tags": [
+            "classical",
+            "new york city",
+            "new york public radio"
+        ],
+        "favicon": "https://media2.wnyc.org/i/300/300/c/80/1/wqxr_square_logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://q2stream.wqxr.org/q2"
+    },
+    {
+        "name": "WQXR Web Live",
+        "url": "http://stream.wqxr.org/wqxr.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://stream.wqxr.org/wqxr.aac"
+    },
+    {
+        "name": "WRR Classical 101.1 FM",
+        "url": "https://kera.streamguys1.com/wrrlive-aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://kera.streamguys1.com/wrrlive-aac"
+    },
+    {
+        "name": "WRTI Classical",
+        "url": "https://wrti-live.streamguys1.com/classical-mp3",
+        "country": "US",
+        "tags": [
+            "choral",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://wrti-live.streamguys1.com/classical-mp3"
+    },
+    {
+        "name": "WSCL 89.5 Delmarva Public Radio \"Fine Arts & Culture\" - Salisbury, MD",
+        "url": "http://26223.live.streamtheworld.com/WSCLFM_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "pri",
+            "public radio",
+            "salisbury"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "http://26223.live.streamtheworld.com/WSCLFM_SC"
+    },
+    {
+        "name": "WSCL 89.5 FM Classical Delmarva",
+        "url": "https://26443.live.streamtheworld.com/WESMFM.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "community radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://26443.live.streamtheworld.com/WESMFM.mp3"
+    },
+    {
+        "name": "WSHU 91.1 Fairfield, CT",
+        "url": "http://wshu.streamguys.org/wshu-air",
+        "country": "US",
+        "tags": [
+            "classical",
+            "fairfield",
+            "npr",
+            "university radio"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s22803q.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://wshu.streamguys.org/wshu-air"
+    },
+    {
+        "name": "WSHU Classical Stream - Fairfield, CT",
+        "url": "http://wshu.streamguys.org/wshu-classical",
+        "country": "US",
+        "tags": [
+            "classical",
+            "fairfield",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://wshu.streamguys.org/wshu-classical"
+    },
+    {
+        "name": "WSMR Classical 89.1 FM",
+        "url": "https://wusf.streamguys1.com/wsmr-web",
+        "country": "US",
+        "tags": [
+            "24/7",
+            "classical music"
+        ],
+        "favicon": "https://worldradiomap.com/us-fl/images/wsmr.gif",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://wusf.streamguys1.com/wsmr-web"
+    },
+    {
+        "name": "WUFT Classic",
+        "url": "http://ais-sa1.streamon.fm/7648_48k.aac/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "classical",
+            "various"
+        ],
+        "favicon": "https://www.wuft.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 96,
+        "working_url": "http://ais-sa1.streamon.fm/7648_48k.aac/playlist.m3u8"
+    },
+    {
+        "name": "wuga",
+        "url": "http://wuga-ice.streamguys1.com/live-mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "folk",
+            "jazz",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wuga-ice.streamguys1.com/live-mp3"
+    },
+    {
+        "name": "WUKY-HD2",
+        "url": "https://wuky.streamguys1.com/HD2",
+        "country": "US",
+        "tags": [
+            "classical",
+            "news"
+        ],
+        "favicon": "https://www.wuky.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 98,
+        "working_url": "https://wuky.streamguys1.com/HD2"
+    },
+    {
+        "name": "WUOL 90.5 Classical Louisville, KY",
+        "url": "http://lpm.streamguys1.com/wuol-web",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://wuol.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "http://lpm.streamguys1.com/wuol-web"
+    },
+    {
+        "name": "WUWF Classical",
+        "url": "https://wuwf.streamguys1.com/WUWFHD2.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://wuwf.streamguys1.com/WUWFHD2.mp3"
+    },
+    {
+        "name": "WVIA 89.9 Scranton, PA",
+        "url": "http://15723.live.streamtheworld.com/WVIAFM_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz",
+            "npr",
+            "public radio",
+            "scranton"
+        ],
+        "favicon": "http://www.wvia.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://15723.live.streamtheworld.com/WVIAFM_SC"
+    },
+    {
+        "name": "WVIA-HD2 Scranton, PA",
+        "url": "http://19473.live.streamtheworld.com/WVIAHD2_SC",
+        "country": "US",
+        "tags": [
+            "bbc",
+            "classical",
+            "npr",
+            "public radio",
+            "scranton"
+        ],
+        "favicon": "http://www.wvia.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://19473.live.streamtheworld.com/WVIAHD2_SC"
+    },
+    {
+        "name": "WVTF Music",
+        "url": "https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio",
+        "country": "US",
+        "tags": [
+            "classical",
+            "music",
+            "npr",
+            "world music"
+        ],
+        "favicon": "https://www.wvtf.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 56,
+        "working_url": "https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio"
+    },
+    {
+        "name": "WWFM 89.1 \"The Classical Network\" Trenton, NJ",
+        "url": "http://wwfm.streamguys1.com/live-mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "trenton"
+        ],
+        "favicon": "http://wwfm.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://wwfm.streamguys1.com/live-mp3"
+    },
+    {
+        "name": "WWFM The Classical Network",
+        "url": "https://wwfm.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.wwfm.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://wwfm.streamguys1.com/live"
+    },
+    {
+        "name": "WWNO Classical Stream - University of New Orleans, LA",
+        "url": "http://tektite.streamguys1.com:5140/wwnoclassical-mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "new orleans",
+            "public radio",
+            "university radio"
+        ],
+        "favicon": "http://wwno.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://tektite.streamguys1.com:5140/wwnoclassical-mp3"
+    },
+    {
+        "name": "WXXI-FM \"Classical 91.5\" Rochester, NY (AAC)",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "public radio",
+            "rochester"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://26423.live.streamtheworld.com/WXXIFMAAC.aac"
+    },
+    {
+        "name": "WXXI-FM \"Classical 91.5\" Rochester, NY (MP3)",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "npr",
+            "pri",
+            "public radio",
+            "rochester"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://26223.live.streamtheworld.com/WXXIFM.mp3"
+    },
+    {
+        "name": "WYSU 88.5 All Classical",
+        "url": "https://live.streamguys1.com:3181/hd2",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://live.streamguys1.com:3181/hd2"
+    },
+    {
+        "name": "Your Classical - Choral",
+        "url": "http://choral.stream.publicradio.org/choral.mp3",
+        "country": "US",
+        "tags": [
+            "choir",
+            "choral",
+            "classical"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://choral.stream.publicradio.org/choral.mp3"
+    },
+    {
+        "name": "Your Classical - Favorites",
+        "url": "https://favorites.stream.publicradio.org/favorites.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://favorites.stream.publicradio.org/favorites.mp3"
+    },
+    {
+        "name": "Your Classical - Holiday",
+        "url": "https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137",
+        "country": "US",
+        "tags": [
+            "christmas music",
+            "classical",
+            "holiday",
+            "seasonal"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137"
+    },
+    {
+        "name": "Your Classical - Lullabies",
+        "url": "http://lullabies.stream.publicradio.org/lullabies.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://lullabies.stream.publicradio.org/lullabies.mp3"
+    },
+    {
+        "name": "Your Classical - Peaceful Piano",
+        "url": "http://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3"
+    },
+    {
+        "name": "Your Classical - Pixel & Plot",
+        "url": "https://pixelplot.stream.publicradio.org/pixelplot.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "movies",
+            "tv",
+            "video game music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://pixelplot.stream.publicradio.org/pixelplot.mp3"
+    },
+    {
+        "name": "Your Classical - Radio",
+        "url": "https://ycradio.stream.publicradio.org/ycradio.mp3",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ycradio.stream.publicradio.org/ycradio.mp3"
+    },
+    {
+        "name": "Your Classical - Relax",
+        "url": "http://relax.stream.publicradio.org/relax.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "relax"
+        ],
+        "favicon": "http://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://relax.stream.publicradio.org/relax.mp3"
+    },
+    {
+        "name": "Your Classical Chamber Music",
+        "url": "https://chambermusic.stream.publicradio.org/chambermusic.mp3",
+        "country": "US",
+        "tags": [
+            "chamber music",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://chambermusic.stream.publicradio.org/chambermusic.mp3"
+    },
+    {
+        "name": "YourClassical",
+        "url": "https://ycradio.stream.publicradio.org/ycradio.aac",
+        "country": "US",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://ycradio.stream.publicradio.org/ycradio.aac"
+    },
+    {
+        "name": "YourClassical Black History",
+        "url": "https://blackhistory.stream.publicradio.org/blackhistory.mp3",
+        "country": "US",
+        "tags": [
+            "black history",
+            "classical"
+        ],
+        "favicon": "https://cdn-profiles.tunein.com/s309615/images/logog.jpg?t=161836",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://blackhistory.stream.publicradio.org/blackhistory.mp3"
+    },
+    {
+        "name": "YourClassical Concert Band",
+        "url": "https://concertband.stream.publicradio.org/concertband.aac",
+        "country": "US",
+        "tags": [
+            "brass",
+            "yourclassical"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://concertband.stream.publicradio.org/concertband.aac"
+    },
+    {
+        "name": "YourClassical Guitar",
+        "url": "https://favorites.stream.publicradio.org/guitar.aac",
+        "country": "US",
+        "tags": [
+            "classical guitar",
+            "guitar"
+        ],
+        "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://favorites.stream.publicradio.org/guitar.aac"
+    },
+    {
+        "name": "YourClassical Guitar Stream",
+        "url": "https://guitar.stream.publicradio.org/guitar.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "guitar"
+        ],
+        "favicon": "https://img.apmcdn.org/149a09c7f10962db985fc19a2eb503156a7dfc1f/uncropped/a6e58f-20221003-guitar-stream-tile-3000.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://guitar.stream.publicradio.org/guitar.mp3"
+    },
+    {
+        "name": "YourClassical Women's History",
+        "url": "https://womenshistory.stream.publicradio.org/womenshistory.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "women's history"
+        ],
+        "favicon": "https://cdn-profiles.tunein.com/s309718/images/logog.jpg?t=1",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://womenshistory.stream.publicradio.org/womenshistory.mp3"
+    }
+]

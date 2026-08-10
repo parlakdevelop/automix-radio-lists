@@ -1,0 +1,1084 @@
+[
+    {
+        "name": "181.FM - 90's Dance",
+        "url": "http://listen.181fm.com/181-90sdance_128k.mp3",
+        "country": "US",
+        "tags": [
+            "90s",
+            "dance",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-90sdance_128k.mp3"
+    },
+    {
+        "name": "181.FM - Energy 98",
+        "url": "http://listen.181fm.com/181-energy98_128k.mp3",
+        "country": "US",
+        "tags": [
+            "dance",
+            "house",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-energy98_128k.mp3"
+    },
+    {
+        "name": "181.FM - The Vibe of Vegas",
+        "url": "http://listen.181fm.com/181-vibe_128k.mp3",
+        "country": "US",
+        "tags": [
+            "dance",
+            "edm",
+            "electro",
+            "pop",
+            "waynesboro"
+        ],
+        "favicon": "https://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-vibe_128k.mp3"
+    },
+    {
+        "name": "181.FM Classic Energy",
+        "url": "https://listen.181fm.com/181-classicenergy_128k.mp3",
+        "country": "US",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.181fm.com/181-classicenergy_128k.mp3"
+    },
+    {
+        "name": "181.FM Energy 98",
+        "url": "https://listen.181fm.com/181-energy98_64k.aac",
+        "country": "US",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://listen.181fm.com/181-energy98_64k.aac"
+    },
+    {
+        "name": "313live.org",
+        "url": "https://a9.asurahosting.com/listen/3_1_3_live.org/radio.mp3",
+        "country": "US",
+        "tags": [
+            "detroit",
+            "electro",
+            "electronic dance music",
+            "house",
+            "local music",
+            "local radio",
+            "techno"
+        ],
+        "favicon": "https://313live.org/uploads/artwork/20260805-1b7595f356856fcb.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://a9.asurahosting.com/listen/3_1_3_live.org/radio.mp3"
+    },
+    {
+        "name": "70's Hits DJ Jan The Man",
+        "url": "https://quincy.torontocast.com:2500/stream",
+        "country": "US",
+        "tags": [
+            "70s",
+            "classic hits",
+            "dance",
+            "disco",
+            "oldies"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://quincy.torontocast.com:2500/stream"
+    },
+    {
+        "name": "95.9 KISS FM",
+        "url": "https://woodward-radio.streamb.live/SB00132?args=web_01&starttime=1702970697",
+        "country": "US",
+        "tags": [
+            "pop",
+            "pop dance",
+            "pop music"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 198,
+        "working_url": "https://woodward-radio.streamb.live/SB00132?args=web_01&starttime=1702970697"
+    },
+    {
+        "name": "Above The Clouds Radio",
+        "url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "all-vinyl",
+            "dance",
+            "free form",
+            "funk",
+            "hip-hop",
+            "independent",
+            "international",
+            "jazz",
+            "latin",
+            "rare",
+            "rock",
+            "soul"
+        ],
+        "favicon": "https://www.abovethecloudsradio.com/assets/lock-art.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3"
+    },
+    {
+        "name": "Boys Town Live",
+        "url": "http://142.44.159.230/proxy/sniadj22?mp=/stream",
+        "country": "US",
+        "tags": [
+            "dance radio"
+        ],
+        "favicon": "https://www.boystownlive.com/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://142.44.159.230/proxy/sniadj22?mp=/stream"
+    },
+    {
+        "name": "C89.5",
+        "url": "http://knhc-ice.streamguys1.com:8080/live",
+        "country": "US",
+        "tags": [
+            "college radio",
+            "dance",
+            "electronic"
+        ],
+        "favicon": "https://www.c895.org/wp-content/uploads/2018/06/cropped-FavIcon-192x192.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://knhc-ice.streamguys1.com:8080/live"
+    },
+    {
+        "name": "Caribbean Power Jam Radio",
+        "url": "http://auds1.intacs.com/caribbeanpowerjamradio",
+        "country": "US",
+        "tags": [
+            "caribbean",
+            "dancehall",
+            "reggae",
+            "soca"
+        ],
+        "favicon": "https://www.caribbeanpowerjamradio.com/wp-content/uploads/2022/10/cropped-download-180x180.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://auds1.intacs.com/caribbeanpowerjamradio"
+    },
+    {
+        "name": "Center Waves Radio",
+        "url": "http://kathy.torontocast.com:1270/stream",
+        "country": "US",
+        "tags": [
+            "dance",
+            "house",
+            "trance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://kathy.torontocast.com:1270/stream"
+    },
+    {
+        "name": "Da Jam",
+        "url": "https://pacificmedia.cdnstream1.com/2798_64.aac",
+        "country": "US",
+        "tags": [
+            "dance",
+            "hip hop"
+        ],
+        "favicon": "https://dajam983.com/wp-content/uploads/sites/23/kjmd-logo-180x115-1.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://pacificmedia.cdnstream1.com/2798_64.aac"
+    },
+    {
+        "name": "Dance Wave Retro!",
+        "url": "https://retro.dancewave.online/retrodance.flac.ogg",
+        "country": "US",
+        "tags": [
+            "90s dance"
+        ],
+        "favicon": "https://dancewave.online/dwr_logo.png",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "http://stream1.dancewave.online:8080/retrodance.flac.ogg"
+    },
+    {
+        "name": "Dance Wave!",
+        "url": "https://dancewave.online/dance.flac.ogg",
+        "country": "US",
+        "tags": [
+            "club dance electronic house trance"
+        ],
+        "favicon": "https://dancewave.online/dw_logo.png",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "http://stream1.dancewave.online:8080/dance.flac.ogg"
+    },
+    {
+        "name": "Deeper Shades Of House",
+        "url": "http://andromeda.housejunkie.ca:8000/radio.mp3",
+        "country": "US",
+        "tags": [
+            "dance",
+            "deep house",
+            "electronic"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://andromeda.housejunkie.ca:8000/radio.mp3"
+    },
+    {
+        "name": "edm1.fm Club House",
+        "url": "https://radio.edm1.fm/proxy/15_clubhouse?mp=/stream",
+        "country": "US",
+        "tags": [
+            "club",
+            "club house",
+            "edm",
+            "electronic",
+            "electronic dance music",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.edm1.fm/proxy/15_clubhouse?mp=/stream"
+    },
+    {
+        "name": "EdmColorado.com Radio",
+        "url": "https://azura.entelcore.com/listen/edmco1/edmco1.mp3",
+        "country": "US",
+        "tags": [
+            "bass",
+            "dance",
+            "drum and bass",
+            "dubstep",
+            "edm",
+            "electronic",
+            "house",
+            "mixes",
+            "progressive",
+            "riddem",
+            "techno",
+            "trance",
+            "vocal"
+        ],
+        "favicon": "https://edmcolorado.com/uploads/monthly_2025_08/apple-touch-icon-180x180.png?v=1754952080",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://azura.entelcore.com/listen/edmco1/edmco1.mp3"
+    },
+    {
+        "name": "Electric Forest Radio",
+        "url": "http://stream.radiojar.com/n0unuhsww9duv",
+        "country": "US",
+        "tags": [
+            "electronic dance music"
+        ],
+        "favicon": "https://eforestradio.com//favicon/ms-icon-144x144.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n13.radiojar.com/n0unuhsww9duv?rj-ttl=5&rj-tok=AAABn-hdYP8AogvP20jnUm9HoA"
+    },
+    {
+        "name": "ELECTRICFM - America's Reals Dance!",
+        "url": "https://live.electricfm.com/electricfm",
+        "country": "US",
+        "tags": [
+            "dance",
+            "edm"
+        ],
+        "favicon": "https://www.electricfm.com/apple-icon-120x120.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://live.electricfm.com/electricfm"
+    },
+    {
+        "name": "Exclusively Kylie Minogue",
+        "url": "https://streaming.exclusive.radio/er-app/kylie/icecast.audio",
+        "country": "US",
+        "tags": [
+            "80s",
+            "club dance",
+            "dance & electronic",
+            "dance-pop",
+            "electro-pop",
+            "female vocalists",
+            "night club",
+            "nu-disco",
+            "pop",
+            "teen pop"
+        ],
+        "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://streaming.exclusive.radio/er-app/kylie/icecast.audio"
+    },
+    {
+        "name": "FlavorJamz Radio",
+        "url": "https://stream.flavorjamz.com/stream.mp3",
+        "country": "US",
+        "tags": [
+            "afrobeats",
+            "amapiano",
+            "bouyon",
+            "calypso",
+            "caribbean",
+            "dancehall",
+            "kompa",
+            "reggae",
+            "shatta",
+            "soca",
+            "zouk"
+        ],
+        "favicon": "https://flavorjamz.com/images/RadioLogo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream.flavorjamz.com/stream.mp3"
+    },
+    {
+        "name": "Hip Hop 313",
+        "url": "https://s124.radiolize.com:8070/radio.mp3",
+        "country": "US",
+        "tags": [
+            "electronic dance music",
+            "hip-hop"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://s124.radiolize.com:8070/radio.mp3"
+    },
+    {
+        "name": "Hive365",
+        "url": "https://stream.hive365.radio/listen/hive365/radio.mp3",
+        "country": "US",
+        "tags": [
+            "80s",
+            "dance",
+            "edm",
+            "electronic",
+            "gaming community",
+            "pop"
+        ],
+        "favicon": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hive365.radio/request&size=256",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.hive365.radio/listen/hive365/radio.mp3"
+    },
+    {
+        "name": "Hopsain Radio",
+        "url": "https://stream.radio.co/sb4fa1aec1/listen",
+        "country": "US",
+        "tags": [
+            "afro house",
+            "afrobeats",
+            "afrofusion",
+            "amapiano",
+            "ambient",
+            "classical",
+            "dance",
+            "dancehall",
+            "electronic",
+            "gqom",
+            "house",
+            "jazz",
+            "techno",
+            "world",
+            "world music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.radio.co/sb4fa1aec1/listen"
+    },
+    {
+        "name": "Hot 102 Milwaukee, WI",
+        "url": "https://das-edge11-live365-dal03.cdnstream.com/a88336",
+        "country": "US",
+        "tags": [
+            "classic dance",
+            "classic hip hop",
+            "rhythm & blues"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a88336"
+    },
+    {
+        "name": "Indy Dancers",
+        "url": "https://play.radioking.io/indy-dancers-dancecast/345331",
+        "country": "US",
+        "tags": [
+            "award wining music",
+            "blues music",
+            "country music",
+            "dance music",
+            "dance remix",
+            "fun music",
+            "party music for dancing",
+            "swing dance"
+        ],
+        "favicon": "https://www.indydancers.com/logos-Dance/ID-PlayNow.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen.radioking.com/radio/295585/stream/345331"
+    },
+    {
+        "name": "jairie radio",
+        "url": "https://c15.radioboss.fm:8509/jairie",
+        "country": "US",
+        "tags": [
+            "dancehall",
+            "lover rock",
+            "reggae",
+            "soul"
+        ],
+        "favicon": "https://c15.radioboss.fm/stationlogo/png/509.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://c15.radioboss.fm:8509/jairie"
+    },
+    {
+        "name": "Jake Signal Stream",
+        "url": "https://s3.radio.co/s8159ac666/listen",
+        "country": "US",
+        "tags": [
+            "bass",
+            "dance",
+            "dubstep",
+            "electronic",
+            "hardstyle"
+        ],
+        "favicon": "https://i1.sndcdn.com/avatars-Kom8tnOTont120yg-lxDqUg-t500x500.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s3.radio.co/s8159ac666/listen"
+    },
+    {
+        "name": "KGAY 106.5 Radio Palm Springs, Pride of the Valley",
+        "url": "https://ice9.securenetsystems.net/KGAY",
+        "country": "US",
+        "tags": [
+            "dance",
+            "electronic",
+            "pop",
+            "vintage"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://ice9.securenetsystems.net/KGAY"
+    },
+    {
+        "name": "KNHC \"C89.5\" Seattle, WA",
+        "url": "http://streams.c895.org/live",
+        "country": "US",
+        "tags": [
+            "dance",
+            "edm",
+            "electronic",
+            "seattle"
+        ],
+        "favicon": "http://www.c895.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streams.c895.org/live"
+    },
+    {
+        "name": "Lancer Radio @ College of Lake County",
+        "url": "http://seahorse.juststreamwith.us:8018/stream",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "classic rock",
+            "dance",
+            "indie",
+            "metal",
+            "pop",
+            "punk",
+            "retro",
+            "rock"
+        ],
+        "favicon": "https://lancerradioclc.com/assets/Logo1.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://seahorse.juststreamwith.us:8018/stream"
+    },
+    {
+        "name": "Love 92.1",
+        "url": "https://stream.zeno.fm/skbas6cdawctv",
+        "country": "US",
+        "tags": [
+            "britney spears",
+            "classic hits",
+            "electronic",
+            "electronic dance music",
+            "hits",
+            "katy perry",
+            "lady gaga",
+            "madonna",
+            "music",
+            "non-stop music",
+            "pop",
+            "pop music",
+            "rihanna",
+            "taylor swift",
+            "top 100",
+            "top 40",
+            "top 40 hits",
+            "top hits"
+        ],
+        "favicon": "https://i.ibb.co/JRpmrhXP/Love-92-1-Square.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-175.surfernetwork.com/skbas6cdawctv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJza2JhczZjZGF3Y3R2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il85RDhOM2ZfUWZTdWVDc0tDS3BORGciLCJpYXQiOjE3ODYzMDkyNjMsImV4cCI6MTc4NjMwOTMyM30.5RG85Il8w5iaKdYr2qUpDapXGGo_N-svA0CymuJilMw"
+    },
+    {
+        "name": "Mi Ruta Mi Musica Top40",
+        "url": "http://stream.zeno.fm/8eup8sqsw38uv",
+        "country": "US",
+        "tags": [
+            "dance top40",
+            "dj",
+            "top 40"
+        ],
+        "favicon": "http://www.facebook.com/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://stream-178.surfernetwork.com/8eup8sqsw38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZXVwOHNxc3czOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjhsV0VhNTJSUzZlcGRkMkVSQ1ZvOVEiLCJpYXQiOjE3ODYzMDkyNjIsImV4cCI6MTc4NjMwOTMyMn0.XnHcQIFPlDY03SD5mYJxYc-h_byd2a0lVs2PSpjYgXQ"
+    },
+    {
+        "name": "Newtown Radio",
+        "url": "https://streaming.radio.co/s0d090ee43/listen",
+        "country": "US",
+        "tags": [
+            "dance",
+            "disco",
+            "electronic",
+            "experimental",
+            "hip-hop",
+            "house",
+            "metal",
+            "pop",
+            "techno",
+            "world"
+        ],
+        "favicon": "https://newtownradio.flywheelstaging.com/wp-content/uploads/2019/07/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://streaming.radio.co/s0d090ee43/listen"
+    },
+    {
+        "name": "NY's Original Hot 103/97 WQHT-DB",
+        "url": "https://a9.asurahosting.com:7640/radio.mp3",
+        "country": "US",
+        "tags": [
+            "classic dance"
+        ],
+        "favicon": "https://img1.wsimg.com/isteam/ip/a971c55b-8252-4151-b640-65d7e9069b04/Hot%20103%20and%2097%20Logo%20-%20Large%20Cover%20Bann-8a880a2.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://a9.asurahosting.com:7640/radio.mp3"
+    },
+    {
+        "name": "Osage Orange Radio",
+        "url": "https://das-edge62-live365-dal03.cdnstream.com/a08442",
+        "country": "US",
+        "tags": [
+            "college",
+            "electric blues",
+            "electronic dance music",
+            "international",
+            "lofi"
+        ],
+        "favicon": "https://broadcaster.live365.com/static/assets/logos/default.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge62-live365-dal03.cdnstream.com/a08442"
+    },
+    {
+        "name": "PrideNation Radio",
+        "url": "https://streaming.live365.com/a80041",
+        "country": "US",
+        "tags": [
+            "club hits",
+            "dance",
+            "electro",
+            "house",
+            "techno",
+            "trance"
+        ],
+        "favicon": "https://image.live365.com/download/93a6f211-ec35-4219-bc88-b17a2074f0e6.png/400/image.webp",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a80041"
+    },
+    {
+        "name": "PulseEDM",
+        "url": "http://pulseedm.cdnstream1.com:8124/1373_128",
+        "country": "US",
+        "tags": [
+            "dance",
+            "edm",
+            "electronica",
+            "house",
+            "top40",
+            "trance"
+        ],
+        "favicon": "https://www.pulseedm.com/images/pulsetop.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://pulseedm.cdnstream1.com:8124/1373_128"
+    },
+    {
+        "name": "Racer",
+        "url": "https://zenommedia.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KrE1gkMCxIOU3RhdGlvblByb2ZpbGUYgICwhKvuogoMogEEemVubw/playlists/de6b0b9d-1ad9-4c3b-84f9-4e968eb4ce12",
+        "country": "US",
+        "tags": [
+            "electronic",
+            "electronic dance music",
+            "electronica",
+            "electropop"
+        ],
+        "favicon": "https://www.giorgiomoroder.com/wp-content/uploads/2014/11/giorgio-moroder-photos-1.jpg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://zenommedia.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw4KrE1gkMCxIOU3RhdGlvblByb2ZpbGUYgICwhKvuogoMogEEemVubw/playlists/de6b0b9d-1ad9-4c3b-84f9-4e968eb4ce12"
+    },
+    {
+        "name": "Radio DJ Kidnu",
+        "url": "https://stream.radio.co/s4ae4ea1dc/listen",
+        "country": "US",
+        "tags": [
+            "club dance",
+            "club house",
+            "clubbing",
+            "dj mixes"
+        ],
+        "favicon": "https://static.wixstatic.com/media/2da107_92fac35681d04a3390d2e9d1a546f253%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/2da107_92fac35681d04a3390d2e9d1a546f253%7emv2.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.radio.co/s4ae4ea1dc/listen"
+    },
+    {
+        "name": "Radio Viva",
+        "url": "https://cast4.asurahosting.com/proxy/geo/stream",
+        "country": "US",
+        "tags": [
+            "dance",
+            "deep house"
+        ],
+        "favicon": "https://radioviva.online/wp-content/uploads/2025/07/RADIO-VIVA.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://cast4.asurahosting.com/proxy/geo/stream"
+    },
+    {
+        "name": "Radio Waves 101 FM",
+        "url": "http://patmos.cdnstream.com:9617/1",
+        "country": "US",
+        "tags": [
+            "dance",
+            "hits",
+            "pop"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://patmos.cdnstream.com:9617/1"
+    },
+    {
+        "name": "Radioalfa tropical5",
+        "url": "http://stream.zeno.fm/x9y4ytkavqzuv",
+        "country": "US",
+        "tags": [
+            "pop dance"
+        ],
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkUrP1xMepqypGnS0siXYWj9JI7hLCvApcQxt15BkV2jFqwFWH6hajAiAH5bfmNW2JQ1k9J2x0Sr8PRdvYxMIpHkQfpN_WSUF5aS86Y_Xksz5CLCLveRDPgdrtF80IhbcsnTQxiJYZuoWOMevOF4gr_L65iOwQ8ot2yfV35pAiuqbau_cw7Yz4-ATQhg/s600/logo-search-grid-2x-8.bin",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-176.surfernetwork.com/x9y4ytkavqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OXk0eXRrYXZxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InJNY29jNko1UVdTNlNVT1dvOVJUb1EiLCJpYXQiOjE3ODYzMDkyNjMsImV4cCI6MTc4NjMwOTMyM30.NxnEAf7rXkzo8NbE0u5Wk0sWYOtSDLSTtMBmD24awfU"
+    },
+    {
+        "name": "Reggae Global Radio",
+        "url": "https://ice42.securenetsystems.net/RGRADIO",
+        "country": "US",
+        "tags": [
+            "dancehall",
+            "reggae",
+            "roots reggae"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://ice42.securenetsystems.net/RGRADIO"
+    },
+    {
+        "name": "Romona France",
+        "url": "https://stream.flavorjamz.com/;stream.mp3",
+        "country": "US",
+        "tags": [
+            "afrobeats",
+            "amapiano",
+            "bouyon",
+            "caribbean",
+            "dancehall",
+            "island music",
+            "kompa",
+            "reggae",
+            "soca",
+            "zouk"
+        ],
+        "favicon": "https://flavorjamz.com/images/RadioLogo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream.flavorjamz.com/;stream.mp3"
+    },
+    {
+        "name": "RSE Freestyle Radio",
+        "url": "http://s9.citrus3.com:8054/stream",
+        "country": "US",
+        "tags": [
+            "80s",
+            "90s",
+            "dance music",
+            "freestyle"
+        ],
+        "favicon": "https://rsefreestyleradio.com/images/RSEFreestyleRadioLogo1000x1000.jpg",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://s9.citrus3.com:8054/stream"
+    },
+    {
+        "name": "Sensimedia Dancehall Radio",
+        "url": "https://sensidancehall.radioca.st/;",
+        "country": "US",
+        "tags": [
+            "dancehall",
+            "dub",
+            "reggae"
+        ],
+        "favicon": "https://sensimedia.net/images/logo/favicon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://sensidancehall.radioca.st/;"
+    },
+    {
+        "name": "Sfliny Dance Music",
+        "url": "https://ec4.yesstreaming.net:3780/",
+        "country": "US",
+        "tags": [
+            "club",
+            "dance",
+            "dance pop",
+            "gay",
+            "hi energy"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://ec4.yesstreaming.net:3780/"
+    },
+    {
+        "name": "Space Unicorn Radio",
+        "url": "https://spaceunicorn.radio/stream",
+        "country": "US",
+        "tags": [
+            "dance",
+            "edm",
+            "electronic",
+            "trance"
+        ],
+        "favicon": "https://spaceunicorn.radio/assets/img/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://spaceunicorn.radio/stream"
+    },
+    {
+        "name": "StrobeFM",
+        "url": "https://icy.strobefm.com/high",
+        "country": "US",
+        "tags": [
+            "chr",
+            "dance",
+            "hits",
+            "pop",
+            "popular",
+            "throwbacks",
+            "top 40",
+            "top hits",
+            "top40"
+        ],
+        "favicon": "https://strobefm.com/assets/images/logo/icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://icy.strobefm.com/high"
+    },
+    {
+        "name": "super hit mix radio",
+        "url": "http://24.28.190.176:88/broadwave.mp3?src=1&rate=1",
+        "country": "US",
+        "tags": [
+            "christmas",
+            "classic country",
+            "country",
+            "dance",
+            "jazz",
+            "misc",
+            "miscellaneous",
+            "oldies",
+            "pop",
+            "variety"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://24.28.190.176:88/broadwave.mp3?src=1&rate=1"
+    },
+    {
+        "name": "The Indie Beat Radio - Pop Channel",
+        "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_pop/radio.mp3",
+        "country": "US",
+        "tags": [
+            "alternative pop",
+            "indie",
+            "pop",
+            "pop dance",
+            "pop music",
+            "pop rock"
+        ],
+        "favicon": "https://theindiebeat.fm/wp-content/uploads/2025/01/cropped-Catellite-TIBR-lime-1500x1500-1-192x192.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_pop/radio.mp3"
+    },
+    {
+        "name": "The Reggae Spin with Garfield, Mikey G, & Keveon",
+        "url": "https://104.248.200.131/listen/reggaespin/radio.mp3",
+        "country": "US",
+        "tags": [
+            "calypso",
+            "caribbean music",
+            "dancehall",
+            "reggae",
+            "soca"
+        ],
+        "favicon": "https://reggaespin.com/wp-content/uploads/2025/01/cropped-The-Reggae-Spin-01.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://104.248.200.131/listen/reggaespin/radio.mp3"
+    },
+    {
+        "name": "The World Famous LIR Long Island, NY",
+        "url": "https://das-edge09-live365-dal03.cdnstream.com/a95442",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "dance",
+            "modern rock"
+        ],
+        "favicon": "https://img1.wsimg.com/isteam/ip/2b46adf0-9790-4c52-8b85-de7b870db9c0/LIR%20High%20Res%20Logo%202.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a95442"
+    },
+    {
+        "name": "VIP Radio Dance",
+        "url": "https://usa11.fastcast4u.com/proxy/vipdance?mp=/;",
+        "country": "US",
+        "tags": [
+            "club dance",
+            "dance",
+            "dj mixes",
+            "house"
+        ],
+        "favicon": "https://vipdance.com/assets/images/android-chrome-192x192-128x128-1.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://usa11.fastcast4u.com/proxy/vipdance?mp=/;"
+    },
+    {
+        "name": "WDON Dance",
+        "url": "http://stream.soundcasting.eu/WDON-Dance-128.aac",
+        "country": "US",
+        "tags": [
+            "club dance",
+            "club house",
+            "clubbing",
+            "dance",
+            "dj mix",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 0,
+        "working_url": "http://stream.soundcasting.eu/WDON-Dance-128.aac"
+    },
+    {
+        "name": "WeRave Music Radio 01 - Dark and Underground",
+        "url": "https://stream.zeno.fm/pjktyby8dn5tv",
+        "country": "US",
+        "tags": [
+            "dance",
+            "deep house",
+            "electro",
+            "electronica",
+            "house",
+            "iconyc",
+            "indie dance",
+            "melodic house",
+            "melodic house & techno",
+            "new york",
+            "polyptych",
+            "progressive house",
+            "techno",
+            "underground",
+            "werave music"
+        ],
+        "favicon": "https://werave.com.br/wp-content/uploads/cropped-weravemusic-180x180.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-177.surfernetwork.com/pjktyby8dn5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwamt0eWJ5OGRuNXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRJRHVsa1dMUW9tbmJkZ0t4a1AwSWciLCJpYXQiOjE3ODYzMDkyNjQsImV4cCI6MTc4NjMwOTMyNH0.mW44PErxWBp6oNIwTnmTwodAddhGKVRwcaNTS2alyao"
+    },
+    {
+        "name": "WeRave Music Radio 02 - Study and Chillout",
+        "url": "https://stream.zeno.fm/cpnv07rjvp0vv",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "best music for you",
+            "chill house",
+            "chillout",
+            "dance",
+            "deep house",
+            "dj",
+            "melodic house",
+            "melodic house & techno",
+            "music for study",
+            "organic house",
+            "progressive house",
+            "soulful house",
+            "underground music"
+        ],
+        "favicon": "https://werave.com.br/wp-content/uploads/2020/09/vinyl.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-178.surfernetwork.com/cpnv07rjvp0vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcG52MDdyanZwMHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZZNlh3c0JJVHFTdmttYjJGSEZnc3ciLCJpYXQiOjE3ODYzMDkyNjQsImV4cCI6MTc4NjMwOTMyNH0.Ru82AjFOCcQsKpPGTTEXhU0JPKStVC1vcC_JtBNeuJw"
+    },
+    {
+        "name": "WPTY \"Party 105.3\" Calverton-Roanoke, NY",
+        "url": "http://19263.live.streamtheworld.com/WPTYFMAAC_SC",
+        "country": "US",
+        "tags": [
+            "calverton-roanoke",
+            "dance",
+            "hits",
+            "long island",
+            "party",
+            "rhythmic hits"
+        ],
+        "favicon": "http://party105.com/images/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://19263.live.streamtheworld.com/WPTYFMAAC_SC"
+    },
+    {
+        "name": "WYML 99.9",
+        "url": "https://seahorse.juststreamwith.us:8000/stream",
+        "country": "US",
+        "tags": [
+            "90s dance",
+            "adult alternative",
+            "alternative",
+            "alternative / indie",
+            "alternative classics",
+            "alternative indie rock",
+            "alternative pop",
+            "alternative rock",
+            "classic rock",
+            "classic rock music",
+            "classic rock oldies",
+            "classic rock; alternative rock indie",
+            "club dance",
+            "club dance electronic house trance",
+            "community events",
+            "community radio",
+            "community radio station",
+            "dance",
+            "dance music",
+            "dance pop",
+            "edm",
+            "electronic dance music",
+            "eurodance",
+            "garage punk",
+            "golden oldies",
+            "grunge",
+            "heavy metal",
+            "heavy rock",
+            "heavy-metal",
+            "local radio",
+            "metal",
+            "music variety",
+            "oldies",
+            "pop",
+            "pop dance",
+            "pop music",
+            "pop punk",
+            "pop rock",
+            "popular",
+            "post grunge",
+            "post punk",
+            "post-grunge",
+            "post-punk",
+            "punk",
+            "punk rock",
+            "ska",
+            "variety",
+            "variety hits"
+        ],
+        "favicon": "https://www.wyml.us/assets/Logo1.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://seahorse.juststreamwith.us:8000/stream"
+    },
+    {
+        "name": "Z107.7 St. Louis",
+        "url": "http://stream.revma.ihrhls.com/zc1297/hls.m3u8",
+        "country": "US",
+        "tags": [
+            "contemporary hits",
+            "dance",
+            "hits",
+            "iheart",
+            "iheart radio",
+            "pop",
+            "pop dance",
+            "top 40",
+            "top hits",
+            "top40"
+        ],
+        "favicon": "https://i.iheart.com/v3/re/new_assets/dfa2aabf-e02d-476c-a2dc-332f13504e64",
+        "codec": "AAC",
+        "bitrate": 24,
+        "working_url": "http://n33b-e2.revma.ihrhls.com/zc1297/hls.m3u8?rj-ttl=5&rj-tok=AAABn-hdbL0ASRtKvXLyxSgC7Q"
+    }
+]

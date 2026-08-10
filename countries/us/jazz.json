@@ -1,0 +1,3665 @@
+[
+    {
+        "name": "SmoothJazz.com 64k aac+",
+        "url": "https://smoothjazz.cdnstream1.com/2585_64.aac",
+        "country": "US",
+        "tags": [
+            "monterey",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_64.aac"
+    },
+    {
+        "name": "WVBC-LP 96.9 The Voice of Bessemer City Schools",
+        "url": "https://streaming.live365.com/a03195",
+        "country": "US",
+        "tags": [
+            "r&b",
+            "smooth jazz",
+            "soul"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s231944d.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a03195"
+    },
+    {
+        "name": ".977 Smooth Jazz",
+        "url": "http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC"
+    },
+    {
+        "name": "101 SMOOTH JAZZ",
+        "url": "http://jking.cdnstream1.com/b22139_128mp3",
+        "country": "US",
+        "tags": [
+            "easy listening",
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "http://101smoothjazz.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jking.cdnstream1.com/b22139_128mp3"
+    },
+    {
+        "name": "101 SMOOTH JAZZ MELLOW MIX",
+        "url": "http://streaming.live365.com/b48071_128mp3",
+        "country": "US",
+        "tags": [
+            "easy listening",
+            "mellow",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ais-edge89-dal02.cdnstream.com/b48071_128mp3"
+    },
+    {
+        "name": "103.7 The Oasis",
+        "url": "https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908"
+    },
+    {
+        "name": "181.FM - Acid Jazz",
+        "url": "http://listen.181fm.com/181-acidjazz_128k.mp3",
+        "country": "US",
+        "tags": [
+            "acid jazz",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-acidjazz_128k.mp3"
+    },
+    {
+        "name": "181.FM - BeBop Jazz",
+        "url": "http://listen.181fm.com/181-bebop_128k.mp3",
+        "country": "US",
+        "tags": [
+            "bebop",
+            "jazz",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-bebop_128k.mp3"
+    },
+    {
+        "name": "181.FM - Christmas Smooth Jazz",
+        "url": "http://listen.181fm.com/181-xsmooth_128k.mp3",
+        "country": "US",
+        "tags": [
+            "christmas music",
+            "smooth jazz",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-xsmooth_128k.mp3"
+    },
+    {
+        "name": "181.FM - Christmas Swing",
+        "url": "http://listen.181fm.com/181-xswing_128k.mp3",
+        "country": "US",
+        "tags": [
+            "christmas music",
+            "jazz",
+            "swing",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-xswing_128k.mp3"
+    },
+    {
+        "name": "181.FM - Classical Jazz",
+        "url": "http://listen.181fm.com/181-classicaljazz_128k.mp3",
+        "country": "US",
+        "tags": [
+            "classic jazz",
+            "jazz"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-classicaljazz_128k.mp3"
+    },
+    {
+        "name": "181.FM - Fusion Jazz",
+        "url": "http://listen.181fm.com/181-fusionjazz_128k.mp3",
+        "country": "US",
+        "tags": [
+            "fusion jazz",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-fusionjazz_128k.mp3"
+    },
+    {
+        "name": "181.FM - Trance Jazz",
+        "url": "http://listen.181fm.com/181-trancejazz_128k.mp3",
+        "country": "US",
+        "tags": [
+            "chillout",
+            "jazz",
+            "trance",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-trancejazz_128k.mp3"
+    },
+    {
+        "name": "181.FM - Vocal Jazz",
+        "url": "http://listen.181fm.com/181-vocals_128k.mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "vocal jazz",
+            "waynesboro"
+        ],
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.181fm.com/181-vocals_128k.mp3"
+    },
+    {
+        "name": "88.3 KCCK",
+        "url": "http://stream.kcck.org/jazz883kcck",
+        "country": "US",
+        "tags": [
+            "classic jazz",
+            "college radio",
+            "jazz",
+            "public radio",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.kcck.org/favicon.png",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "http://stream.kcck.org/jazz883kcck"
+    },
+    {
+        "name": "88.7 WICR - The Diamond",
+        "url": "https://live.amperwave.net/direct/univofindy-wicrhd1mp3-ibc4",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "https://wicronline.org/wicrfm/wp-content/uploads/2022/01/wicrfm-logo.jpg",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "https://prod-18-204-34-32.amperwave.net/univofindy-wicrhd1mp3-ibc4?session-id=0a47a0e599184a37a5016f5c36aec685"
+    },
+    {
+        "name": "90.5 wes",
+        "url": "https://ais-sa3.cdnstream1.com/2556_128.mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "npr",
+            "pittsburgh"
+        ],
+        "favicon": "https://www.wesa.fm/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "https://ais-sa3.cdnstream1.com/2556_128.mp3"
+    },
+    {
+        "name": "90.5 WICN Public Radio - Jazz+ for New England",
+        "url": "https://wicn-ice.streamguys1.com/live-mp3",
+        "country": "US",
+        "tags": [
+            "blues",
+            "classic jazz",
+            "folk",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "https://www.wicn.org/wp-content/uploads/2019/06/cropped-android-chrome-512x512-192x192.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://wicn-ice.streamguys1.com/live-mp3"
+    },
+    {
+        "name": "90.7 FM KWMU-2",
+        "url": "https://kwmu.streamguys1.com/jazz-128",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://www.stlpr.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kwmu.streamguys1.com/jazz-128"
+    },
+    {
+        "name": "96.9 The Oasis",
+        "url": "http://192.211.51.158:5014/stream",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "https://www.969theoasis.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://192.211.51.158:5014/stream"
+    },
+    {
+        "name": "Above The Clouds Radio",
+        "url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "all-vinyl",
+            "dance",
+            "free form",
+            "funk",
+            "hip-hop",
+            "independent",
+            "international",
+            "jazz",
+            "latin",
+            "rare",
+            "rock",
+            "soul"
+        ],
+        "favicon": "https://www.abovethecloudsradio.com/assets/lock-art.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3"
+    },
+    {
+        "name": "Abusia Radio",
+        "url": "https://ice66.securenetsystems.net/ABUSIA",
+        "country": "US",
+        "tags": [
+            "afro",
+            "deep house",
+            "disco",
+            "funk",
+            "internet radio",
+            "jazz",
+            "no ads",
+            "soulful house",
+            "tech house",
+            "techno",
+            "underground"
+        ],
+        "favicon": "https://abusiaradio.com/wp-content/uploads/2024/06/cropped-abusia-radio_new-site-logo_pro-radio-180x180.png",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice66.securenetsystems.net/ABUSIA"
+    },
+    {
+        "name": "Adroit Jazz Underground",
+        "url": "https://icecast.walmradio.com:8443/jazz",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "bebop",
+            "big band",
+            "bop",
+            "combos",
+            "contemporary",
+            "contemporary jazz",
+            "cool",
+            "cool jazz",
+            "free jazz",
+            "fusion",
+            "hard bop",
+            "hd",
+            "mainstream",
+            "mainstream jazz",
+            "modern",
+            "modern big band",
+            "post-bop",
+            "straight-ahead",
+            "walm",
+            "west coast"
+        ],
+        "favicon": "https://icecast.walmradio.com:8443/jazz.jpg",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://icecast.walmradio.com:8443/jazz"
+    },
+    {
+        "name": "Adroit Jazz Underground HD Opus",
+        "url": "https://icecast.walmradio.com:8443/jazz_opus",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "bebop",
+            "big band",
+            "bop",
+            "combos",
+            "contemporary",
+            "contemporary jazz",
+            "cool",
+            "cool jazz",
+            "free jazz",
+            "fusion",
+            "hard bop",
+            "hd",
+            "mainstream",
+            "mainstream jazz",
+            "modern",
+            "modern big band",
+            "opus",
+            "post-bop",
+            "straight-ahead",
+            "walm",
+            "west coast"
+        ],
+        "favicon": "https://icecast.walmradio.com:8443/jazz.jpg",
+        "codec": "OGG",
+        "bitrate": 192,
+        "working_url": "https://icecast.walmradio.com:8443/jazz_opus"
+    },
+    {
+        "name": "Afrobeats Jazz Radio",
+        "url": "https://radio.nitro-server.uk/listen/frobeatsazzadio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "african",
+            "afrobeats",
+            "afrobeats jazz",
+            "jazz"
+        ],
+        "favicon": "https://www.forwardmystream.com/stations/300/afrobeatsjazz-1294.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.nitro-server.uk/listen/frobeatsazzadio/radio.mp3"
+    },
+    {
+        "name": "Armstrong",
+        "url": "https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://streaming.exclusive.radio/er/louisarmstrong/icecast.audio"
+    },
+    {
+        "name": "Atl Paper Chasers Radio",
+        "url": "https://servidor27.brlogic.com:7004/live",
+        "country": "US",
+        "tags": [
+            "edm",
+            "gospel",
+            "jazz",
+            "rap",
+            "rap hiphop rnb",
+            "rave",
+            "reggae",
+            "rnb",
+            "top 40"
+        ],
+        "favicon": "https://www.atlpaperchasers.com",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://servidor27.brlogic.com:7004/live"
+    },
+    {
+        "name": "AZPM Jazz 89.1 HD2",
+        "url": "https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks"
+    },
+    {
+        "name": "AZPM Jazz 89.1 HD2 AAC 128",
+        "url": "https://streaming.azpm.org/jazz128",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 127,
+        "working_url": "https://streaming.azpm.org/jazz128"
+    },
+    {
+        "name": "AZPM Jazz 89.1 HD2 AAC 256",
+        "url": "https://streaming.azpm.org/jazz256",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 255,
+        "working_url": "https://streaming.azpm.org/jazz256"
+    },
+    {
+        "name": "AZPM Jazz 89.1 HD2 AAC 64",
+        "url": "https://streaming.azpm.org/jazz64",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 63,
+        "working_url": "https://streaming.azpm.org/jazz64"
+    },
+    {
+        "name": "Babe Radio",
+        "url": "http://usa14.fastcast4u.com:5252/;",
+        "country": "US",
+        "tags": [
+            "classical",
+            "contemporary",
+            "disco",
+            "jazz",
+            "jukebox",
+            "lovesong",
+            "mellow",
+            "metalcore",
+            "opm",
+            "rock",
+            "smooth"
+        ],
+        "favicon": "https://file.garden/Zzg7g9nzzkEeNTar/BabeRadio.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://usa14.fastcast4u.com:5252/;"
+    },
+    {
+        "name": "Balearic FM",
+        "url": "https://radio.balearic-fm.com:8000/radio.mp3",
+        "country": "US",
+        "tags": [
+            "deep house",
+            "deep tech house",
+            "house",
+            "jazzy house",
+            "soulful house",
+            "tech house",
+            "techno"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.balearic-fm.com:8000/radio.mp3"
+    },
+    {
+        "name": "Best Net Radio - Coffee House",
+        "url": "http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178685.mp3",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178685.mp3"
+    },
+    {
+        "name": "Best Smooth Jazz",
+        "url": "http://64.95.243.43:8002/stream",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://64.95.243.43:8002/stream"
+    },
+    {
+        "name": "BGMVibes",
+        "url": "https://radio.sutekihost.com/listen/bgmvibes/radio.mp3",
+        "country": "US",
+        "tags": [
+            "edm",
+            "electric",
+            "jazz",
+            "lofi"
+        ],
+        "favicon": "https://radio.sutekihost.com/static/uploads/album_art.1743805787.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.sutekihost.com/listen/bgmvibes/radio.mp3"
+    },
+    {
+        "name": "Black Sparrow Radio KBSR",
+        "url": "https://streams.radio.co/sb821fbb0a/listen",
+        "country": "US",
+        "tags": [
+            "country",
+            "dj sets",
+            "independent radio",
+            "jazz",
+            "rockabilly"
+        ],
+        "favicon": "https://www.radio.net/300/blacksparrowkbsr.png?version=7272df6c9673e7657a763bee0ee87d33c362749d",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://streams.radio.co/sb821fbb0a/listen"
+    },
+    {
+        "name": "Blindbtradio",
+        "url": "https://s4.voscast.com:9673/stream",
+        "country": "US",
+        "tags": [
+            "blues",
+            "classical",
+            "easy listening",
+            "jazz",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s4.voscast.com:9673/stream"
+    },
+    {
+        "name": "bluesflac",
+        "url": "http://streams.radiomast.io/radioblues-flac",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 1500,
+        "working_url": "http://audio-edge-3mayu.fra.h.radiomast.io/radioblues-flac"
+    },
+    {
+        "name": "boogaloostereo",
+        "url": "http://149.56.157.81:8399/",
+        "country": "US",
+        "tags": [
+            "320kbps",
+            "big band",
+            "latin-jazz",
+            "latio",
+            "salsa"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 80,
+        "working_url": "http://149.56.157.81:8399/"
+    },
+    {
+        "name": "BROKEN BEATS",
+        "url": "https://stream.zeno.fm/27tv6ay24d0uv",
+        "country": "US",
+        "tags": [
+            "broken beat",
+            "broken beats",
+            "electronica",
+            "jazz",
+            "nu jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-289.surfernetwork.com/27tv6ay24d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyN3R2NmF5MjRkMHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFteFhTUUhKUzB5eDN4TzFUQ29zOWciLCJpYXQiOjE3ODYzMDg3NTIsImV4cCI6MTc4NjMwODgxMn0.ANlEzufQq1VQE6yC-4M4jhpCkkM4Mk2wM-8ZA8ieLzk"
+    },
+    {
+        "name": "BSPR Music (Jazz)",
+        "url": "https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac",
+        "country": "US",
+        "tags": [
+            "boise",
+            "jazz",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.boisestatepublicradio.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac"
+    },
+    {
+        "name": "Capital Public Radio Music (KXPR, KXSR, KXJS)",
+        "url": "http://18433.live.streamtheworld.com:3690/KXPR_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic",
+            "jazz",
+            "public radio",
+            "roots"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://18433.live.streamtheworld.com:3690/KXPR_SC"
+    },
+    {
+        "name": "Classic Vinyl HD",
+        "url": "https://icecast.walmradio.com:8443/classic",
+        "country": "US",
+        "tags": [
+            "1930",
+            "1940",
+            "1950",
+            "1960",
+            "beautiful music",
+            "big band",
+            "classic hits",
+            "crooners",
+            "easy",
+            "easy listening",
+            "hd",
+            "jazz",
+            "light orchestral",
+            "lounge",
+            "oldies",
+            "orchestral",
+            "otr",
+            "relaxation",
+            "strings",
+            "swing",
+            "unwind",
+            "walm"
+        ],
+        "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://icecast.walmradio.com:8443/classic"
+    },
+    {
+        "name": "Classical Jazz Radio",
+        "url": "https://ec1.yesstreaming.net:2905/stream",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://ec1.yesstreaming.net:2905/stream"
+    },
+    {
+        "name": "CleansingMusic - Beyond Words (MP3)",
+        "url": "http://hemnos.cdnstream.com/1469_128",
+        "country": "US",
+        "tags": [
+            "instrumental",
+            "jazz",
+            "new age"
+        ],
+        "favicon": "https://i.ibb.co/3BCs5RZ/22392-v3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://hemnos.cdnstream.com/1469_128"
+    },
+    {
+        "name": "Cool Jazz Florida",
+        "url": "http://162.244.80.20:6948/",
+        "country": "US",
+        "tags": [
+            "cool jazz"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s218788q.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://162.244.80.20:6948/"
+    },
+    {
+        "name": "Cult Radio A-Go-Go",
+        "url": "http://162.252.85.85:8502/",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "oldies",
+            "rock",
+            "talk",
+            "various"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://162.252.85.85:8502/"
+    },
+    {
+        "name": "Deep Link Radio - Jazzier Link Radio",
+        "url": "https://deeperlink.com:8012/stream",
+        "country": "US",
+        "tags": [
+            "deep house",
+            "house",
+            "jazz"
+        ],
+        "favicon": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.deeplink.stream/soulful-link-radio&size=256",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://deeperlink.com:8010/stream"
+    },
+    {
+        "name": "DS4U",
+        "url": "http://radio.ds4u.com:8000/ds4u",
+        "country": "US",
+        "tags": [
+            "big band",
+            "jazz",
+            "swing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://radio.ds4u.com:8000/ds4u"
+    },
+    {
+        "name": "EROTICA LOUNGE",
+        "url": "https://stream.zeno.fm/89asra0sfa0uv",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "chillout",
+            "chillout+lounge",
+            "jazz fusion",
+            "nu jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-281.surfernetwork.com/89asra0sfa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OWFzcmEwc2ZhMHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZhbUh6U3BCVENDMnNwUVRicWtyRFEiLCJpYXQiOjE3ODYzMDg3NTUsImV4cCI6MTc4NjMwODgxNX0.OKyxuK27WZ5-luEXKDBdHn-O93EwaSI-nQmJsBwJpF8"
+    },
+    {
+        "name": "Exclusively Lana Del Rey",
+        "url": "https://nl4.mystreaming.net/er/lanadelrey/icecast.audio",
+        "country": "US",
+        "tags": [
+            "americana",
+            "ballads",
+            "beautiful music",
+            "cinematic",
+            "downtempo",
+            "female vocalists",
+            "femalevocals",
+            "jazz",
+            "pop",
+            "pop ballads",
+            "sadcore",
+            "slow",
+            "soft",
+            "soft pop",
+            "vocal jazz"
+        ],
+        "favicon": "https://liveonlineradio.net/wp-content/uploads/2022/05/Exclusively-Lana-Del-Rey-220x108.webp",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nl4.mystreaming.net/er/lanadelrey/icecast.audio"
+    },
+    {
+        "name": "Friends of 'CSB (Tuner feed of 89.3 FM)",
+        "url": "https://s20.myradiostream.com:18792/listen.mp3",
+        "country": "US",
+        "tags": [
+            "beats",
+            "blues",
+            "drums",
+            "electronic",
+            "experimental",
+            "folk",
+            "free jazz",
+            "free radio",
+            "freestyle",
+            "funk",
+            "hip hop",
+            "hip-hop",
+            "hippy noise",
+            "independent",
+            "japanoise",
+            "jazz",
+            "metal",
+            "modern classical",
+            "mumbling",
+            "noise",
+            "noise rock",
+            "non-commercial",
+            "psychedelic",
+            "punk",
+            "reggae",
+            "rock",
+            "rockabilly",
+            "ska",
+            "talk",
+            "techno"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s20.myradiostream.com:18792/listen.mp3"
+    },
+    {
+        "name": "Funk the Planet",
+        "url": "https://streaming.live365.com/a01484",
+        "country": "US",
+        "tags": [
+            "classic hip hop",
+            "contemporary r&b",
+            "disco funk",
+            "funk",
+            "future funk",
+            "hip hop",
+            "hip-hop",
+            "hip-hop and rap oldies",
+            "hiphop",
+            "hiphop r&b",
+            "jazz funk",
+            "neo soul",
+            "new jack swing",
+            "p-funk",
+            "r&b",
+            "r&b soul",
+            "r&b/urban",
+            "retro r&b",
+            "soul",
+            "soul music"
+        ],
+        "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_60653111.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a01484"
+    },
+    {
+        "name": "GBH 89.7",
+        "url": "https://wgbh-live.streamguys1.com/wgbh-noads",
+        "country": "US",
+        "tags": [
+            "boston",
+            "gbh",
+            "information",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/2d/41/fe/2d41febe-3767-d764-332c-56b368791ceb/pr_source.png/632x632sr.webp",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://wgbh-live.streamguys1.com/wgbh-noads"
+    },
+    {
+        "name": "GBH 89.7 AAC",
+        "url": "https://wgbh-live.streamguys1.com/wgbh-aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "gbh",
+            "information",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 52,
+        "working_url": "https://wgbh-live.streamguys1.com/wgbh-aac"
+    },
+    {
+        "name": "GBH 89.7 AAC 256",
+        "url": "https://wgbh-live.streamguys1.com/wgbh-256aac",
+        "country": "US",
+        "tags": [
+            "boston",
+            "gbh",
+            "information",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://wgbh-live.streamguys1.com/wgbh-256aac"
+    },
+    {
+        "name": "GBH 89.7 HLS",
+        "url": "https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "boston",
+            "gbh",
+            "information",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 130,
+        "working_url": "https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8"
+    },
+    {
+        "name": "Gentle Praise from Family Life",
+        "url": "https://streaming.live365.com/a59845_2",
+        "country": "US",
+        "tags": [
+            "christian",
+            "classical",
+            "easy listening",
+            "instrumental",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a59845_2"
+    },
+    {
+        "name": "Global Community Radio 3 (GCR-3)",
+        "url": "http://142.4.219.8:8327/",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic programming",
+            "jazz",
+            "music",
+            "variety"
+        ],
+        "favicon": "https://globalcommunityradio.blogspot.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://142.4.219.8:8327/"
+    },
+    {
+        "name": "Good For The Soul",
+        "url": "https://goodosoulchannel.out.airtime.pro/goodosoulchannel_a",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "r&b"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "https://goodosoulchannel.out.airtime.pro/goodosoulchannel_a"
+    },
+    {
+        "name": "Hawaii Public Radio HPR-1 (KHPR)",
+        "url": "http://khpr-ice.streamguys1.com/khpr2",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "news",
+            "npr",
+            "public radio",
+            "talk",
+            "world music"
+        ],
+        "favicon": "http://hawaiipublicradio.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://khpr-ice.streamguys1.com/khpr2"
+    },
+    {
+        "name": "Hopsain Radio",
+        "url": "https://stream.radio.co/sb4fa1aec1/listen",
+        "country": "US",
+        "tags": [
+            "afro house",
+            "afrobeats",
+            "afrofusion",
+            "amapiano",
+            "ambient",
+            "classical",
+            "dance",
+            "dancehall",
+            "electronic",
+            "gqom",
+            "house",
+            "jazz",
+            "techno",
+            "world",
+            "world music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.radio.co/sb4fa1aec1/listen"
+    },
+    {
+        "name": "Jam Town",
+        "url": "https://65.109.88.81:8160/radio.mp3",
+        "country": "US",
+        "tags": [
+            "00s",
+            "80s",
+            "90s",
+            "blues",
+            "classic alternative rock",
+            "jazz",
+            "oldies",
+            "progressive",
+            "reggae"
+        ],
+        "favicon": "https://jamtown.us/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://65.109.88.81:8160/radio.mp3"
+    },
+    {
+        "name": "Jazz 88 Minneapolis KBEM",
+        "url": "https://kbem-live.streamguys1.com/kbem_aac",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "traffic"
+        ],
+        "favicon": "https://www.jazz88.fm/wp-content/uploads/2017/04/jazz-icon.jpg",
+        "codec": "AAC",
+        "bitrate": 95,
+        "working_url": "https://kbem-live.streamguys1.com/kbem_aac"
+    },
+    {
+        "name": "Jazz FM",
+        "url": "https://jazzfm91.streamb.live/SB00009",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://jazz.fm/wp-content/uploads/cropped-jazzfavicon-375x375.png",
+        "codec": "AAC",
+        "bitrate": 131,
+        "working_url": "https://jazzfm91.streamb.live/SB00009"
+    },
+    {
+        "name": "Jazz24 [AAC/64 kbit]",
+        "url": "https://knkx-live-a.edge.audiocdn.com/6285_64k",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/032ce25/2147483647/strip/true/crop/900x900+0+0/resize/1760x1760!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2Ff7%2F48229ba341b0b1c8933834130d10%2Fjazz24.jpg",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://knkx-live-a.edge.audiocdn.com/6285_64k"
+    },
+    {
+        "name": "JazzRadio (MRG.fm)",
+        "url": "http://listen.mrg.fm:8040/stream",
+        "country": "US",
+        "tags": [
+            "classic jazz",
+            "cool jazz",
+            "jazz",
+            "jazz fusion",
+            "latin jazz",
+            "nu-jazz",
+            "piano jazz",
+            "smooth jazz",
+            "vocal jazz"
+        ],
+        "favicon": "https://mrg.fm/img/jazzradio125.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.mrg.fm:8040/stream"
+    },
+    {
+        "name": "JazzWorks 90.5 WESA-HD2",
+        "url": "https://ais-sa3.cdnstream1.com/2558_128.mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "http://jazzworks.net/images/jazzworks-color.png",
+        "codec": "MP3",
+        "bitrate": 127,
+        "working_url": "https://ais-sa3.cdnstream1.com/2558_128.mp3"
+    },
+    {
+        "name": "KAMU Radio FM 90.9",
+        "url": "http://kamu.streamguys1.com/hd1-192",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://kamu.streamguys1.com/hd1-192"
+    },
+    {
+        "name": "KANU 91.5 \"Kansas Public Radio\" Lawrence, KS",
+        "url": "http://streaming.kansaspublicradio.org:8000/kpr1",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz",
+            "kansas public radio",
+            "lawrence",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "http://kansaspublicradio.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://streaming.kansaspublicradio.org:8000/kpr1"
+    },
+    {
+        "name": "KAWC Arizona Community Radio/Music",
+        "url": "http://18443.live.streamtheworld.com/KAWCAM_SC",
+        "country": "US",
+        "tags": [
+            "bbc",
+            "jazz",
+            "npr",
+            "pri"
+        ],
+        "favicon": "http://kawc.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://18443.live.streamtheworld.com/KAWCAM_SC"
+    },
+    {
+        "name": "KBCU-FM 88.1 Bethel College - North Newton, KS",
+        "url": "http://kbcu-live.bethelks.edu:8000/kbcu",
+        "country": "US",
+        "tags": [
+            "college radio",
+            "jazz",
+            "north newton",
+            "wichita"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://kbcu-live.bethelks.edu:8000/kbcu"
+    },
+    {
+        "name": "KCNV Classical 89.7",
+        "url": "https://14623.live.streamtheworld.com/KCNVFMAAC_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz",
+            "nevada",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "https://knpr.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://14623.live.streamtheworld.com/KCNVFMAAC_SC"
+    },
+    {
+        "name": "KCSM 91.1  \"Jazz 91\" San Mateo, CA (AAC+)",
+        "url": "http://ice5.securenetsystems.net/KCSM",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "public radio",
+            "san mateo"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://ice5.securenetsystems.net/KCSM"
+    },
+    {
+        "name": "KCSM Jazz 91.1 FM",
+        "url": "http://ice7.securenetsystems.net/KCSM2",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://ice7.securenetsystems.net/KCSM2"
+    },
+    {
+        "name": "KEXP",
+        "url": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds%3Atrue",
+        "country": "US",
+        "tags": [
+            "afrobeats",
+            "alternative",
+            "alternative rock",
+            "ambient",
+            "dj mixes",
+            "dj remix",
+            "djs",
+            "electronic",
+            "folk",
+            "highlife",
+            "hip hop",
+            "indie",
+            "indie rock",
+            "jazz",
+            "live sessions",
+            "local music",
+            "mrcrosby",
+            "music",
+            "punk",
+            "rock",
+            "talk"
+        ],
+        "favicon": "https://www.kexp.org/static/assets/img/logo-header.svg",
+        "codec": "AAC",
+        "bitrate": 162,
+        "working_url": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds:true"
+    },
+    {
+        "name": "KEXP 90.3 FM Seattle",
+        "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "eclectic",
+            "electronic",
+            "folk",
+            "indie",
+            "jazz",
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://www.kexp.org/static/assets/img/logo-black.svg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
+    },
+    {
+        "name": "KEXP 90.3 FM Seattle, WA",
+        "url": "http://live-mp3-128.kexp.org/kexp128.mp3",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "electronic",
+            "hip hop",
+            "indie",
+            "jazz",
+            "live",
+            "pop",
+            "public radio",
+            "rock",
+            "variety"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/KEXP_logo_%28black_on_orange%29.svg/1890px-KEXP_logo_%28black_on_orange%29.svg.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://live-mp3-128.kexp.org/kexp128.mp3"
+    },
+    {
+        "name": "KEXP: The greatest radio station in the galaxy",
+        "url": "https://kexp.streamguys1.com/kexp160.aac",
+        "country": "US",
+        "tags": [
+            "electronic",
+            "experimental",
+            "hip hop",
+            "jazz",
+            "local",
+            "reggae",
+            "rock/pop",
+            "roots",
+            "world"
+        ],
+        "favicon": "https://www.kexp.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 162,
+        "working_url": "https://kexp.streamguys1.com/kexp160.aac"
+    },
+    {
+        "name": "KJAZZ 88.1",
+        "url": "https://streaming.live365.com/a49833",
+        "country": "US",
+        "tags": [
+            "cool jazz",
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.kkjz.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a49833"
+    },
+    {
+        "name": "KJazz 88.1 HD2",
+        "url": "https://streaming.live365.com/a45189/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "bebop",
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.kkjz.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge16-live365-dal02.cdnstream.com/a45189/playlist.m3u8"
+    },
+    {
+        "name": "KJazz 88.1 HD2 The Bebop Channel",
+        "url": "https://streaming.live365.com/a45189_2",
+        "country": "US",
+        "tags": [
+            "bebop",
+            "jazz"
+        ],
+        "favicon": "https://www.kkjz.org/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a45189_2"
+    },
+    {
+        "name": "KJazz 88.1 KKJZ",
+        "url": "https://streaming.live365.com/a49833/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://www.kkjz.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge14-live365-dal02.cdnstream.com/a49833/playlist.m3u8"
+    },
+    {
+        "name": "KJGR Jazz Grooves",
+        "url": "http://stream.zeno.fm/wrwfdegzvk8uv",
+        "country": "US",
+        "tags": [
+            "funk",
+            "jazz",
+            "soul"
+        ],
+        "favicon": "https://zeno.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-179.surfernetwork.com/wrwfdegzvk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cndmZGVnenZrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNPWDZCSUtJU1JtdFBla3N4dW53NFEiLCJpYXQiOjE3ODYzMDg3NTksImV4cCI6MTc4NjMwODgxOX0.Fw9z0PDT12H8UPPkaUESldZ40PVYJoXU-Rg89h-2o8o"
+    },
+    {
+        "name": "KJLU \"Smooth Jazz 88.9\" Jefferson City, MO",
+        "url": "http://ice8.securenetsystems.net/KJLU",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "jefferson city",
+            "university radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://ice8.securenetsystems.net/KJLU"
+    },
+    {
+        "name": "KJZZ 91.5 Phoenix, AZ",
+        "url": "http://stream.kjzz.org/kjzz_mp3_128",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "npr",
+            "phoenix"
+        ],
+        "favicon": "https://media.kjzz.org/s3fs-public/kjzz_120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.kjzz.org/kjzz_mp3_128"
+    },
+    {
+        "name": "KLCC 89.7 Eugene, OR",
+        "url": "http://tektite.streamguys1.com:5020/klcc.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "eclectic",
+            "eugene",
+            "jazz",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 80,
+        "working_url": "http://tektite.streamguys1.com:5020/klcc.mp3"
+    },
+    {
+        "name": "KMHD Adaptive AAC",
+        "url": "https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8",
+        "country": "US",
+        "tags": [
+            "blues",
+            "funk",
+            "jazz"
+        ],
+        "favicon": "https://kmhd.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8"
+    },
+    {
+        "name": "KMNO Mana'o Radio 91.7 FM MAUI",
+        "url": "https://kmno.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "classic rock",
+            "folk",
+            "funk",
+            "hawaiian music",
+            "jazz"
+        ],
+        "favicon": "https://manaoradio.com/wp-content/uploads/2016/03/cropped-manao-hana-hou-logo-32x32.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kmno.streamguys1.com/live"
+    },
+    {
+        "name": "KNCE 93.5 True Taos Radio",
+        "url": "https://shoutcast.brownrice.com:8002/stream",
+        "country": "US",
+        "tags": [
+            "alternative rock",
+            "classic rock",
+            "heavy metal",
+            "jambands",
+            "jazz",
+            "live music",
+            "local programming",
+            "progressive rock",
+            "reggae",
+            "talk",
+            "worldbeat"
+        ],
+        "favicon": "https://truetaosradio.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://shoutcast.brownrice.com:8002/stream"
+    },
+    {
+        "name": "KNKX",
+        "url": "https://knkx-live-a.edge.audiocdn.com/6284_128k",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "local news",
+            "news",
+            "npr"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://knkx-live-a.edge.audiocdn.com/6284_128k"
+    },
+    {
+        "name": "KOGR-LP 98.5 FM",
+        "url": "https://nv8q.dyndns.org:8000/listen.mp3",
+        "country": "US",
+        "tags": [
+            "blues",
+            "electronica",
+            "jazz",
+            "local",
+            "rock",
+            "variety"
+        ],
+        "favicon": "https://oakgroveradio.com/wp-content/uploads/2023/05/facebook_profile.jpg",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://nv8q.dyndns.org:8000/listen.mp3"
+    },
+    {
+        "name": "KOJH FM (Kansas City, Missouri)",
+        "url": "https://streams.radio.co/scce2ddfe5/listen",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://www.kojhfm.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://streams.radio.co/scce2ddfe5/listen"
+    },
+    {
+        "name": "KRVS",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac",
+        "country": "US",
+        "tags": [
+            "blues",
+            "cajun music",
+            "jazz",
+            "swamp pop",
+            "swamp rock",
+            "zydeco"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/KRVS_logo_since_2012.svg/170px-KRVS_logo_since_2012.svg.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://17653.live.streamtheworld.com/KRVSFMAAC.aac"
+    },
+    {
+        "name": "KSDS \"Jazz 88.3\" San Diego, CA",
+        "url": "http://listen.jazz88.org/ksds.mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "public radio",
+            "san diego"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.jazz88.org/ksds.mp3"
+    },
+    {
+        "name": "KSRN -- The Krazey Stacey Radio network",
+        "url": "https://das-edge16-live365-dal02.cdnstream.com/a68889",
+        "country": "US",
+        "tags": [
+            "adult contemporary",
+            "christmas music",
+            "country",
+            "jazz",
+            "pop",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge16-live365-dal02.cdnstream.com/a68889"
+    },
+    {
+        "name": "KTEH - Telehack Radio",
+        "url": "https://telehack.com/radio",
+        "country": "US",
+        "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "electronic",
+            "funk",
+            "jazz",
+            "oldies",
+            "retro",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://telehack.com/radio"
+    },
+    {
+        "name": "KTSU 90.9 \"The Choice\" Houston, TX",
+        "url": "http://ice6.securenetsystems.net/KTSUFM",
+        "country": "US",
+        "tags": [
+            "houston",
+            "jazz",
+            "public radio",
+            "university radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://ice6.securenetsystems.net/KTSUFM"
+    },
+    {
+        "name": "KUAF-HD3 Jazz Stream - Fayetteville, AR",
+        "url": "https://war.streamguys1.com:7031/kuaf3",
+        "country": "US",
+        "tags": [
+            "fayetteville",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://war.streamguys1.com:7031/kuaf3"
+    },
+    {
+        "name": "KUPS 90.1 FM TACOMA WA",
+        "url": "http://nap.casthost.net:8244/stream",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "college radio",
+            "electronic",
+            "freeform",
+            "hip-hop",
+            "jazz",
+            "loud rock"
+        ],
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Gj2nlXipNJ2X4etmAbuWuEAt4X6pROVkSyc5GgbEep_bBfW5VIqonjE&s=10",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://nap.casthost.net:8244/stream"
+    },
+    {
+        "name": "KUVO 89.3 Denver, CO (AAC)",
+        "url": "http://kuvo-ice.streamguys.org/kuvo-aac-64",
+        "country": "US",
+        "tags": [
+            "cultural",
+            "denver",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "http://kuvo.org/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 65,
+        "working_url": "http://kuvo-ice.streamguys.org/kuvo-aac-64"
+    },
+    {
+        "name": "KUVO 89.3 Denver, CO (MP3)",
+        "url": "http://kuvo-ice.streamguys.org/kuvo-mp3-64",
+        "country": "US",
+        "tags": [
+            "denver",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "http://www.kuvo.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://kuvo-ice.streamguys.org/kuvo-mp3-64"
+    },
+    {
+        "name": "KUVO Denver, CO (AAC, 128)",
+        "url": "http://kuvo-ice.streamguys.org/kuvo-aac-128",
+        "country": "US",
+        "tags": [
+            "denver",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "http://www.kuvo.org/apple-icon.png?aa1b28d32e21e574",
+        "codec": "AAC+",
+        "bitrate": 129,
+        "working_url": "http://kuvo-ice.streamguys.org/kuvo-aac-128"
+    },
+    {
+        "name": "KXSF",
+        "url": "http://stream.kxsf.fm:8000/kxsf",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "country",
+            "electronic",
+            "funk",
+            "jazz",
+            "music",
+            "punk",
+            "r&b",
+            "rock",
+            "san francisco",
+            "sfcr",
+            "soul",
+            "twang",
+            "western"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.kxsf.fm:8000/kxsf"
+    },
+    {
+        "name": "Lounge24 Radio",
+        "url": "https://radio.aklein.studio/listen/lounge24_radio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "deep house",
+            "dub reggae",
+            "house",
+            "jazz",
+            "jungle"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.aklein.studio/listen/lounge24_radio/radio.mp3"
+    },
+    {
+        "name": "LoungeRadio (MRG.fm)",
+        "url": "http://listen.mrg.fm:8060/stream",
+        "country": "US",
+        "tags": [
+            "background",
+            "cafe background music",
+            "cool jazz",
+            "lounge",
+            "lounge music",
+            "relax",
+            "relaxation music",
+            "smooth jazz"
+        ],
+        "favicon": "https://mrg.fm/img/loungeradio125.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.mrg.fm:8060/stream"
+    },
+    {
+        "name": "luis Armstrong",
+        "url": "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio"
+    },
+    {
+        "name": "LUXURIAMUSIC",
+        "url": "http://ice10.securenetsystems.net/LUXOMP3",
+        "country": "US",
+        "tags": [
+            "electronic",
+            "smooth jazz"
+        ],
+        "favicon": "https://luxuriamusic.com/wp-content/uploads/2017/09/cropped-favicon_large-2-180x180.png",
+        "codec": "MP3",
+        "bitrate": 32,
+        "working_url": "http://ice10.securenetsystems.net/LUXOMP3"
+    },
+    {
+        "name": "MEGATON CAFE RADIO",
+        "url": "http://us2.internet-radio.com:8443/stream",
+        "country": "US",
+        "tags": [
+            "1920s",
+            "1930s",
+            "1940s",
+            "1950s",
+            "big band",
+            "fallout",
+            "jazz",
+            "oldies",
+            "swing"
+        ],
+        "favicon": "https://static.wixstatic.com/media/ccae7c_0dc62a27920d4e1d9b6037ce83c85517.gif/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/ccae7c_0dc62a27920d4e1d9b6037ce83c85517.gif",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://us2.internet-radio.com:8443/stream"
+    },
+    {
+        "name": "Monkey Radio Archive",
+        "url": "https://streaming.live365.com/a52904",
+        "country": "US",
+        "tags": [
+            "chill out",
+            "chillout",
+            "downtempo",
+            "smooth jazz",
+            "trip hop",
+            "trip-hop"
+        ],
+        "favicon": "https://monkeyrad.io/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a52904"
+    },
+    {
+        "name": "Mountain Town FM",
+        "url": "https://streaming.live365.com/a74617",
+        "country": "US",
+        "tags": [
+            "blues",
+            "eclectic",
+            "garage rock",
+            "jazz",
+            "local",
+            "rockabilly",
+            "various"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a74617"
+    },
+    {
+        "name": "Munck Music Radio",
+        "url": "https://streamer.radio.co/s4b5c8e335/listen",
+        "country": "US",
+        "tags": [
+            "americana",
+            "blues",
+            "jamband",
+            "jazz",
+            "psychedelic rock",
+            "rock",
+            "southern rock"
+        ],
+        "favicon": "https://cdn.shopify.com/s/files/1/0522/6245/articles/wallpaper_1024x1024.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://streamer.radio.co/s4b5c8e335/listen"
+    },
+    {
+        "name": "Music For Everyone",
+        "url": "https://listen.radioking.com/radio/595921/stream/656902",
+        "country": "US",
+        "tags": [
+            "1980s hits",
+            "house",
+            "rnb",
+            "rock",
+            "smooth jazz"
+        ],
+        "favicon": "https://image.radioking.io/radios/595921/logo/c6d9e041-453e-4591-9dcc-f6477112c510.jpeg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.radioking.com/radio/595921/stream/656902"
+    },
+    {
+        "name": "Music Radio",
+        "url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
+        "country": "US",
+        "tags": [
+            "chillout",
+            "easy listening",
+            "electronic",
+            "house",
+            "international",
+            "jazz",
+            "world"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3"
+    },
+    {
+        "name": "Mustbe5 Radio",
+        "url": "https://stream.radio.co/sf2ed5928f/listen",
+        "country": "US",
+        "tags": [
+            "afrobeat",
+            "electronic",
+            "funk",
+            "gospel",
+            "hip hop",
+            "house",
+            "jazz",
+            "pop",
+            "reggae",
+            "soul"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://stream.radio.co/sf2ed5928f/listen"
+    },
+    {
+        "name": "myHolidaysEtc.com",
+        "url": "https://ec4.yesstreaming.net/myHolidaysEtc1",
+        "country": "US",
+        "tags": [
+            "comedy",
+            "country",
+            "halloween",
+            "holiday",
+            "jazz",
+            "movie",
+            "musical",
+            "summer",
+            "swing"
+        ],
+        "favicon": "https://myholidaysetc.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://ec4.yesstreaming.net/myHolidaysEtc1"
+    },
+    {
+        "name": "Newgrounds Radio",
+        "url": "https://stream.newgroundsradio.com/radio.mp3",
+        "country": "US",
+        "tags": [
+            "hip hop",
+            "jazz",
+            "metal",
+            "rap",
+            "rock",
+            "talk radio"
+        ],
+        "favicon": "https://radio.newgrounds.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream.newgroundsradio.com/radio.mp3"
+    },
+    {
+        "name": "Nostalgie New York",
+        "url": "http://c32.radioboss.fm:8139/stream",
+        "country": "US",
+        "tags": [
+            "60s",
+            "70s",
+            "80s",
+            "90s",
+            "classic hits",
+            "classic rock",
+            "disco",
+            "music",
+            "nostalgie",
+            "pop",
+            "rock and roll",
+            "smooth jazz",
+            "world music",
+            "worlds best classic hits"
+        ],
+        "favicon": "https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://c32.radioboss.fm:8139/stream"
+    },
+    {
+        "name": "Peaceful Christmas from Family Life",
+        "url": "https://streaming.live365.com/a51517_2",
+        "country": "US",
+        "tags": [
+            "christian",
+            "christmas",
+            "classical",
+            "easy listening",
+            "instrumental music",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a51517_2"
+    },
+    {
+        "name": "Prairie Public Radio FM 2 Roots, Rock and Jazz (KCND)",
+        "url": "http://18153.live.streamtheworld.com/KCNDFM_SC",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "npr",
+            "public radio",
+            "rock",
+            "roots"
+        ],
+        "favicon": "https://image.pbs.org/bento3-prod/kfme-bento-live-pbs/04d8181aa3_favicon-transparent.png?resize=180x180",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://18153.live.streamtheworld.com/KCNDFM_SC"
+    },
+    {
+        "name": "Prairie Public Radio FM 3 (KDSU)",
+        "url": "http://18853.live.streamtheworld.com/KCNDHD3_SC",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "npr",
+            "public radio",
+            "rock",
+            "roots"
+        ],
+        "favicon": "https://image.pbs.org/bento3-prod/kfme-bento-live-pbs/04d8181aa3_favicon-transparent.png?resize=180x180",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://18853.live.streamtheworld.com/KCNDHD3_SC"
+    },
+    {
+        "name": "Progressive Rock AZUSA",
+        "url": "https://streaming.live365.com/a38225",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "electronic",
+            "jazz fusion",
+            "progressive rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a38225"
+    },
+    {
+        "name": "Radio Art Vocal Jazz",
+        "url": "https://live.radioart.com/fVocal_jazz.mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "vocal jazz"
+        ],
+        "favicon": "https://www.radioart.com/templates/yootheme/vendor/yootheme/theme-joomla/assets/images/favicon.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://live.radioart.com/fVocal_jazz.mp3"
+    },
+    {
+        "name": "Radio Dismuke",
+        "url": "http://stream2.early1900s.org:8000/",
+        "country": "US",
+        "tags": [
+            "1920s",
+            "1930s",
+            "jazz",
+            "old time radio"
+        ],
+        "favicon": "https://early1900s.org/radiodismuke/101a.jpg",
+        "codec": "MP3",
+        "bitrate": 24,
+        "working_url": "http://stream2.early1900s.org:8000/"
+    },
+    {
+        "name": "Radio Free Americana [64kbps AAC+]",
+        "url": "http://janus.cdnstream.com:5140/live",
+        "country": "US",
+        "tags": [
+            "americana",
+            "bluegrass",
+            "blues",
+            "commercial-free",
+            "country",
+            "folk",
+            "freeform",
+            "garage",
+            "indie rock",
+            "jazz",
+            "new releases",
+            "pop",
+            "power pop",
+            "psychedelia",
+            "pub rock",
+            "punk",
+            "r&b",
+            "rock",
+            "rock'n'roll",
+            "rockabilly",
+            "roots rock",
+            "soul"
+        ],
+        "favicon": "https://i0.wp.com/radiofreeamericana.com/wp-content/uploads/RFA-Logos/cropped-RFA-VinylRecordLogo-512x512-1.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://janus.cdnstream.com:5140/live"
+    },
+    {
+        "name": "Radio Nightingale - Dieselpunk",
+        "url": "http://streams.radioriel.org:8040/stream",
+        "country": "US",
+        "tags": [
+            "electroswing",
+            "jazz",
+            "ragtime",
+            "swing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streams.radioriel.org:8040/stream"
+    },
+    {
+        "name": "Radio Recital",
+        "url": "https://stream20.usastreams.com/8116/stream",
+        "country": "US",
+        "tags": [
+            "70's",
+            "80's",
+            "90's",
+            "anglo",
+            "country",
+            "hits",
+            "jazz",
+            "oldies",
+            "pop",
+            "rock"
+        ],
+        "favicon": "http://radiorecital.net/home/wp-content/uploads/2024/04/logo-ti.jpg",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://stream20.usastreams.com/8116/stream"
+    },
+    {
+        "name": "Radio Sausalito",
+        "url": "https://quarrel.streamguys1.com:7090/live",
+        "country": "US",
+        "tags": [
+            "community radio",
+            "jazz",
+            "local information"
+        ],
+        "favicon": "https://radiosausalito.org/wp-content/uploads/2023/05/cropped-RS-Online-favicon.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://quarrel.streamguys1.com:7090/live"
+    },
+    {
+        "name": "Radio Sausalito 1610 - Sausalito, CA",
+        "url": "http://radiosausalito.org/128k",
+        "country": "US",
+        "tags": [
+            "community radio",
+            "jazz",
+            "sausalito"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://quarrel.str3am.com:7090/live"
+    },
+    {
+        "name": "RadioAura",
+        "url": "https://stream.radiaura.net/station-12a6e82e-a8f1-4cc6-8c37-80d73b0582e2",
+        "country": "US",
+        "tags": [
+            "ai",
+            "ai radio",
+            "ambient",
+            "internet radio",
+            "jazz",
+            "las vegas",
+            "pop"
+        ],
+        "favicon": "https://radiaura.net/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.radiaura.net/station-12a6e82e-a8f1-4cc6-8c37-80d73b0582e2"
+    },
+    {
+        "name": "RetroStrange Radio2",
+        "url": "https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3",
+        "country": "US",
+        "tags": [
+            "20th century",
+            "big band",
+            "jazz",
+            "old time radio",
+            "public domain",
+            "ragtime"
+        ],
+        "favicon": "https://retrostrange.com/wp-content/uploads/2021/01/cropped-RS-MINI-ALT-192x192.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3"
+    },
+    {
+        "name": "RhythmRadio.USA",
+        "url": "http://stream.zenolive.com/w7qyh1bctxquv",
+        "country": "US",
+        "tags": [
+            "rnb",
+            "smooth jazz"
+        ],
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm7ethlag7p-uqkWVyeYb9uo7NoofNNx1P3dVgGGEAcfdnW-nZmDC-54dzhT1qmx7zgc&usqp=CAU",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-175.surfernetwork.com/w7qyh1bctxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3N3F5aDFiY3R4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IktnQk5tbmpWUTVpQWVwQU40UVYxUXciLCJpYXQiOjE3ODYzMDg3NjMsImV4cCI6MTc4NjMwODgyM30.ILNUTZT1XwsaBnOoAZ51lYN3xE7LSgRuGpvCPe_i-s4"
+    },
+    {
+        "name": "SalsaViva",
+        "url": "https://streaming.live365.com/a37497?_=1778197802894",
+        "country": "US",
+        "tags": [
+            "big band",
+            "latin jazz",
+            "latin music",
+            "live365",
+            "salsa"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a37497?_=1778197802894"
+    },
+    {
+        "name": "San Diego's Jazz",
+        "url": "https://ksds-ice.streamguys1.com/ksds.mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ksds-ice.streamguys1.com/ksds.mp3"
+    },
+    {
+        "name": "Signal City — ElderGut Dawn Hour",
+        "url": "https://signalcity.tv/eldergut.mp3",
+        "country": "US",
+        "tags": [
+            "ai",
+            "ai radio",
+            "denver",
+            "jazz",
+            "lo-fi",
+            "signal city",
+            "talk"
+        ],
+        "favicon": "https://signalcity.tv/icons/icon-192.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://signalcity.tv/eldergut.mp3"
+    },
+    {
+        "name": "Slack Radio",
+        "url": "https://s4.radio.co/s62c60f538/listen",
+        "country": "US",
+        "tags": [
+            "\"bob\"",
+            "\"bob\"dobbs",
+            "heavy metal",
+            "jazz",
+            "metal",
+            "new wave",
+            "punk",
+            "rap",
+            "rock",
+            "shows",
+            "subgenius"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 320,
+        "working_url": "https://s4.radio.co/s62c60f538/listen"
+    },
+    {
+        "name": "Smooth Groove Radio - The Vibe",
+        "url": "https://usa17.fastcast4u.com/proxy/smoothgr?mp=/1",
+        "country": "US",
+        "tags": [
+            "funk",
+            "music",
+            "smooth jazz"
+        ],
+        "favicon": "http://thevibesmoothgrooveradio.weebly.com/uploads/9/7/3/1/97313354/published/jazz.jpeg?1494363671",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://usa17.fastcast4u.com/proxy/smoothgr?mp=/1"
+    },
+    {
+        "name": "Smooth Gulf Coast Radio",
+        "url": "https://serv2657.doscast.com/listen/smooth_gulfcoast_radio/radio.mp3",
+        "country": "US",
+        "tags": [
+            "light pop",
+            "r&b",
+            "reggae",
+            "smoothjazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://serv2657.doscast.com/listen/smooth_gulfcoast_radio/radio.mp3"
+    },
+    {
+        "name": "Smooth Jazz 101.1",
+        "url": "https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-03.surfernetwork.com/tw0tqqghgm4uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dzB0cXFnaGdtNHV2IiwiaG9zdCI6InN0cmVhbS0wMy5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWmRjZFpuY3ZSMDJDcVhoa2ZrdWM4ZyIsImlhdCI6MTc4NjMwODc2NSwiZXhwIjoxNzg2MzA4ODI1fQ.9fGu0LD_hBFtQTtY6h77PByRKA8gG-sMibqofHr1Sxk"
+    },
+    {
+        "name": "SMOOTH JAZZ 24/7",
+        "url": "http://jking.cdnstream1.com/b75154_128mp3",
+        "country": "US",
+        "tags": [
+            "easy listening",
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jking.cdnstream1.com/b75154_128mp3"
+    },
+    {
+        "name": "Smooth Jazz 247 (new)",
+        "url": "http://streaming.live365.com/b75154_128mp3",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ais-edge90-dal03.cdnstream.com/b75154_128mp3"
+    },
+    {
+        "name": "Smooth Jazz Bham",
+        "url": "https://icy.cloudrad.io/074d17fd",
+        "country": "US",
+        "tags": [
+            "contemporary smooth jazz"
+        ],
+        "favicon": "https://assets.clrd.net/uploads/logos/autodj/019f23e6-2980-71bc-9e19-d892074d17fd/9830300f-bd74-4b68-8d19-748500ad06a8.webp",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://gra17-eu-icy.clrd.net/074d17fd"
+    },
+    {
+        "name": "Smooth Jazz CD 101.9",
+        "url": "https://streaming.live365.com/a43749",
+        "country": "US",
+        "tags": [
+            "easy listening",
+            "new york city",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge62-live365-dal03.cdnstream.com/a43749"
+    },
+    {
+        "name": "Smooth Jazz CD 101.9 [128kbps MP3](Non-restricted)",
+        "url": "http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1"
+    },
+    {
+        "name": "Smooth Jazz Florida",
+        "url": "https://streaming.live365.com/a57422",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "https://img1.wsimg.com/isteam/ip/93edd3ac-b031-446a-99c8-fe88e7f00e40/smooth%20jazz%20logo%2012-20-2013%201400X1400%20(20-0002.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a57422"
+    },
+    {
+        "name": "Smooth Jazz Global Radio",
+        "url": "https://smoothjazz.cdnstream1.com/2585_256.mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_256.mp3"
+    },
+    {
+        "name": "Smooth Jazz iHeart",
+        "url": "https://stream.revma.ihrhls.com/zc4242/hls.m3u8",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "iheart radio",
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 24,
+        "working_url": "https://n35b-e2.revma.ihrhls.com/zc4242/hls.m3u8?rj-ttl=5&rj-tok=AAABn-hV01UA9g1YyD3VcfnzmA"
+    },
+    {
+        "name": "Smooth Jazz JJZ",
+        "url": "https://stream.revma.ihrhls.com/zc7390",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "https://i.iheart.com/v3/re/assets.brands/5a848c6b2b914714d7008912?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://cloud.revma.ihrhls.com/zc7390?rj-org=n15b-e2&rj-ttl=5&rj-tok=AAABn-hV024AzLD0bESVDsOFEA"
+    },
+    {
+        "name": "Smooth Jazz Tampa",
+        "url": "https://vip2.fastcast4u.com/proxy/sjtampaplus?mp=/1",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://vip2.fastcast4u.com/proxy/sjtampaplus?mp=/1"
+    },
+    {
+        "name": "Smooth Jazz WNUA 95.5 Chicago, IL",
+        "url": "https://vip2.fastcast4u.com/proxy/wnua?mp=/1",
+        "country": "US",
+        "tags": [
+            "oldies",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusicstax.com%2Fplaylist%2Fwnua-955-smooth-jazz-chicago-forever%2F4lUIlplZdn7d3Rx03TvdUb&psig=AOvVaw3xBJLnMGvFDcfBepy9HTUn&ust=1684965947112000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDT0_m9jP8CFQAAAAAdAAAAABAJ",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://vip2.fastcast4u.com/proxy/wnua?mp=/1"
+    },
+    {
+        "name": "SmoothJazz.com (32k MP3)",
+        "url": "https://smoothjazz.cdnstream1.com/2585_32.mp3",
+        "country": "US",
+        "tags": [
+            "smooth jazz",
+            "monterey"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+        "codec": "MP3",
+        "bitrate": 32,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_32.mp3"
+    },
+    {
+        "name": "SmoothJazz.com 128k mp3",
+        "url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+        "country": "US",
+        "tags": [
+            "monterey",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_128.mp3"
+    },
+    {
+        "name": "SmoothJazz.com 320k mp3",
+        "url": "https://smoothjazz.cdnstream1.com/2585_320.mp3",
+        "country": "US",
+        "tags": [
+            "monterey",
+            "smooth jazz"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://smoothjazz.cdnstream1.com/2585_320.mp3"
+    },
+    {
+        "name": "SmoothLounge.com 128k mp3",
+        "url": "https://smoothjazz.cdnstream1.com/2586_128.mp3",
+        "country": "US",
+        "tags": [
+            "monterry",
+            "smooth lounge",
+            "smoothjazz.com"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://smoothjazz.cdnstream1.com/2586_128.mp3"
+    },
+    {
+        "name": "SmoothLounge.com 32k mp3",
+        "url": "https://smoothjazz.cdnstream1.com/2586_32.mp3",
+        "country": "US",
+        "tags": [
+            "monterry",
+            "smooth lounge",
+            "smoothjazz.com"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png",
+        "codec": "MP3",
+        "bitrate": 32,
+        "working_url": "https://smoothjazz.cdnstream1.com/2586_32.mp3"
+    },
+    {
+        "name": "SmoothLounge.com 64k aac+",
+        "url": "https://smoothjazz.cdnstream1.com/2586_64.aac",
+        "country": "US",
+        "tags": [
+            "monterrey",
+            "smooth lounge",
+            "smoothjazz.com"
+        ],
+        "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://smoothjazz.cdnstream1.com/2586_64.aac"
+    },
+    {
+        "name": "SmoothRadio 100.3 FM",
+        "url": "http://usa13.fastcast4u.com:5016/",
+        "country": "US",
+        "tags": [
+            "old school",
+            "rnb",
+            "smooth jazz",
+            "soul"
+        ],
+        "favicon": "https://smoothradio1003.com/wp-content/uploads/2020/04/smoothradio-logo5.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://usa13.fastcast4u.com:5016/"
+    },
+    {
+        "name": "SomaFM Secret Agent (128k MP3)",
+        "url": "https://ice6.somafm.com/secretagent-128-mp3",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "downtempo",
+            "jazz",
+            "lounge",
+            "samba",
+            "sixties"
+        ],
+        "favicon": "https://somafm.com/img3/secretagent-400.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice6.somafm.com/secretagent-128-mp3"
+    },
+    {
+        "name": "SomaFM Secret Agent (32k AAC)",
+        "url": "https://ice6.somafm.com/secretagent-32-aac",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "downtempo",
+            "jazz",
+            "lounge",
+            "samba",
+            "sixties"
+        ],
+        "favicon": "https://somafm.com/img3/secretagent-400.jpg",
+        "codec": "AAC",
+        "bitrate": 32,
+        "working_url": "https://ice6.somafm.com/secretagent-32-aac"
+    },
+    {
+        "name": "SomaFM Secret Agent (64k AAC)",
+        "url": "https://ice2.somafm.com/secretagent-64-aac",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "downtempo",
+            "jazz",
+            "lounge",
+            "samba",
+            "sixties"
+        ],
+        "favicon": "https://somafm.com/img3/secretagent-400.jpg",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://ice2.somafm.com/secretagent-64-aac"
+    },
+    {
+        "name": "SomaFM Sonic Universe (128k AAC)",
+        "url": "https://ice2.somafm.com/sonicuniverse-128-aac",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "eclectic",
+            "jazz"
+        ],
+        "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://ice2.somafm.com/sonicuniverse-128-aac"
+    },
+    {
+        "name": "SomaFM Sonic Universe (128k MP3)",
+        "url": "https://ice5.somafm.com/sonicuniverse-128-mp3",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "eclectic",
+            "jazz"
+        ],
+        "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice5.somafm.com/sonicuniverse-128-mp3"
+    },
+    {
+        "name": "SomaFM Sonic Universe (256k MP3)",
+        "url": "https://ice5.somafm.com/sonicuniverse-256-mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://somafm.com/img3/sonicuniverse-400.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://ice5.somafm.com/sonicuniverse-256-mp3"
+    },
+    {
+        "name": "SomaFM Sonic Universe (32k AAC)",
+        "url": "https://ice2.somafm.com/sonicuniverse-32-aac",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "eclectic",
+            "jazz"
+        ],
+        "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
+        "codec": "AAC",
+        "bitrate": 32,
+        "working_url": "https://ice2.somafm.com/sonicuniverse-32-aac"
+    },
+    {
+        "name": "SomaFM Sonic Universe (64K AAC)",
+        "url": "https://ice6.somafm.com/sonicuniverse-64-aac",
+        "country": "US",
+        "tags": [
+            "avant-garde",
+            "eclectic",
+            "jazz"
+        ],
+        "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://ice6.somafm.com/sonicuniverse-64-aac"
+    },
+    {
+        "name": "STL Smooth Jazz",
+        "url": "https://17653.live.streamtheworld.com/SP_R4054326.aac",
+        "country": "US",
+        "tags": [
+            "rnb",
+            "smooth jazz"
+        ],
+        "favicon": "https://static.wixstatic.com/media/eea5f6_32dac962b08e409fb5e349e9091bfb5b~mv2_d_2092_1712_s_2.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://17653.live.streamtheworld.com/SP_R4054326.aac"
+    },
+    {
+        "name": "Stumble In The Dark Radio",
+        "url": "https://a2.asurahosting.com:6920/radio.mp3",
+        "country": "US",
+        "tags": [
+            "acoustic",
+            "alt country",
+            "classic rock",
+            "jam bands",
+            "jazz",
+            "progressive rock",
+            "reggae",
+            "rock",
+            "singer-songwriter"
+        ],
+        "favicon": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/424701254_122126282714189962_642740306202194388_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=3635dc&_nc_ohc=qcOal0Au8NQAX-NgrEK&_nc_ht=scontent-ord5-1.xx&oh=00_AfDeY7ASCKAr2lqE4YjpvluDGAf-s4NbcAHskg_urTZyiA&oe=65C1807D",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://a2.asurahosting.com:6920/radio.mp3"
+    },
+    {
+        "name": "super hit mix radio",
+        "url": "http://24.28.190.176:88/broadwave.mp3?src=1&rate=1",
+        "country": "US",
+        "tags": [
+            "christmas",
+            "classic country",
+            "country",
+            "dance",
+            "jazz",
+            "misc",
+            "miscellaneous",
+            "oldies",
+            "pop",
+            "variety"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://24.28.190.176:88/broadwave.mp3?src=1&rate=1"
+    },
+    {
+        "name": "Swing Street Radio",
+        "url": "http://s6.voscast.com:11312/",
+        "country": "US",
+        "tags": [
+            "big band",
+            "jazz",
+            "swing"
+        ],
+        "favicon": "https://play-lh.googleusercontent.com/4Nzi-AIlMuwPrb_Qx5nx9U30NYcpob5NbxtzPvlS12lOTVbtiPMuN0ds99i5NWmFkcQ=w480-h960",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://s6.voscast.com:11312/"
+    },
+    {
+        "name": "The BocX",
+        "url": "https://radio.streemlion.com:4820/stream",
+        "country": "US",
+        "tags": [
+            "blues",
+            "funk",
+            "jazz",
+            "neo-soul"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://radio.streemlion.com:4820/stream"
+    },
+    {
+        "name": "The Indie Beat Radio - Bonkwave Channel",
+        "url": "https://azura.theindiebeat.fm/listen/not_what_i_call_radio_bonk_wave/radio.mp3",
+        "country": "US",
+        "tags": [
+            "bonkwave",
+            "dark ambient",
+            "eclectic",
+            "electronic",
+            "experimental",
+            "jazz",
+            "vocal"
+        ],
+        "favicon": "https://theindiebeat.fm/wp-content/uploads/2025/01/cropped-Catellite-TIBR-lime-1500x1500-1-192x192.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://azura.theindiebeat.fm/listen/not_what_i_call_radio_bonk_wave/radio.mp3"
+    },
+    {
+        "name": "The Indie Beat Radio - Everything Channel",
+        "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_fm/radio.mp3",
+        "country": "US",
+        "tags": [
+            "ambient",
+            "bonkwave",
+            "chiptune",
+            "electronic",
+            "electronic music",
+            "electronica",
+            "jazz",
+            "rock",
+            "vocal"
+        ],
+        "favicon": "https://theindiebeat.fm/wp-content/uploads/2025/01/cropped-Catellite-TIBR-lime-1500x1500-1-192x192.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_fm/radio.mp3"
+    },
+    {
+        "name": "The Indie Beat Radio - Jazz Channel",
+        "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "jazz fusion",
+            "vocal jazz"
+        ],
+        "favicon": "https://theindiebeat.fm/wp-content/uploads/2025/01/cropped-Catellite-TIBR-lime-1500x1500-1-192x192.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3"
+    },
+    {
+        "name": "The Jazz Groove",
+        "url": "http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://audio-edge-cmc51.fra.h.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7?_ga=2.244100037.1386788109.1513293582-596706204.1513293582"
+    },
+    {
+        "name": "The Jazz Groove - East",
+        "url": "http://east-mp3-128.streamthejazzgroove.com/stream",
+        "country": "US",
+        "tags": [
+            "cool jazz",
+            "fusion",
+            "jazz",
+            "laid-back",
+            "relax"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://audio-edge-5bkfj.fra.h.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7"
+    },
+    {
+        "name": "The Oasis 103.7 FM New Mexico",
+        "url": "https://ice42.securenetsystems.net/KOAZAM",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "https://static2.mytuner.mobi/media/tvos_radios/fglknkvrage7.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice42.securenetsystems.net/KOAZAM"
+    },
+    {
+        "name": "The Penthouse",
+        "url": "http://sc1.mystreamserver.com:8052/;?1400276246062.mp3",
+        "country": "US",
+        "tags": [
+            "jazz easy listening"
+        ],
+        "favicon": "https://www.thepenthouse.fm/images/apple-touch-icon-114x114.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://sc1.mystreamserver.com:8052/;?1400276246062.mp3"
+    },
+    {
+        "name": "The Wave 105.9 FM",
+        "url": "https://pacificmedia.cdnstream1.com/2781_64.aac",
+        "country": "US",
+        "tags": [
+            "hawaiian",
+            "jazz",
+            "smooth"
+        ],
+        "favicon": "https://1059thewavefm.com/wp-content/uploads/sites/3/250x75-kpoi-fm-logo-clean.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://pacificmedia.cdnstream1.com/2781_64.aac"
+    },
+    {
+        "name": "thegreatiamb Radio",
+        "url": "https://stream.zeno.fm/0ntnamyl4q7uv",
+        "country": "US",
+        "tags": [
+            "americana",
+            "catholic",
+            "christian",
+            "classical",
+            "classics",
+            "creative commons",
+            "culture",
+            "fine arts",
+            "independent",
+            "jazz",
+            "literature",
+            "poetry",
+            "pop",
+            "popular culture",
+            "public domain",
+            "spoken art",
+            "spoken word",
+            "vinyl"
+        ],
+        "favicon": "https://zeno.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-177.surfernetwork.com/0ntnamyl4q7uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwbnRuYW15bDRxN3V2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkY2ME1nSnozUThhRl9iSXZCRzQyVmciLCJpYXQiOjE3ODYzMDg3NjksImV4cCI6MTc4NjMwODgyOX0.XXKRe6-vEHidQjVLgV8vLFL-5MXl4IRJwZm02Qj-GAs"
+    },
+    {
+        "name": "thejazzgroove.org WEST",
+        "url": "http://west-mp3-128.streamthejazzgroove.com/;stream.mp3",
+        "country": "US",
+        "tags": [
+            "cool jazz",
+            "jazz",
+            "laid-back",
+            "relax"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://audio-edge-5bkfj.fra.h.radiomast.io/f0ac4bf3-bbe5-4edb-b828-193e0fdc4f2f"
+    },
+    {
+        "name": "Vermont Public Radio Jazz Stream",
+        "url": "https://vpr.streamguys1.com/vprjazz64.aac",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://www.vermontpublic.org/favicon-512x512.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://vpr.streamguys1.com/vprjazz64.aac"
+    },
+    {
+        "name": "WAJH 91.1 Jazz Hall Radio Birmingham, AL",
+        "url": "https://ice7.securenetsystems.net/WVSU",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WVSU/v5/album-art-default.png",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice7.securenetsystems.net/WVSU"
+    },
+    {
+        "name": "WBAA Jazz 101.3 HD-2 West Lafayette, IN",
+        "url": "http://purdue.streamguys1.com/wbaa-jazz",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "npr",
+            "public radio",
+            "west lafayette"
+        ],
+        "favicon": "http://wbaa.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://purdue.streamguys1.com/wbaa-jazz"
+    },
+    {
+        "name": "WBGO Jazz 88.3 FM",
+        "url": "https://ais-sa8.cdnstream1.com/3629_128.mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://npr.brightspotcdn.com/dims4/default/76ee71f/2147483647/strip/true/crop/200x100+0+0/resize/400x200!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F2f%2Fbfa4b00449099118e45fefe81fe8%2Fwbgo-logo-200x100.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ais-sa8.cdnstream1.com/3629_128.mp3"
+    },
+    {
+        "name": "WCLK 91.9 Atlanta, GA",
+        "url": "http://17993.live.streamtheworld.com:3690/WCLKFM_SC",
+        "country": "US",
+        "tags": [
+            "college radio",
+            "jazz",
+            "npr"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://17993.live.streamtheworld.com:3690/WCLKFM_SC"
+    },
+    {
+        "name": "WDCB 90.9 \"Jazz & Blues\" Chicago, IL",
+        "url": "http://wdcb-ice.streamguys.org/wdcb128",
+        "country": "US",
+        "tags": [
+            "blues",
+            "chicago",
+            "jazz"
+        ],
+        "favicon": "http://wdcb.org/img/favicons/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wdcb-ice.streamguys.org/wdcb128"
+    },
+    {
+        "name": "WDNA m",
+        "url": "http://us9.streamingpulse.com:7033/stream",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://wdna.org/wp-content/uploads/2018/02/logo_retina.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "http://us9.streamingpulse.com:7033/stream"
+    },
+    {
+        "name": "WEAA 88.9 Morgan State University - Baltimore, MD",
+        "url": "http://amber.streamguys.com:4020/live",
+        "country": "US",
+        "tags": [
+            "baltimore",
+            "hiphop",
+            "jazz",
+            "npr",
+            "public radio",
+            "university radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 50,
+        "working_url": "http://amber.streamguys.com:4020/live"
+    },
+    {
+        "name": "WESM 91.3 Princess Anne, MD",
+        "url": "http://18123.live.streamtheworld.com/WESMFM_SC",
+        "country": "US",
+        "tags": [
+            "apm",
+            "blues",
+            "gospel",
+            "jazz",
+            "npr",
+            "ocean city",
+            "pri",
+            "princess anne",
+            "public radio"
+        ],
+        "favicon": "http://wesm913.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://18123.live.streamtheworld.com/WESMFM_SC"
+    },
+    {
+        "name": "WFAE-HD2 \"Charlotte Jazz Channel\", NC",
+        "url": "http://wfae.iad.streamguys1.com/wfae2",
+        "country": "US",
+        "tags": [
+            "charlotte",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://wfae.iad.streamguys1.com/wfae2"
+    },
+    {
+        "name": "WFCR 88.5 New England Public Radio - Amherst, MA",
+        "url": "http://nepr.iad.streamguys1.com/WFCR",
+        "country": "US",
+        "tags": [
+            "amherst",
+            "classical",
+            "jazz",
+            "news",
+            "npr",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 56,
+        "working_url": "http://nepr.iad.streamguys1.com/WFCR"
+    },
+    {
+        "name": "WFDU-HD2 Fairleigh Dickinson University - Teaneck, NJ",
+        "url": "http://peridot.streamguys.com:5350/iheartjazz",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "public radio",
+            "teaneck",
+            "university radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 36,
+        "working_url": "http://peridot.streamguys.com:5350/iheartjazz"
+    },
+    {
+        "name": "WGMC \"Jazz 90.1\" Rochester, NY",
+        "url": "http://greece-media.monroe.edu/wgmc.mp3",
+        "country": "US",
+        "tags": [
+            "community radio",
+            "jazz",
+            "multicultural",
+            "multilingual",
+            "rochester"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://greece-media.monroe.edu/wgmc.mp3"
+    },
+    {
+        "name": "WGUC-HD2 Jazz Stream - Cincinatti, OH",
+        "url": "http://cpr2.streamguys.net/jazz",
+        "country": "US",
+        "tags": [
+            "cincinatti",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "https://wguc.org/wp-content/themes/wguc/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://cpr2.streamguys.net/jazz"
+    },
+    {
+        "name": "WGVU FM 88.5",
+        "url": "http://26273.live.streamtheworld.com/WGVUFM_SC",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://image.pbs.org/bento3-prod/wgvu-bento-live-pbs/664282fc95_android-chrome-512x512.png?resize=180x180",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://26273.live.streamtheworld.com/WGVUFM_SC"
+    },
+    {
+        "name": "WHOV 88.1 - Hampton's Jazz",
+        "url": "http://stream.revma.ihrhls.com/zc5599",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://i.iheart.com/v3/re/assets/images/5599.png?ops=fit(960%2C960)%2Cresize(0%2C390)",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://cloud.revma.ihrhls.com/zc5599?rj-org=n2db-e2&rj-ttl=5&rj-tok=AAABn-hV6IcAKXOpGO8WchkRmw"
+    },
+    {
+        "name": "WHPK",
+        "url": "https://whpk-stream.uchicago.edu/stream",
+        "country": "US",
+        "tags": [
+            "classical",
+            "college radio",
+            "community radio",
+            "folk",
+            "jazz"
+        ],
+        "favicon": "https://whpk.org/_assets/resources/images/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://whpk-stream.uchicago.edu/stream"
+    },
+    {
+        "name": "WHRW Binghamton 90.5 FM",
+        "url": "http://stream.whrwfm.org/new",
+        "country": "US",
+        "tags": [
+            "classical",
+            "experimental",
+            "folk",
+            "hip-hop",
+            "jazz",
+            "moe loogham",
+            "public affairs",
+            "punk",
+            "space",
+            "trivia"
+        ],
+        "favicon": "https://whrw.fm/wp-content/uploads/2019/09/WHRW_logo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://stream.whrwfm.org/new"
+    },
+    {
+        "name": "WJAB 90.9 Huntsville, AL",
+        "url": "http://wjab.streamguys.net/live",
+        "country": "US",
+        "tags": [
+            "blues",
+            "huntsville",
+            "jazz",
+            "public radio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 75,
+        "working_url": "http://wjab.streamguys.net/live"
+    },
+    {
+        "name": "WJKR-DB Jo Khool Radio",
+        "url": "http://node-29.zeno.fm/ft80agnb5qzuv.aac",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "https://www.radio.net/300/wjkrdb.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-176.surfernetwork.com/ft80agnb5qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdDgwYWduYjVxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRpZEtYMWY2UnhTOFBKUE96RXlVRnciLCJpYXQiOjE3ODYzMDg3NzIsImV4cCI6MTc4NjMwODgzMn0.OQtXXWuNmv0lSTbJzmq2MVe0Dgh6n-ucpR5gy2D2eOU"
+    },
+    {
+        "name": "WJON Weatherscan 24/7",
+        "url": "https://radio.wjonip.org/WJON-WSCN",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://radio.wjonip.org/WJON-WSCN"
+    },
+    {
+        "name": "WJTB-DB Smooth Jazz",
+        "url": "https://vip2.fastcast4u.com/proxy/sjtbhd?mp=/1",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://vip2.fastcast4u.com/proxy/sjtbhd?mp=/1"
+    },
+    {
+        "name": "WKAR Jazz",
+        "url": "http://mozart.wkar.msu.edu/wkar-jazz",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s30077d.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mozart.wkar.msu.edu/wkar-jazz"
+    },
+    {
+        "name": "WKCR 89.9 Columbia New York NY",
+        "url": "https://wkcr.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "classical",
+            "college radio",
+            "experimental/avant garde",
+            "https",
+            "indie",
+            "jazz",
+            "university radio",
+            "world music"
+        ],
+        "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.lj-UTY-I043PwbKRo70s3gAAAA%26pid%3DApi&f=1&ipt=17b148591a456a6714ccf2ee7e7263e92aee27ce9ebbfc0debf22c26d433ceae&ipo=images",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "https://wkcr.streamguys1.com/live"
+    },
+    {
+        "name": "WKCR 89.9 Columbia University - New York, NY",
+        "url": "http://wkcr.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "alternative",
+            "art music",
+            "jazz",
+            "new york city",
+            "spoken art"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "http://wkcr.streamguys1.com/live"
+    },
+    {
+        "name": "WKHR",
+        "url": "http://ice64.securenetsystems.net/WKHR",
+        "country": "US",
+        "tags": [
+            "big band",
+            "jazz",
+            "oldies"
+        ],
+        "favicon": "https://static.wixstatic.com/media/ad4a12_96a8e0cf17b44aedb305e696c010838a%7emv2.png/v1/fit/w_2500,h_1330,al_c/ad4a12_96a8e0cf17b44aedb305e696c010838a%7emv2.png",
+        "codec": "AAC+",
+        "bitrate": 56,
+        "working_url": "http://ice64.securenetsystems.net/WKHR"
+    },
+    {
+        "name": "WKHS Radio",
+        "url": "https://streaming.live365.com/a50857",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://das-edge62-live365-dal03.cdnstream.com/a50857"
+    },
+    {
+        "name": "WKNC 88.1 HD1",
+        "url": "https://streaming.live365.com/a45877",
+        "country": "US",
+        "tags": [
+            "blues",
+            "classical",
+            "college radio",
+            "indie",
+            "jazz",
+            "local music",
+            "post-rock",
+            "rap",
+            "rhythm and blues",
+            "rock",
+            "variety"
+        ],
+        "favicon": "https://wknc.org/wp-content/uploads/2020/05/wknc881inline-w-768x231.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge14-live365-dal02.cdnstream.com/a45877"
+    },
+    {
+        "name": "WLML-FM - Legends Radio 100.3 FM Lake Park, FL",
+        "url": "http://ice3.securenetsystems.net/WLML",
+        "country": "US",
+        "tags": [
+            "great american songbook",
+            "jazz vocal",
+            "jazz vocal standards",
+            "vocal jazz"
+        ],
+        "favicon": "http://legendsradio.com/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://ice3.securenetsystems.net/WLML"
+    },
+    {
+        "name": "WMOT \"MTSU Jazz Network\" Murfreesboro, TN",
+        "url": "http://ice64.securenetsystems.net/WMOT",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "murfreesboro",
+            "public radio"
+        ],
+        "favicon": "http://wmot.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://ice64.securenetsystems.net/WMOT"
+    },
+    {
+        "name": "WNCU 90.7 Jazz",
+        "url": "http://wncu.streamguys1.com/live",
+        "country": "US",
+        "tags": [
+            "durham",
+            "jazz",
+            "nc central university",
+            "nccu",
+            "wncu"
+        ],
+        "favicon": "http://www.wncu.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wncu.streamguys1.com/live"
+    },
+    {
+        "name": "WNHN-LP FM Concord, NH",
+        "url": "https://seahorse.juststreamwith.us:8008/stream",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "pacifica",
+            "progressive",
+            "talk radio"
+        ],
+        "favicon": "https://i0.wp.com/www.wnhnfm.org/wp-content/uploads/2022/06/cropped-favicon5_sm_wborder.png?fit=192%2C192&ssl=1",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://seahorse.juststreamwith.us:8008/stream"
+    },
+    {
+        "name": "WNOZ 95.3",
+        "url": "https://ice3.securenetsystems.net/WNOZ",
+        "country": "US",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "https://ice3.securenetsystems.net/WNOZ"
+    },
+    {
+        "name": "WNUR",
+        "url": "https://www.wnur.org/api/stream",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "local news",
+            "news",
+            "rock",
+            "sports",
+            "streetbeat"
+        ],
+        "favicon": "https://www.wnur.org/favicon.ico?favicon.0l6_5w42fd4yq.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n03-us.rcs.revma.com/w4pmmfkdx4zuv?rj-ttl=5&rj-tok=AAABn-hV8ooAWGH7F1V-z41asQ"
+    },
+    {
+        "name": "WPSU-HD3 Jazz Stream - State College, PA",
+        "url": "http://wpsu-ice.streamguys1.com/wpsu3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "penn state",
+            "public radio",
+            "state college"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://wpsu-ice.streamguys1.com/wpsu3"
+    },
+    {
+        "name": "WREK 91.1 Atlanta, GA",
+        "url": "http://streaming.wrek.org:8000/main/128kb.mp3",
+        "country": "US",
+        "tags": [
+            "atlanta",
+            "college radio",
+            "georgia",
+            "georgia tech",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming.wrek.org:8000/main/128kb.mp3"
+    },
+    {
+        "name": "WRFG 89.3FM Atlanta, GA",
+        "url": "https://s2.radio.co/s2133c4bad/listen",
+        "country": "US",
+        "tags": [
+            "blues",
+            "community radio",
+            "jazz",
+            "news",
+            "variety"
+        ],
+        "favicon": "https://wrfg.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://s2.radio.co/s2133c4bad/listen"
+    },
+    {
+        "name": "WRTE 90.7 FM",
+        "url": "https://wdcb-ice.streamguys1.com/wdcb128",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://wdcb-ice.streamguys1.com/wdcb128"
+    },
+    {
+        "name": "WSIE 88.7 FM Edwardsville,IL",
+        "url": "http://streaming.siue.edu:8000/wsie",
+        "country": "US",
+        "tags": [
+            "college radio",
+            "edwardsville",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming.siue.edu:8000/wsie"
+    },
+    {
+        "name": "WTRIP",
+        "url": "https://radio.wtrip.org/radio/8000/radio.mp3",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.wtrip.org/radio/8000/radio.mp3"
+    },
+    {
+        "name": "wuga",
+        "url": "http://wuga-ice.streamguys1.com/live-mp3",
+        "country": "US",
+        "tags": [
+            "classical",
+            "folk",
+            "jazz",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wuga-ice.streamguys1.com/live-mp3"
+    },
+    {
+        "name": "WUSF NPR",
+        "url": "https://streaming.wusf.fm/wusf",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "news",
+            "npr"
+        ],
+        "favicon": "https://wusf.org/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://wusf.streamguys1.com/wusf"
+    },
+    {
+        "name": "WVIA 89.9 Scranton, PA",
+        "url": "http://15723.live.streamtheworld.com/WVIAFM_SC",
+        "country": "US",
+        "tags": [
+            "classical",
+            "jazz",
+            "npr",
+            "public radio",
+            "scranton"
+        ],
+        "favicon": "http://www.wvia.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://15723.live.streamtheworld.com/WVIAFM_SC"
+    },
+    {
+        "name": "WVIA-HD3 \"Chiaroscuro Channel\" Scranton, PA",
+        "url": "https://wvia.streamguys1.com:80/WVIAHD3AAC",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "public radio",
+            "scranton"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://wvia.streamguys1.com:80/WVIAHD3AAC"
+    },
+    {
+        "name": "WWNO Jazz Stream - University of New Orleans, LA",
+        "url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3",
+        "country": "US",
+        "tags": [
+            "jazz",
+            "new orleans",
+            "public radio",
+            "university radio"
+        ],
+        "favicon": "http://wwno.org/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3"
+    },
+    {
+        "name": "WWOZ - New Orleans Public Radio",
+        "url": "https://www.wwoz.org/listen/hi",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://www.wwoz.org//sites/default/files/favicons-bw/apple-touch-icon-57x57.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3"
+    },
+    {
+        "name": "WWOZ 90.7 New Orleans, LA",
+        "url": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3",
+        "country": "US",
+        "tags": [
+            "blues",
+            "jazz",
+            "new orleans",
+            "non-commercial"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3"
+    },
+    {
+        "name": "WXTS 88.3 - Real Jazz Radio Toledo, OH",
+        "url": "http://ice23.securenetsystems.net/WXTS",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://cdnrf.securenetsystems.net//file_radio/stations_large/WXTS/mobile/v9/orig/iconApp.png?r=20230319122538",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://ice23.securenetsystems.net/WXTS"
+    },
+    {
+        "name": "WZBT 91.1 Gettysburg College, PA",
+        "url": "http://war.str3am.com:8310/live",
+        "country": "US",
+        "tags": [
+            "college radio",
+            "freeform",
+            "gettysburg",
+            "jazz"
+        ],
+        "favicon": "https://www.wzbt.org/wp-content/uploads/2016/09/wzbt_ipad_retna.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://war.str3am.com:8310/live"
+    },
+    {
+        "name": "WZUM Pittsburgh Jazz Channel",
+        "url": "https://pubmusic.streamguys1.com/wzum-aac",
+        "country": "US",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "http://static1.squarespace.com/static/582a50a19de4bb863458cc07/t/582d2cee5016e147454b0681/1479355630645/wzum_logo.png?format=1500w",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://pubmusic.streamguys1.com/wzum-aac"
+    }
+]
