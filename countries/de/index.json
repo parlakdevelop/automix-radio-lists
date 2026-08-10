@@ -1,7 +1,7 @@
 [
   { "id": "pop",     "name": "Pop" },
   { "id": "rock",    "name": "Rock" },
-  { "id": "news",    "name": "Haber / Talk" },
+  { "id": "news",    "name": "News" },
   { "id": "jazz",    "name": "Jazz" },
   { "id": "classical","name": "Classical" },
   { "id": "hiphop",    "name": "hiphop" },
