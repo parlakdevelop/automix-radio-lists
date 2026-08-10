@@ -1,0 +1,1574 @@
+[
+    {
+        "name": "- 0 N - Klassik on Radio",
+        "url": "https://0n-klassik.radionetz.de/0n-klassik.mp3",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "klassik"
+        ],
+        "favicon": "https://www.0nradio.com/logos/0n-klassik_600x600.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://0n-klassik.radionetz.de/0n-klassik.mp3"
+    },
+    {
+        "name": "- 0 N - Movies on Radio",
+        "url": "https://0n-movies.radionetz.de/0n-movies.mp3",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "movies",
+            "musical",
+            "soundtrack",
+            "soundtracks"
+        ],
+        "favicon": "https://www.0nradio.com/logos/0n-movies_600x600.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://0n-movies.radionetz.de/0n-movies.mp3"
+    },
+    {
+        "name": "0R - BEETHOVEN - CLASSICAL || Classical, Orchestra, Symphony, Piano, Strings, Chamber Music, Concertos, Solo Instrument, Elegant, Relaxing, Timeless, Melodic, Instrumental, Calm, Meditative",
+        "url": "https://0nlineradio.radioho.st/0r-beethoven?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "beethoven",
+            "chamber",
+            "classical",
+            "concert",
+            "easy listening",
+            "elegant",
+            "meditate",
+            "orchestral",
+            "relax",
+            "symphony",
+            "timeless"
+        ],
+        "favicon": "https://i.ibb.co/6JrNQTzQ/BEETHOVEN-KL.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/0r-beethoven?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTA5JmQ9ZTE4ZGY1YTE1YjI3MzUyZjZjMTU"
+    },
+    {
+        "name": "0R - CLASSICAL HOTEL LOUNGE - CLASSICAL || Classical, Lounge, Piano, Strings, Elegant, Relax, Instrumental, Calm, Soft, Background, Timeless, Melodic, Sophisticated, Evening, Smooth",
+        "url": "https://0nlineradio.radioho.st/classical-classical-hotel-lounge?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "ambiental",
+            "background",
+            "chillout+lounge",
+            "classic hits",
+            "classical",
+            "classical music",
+            "classics",
+            "easy listening",
+            "easy music",
+            "klassik",
+            "lounge",
+            "lounge music",
+            "orchestral",
+            "smooth lounge",
+            "timeless"
+        ],
+        "favicon": "https://i.ibb.co/ZRZdcBkj/Classical-Hotel-Lounge.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-hotel-lounge?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEwJmQ9N2JmOGVhZWQ2YmFiMmJhMDJiOTk"
+    },
+    {
+        "name": "0R - MOZART - CLASSICAL || Orchestra, Piano, Strings, Chamber, Symphony, Solo Instrument, Elegant, Melodic, Calm, Relaxing, Timeless, Instrumental, Soft, Meditative",
+        "url": "https://0nlineradio.radioho.st/0r-mozart?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "classical",
+            "classical piano",
+            "easy listening",
+            "elegant",
+            "light orchestral",
+            "mainstream",
+            "melodic",
+            "orchestral",
+            "piano",
+            "piano jazz",
+            "timeless"
+        ],
+        "favicon": "https://i.ibb.co/Z67qTCXr/Mozart-KL.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/0r-mozart?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9NzRlZTUwYTJmYjg1NzQxODA2YzI"
+    },
+    {
+        "name": "0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental",
+        "url": "https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "background",
+            "calm",
+            "chillout",
+            "classical",
+            "easy listening",
+            "nature",
+            "relax",
+            "sleep",
+            "slow",
+            "soft music"
+        ],
+        "favicon": "https://i.ibb.co/whsdTsct/MUSIC-FOR-SLEEP.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-music-for-sleep?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9OGU3ZWIxNTlkNmY5NzAwZTYzMDA"
+    },
+    {
+        "name": "0R - PIANO CLASSICAL || Klassik, Solopiano, Elegant, Relax, Calm, Instrumental, Melodic, Soft, Meditation, Romantic, Strings, Timeless, Background, Peaceful",
+        "url": "https://0nlineradio.radioho.st/classical-classical-piano?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "classical piano",
+            "instrumental",
+            "klassik",
+            "orchestral",
+            "piano",
+            "piano jazz",
+            "piano music",
+            "solo piano",
+            "timeless",
+            "timeless music"
+        ],
+        "favicon": "https://i.ibb.co/Tq7d6MMp/PIANO-only.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-piano?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEwJmQ9NDhmOTgwNzQxYzQyMjJkOThhNDY"
+    },
+    {
+        "name": "0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Background, Coffee, Mellow, Elegant",
+        "url": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "acoustic",
+            "ambient",
+            "ambient and relaxation music",
+            "ambient lounge",
+            "classical piano",
+            "coffee",
+            "easy listening",
+            "jazz",
+            "jazz lounge",
+            "lounge",
+            "piano",
+            "restaurant",
+            "retro",
+            "smooth jazz",
+            "vocal jazz"
+        ],
+        "favicon": "https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/lounge-piano-jazz-bar?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9Mzk3NDU0NzcwOGVjYTU4NGYyMmY"
+    },
+    {
+        "name": "0R - ROMANTIC PIANO || Piano, Romantic, Soft, Classical, Ballads, Love, Calm, Relaxing, Slow, Instrumental, Evening, Peaceful, Background, Melodic, Gentle",
+        "url": "https://0nlineradio.radioho.st/piano-romantic-piano?ref=radio-browser26",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "background",
+            "classical piano",
+            "easy listening",
+            "instrumental",
+            "jazz",
+            "klassik",
+            "musica romantica",
+            "piano",
+            "restaurant",
+            "romantic",
+            "romantic music",
+            "smooth jazz"
+        ],
+        "favicon": "https://i.ibb.co/1tW9hJhd/Romantic-Piano.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-romantic-piano?ref=radio-browser26&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEwJmQ9YmZlNmFiMWMyYmFhY2E2M2U2MDg"
+    },
+    {
+        "name": "ADBT Radio",
+        "url": "http://217.79.181.61:8000/;",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "jpop",
+            "kpop",
+            "pop",
+            "rock",
+            "techno"
+        ],
+        "favicon": "https://adbt.it.cx/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://217.79.181.61:8000/;"
+    },
+    {
+        "name": "Antenne Bayern - Bayerische Weihnacht",
+        "url": "https://stream.antenne.de/bayerische-weihnacht/stream/mp3",
+        "country": "DE",
+        "tags": [
+            "christmas",
+            "classical"
+        ],
+        "favicon": "https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s1-webradio.antenne.de/bayerische-weihnacht/stream/mp3"
+    },
+    {
+        "name": "Antenne NRW",
+        "url": "https://stream.antenne.de/antenne-nrw/stream/aacp",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://radiogroup.stream09.radiohost.de/radiogroup-antenne-nrw_aac-48?upd-meta=1&upd-scheme=https&ref=aacp&amsparams=aacp&_art=dD0xNzg2MzExNTExJmQ9ZTM1NjI0MDdjMTFjNDIwMWJmZDc"
+    },
+    {
+        "name": "apollo radio))) [aac]",
+        "url": "https://streams.bcs-systems.de/apollo/live/dresden/aac/web",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "https://www.apolloradio.de/cms/tpl/apollo/touch-icon-180x180.png.pagespeed.ce.gwh2-fddxy.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://edge07.radio.apolloradio.de/apollo-radio?aggregator=redirect"
+    },
+    {
+        "name": "Best of Bach [AAC]",
+        "url": "http://stream.klassikradio.de/purebach/aac-64",
+        "country": "DE",
+        "tags": [
+            "bach",
+            "baroque",
+            "classical"
+        ],
+        "favicon": "https://images.ctfassets.net/jkv7j7ridlow/2YzoFtwNbOoDvO1F9937Gr/af30bec831f8a89fc9f1a2e2db9b2f81/Best_of_Bach.jpg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-purebach-aacplus-64-7413950?sABC=6n78s22n%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311210"
+    },
+    {
+        "name": "Best of Bach [MP3]",
+        "url": "http://stream.klassikradio.de/purebach/mp3-192",
+        "country": "DE",
+        "tags": [
+            "bach",
+            "baroque",
+            "classical"
+        ],
+        "favicon": "https://images.ctfassets.net/jkv7j7ridlow/2YzoFtwNbOoDvO1F9937Gr/af30bec831f8a89fc9f1a2e2db9b2f81/Best_of_Bach.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klassikr-purebach-mp3-192-5022412?sABC=6n78s22n%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311210"
+    },
+    {
+        "name": "BR-Klassik",
+        "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://d121.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=3HhD3nyqyXMbt707wIXadmmRcGh&token=WdEcycQxYCrRxlh94y_dYUIy3-LVBN9VcyaZbCQMFow&tvf=uZd9EDpUyhhkMTIxLnJuZGZuay5jb20"
+    },
+    {
+        "name": "BR-Klassik (HLS 192)",
+        "url": "https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8"
+    },
+    {
+        "name": "BR-Klassik (HLS 96)",
+        "url": "https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/96/seglist.m3u8",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/96/seglist.m3u8"
+    },
+    {
+        "name": "ByteFM | HH-UKW",
+        "url": "http://bytefm-hamburg.cast.addradio.de/bytefm/hamburg/mp3/mid",
+        "country": "DE",
+        "tags": [
+            "afrobeat",
+            "beats",
+            "classical music",
+            "dream-pop",
+            "dubstep",
+            "electronic",
+            "folk",
+            "french chansons",
+            "hip-hop",
+            "indie",
+            "jazz",
+            "krautrock",
+            "music journalistic topics",
+            "no ads",
+            "pop",
+            "reggae",
+            "rock",
+            "shoegaze",
+            "singer/songwriter",
+            "song premieres",
+            "synth-pop",
+            "techno",
+            "the latest news from the national and international music scene",
+            "without computer generated music rotation"
+        ],
+        "favicon": "https://www.byte.fm/static/favicon/favicon-96x96.png?v=2023.10.06.3159-4afa829",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://bytefm.stream14.radiohost.de/bytefm-hamburg_mp3-128?addradio&upd-meta=1&upd-scheme=http&_art=dD0xNzg2MzExNTExJmQ9MDZmNjc0ODRkZjZhMDkzYjgxNjE"
+    },
+    {
+        "name": "CHILLOUT PIANO by Epic Piano",
+        "url": "https://stream.epic-piano.com/chillout-piano?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "chillout",
+            "chillout radio",
+            "classic",
+            "classical",
+            "classical music",
+            "classical piano",
+            "instrumental",
+            "new age piano",
+            "piano",
+            "piano jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-chillout-piano?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9NzBjNTllNmM4NzMzYjBmNGM2MTM"
+    },
+    {
+        "name": "CHOPIN by Epic Piano",
+        "url": "https://stream.epic-piano.com/chopin?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "chopin",
+            "classic",
+            "classical",
+            "classics",
+            "instrumental",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-chopin?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9MDBiNjc5YzExOWI0N2E3ZGQ5OWY"
+    },
+    {
+        "name": "Christmas Channel",
+        "url": "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzY4NDY1NjQ0JmQ9MDBhY2Y0Mjg2ZDM2MmJjMWNmZDE",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://rautemusik.stream17.radiohost.de/christmas?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9NDkyMTc5ZDcxM2MxMjBhZGMxYTY"
+    },
+    {
+        "name": "CHRISTMAS PIANO by Epic Piano",
+        "url": "https://stream.epic-piano.com/christmas-piano?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "christian",
+            "christmas",
+            "classic",
+            "classical",
+            "classics",
+            "instrumental",
+            "klassik",
+            "klassik weihnachten christmas",
+            "piano",
+            "weihnachten"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-christmas-piano?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTExJmQ9ZjJiNzBmYjgxODE1MTBlMzJlOWM"
+    },
+    {
+        "name": "DrGnu - Symphonic Metal",
+        "url": "http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/",
+        "country": "DE",
+        "tags": [
+            "1980s",
+            "2010s",
+            "2020s",
+            "21st century",
+            "alternative/indie",
+            "classic rock",
+            "classic/dance/pop-rock",
+            "classical music",
+            "cream",
+            "digitalradio",
+            "drgnu",
+            "europe",
+            "hardrock",
+            "heavy rock (e.g. led zeppelin",
+            "hendrix)",
+            "james taylor)",
+            "livestream",
+            "metal",
+            "metal (e.g. iron maiden)",
+            "musik",
+            "opera metal",
+            "prog / symphonic rock (e.g. yes)",
+            "punk rock (e.g. sex pistols)",
+            "rock",
+            "singer/songwriter (e.g. paul simon",
+            "symphonic metal"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://regiocast.streamabc.net/regc-radiobobsymphmetal4646931-mp3-192-2318934?sABC=6n78s22o%230%239ps5q3nqsp0o58q8311208450rp12ssp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786311211"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Background Music",
+        "url": "https://stream.epic-classical.com/classical-background-music",
+        "country": "DE",
+        "tags": [
+            "chill",
+            "chillout",
+            "classic",
+            "classic jazz",
+            "classical",
+            "classical music",
+            "jazz",
+            "klassik",
+            "piano",
+            "relax",
+            "smooth jazz",
+            "violin"
+        ],
+        "favicon": "https://i.ibb.co/251sfzx/Background-Music.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-background-music?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9ODhiNDA5MzhkMjE3ODEzOWFjZDg"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Chillout",
+        "url": "https://stream.epic-classical.com/classical-chillout?ref=liveradio",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "chill",
+            "chillout",
+            "chillout+lounge",
+            "classic",
+            "classical",
+            "classical music",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-chillout?ref=liveradio&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9ZTkzMTAyOTk0NGRhZGU1MjhiMzc"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Christmas",
+        "url": "https://stream.epic-classical.com/classical-christmas",
+        "country": "DE",
+        "tags": [
+            "christian",
+            "christmas music",
+            "classic",
+            "classical",
+            "klassik",
+            "klassik weihnachten christmas"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-christmas?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9NDk4NTljZDg2ZGY2OTk2Njg1NzI"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Coffee Bar",
+        "url": "https://stream.epic-classical.com/classical-coffee-bar",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "ambiental",
+            "chillout",
+            "classic",
+            "classical",
+            "klassik",
+            "relax"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-coffee-bar?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9MmJjNDgyODcxNjZjODI1Njc0ZmE"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Dinner",
+        "url": "https://stream.epic-classical.com/classical-dinner",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "chillout",
+            "classical",
+            "classical piano",
+            "jazz",
+            "klassik",
+            "lounge",
+            "piano",
+            "synth"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-dinner?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9YWRkMmViNWYzM2Y1YWNlYjY2OTM"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Fairy Tales",
+        "url": "https://stream.epic-classical.com/classical-fairy-tales",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classic hits",
+            "classical",
+            "disney",
+            "fairytales",
+            "klassik",
+            "radio disney"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-fairy-tales?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9ODlkZGVjMTcxMTAwYjNkZjllMzA"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Guitar",
+        "url": "https://stream.epic-classical.com/classical-guitar",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "classic",
+            "classical",
+            "classical guitar",
+            "guitar",
+            "klassik",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-guitar?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9YzFlODg2NmU5MDg5YmNkZmMzNjk"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Hotel Lounge",
+        "url": "https://stream.epic-classical.com/classical-hotel-lounge",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "chillout+lounge",
+            "clasica",
+            "classical",
+            "classical music",
+            "jazz lounge",
+            "lounge music",
+            "smooth lounge"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-hotel-lounge?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9YzQ1YjUwNzRlZWE5NzFjM2I2MGI"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Lounge",
+        "url": "https://stream.epic-classical.com/classical-lounge",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "ambiental",
+            "chillout",
+            "chillout+lounge",
+            "classical",
+            "klassik",
+            "lounge",
+            "lounge music",
+            "relax"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-lounge?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9NmVmYzY0YzgxOTY1Y2QxYmVhOTY"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Love Music",
+        "url": "https://stream.epic-classical.com/classical-love-music",
+        "country": "DE",
+        "tags": [
+            "ambient and relaxation music",
+            "classic",
+            "classical",
+            "klassik",
+            "love",
+            "love songs",
+            "lovesongs"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-love-music?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9ZTEyNjI2MzEyNzcwNmRiOTFhOWI"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Meditation",
+        "url": "https://stream.epic-classical.com/classical-meditation",
+        "country": "DE",
+        "tags": [
+            "ambient and relaxation music",
+            "chill",
+            "chillout",
+            "classic",
+            "classical",
+            "klassik",
+            "meditation",
+            "norteamérica",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9ZGY5YWY1NzEyOGU1MjRkMjY4Zjc"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Music For Sleep",
+        "url": "https://stream.epic-classical.com/classical-music-for-sleep",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "chillout",
+            "classic",
+            "classical",
+            "klassik",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-music-for-sleep?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEyJmQ9OGU3YzFjYWZiODZiY2NlYmExYmM"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Nighttime",
+        "url": "https://stream.epic-classical.com/classical-nighttime",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "nightlife"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-nighttime?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9MjQzZTA1ZmZiZDNmNGU5MjNiMTk"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Orchestral",
+        "url": "https://stream.epic-classical.com/classical-orchestral?ref=liveradio",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "klassik",
+            "klassisk",
+            "orchestra",
+            "orchestral",
+            "royal concertgebouw orchestra"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-orchestral?ref=liveradio&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9NjYyZjFmNzlhNDY3MThlMGRiYjM"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Pan Flute",
+        "url": "https://stream.epic-classical.com/classical-pan-flute?ref=liveradio",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "classic",
+            "classical",
+            "flute",
+            "instrumental",
+            "instrumental music",
+            "klassik",
+            "relax"
+        ],
+        "favicon": "https://i.ibb.co/R2FqgKq/Pan-Flute.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-pan-flute?ref=liveradio&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9OTY4M2NlYjkyYjhhYWI0Y2E3ZjM"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Piano",
+        "url": "https://stream.epic-classical.com/classical-piano",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambiental",
+            "chill",
+            "chillout",
+            "classic",
+            "classical",
+            "classical piano",
+            "klassik",
+            "new age piano",
+            "piano jazz",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-piano?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9M2E4Zjk0M2FhYTAzMDFjZWNhMmU"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Pop",
+        "url": "https://stream.epic-classical.com/classical-pop",
+        "country": "DE",
+        "tags": [
+            "classic hits",
+            "classical",
+            "instrumental",
+            "klassik",
+            "música pop",
+            "piano",
+            "pop",
+            "pop music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-pop?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9Njk0NTE4NzA2NTg0YmZhODNkMTE"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Relax",
+        "url": "https://stream.epic-classical.com/classical-relax",
+        "country": "DE",
+        "tags": [
+            "+",
+            "ambient and relaxation music",
+            "chillout",
+            "classic",
+            "classical",
+            "klassik",
+            "relax",
+            "relaxing"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-relax?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9MGI5YWJkYWYxZjg4NDYxMGM5NDg"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Restaurant Music",
+        "url": "https://stream.epic-classical.com/classical-restaurant-music",
+        "country": "DE",
+        "tags": [
+            "#",
+            "chillout",
+            "classic",
+            "classical",
+            "classical music",
+            "instrumental",
+            "jazz",
+            "klassik",
+            "piano",
+            "relax",
+            "smooth jazz",
+            "violin"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-restaurant-music?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9YzE0ZDI3YzJhYzE3MDliNzk5YTk"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Romance",
+        "url": "https://stream.epic-classical.com/classical-romance",
+        "country": "DE",
+        "tags": [
+            "chillout",
+            "classical",
+            "classical music",
+            "classical piano",
+            "jazz",
+            "klassik",
+            "piano",
+            "romance",
+            "romantic"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-romance?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9MGY5ODE5OTE3ZjIxMmRiNWVjM2U"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Study",
+        "url": "https://stream.epic-classical.com/classical-study",
+        "country": "DE",
+        "tags": [
+            "adult contemporary",
+            "ambient",
+            "chillout",
+            "chillout+lounge",
+            "classical",
+            "jazz",
+            "klassik",
+            "music for study"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-study?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTEzJmQ9MmYxM2NiODQzYTc1YzgxNjg2NDY"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Sunrise",
+        "url": "https://stream.epic-classical.com/classical-sunrise",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "chillout",
+            "classic",
+            "classical",
+            "klassik",
+            "relax",
+            "sunshine"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-sunrise?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE0JmQ9MGVhZmFkMjgwNjIzMWY2Y2I3ZGE"
+    },
+    {
+        "name": "EPIC CLASSICAL - Classical Violin",
+        "url": "https://stream.epic-classical.com/classical-violin",
+        "country": "DE",
+        "tags": [
+            "ambient",
+            "ambient and relaxation music",
+            "classic",
+            "classical",
+            "instrumental",
+            "klassiek",
+            "violin"
+        ],
+        "favicon": "https://i.ibb.co/DkDPhcZ/Violin.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-classical-violin?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE0JmQ9MGU4OTQ1MDU1NDM2MWY2YmFiNmM"
+    },
+    {
+        "name": "EPIC CLASSICAL - Modern Classical",
+        "url": "https://stream.epic-classical.com/modern-classical",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "classical music",
+            "jazz",
+            "klassik",
+            "modern",
+            "modern classical",
+            "piano"
+        ],
+        "favicon": "https://i.ibb.co/375rVWt/Modern.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/classical-modern-classical?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE0JmQ9ZDNkMDViOTY5ZjJmNzQ2NDNlZDc"
+    },
+    {
+        "name": "Epic Lounge - FRENCH CAFÉ LOUNGE",
+        "url": "https://0nlineradio.stream42.radiohost.de/lounge-french-cafe-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ1MTE3JmQ9ODA5N2Q3ZjM4NTY5ZGM3NzdlNTM",
+        "country": "DE",
+        "tags": [
+            "cafe",
+            "classical music",
+            "french",
+            "french music",
+            "lounge",
+            "lounge music",
+            "piano jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream42.radiohost.de/lounge-french-cafe-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ1MTE3JmQ9ODA5N2Q3ZjM4NTY5ZGM3NzdlNTM"
+    },
+    {
+        "name": "Epic Lounge - PIANO & JAZZ BAR",
+        "url": "https://stream.epic-lounge.com/piano-jazz-bar?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classical piano",
+            "jazz",
+            "lounge",
+            "lounge music",
+            "piano",
+            "piano jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/lounge-piano-jazz-bar?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE0JmQ9MjY0NzQ3NGIxZGM5ODFiYTQ3M2Q"
+    },
+    {
+        "name": "FFH SOUNDTRACK",
+        "url": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac"
+    },
+    {
+        "name": "GREAT PIANO CONCERTS by Epic Piano",
+        "url": "https://stream.epic-piano.com/great-piano-concerts?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "classical piano",
+            "classics",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-great-piano-concerts?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE0JmQ9MGUxMGNkZTRjNWM2NWJkOWIwZWI"
+    },
+    {
+        "name": "GRIEG by Epic Piano",
+        "url": "https://stream.epic-piano.com/grieg?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classic hits",
+            "classical",
+            "classical piano",
+            "classics",
+            "instrumental",
+            "klassik",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-grieg?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE1JmQ9YzRmMDhjYTcwZTQxYmMxZGRmYjU"
+    },
+    {
+        "name": "hr2-kultur",
+        "url": "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "culture",
+            "jazz"
+        ],
+        "favicon": "https://www.hr2.de/favicon.png?v=3.85.2",
+        "codec": "AAC",
+        "bitrate": 200,
+        "working_url": "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8"
+    },
+    {
+        "name": "Klassik Mozart (aac-64 stream)",
+        "url": "http://stream.klassikradio.de/mozart/aac-64/vtuner/",
+        "country": "DE",
+        "tags": [
+            "classical mozart"
+        ],
+        "favicon": "http://klassikradio.de/img/ms-mediumtile.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-puremozart-aacplus-64-7881552?sABC=6n78s22s%230%239ps5q3nqsp0o58q8311208450rp12ssp%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1786311215"
+    },
+    {
+        "name": "Klassik Radio - Barock",
+        "url": "http://stream.klassikradio.de/barock/mp3-192",
+        "country": "DE",
+        "tags": [
+            "baroque",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klassikr-barock-mp3-192-7751777?sABC=6n78s22s%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311215"
+    },
+    {
+        "name": "Klassik Radio - Christmas",
+        "url": "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072",
+        "country": "DE",
+        "tags": [
+            "christmas music",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072"
+    },
+    {
+        "name": "Klassik Radio - Games",
+        "url": "http://stream.klassikradio.de/games/mp3-128/",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "lounge",
+            "video game music"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-games-mp3-128-7588303?sABC=6n78s22s%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311215"
+    },
+    {
+        "name": "Klassik Radio - Klassik Dreams",
+        "url": "http://stream.klassikradio.de/dreams/mp3-128/",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "movie soundtracks"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-klassikdreams-mp3-128-6636830?sABC=6n78s22s%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311215"
+    },
+    {
+        "name": "Klassik Radio - Klassische Weihnachten",
+        "url": "https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326?sABC=6758900q%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=13161515-30nq-42r4-no2p-42n979n7n853&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web;skey:1733857293",
+        "country": "DE",
+        "tags": [
+            "christmas music",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326?sABC=6758900q%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=13161515-30nq-42r4-no2p-42n979n7n853&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web;skey:1733857293"
+    },
+    {
+        "name": "Klassik Radio - Live",
+        "url": "https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://klassikradio.de/img/ms-mediumtile.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384?listenerid=e5f602201546c1dc2d81cb7b7bd69147"
+    },
+    {
+        "name": "Klassik Radio - Live [AAC 64 kbit/s]",
+        "url": "https://stream.klassikradio.de/klassikradio/aac-64/stream.klassikradio.de?aggregator=hoererdirekt",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "die schönsten klassik hits",
+            "filmmusik",
+            "jazz und lounge",
+            "klassik",
+            "new classics"
+        ],
+        "favicon": "https://www.klassikradio.de/favicon.svg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23fgernz.xynffvxenqvb.qr&aggregator=hoererdirekt&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - New Classics [AAC 64 kbit/s]",
+        "url": "https://stream.klassikradio.de/newclassics/aac-64/stream.klassikradio.de?aggregator=hoererdirekt",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://www.klassikradio.de/favicon.svg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-newclassics-aacplus-64-6967393?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23fgernz.xynffvxenqvb.qr&aggregator=hoererdirekt&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - News Classics",
+        "url": "https://stream.klassikradio.de/newclassics/mp3-128",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "new classic"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-newclassics-mp3-128-4365773?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Opera",
+        "url": "http://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "opera"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-opera-mp3-128-2609490?sABC=6n78s22s%230%239ps5q3nqsp0o58q8311208450rp12ssp%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1786311215"
+    },
+    {
+        "name": "Klassik Radio - Piano New Classics",
+        "url": "https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/",
+        "country": "DE",
+        "tags": [
+            "classical piano",
+            "modern composition",
+            "piano"
+        ],
+        "favicon": "https://image.config.the-resc.com/production/image/media/image/2022/06/Klassik_Radio_Select_Aggregatoren_piano-new-classics_360x360.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr_e1fchiop6r4_1umk-mp3-192-2741628?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Pure Beethoven",
+        "url": "http://stream.klassikradio.de/beethoven/mp3-128/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-purebeethoven-mp3-128-1467988?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Pure Mozart",
+        "url": "http://stream.klassikradio.de/mozart/mp3-128/vtuner/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "http://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Pure Verdi",
+        "url": "http://stream.klassikradio.de/verdi/mp3-128/",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "opera"
+        ],
+        "favicon": "http://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-opera-mp3-128-2609490?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Rock meets Klassik",
+        "url": "http://stream.klassikradio.de/rockclassic/mp3-128/www.klassikradio.de/",
+        "country": "DE",
+        "tags": [
+            "classic rock",
+            "classical",
+            "rock"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-rockmclassic-mp3-128-6217037?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio - Till Brönner",
+        "url": "http://stream.klassikradio.de/tillbroenner/mp3-128/",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "contemporary",
+            "jazz"
+        ],
+        "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klr-tillbrnner-mp3-128-8848574?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio Bach",
+        "url": "https://stream.klassikradio.de/purebach/aac-64/radiode/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-purebach-aacplus-64-7413950?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio Beethoven",
+        "url": "https://stream.klassikradio.de/beethoven/aac-64/radiode/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-purebeethoven-aacplus-64-4841198?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1786311216"
+    },
+    {
+        "name": "Klassik Radio Healing",
+        "url": "https://stream.klassikradio.de/healing/aac-64/radiode/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-healing-aacplus-64-4021717?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1786311216"
+    },
+    {
+        "name": "Klassikradio - Barock",
+        "url": "http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/",
+        "country": "DE",
+        "tags": [
+            "baroque",
+            "classical"
+        ],
+        "favicon": "http://www.klassikradio.de/img/ms-mediumtile.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klassikr-barock-mp3-192-7751777?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "Klassikradio - Pure Bach",
+        "url": "http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/",
+        "country": "DE",
+        "tags": [
+            "baroque",
+            "classical"
+        ],
+        "favicon": "https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://klassikr.streamabc.net/klassikr-purebach-mp3-192-5022412?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "Klassikradio - Pure Bach [AAC 64 kbit/s]",
+        "url": "https://stream.klassikradio.de/purebach/aac-64/stream.klassikradio.de?aggregator=hoererdirekt",
+        "country": "DE",
+        "tags": [
+            "bach",
+            "classical",
+            "classical baroque"
+        ],
+        "favicon": "https://www.klassikradio.de/favicon.svg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://klassikr.streamabc.net/klr-purebach-aacplus-64-7413950?sABC=6n78s230%230%239ps5q3nqsp0o58q8311208450rp12ssp%23fgernz.xynffvxenqvb.qr&aggregator=hoererdirekt&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1786311216"
+    },
+    {
+        "name": "LISZT by Epic Piano",
+        "url": "https://stream.epic-piano.com/liszt?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "classical music",
+            "classical piano",
+            "classics",
+            "klassik",
+            "piano",
+            "piano jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-liszt?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTE3JmQ9OTIyYTk5YWIyZDBhY2I4YjA1OTk"
+    },
+    {
+        "name": "NDR Kultur",
+        "url": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?1728425224079&aggregator=web",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "culture",
+            "music"
+        ],
+        "favicon": "https://www.phonostar.de/images/auto_created/NDR_Kultur3184x184.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://d121.rndfnk.com/ard/ndr/ndrkultur/live/mp3/128/stream.mp3?aggregator=web&cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=3HhD5XeH6PrXcEGmjC5OSYiBYLL&token=t6ajME2Am7ci3lWpM0nO03JmFLf2UipUq669s25aVI8&tvf=6Tc4_DxUyhhkMTIxLnJuZGZuay5jb20"
+    },
+    {
+        "name": "PIANO COVERHITS by Epic Piano",
+        "url": "https://stream.epic-piano.com/piano-coverhits?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "charts",
+            "classical piano",
+            "covers",
+            "hits",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-piano-coverhits?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTIyJmQ9MjhkMTAzMDE1N2NjNmExNDczNmQ"
+    },
+    {
+        "name": "Radio Cafè Zimmermann",
+        "url": "https://stream.radio-cafezimmermann.de/klassik/mp3-192/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://cafezimmermann.stream03.radiohost.de/klassik_mp3-192?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTIzJmQ9ZWExMzMwMDA1MmFkNWQ4OWM5NjE"
+    },
+    {
+        "name": "Radio Cafe Zimmermann (AAC 48)",
+        "url": "https://stream.radio-cafezimmermann.de/klassik/aac-48/",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.phonostar.de/images/auto_created/Radio_Cafe_Zimmermann184x184.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://cafezimmermann.stream02.radiohost.de/klassik_aac-48?upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTIzJmQ9Nzk3OWQ3YTIwZWM5MTI2OWYyYzE"
+    },
+    {
+        "name": "radio maria arabic",
+        "url": "http://dreamsiteradiocp4.com:8014/stream",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://dreamsiteradiocp4.com:8014/stream"
+    },
+    {
+        "name": "Rock antenne soft Rock (64)",
+        "url": "http://mp3channels.webradio.rockantenne.de/soft-rock.aac",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://s1-webradio.rockantenne.de/soft-rock.aac"
+    },
+    {
+        "name": "Roger Radio",
+        "url": "http://rogerradio.theholyroger.com/live",
+        "country": "DE",
+        "tags": [
+            "bitcoin",
+            "chiptunes",
+            "classical",
+            "community",
+            "cryptocurrency",
+            "drum & bass",
+            "electronic",
+            "funk",
+            "hip-hop",
+            "jazz",
+            "metal",
+            "phonk",
+            "request line",
+            "roger"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://rogerradio.theholyroger.com/live"
+    },
+    {
+        "name": "ROMANTIC PIANO by Epic Piano",
+        "url": "https://stream.epic-piano.com/romantic-piano?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "classical music",
+            "classical piano",
+            "classics",
+            "instrumental",
+            "piano",
+            "piano jazz",
+            "romantic",
+            "romantic music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-romantic-piano?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTIzJmQ9MjI0M2JlMjI0ZWRlMjNhNWU4ZTM"
+    },
+    {
+        "name": "SOLO PIANO by Epic Piano",
+        "url": "https://stream.epic-piano.com/solo-piano?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "classical piano",
+            "classics",
+            "instrumental",
+            "new age piano",
+            "piano",
+            "piano jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-solo-piano?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTIzJmQ9ZjVjMWJlM2Q3MzAyNWE2MDg1ZDg"
+    },
+    {
+        "name": "SR 2 KulturRadio (56 kbit/s)",
+        "url": "http://liveradio.sr.de/sr/sr2/mp3/64/stream.mp3?aggregator=custom1",
+        "country": "DE",
+        "tags": [
+            "ard",
+            "classical",
+            "culture",
+            "public radio",
+            "sr"
+        ],
+        "favicon": "http://is3.mzstatic.com/image/thumb/Purple69/v4/e0/21/f5/e021f58d-21e7-877c-0ccc-1cb9bcdcc428/source/1200x630bb.jpg",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://f141.rndfnk.com/ard/sr/sr2/mp3/64/stream.mp3?aggregator=custom1&cid=01FG95TMYZ3N0HCMPKM951EA9X&sid=3HhD5rYG8DPxftS0GuYo0Ftenie&token=eOuWQXoHWovCouuAoouG613938GSH2I5D8Xoycm17Zo&tvf=Ns5c3T1UyhhmMTQxLnJuZGZuay5jb20"
+    },
+    {
+        "name": "SR 2 KulturRadio MP3 256",
+        "url": "https://liveradio.sr.de/sr/sr2/mp3/256/stream.mp3",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "culture",
+            "sr"
+        ],
+        "favicon": "https://assets.radioplayer.org/276/276367/600/600/kzh8gidn.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://d121.rndfnk.com/ard/sr/sr2/mp3/256/stream.mp3?cid=01FG95TMYZ3N0HCMPKM951EA9X&sid=3HhD5tqfaLa1HX2UlMqx8tHEplp&token=k33q2S0AIm3IPCJwa9kOLUzB_ke4163kNJIJrnqO40c&tvf=6LxU4j1UyhhkMTIxLnJuZGZuay5jb20"
+    },
+    {
+        "name": "SWR2",
+        "url": "https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20",
+        "country": "DE",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.swr.de/assets/swr/swrkultur/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://d121.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=3HhD6A6E9YL8WE33mMcXzmnI2EG&token=Pl4rQSJBCy0noUfK-vWW6qX6D_sIKZK_RReexL9ysWs&tvf=Z6o9Uj5UyhhkMTIxLnJuZGZuay5jb20"
+    },
+    {
+        "name": "TSCHAIKOWSKI by Epic Piano",
+        "url": "https://stream.epic-piano.com/tschaikowski?ref=radiobrowser",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "classical piano",
+            "instrumental",
+            "klassik",
+            "piano",
+            "piano jazz"
+        ],
+        "favicon": "https://i.ibb.co/hLKJJQS/Tschaikovski-PIANO.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://0nlineradio.stream13.radiohost.de/piano-tschaikowski?ref=radiobrowser&upd-meta=1&upd-scheme=https&_art=dD0xNzg2MzExNTI1JmQ9ZTk3OGRlYWIwZTc4N2Q5Yjg5NWY"
+    },
+    {
+        "name": "WDR 3 (adaptive bitrate)",
+        "url": "https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8",
+        "country": "DE",
+        "tags": [
+            "classical",
+            "culture",
+            "jazz"
+        ],
+        "favicon": "https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 102,
+        "working_url": "https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8"
+    },
+    {
+        "name": "WDR 3 HQ",
+        "url": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3",
+        "country": "DE",
+        "tags": [
+            "classic",
+            "classical",
+            "jazz",
+            "world music"
+        ],
+        "favicon": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://f141.rndfnk.com/ard/wdr/wdr3/live/mp3/256/stream.mp3?cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=3HhD67PlJleaZJHmOzzEmtvSz0r&token=vvQQM-b26jHga9F2_20AXNaaDCnWX4ObpiWFdhc0L7U&tvf=H24TOj5UyhhmMTQxLnJuZGZuay5jb20"
+    }
+]
