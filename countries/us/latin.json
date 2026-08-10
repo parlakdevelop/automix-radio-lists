@@ -1,0 +1,401 @@
+[
+  {
+    "name": "305 MI RADIO",
+    "url": "https://cast3.my-control-panel.com/proxy/305miradio/stream",
+    "country": "US",
+    "tags": [
+      "latino",
+      "salsa",
+      "tropical"
+    ],
+    "favicon": "https://305miradio.com/wp-content/uploads/2023/03/82.png",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "working_url": "https://cast3.my-control-panel.com/proxy/305miradio/stream"
+  },
+  {
+    "name": "93.1 AMOR (Bachata y Más )",
+    "url": "https://liveaudio.lamusica.com/NY_WPAT_icy",
+    "country": "US",
+    "tags": [
+      "bachata",
+      "latino",
+      "latino urbano",
+      "top 40"
+    ],
+    "favicon": "https://www.lamusica.com/lamusica-white.svg",
+    "codec": "AAC",
+    "bitrate": 127,
+    "working_url": "https://liveaudio.lamusica.com/NY_WPAT_icy"
+  },
+  {
+    "name": "Above The Clouds Radio",
+    "url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3",
+    "country": "US",
+    "tags": [
+      "all-vinyl",
+      "dance",
+      "free form",
+      "funk",
+      "hip-hop",
+      "independent",
+      "international",
+      "jazz",
+      "latin",
+      "rare",
+      "rock",
+      "soul"
+    ],
+    "favicon": "https://www.abovethecloudsradio.com/assets/lock-art.jpg",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3"
+  },
+  {
+    "name": "boogaloostereo",
+    "url": "http://149.56.157.81:8399/",
+    "country": "US",
+    "tags": [
+      "320kbps",
+      "big band",
+      "latin-jazz",
+      "latio",
+      "salsa"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 80,
+    "working_url": "http://149.56.157.81:8399/"
+  },
+  {
+    "name": "El Nuevo Zol 106.7 FM",
+    "url": "https://liveaudio.lamusica.com/MIA_WXDJ_icy",
+    "country": "US",
+    "tags": [
+      "bachata",
+      "dembow",
+      "entretenimiento",
+      "latino",
+      "merengue",
+      "music",
+      "reggaeton",
+      "salsa",
+      "urbano"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WXDJ.png",
+    "codec": "AAC",
+    "bitrate": 320,
+    "working_url": "https://liveaudio.lamusica.com/MIA_WXDJ_icy"
+  },
+  {
+    "name": "JazzRadio (MRG.fm)",
+    "url": "http://listen.mrg.fm:8040/stream",
+    "country": "US",
+    "tags": [
+      "classic jazz",
+      "cool jazz",
+      "jazz",
+      "jazz fusion",
+      "latin jazz",
+      "nu-jazz",
+      "piano jazz",
+      "smooth jazz",
+      "vocal jazz"
+    ],
+    "favicon": "https://mrg.fm/img/jazzradio125.jpg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://listen.mrg.fm:8040/stream"
+  },
+  {
+    "name": "KZNB 1490 & 102.5 \"La Z\" Petaluma, CA",
+    "url": "http://ice9.securenetsystems.net/KZNB",
+    "country": "US",
+    "tags": [
+      "latin pop",
+      "petaluma",
+      "regional mexican",
+      "santa rosa",
+      "sonoma county"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice9.securenetsystems.net/KZNB"
+  },
+  {
+    "name": "La Primera 104.1 fm & 1190 am",
+    "url": "https://stream20.usastreams.com/8112/stream",
+    "country": "US",
+    "tags": [
+      "latin music",
+      "latin pop",
+      "pop"
+    ],
+    "favicon": "https://laprimerawpb.com/wp-content/uploads/2021/11/cropped-cropped-02-logo-104.1.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://stream20.usastreams.com/8112/stream"
+  },
+  {
+    "name": "LatinX 94.3 FM",
+    "url": "https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1",
+    "country": "US",
+    "tags": [
+      "cumbia",
+      "latin",
+      "reggaeton",
+      "regional mexicano",
+      "spanish",
+      "urbano"
+    ],
+    "favicon": "https://latinx943.com/wp-content/uploads/2024/04/LATINX2-Slogan2_black-300x300.jpg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1"
+  },
+  {
+    "name": "Lumpen Radio",
+    "url": "https://radio.mensajito.mx/lumpenradio",
+    "country": "US",
+    "tags": [
+      "disco",
+      "indie",
+      "latino"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 256,
+    "working_url": "https://radio.mensajito.mx/lumpenradio"
+  },
+  {
+    "name": "Mas Flo - 107.7 FM - XHRST-FM - MLC Media - San Diego, California",
+    "url": "https://vsstreaming.com/8026/stream",
+    "country": "US",
+    "tags": [
+      "107.7 fm",
+      "américa",
+      "baja california",
+      "california",
+      "entretenimiento",
+      "español",
+      "estación",
+      "juvenil",
+      "latin urban",
+      "latino urbano",
+      "latinoamérica",
+      "mainstream urban",
+      "mas flo",
+      "moi merino",
+      "méxico",
+      "música",
+      "música en español",
+      "música urbana",
+      "norteamérica",
+      "radio",
+      "reggaetón",
+      "san diego",
+      "tijuana",
+      "urban",
+      "urban contemporary",
+      "urbana",
+      "urbano",
+      "usa"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://vsstreaming.com/8026/stream"
+  },
+  {
+    "name": "Más FM",
+    "url": "https://laradiossl.online:10664/;stream.nsv",
+    "country": "US",
+    "tags": [
+      "latin",
+      "pop",
+      "reggaeton",
+      "top40"
+    ],
+    "favicon": "https://radioparallevar.com/wp-content/uploads/2021/09/cropped-rpll_hd-isologo-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "working_url": "https://laradiossl.online:10664/;stream.nsv"
+  },
+  {
+    "name": "Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Angeles, California",
+    "url": "https://liveaudio.lamusica.com/LA_KXOL_icy",
+    "country": "US",
+    "tags": [
+      "96.3 fm",
+      "américa",
+      "california",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "latin",
+      "latin music",
+      "latin pop",
+      "latino",
+      "latinoamérica",
+      "los angeles",
+      "mega",
+      "moi merino",
+      "música",
+      "música en español",
+      "música latina",
+      "norteamérica",
+      "pop en español",
+      "pop latino",
+      "radio",
+      "reggaetón",
+      "spanish broadcasting system",
+      "usa"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "https://liveaudio.lamusica.com/LA_KXOL_icy"
+  },
+  {
+    "name": "Mega 97.1 (#1 Para Latino Hits )",
+    "url": "https://stream.revma.ihrhls.com/zc69/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "entretenimiento",
+      "hits",
+      "latin",
+      "latino urbano",
+      "music",
+      "musica",
+      "música en español",
+      "reggaeton",
+      "urbano"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/6330fb8345c37fdb34215c51",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n1eb-e2.revma.ihrhls.com/zc69/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z89Q0At8d6eCFIbcxnyQ"
+  },
+  {
+    "name": "Radio Euforia Peruana",
+    "url": "https://sp.oyotunstream.com/9966/stream",
+    "country": "US",
+    "tags": [
+      "cumbia",
+      "latino",
+      "salsa",
+      "tropical"
+    ],
+    "favicon": "https://www.euforiaperuana.com/img/logo.png",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "working_url": "https://sp.oyotunstream.com/9966/stream"
+  },
+  {
+    "name": "Rumba iHeart",
+    "url": "https://stream.revma.ihrhls.com/zc4451/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "iheart radio",
+      "latin",
+      "latin pop"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n44b-e2.revma.ihrhls.com/zc4451/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z89OgAKJrw418VY-cOqA"
+  },
+  {
+    "name": "SalsaViva",
+    "url": "https://streaming.live365.com/a37497?_=1778197802894",
+    "country": "US",
+    "tags": [
+      "big band",
+      "latin jazz",
+      "latin music",
+      "live365",
+      "salsa"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a37497?_=1778197802894"
+  },
+  {
+    "name": "Serenata FM",
+    "url": "http://falcon.shoutca.st:8254/",
+    "country": "US",
+    "tags": [
+      "baladas",
+      "latin pop",
+      "love songs",
+      "recuerdos",
+      "romantic pop"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://falcon.shoutca.st:8254/"
+  },
+  {
+    "name": "Urbanfireradio.com",
+    "url": "https://157.245.10.72/listen/station.urbanfireradio.com/public/station.mp3",
+    "country": "US",
+    "tags": [
+      "classics",
+      "hip hop",
+      "house",
+      "latinoamérica"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://157.245.10.72/listen/station.urbanfireradio.com/public/station.mp3"
+  },
+  {
+    "name": "Viva FM Orlando 99.5 Orange County/103.7 Osceola County",
+    "url": "https://stream.broadcastserver.net:2020/stream/wvvo?_=23526",
+    "country": "US",
+    "tags": [
+      "classic salsa",
+      "latin",
+      "salsa"
+    ],
+    "favicon": "https://mmo.aiircdn.com/297/6544fa9112c3f.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://stream.broadcastserver.net:2020/stream/wvvo?_=23526"
+  },
+  {
+    "name": "WGFX \"The Zone\" 104.5 FM Gallatin, TN",
+    "url": "http://20603.live.streamtheworld.com:3690/WGFXFMAAC_SC",
+    "country": "US",
+    "tags": [
+      "gallatin",
+      "news",
+      "sport",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://20603.live.streamtheworld.com:3690/WGFXFMAAC_SC"
+  },
+  {
+    "name": "WHCM 88.3 \"Hawk Radio\" - Harper College - Palatine, IL",
+    "url": "http://ice3.securenetsystems.net/WHCM",
+    "country": "US",
+    "tags": [
+      "chicago",
+      "college radio",
+      "freeform",
+      "palatine"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "working_url": "http://ice3.securenetsystems.net/WHCM"
+  }
+]

@@ -1,0 +1,5075 @@
+[
+  {
+    "name": "EXA FM: POP MUSIC in Spanish and English",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "country": "US",
+    "tags": [
+      "contemporary hits",
+      "entertainment",
+      "music",
+      "news",
+      "pop",
+      "pop music",
+      "top 40"
+    ],
+    "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://14553.live.streamtheworld.com/XHPSFMAAC.aac"
+  },
+  {
+    "name": "NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "1330 am",
+      "américa",
+      "california",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "hablada",
+      "local",
+      "local information",
+      "local news",
+      "local radio",
+      "local talk",
+      "los angeles",
+      "moi merino",
+      "norteamérica",
+      "noticias",
+      "noticias en español",
+      "noticias locales",
+      "noticias nacionales e internacionales",
+      "noticias y comentarios",
+      "noticias y deportes",
+      "noticieros",
+      "radio",
+      "radio hablada",
+      "tu liga radio",
+      "usa"
+    ],
+    "favicon": "https://cdn-profiles.tunein.com/s26289/images/logod.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://14983.live.streamtheworld.com/KWKWAMAAC.aac"
+  },
+  {
+    "name": "[Infowars] [The War Room With Owen Shroyer] ACC+ [32] [https] [Streams1]",
+    "url": "https://streams1.infowars.com/stream/4/",
+    "country": "US",
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "favicon": "https://logodix.com/logos/1638541",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://streams.alexjones.media/stream/4/"
+  },
+  {
+    "name": "1010 KSIR",
+    "url": "http://alpha.newerastreaming.com:8016/;",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://alpha.newerastreaming.com:8016/;"
+  },
+  {
+    "name": "103.9 WYAB",
+    "url": "http://www.wyab.com:81/stream",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "http://www.wyab.com:81/stream"
+  },
+  {
+    "name": "105.5 WERC Birmingham, AL",
+    "url": "https://stream.revma.ihrhls.com/zc3085",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/74c62b92-909d-42a9-a47d-894bb03fb1e5?ops=fit(960%2C960)%2Cresize(0%2C390)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3085?rj-org=n34b-e2&rj-ttl=5&rj-tok=AAABn-z9ICgABCv1cusvkG0mNQ"
+  },
+  {
+    "name": "1050 AM KTBL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://18253.live.streamtheworld.com/KTBLAMAAC.aac"
+  },
+  {
+    "name": "1110 KFAB",
+    "url": "https://stream.revma.ihrhls.com/zc1325",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5f084b68395d434f6da42b6c?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1325?rj-org=n1bb-e2&rj-ttl=5&rj-tok=AAABn-z9IB0AMZMLLv95-mdEqA"
+  },
+  {
+    "name": "1250 WTMA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://14543.live.streamtheworld.com/WTMAAMAAC.aac"
+  },
+  {
+    "name": "1330 & 101.5 WHBL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHBLAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://18863.live.streamtheworld.com/WHBLAMAAC.aac"
+  },
+  {
+    "name": "1480 AM - KQAM - Wichita",
+    "url": "http://listento.kqamradio.com:8016/stream",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://listento.kqamradio.com:8016/stream"
+  },
+  {
+    "name": "1490 WMRN",
+    "url": "https://stream.revma.ihrhls.com/zc1829",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/36ee136f8d4bd76672be5999e2e8071c?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1829?rj-org=n19b-e2&rj-ttl=5&rj-tok=AAABn-z9I7cAn_wZtoCd9GPC7Q"
+  },
+  {
+    "name": "550 KTSA",
+    "url": "https://live.amperwave.net/manifest/alphacorporate-ktsaamaac-ibc4",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://prod-54-204-66-137.amperwave.net/alphacorporate-ktsaamaac-ibc4"
+  },
+  {
+    "name": "55KRC",
+    "url": "https://stream.revma.ihrhls.com/zc1709",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/fcf9bf6ee96356e9a8c6351487e80ea1?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1709?rj-org=n42b-e2&rj-ttl=5&rj-tok=AAABn-z9IB0AMZMLLv95-mdEqA"
+  },
+  {
+    "name": "590 KQNT",
+    "url": "https://stream.revma.ihrhls.com/zc4952",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60c216594ff7ae213051694f?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc4952:alt?rj-org=n17b-e2&rj-ttl=5&rj-tok=AAABn-z9JVIADbBr1Vm_d-J8fA"
+  },
+  {
+    "name": "600 WREC",
+    "url": "https://stream.revma.ihrhls.com/zc2145",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5a79e55ffb984f533d156edb?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2145?rj-org=n3ab-e2&rj-ttl=5&rj-tok=AAABn-z9IJIAhGQo5YBQdceWQQ"
+  },
+  {
+    "name": "670 KBOI",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.kboi.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://14933.live.streamtheworld.com/KBOIAMAAC.aac"
+  },
+  {
+    "name": "770 KKOB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.newsradiokkob.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://29317.live.streamtheworld.com/KKOBAMAAC.aac"
+  },
+  {
+    "name": "830 WEEU",
+    "url": "https://ais-sa2.cdnstream1.com/2350_128.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://ais-sa2.cdnstream1.com/2350_128.mp3"
+  },
+  {
+    "name": "91.9 KSPB Stevenson Pebble Beach",
+    "url": "https://livestream.kspb.org/kspbstream",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk variety",
+      "variety",
+      "world news"
+    ],
+    "favicon": "https://kspb.org/facicon.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://livestream.kspb.org/kspbstream"
+  },
+  {
+    "name": "93.1 KFBK 1530AM",
+    "url": "https://ample.revma.ihrhls.com/zc217/16_elstp0q9whne02/playlist.m3u8",
+    "country": "US",
+    "tags": [
+      "sacramento news",
+      "talk",
+      "traffic"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/KFBK_New_Logo.png/1280px-KFBK_New_Logo.png",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "working_url": "https://n10b-e2.revma.ihrhls.com/zc217/16_elstp0q9whne02/playlist.m3u8?rj-ttl=5&rj-tok=AAABn-z9KCkAMZnIG6SCVtrEVg"
+  },
+  {
+    "name": "94.3 FM The Talker",
+    "url": "http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE"
+  },
+  {
+    "name": "94.9 News Now",
+    "url": "https://crystalout.surfernetwork.com:8001/WJJF-FM_MP3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1623/2021/05/25072657/cropped-logo-180x180.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-03.surfernetwork.com/1e11981d843uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxZTExOTgxZDg0M3V2IiwiaG9zdCI6InN0cmVhbS0wMy5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicUd3bmVJNGJURDJXNllFTWpURjJyZyIsImlhdCI6MTc4NjM4Njg0MiwiZXhwIjoxNzg2Mzg2OTAyfQ.sWQUCT4ss_kTs-cS_f5YtxuBjCM44ht0CfMV82tnruI"
+  },
+  {
+    "name": "960 WERC",
+    "url": "https://stream.revma.ihrhls.com/zc7044",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/74c62b92-909d-42a9-a47d-894bb03fb1e5?ops=fit(960%2C960)%2Cresize(0%2C390)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc7044?rj-org=n12b-e2&rj-ttl=5&rj-tok=AAABn-z9J9wAVX3y5bJfPTJfdg"
+  },
+  {
+    "name": "970 KVWM",
+    "url": "https://ice41.securenetsystems.net/KVWM",
+    "country": "US",
+    "tags": [
+      "coast to coast am",
+      "kim komando",
+      "news talk",
+      "rush limbaugh",
+      "talk radio"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/KVWM_logo.png/125px-KVWM_logo.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice41.securenetsystems.net/KVWM"
+  },
+  {
+    "name": "98.1 WTSN",
+    "url": "https://ice64.securenetsystems.net/WTSN",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice64.securenetsystems.net/WTSN"
+  },
+  {
+    "name": "ABC News Radio",
+    "url": "https://abcnews-streams.akamaized.net/hls/live/2024904/radiolive/master-96000.m3u8",
+    "country": "US",
+    "tags": [
+      "abc news"
+    ],
+    "favicon": "https://logos.fandom.com/wiki/ABC_News_Radio?file=ABC_News_Radio_2013.png",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "working_url": "https://abcnews-streams.akamaized.net/hls/live/2024904/radiolive/master-96000.m3u8"
+  },
+  {
+    "name": "ABC Radio National NT HLS",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038332/rnnt/index.m3u8",
+    "country": "US",
+    "tags": [
+      "abc",
+      "information",
+      "news",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png",
+    "codec": "AAC",
+    "bitrate": 94,
+    "working_url": "https://streaming.abc-cdn.net.au/audio/hls/rnnt.m3u8"
+  },
+  {
+    "name": "Accion 930 AM FM 97.3 (LA PRIMERA EN NOTICIAS)",
+    "url": "https://stream.revma.ihrhls.com/zc3201/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news",
+      "news talk",
+      "noticias y comentarios",
+      "radio hablada",
+      "sports"
+    ],
+    "favicon": "https://cdn-profiles.tunein.com/s28920/images/logod.jpg",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n3eb-e2.revma.ihrhls.com/zc3201/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9KgQAsKgTEwMxK_PlwQ"
+  },
+  {
+    "name": "Acción 97.9 (La Primera En Noticias)",
+    "url": "https://stream.revma.ihrhls.com/zc7959/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "deportes",
+      "news",
+      "noticias",
+      "noticias en español",
+      "noticias y comentarios",
+      "radio hablada",
+      "sports"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60621a86efe7540737ce23a9",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n35b-e2.revma.ihrhls.com/zc7959/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9KgMA8-znAkxsr5pRPg"
+  },
+  {
+    "name": "Ag News 890",
+    "url": "https://ice64.securenetsystems.net/KQLXAM",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KQLX.jpg",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice64.securenetsystems.net/KQLXAM"
+  },
+  {
+    "name": "Alex Jones Live - AJN",
+    "url": "https://audio.alexjoneslive.com:8443/alexjonesshow.opus",
+    "country": "US",
+    "tags": [
+      "breaking news",
+      "political analysis",
+      "talk radio"
+    ],
+    "favicon": "https://assets.alexjoneslive.com/2026/03/23200745/web-logo.png",
+    "codec": "OGG",
+    "bitrate": 32,
+    "working_url": "https://audio.alexjoneslive.com:8443/alexjonesshow.opus"
+  },
+  {
+    "name": "AM 1100 The Flag",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://26103.live.streamtheworld.com/WZFGAMAAC.aac"
+  },
+  {
+    "name": "AM 1280 The Patriot",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WWTCAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WWTC.jpg",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://27053.live.streamtheworld.com/WWTCAMAAC.aac"
+  },
+  {
+    "name": "AM 1350 KABQ",
+    "url": "https://stream.revma.ihrhls.com/zc1401",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/61d66d81c335630e8f13b329?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1401?rj-org=n31b-e2&rj-ttl=5&rj-tok=AAABn-z9LF4AGxwdURcEmyqHUg"
+  },
+  {
+    "name": "AM 1360 The Patriot",
+    "url": "https://ample.revma.ihrhls.com/zc249",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "conservative talk",
+      "news",
+      "news talk",
+      "talk radio"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/63108d49f524259271dc9c43",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc249?rj-org=n3bb-e2&rj-ttl=5&rj-tok=AAABn-z9LHsA95NA3EpDEodXbA"
+  },
+  {
+    "name": "AM 790",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPRVAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "business news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://17563.live.streamtheworld.com/WPRVAMAAC.aac"
+  },
+  {
+    "name": "AM 800 KXIC",
+    "url": "https://stream.revma.ihrhls.com/zc5262",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/2e5e3fe2524cb998ac4cd1024cb688e8?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc5262:alt?rj-org=n45b-e2&rj-ttl=5&rj-tok=AAABn-z9MbQA_T6pZ2Dlna831A"
+  },
+  {
+    "name": "Arcadi Current Events — Signal City",
+    "url": "https://signalcity.tv/radio/arcadi.mp3",
+    "country": "US",
+    "tags": [
+      "ai",
+      "culture",
+      "news",
+      "sports",
+      "talk radio",
+      "tts"
+    ],
+    "favicon": "https://signalcity.tv/web/sc_logo_1200.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://signalcity.tv/radio/arcadi.mp3"
+  },
+  {
+    "name": "AZPM NPR 89.1 AAC 128",
+    "url": "https://streaming.azpm.org/kuaz128",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "talk"
+    ],
+    "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "https://streaming.azpm.org/kuaz128"
+  },
+  {
+    "name": "AZPM NPR 89.1 AAC 256",
+    "url": "https://streaming.azpm.org/kuaz256",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "talk"
+    ],
+    "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 255,
+    "working_url": "https://streaming.azpm.org/kuaz256"
+  },
+  {
+    "name": "AZPM NPR 89.1 AAC 64",
+    "url": "https://streaming.azpm.org/kuaz64",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "talk"
+    ],
+    "favicon": "https://media.azpm.org/master/doc/icons/apple-touch-icon.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://streaming.azpm.org/kuaz64"
+  },
+  {
+    "name": "Bloomberg 960",
+    "url": "https://stream.revma.ihrhls.com/zc301",
+    "country": "US",
+    "tags": [
+      "business news"
+    ],
+    "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc301?rj-org=n41b-e2&rj-ttl=5&rj-tok=AAABn-z9LqQAXyj7jmg1GmFOIA"
+  },
+  {
+    "name": "Bloomberg 99.1/105.7 HD2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac",
+    "country": "US",
+    "tags": [
+      "business news"
+    ],
+    "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://26113.live.streamtheworld.com/WBBRDCAAC.aac"
+  },
+  {
+    "name": "Bloomberg AM New York, NY",
+    "url": "http://20593.live.streamtheworld.com:3690/WBBRNYAAC_SC",
+    "country": "US",
+    "tags": [
+      "business news"
+    ],
+    "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://20593.live.streamtheworld.com:3690/WBBRNYAAC_SC"
+  },
+  {
+    "name": "Capital Public Radio News (KXJZ, KKTO, KUOP, KQNC)",
+    "url": "http://13743.live.streamtheworld.com/KXJZ_SC",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://13743.live.streamtheworld.com/KXJZ_SC"
+  },
+  {
+    "name": "Catholic Radio in SC",
+    "url": "https://stream.zeno.fm/ugqv8t9gs18uv",
+    "country": "US",
+    "tags": [
+      "catholic",
+      "news talk",
+      "religious"
+    ],
+    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.8aXIO8ALMQTtM_Hmk7RYHQAAAA%26pid%3DApi&f=1&ipt=267805f600c06f2b853b9cbac0ef03a243863adaf623783e47168692bf3a2731&ipo=images",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-285.surfernetwork.com/ugqv8t9gs18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1Z3F2OHQ5Z3MxOHV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5Zd3J0eDZ5UUV5b2pvOTNEOTQ1NGciLCJpYXQiOjE3ODYzODY4NDMsImV4cCI6MTc4NjM4NjkwM30.fcGhAwaZaQGzR8KlSMRK-GXFi7Siql57L0aeKe9mRSA"
+  },
+  {
+    "name": "CBN News Radio",
+    "url": "http://cbnradio.streamguys1.com/news-128K?app=cbnplayer",
+    "country": "US",
+    "tags": [
+      "christian",
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 56,
+    "working_url": "http://cbnradio.streamguys1.com/news-128K?app=cbnplayer"
+  },
+  {
+    "name": "China Radio-1 综合频道",
+    "url": "https://sk.cri.cn/am846.m3u8?",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://imgres.crsky.com/crsky/123/611013-202405061645176638989d866f0.jpg",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "working_url": "https://sk.cri.cn/am846.m3u8"
+  },
+  {
+    "name": "CNN",
+    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.cnn.com/media/sites/cnn/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://tunein.cdnstream1.com/2868_96.mp3"
+  },
+  {
+    "name": "CNN International Audio",
+    "url": "https://tunein.cdnstream1.com/3519_96.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "tv audio",
+      "world news",
+      "world news channels"
+    ],
+    "favicon": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png",
+    "codec": "AAC",
+    "bitrate": 98,
+    "working_url": "https://tunein.cdnstream1.com/3519_96.aac"
+  },
+  {
+    "name": "Colorado Public Radio News",
+    "url": "https://stream1.cprnetwork.org/cpr1_lo",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr"
+    ],
+    "favicon": "https://www.cpr.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://stream1.cprnetwork.org/cpr1_lo"
+  },
+  {
+    "name": "Extreme Exposure Radio",
+    "url": "https://stream.zeno.fm/1tv2wfr01zquv",
+    "country": "US",
+    "tags": [
+      "hiphop",
+      "new age",
+      "news",
+      "pop",
+      "r&b",
+      "reggae",
+      "reggaeton",
+      "rock"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-289.surfernetwork.com/1tv2wfr01zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdHYyd2ZyMDF6cXV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9SMGYwSWdpUXNDWGNfYVFISHBkWVEiLCJpYXQiOjE3ODYzODY4NDQsImV4cCI6MTc4NjM4NjkwNH0.dznR1kzLxm1tYBHk4XobqzEOzfU_0A1jqJpsT-KaG7w"
+  },
+  {
+    "name": "Feature Story News",
+    "url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "world news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3"
+  },
+  {
+    "name": "Florida Man Radio",
+    "url": "https://ice42.securenetsystems.net/WZLB",
+    "country": "US",
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_151727460.jpg?alt=media&token=bfc98ffc-365b-4887-afbf-062e37053ff1",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice42.securenetsystems.net/WZLB"
+  },
+  {
+    "name": "Fox News",
+    "url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
+    "country": "US",
+    "tags": [
+      "fox news",
+      "news",
+      "国家台",
+      "新闻",
+      "综合"
+    ],
+    "favicon": "",
+    "codec": "UNKNOWN",
+    "bitrate": 311,
+    "working_url": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+  },
+  {
+    "name": "Fox News Radio",
+    "url": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://prod-3-232-55-225.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=45df5adcb8768b49f7edee22ad81b6af&source=fnr.web"
+  },
+  {
+    "name": "Fox Sports Radio 94.7 FM and 1230 AM  WEEX-AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEEXAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "live sports",
+      "sports",
+      "sports news",
+      "sports talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://26383.live.streamtheworld.com/WEEXAMAAC.aac"
+  },
+  {
+    "name": "Freedom 93.7",
+    "url": "https://stream.revma.ihrhls.com/zc381",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e6a4dec4b5295736a8f19f6?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc381?rj-org=n46b-e2&rj-ttl=5&rj-tok=AAABn-z9NR0AXKkd1SJlUuxPgg"
+  },
+  {
+    "name": "GBH (WGBH) 87.9",
+    "url": "https://wgbh-live.streamguys1.com/wgbh.mp3",
+    "country": "US",
+    "tags": [
+      "classical",
+      "music",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radioink.com/wp-content/uploads/2023/01/WGBH-Radio.png",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://wgbh-live.streamguys1.com/wgbh.mp3"
+  },
+  {
+    "name": "GBH 89.7",
+    "url": "https://wgbh-live.streamguys1.com/wgbh-noads",
+    "country": "US",
+    "tags": [
+      "boston",
+      "gbh",
+      "information",
+      "jazz",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/2d/41/fe/2d41febe-3767-d764-332c-56b368791ceb/pr_source.png/632x632sr.webp",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://wgbh-live.streamguys1.com/wgbh-noads"
+  },
+  {
+    "name": "GBH 89.7 AAC",
+    "url": "https://wgbh-live.streamguys1.com/wgbh-aac",
+    "country": "US",
+    "tags": [
+      "boston",
+      "gbh",
+      "information",
+      "jazz",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 52,
+    "working_url": "https://wgbh-live.streamguys1.com/wgbh-aac"
+  },
+  {
+    "name": "GBH 89.7 AAC 256",
+    "url": "https://wgbh-live.streamguys1.com/wgbh-256aac",
+    "country": "US",
+    "tags": [
+      "boston",
+      "gbh",
+      "information",
+      "jazz",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 256,
+    "working_url": "https://wgbh-live.streamguys1.com/wgbh-256aac"
+  },
+  {
+    "name": "GBH 89.7 HLS",
+    "url": "https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8",
+    "country": "US",
+    "tags": [
+      "boston",
+      "gbh",
+      "information",
+      "jazz",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://www.wgbh.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 130,
+    "working_url": "https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8"
+  },
+  {
+    "name": "Georgia Bulldogs 960 AM",
+    "url": "https://ad-oom-cmg.streamguys1.com/ath960/ath960-sgplayer-aac?amsparams=playerid%3ASGplayer%3Bskey%3A1731423581165%3B&awparams=playerid%3ASGplayer%3B",
+    "country": "US",
+    "tags": [
+      "sports news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 50,
+    "working_url": "https://ad-oom-cmg.streamguys1.com/ath960/ath960-sgplayer-aac?amsparams=playerid:SGplayer%3Bskey:1731423581165%3B&awparams=playerid:SGplayer%3B"
+  },
+  {
+    "name": "Global Community Radio 1 (GCR-1)",
+    "url": "http://142.4.219.8:8019/",
+    "country": "US",
+    "tags": [
+      "eclectic",
+      "international news",
+      "variety",
+      "world",
+      "world news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://142.4.219.8:8019/"
+  },
+  {
+    "name": "GPB",
+    "url": "https://gpb.streamguys1.com/im/gpb-atlanta-aac-website?listenerid=a9950016fb7242a718c44f930c917795&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1646483232842%3B",
+    "country": "US",
+    "tags": [
+      "news",
+      "news talk",
+      "political talk",
+      "politics",
+      "public radio"
+    ],
+    "favicon": "https://www.gpb.org/apple-touch-icon.png",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "working_url": "https://gpb.streamguys1.com/im/gpb-atlanta-aac-website?listenerid=a9950016fb7242a718c44f930c917795&awparams=playerid:SGplayer%3BcompanionAds:true&amsparams=playerid:SGplayer%3Bskey:1646483232842%3B"
+  },
+  {
+    "name": "Hawaii Public Radio HPR-1 (KHPR)",
+    "url": "http://khpr-ice.streamguys1.com/khpr2",
+    "country": "US",
+    "tags": [
+      "blues",
+      "jazz",
+      "news",
+      "npr",
+      "public radio",
+      "talk",
+      "world music"
+    ],
+    "favicon": "http://hawaiipublicradio.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://khpr-ice.streamguys1.com/khpr2"
+  },
+  {
+    "name": "hellasfm",
+    "url": "https://s3.radio.co/s07f995997/listen?fbclid=IwAR2p6kx0zeO6XuUrVuToayTLCerPzYx13jvdmjceZtpYQyVTzWkD22USbSY",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://s3.radio.co/s07f995997/listen?fbclid=IwAR2p6kx0zeO6XuUrVuToayTLCerPzYx13jvdmjceZtpYQyVTzWkD22USbSY"
+  },
+  {
+    "name": "hln",
+    "url": "https://tunein.cdnstream1.com/2876_96.mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://tunein.cdnstream1.com/2876_96.mp3"
+  },
+  {
+    "name": "Houston Public Media",
+    "url": "http://stream.houstonpublicmedia.org/news-mp3",
+    "country": "US",
+    "tags": [
+      "houston",
+      "news",
+      "npr"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://stream.houstonpublicmedia.org/news-mp3"
+  },
+  {
+    "name": "Houston Public Media News 88.7",
+    "url": "https://stream.houstonpublicmedia.org/news-aac",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "npr",
+      "public radio",
+      "weather",
+      "world news"
+    ],
+    "favicon": "https://cdn.houstonpublicmedia.org/assets/images/favicon/apple-touch-icon-120.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://stream.houstonpublicmedia.org/news-aac"
+  },
+  {
+    "name": "iHeartPodcast AM 1470",
+    "url": "https://stream.revma.ihrhls.com/zc3348",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/61a9a007eb66236c043ab853?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3348?rj-org=n42b-e2&rj-ttl=5&rj-tok=AAABn-z9OoYAIaAguE6lTABZsA"
+  },
+  {
+    "name": "Infowars",
+    "url": "http://stream-mp3.infowars.com/",
+    "country": "US",
+    "tags": [
+      "conservative talk",
+      "intelligent speech",
+      "international news",
+      "news",
+      "news talk",
+      "political talk",
+      "talk",
+      "talk & speech",
+      "talk radio",
+      "talk show",
+      "world news"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Infowars.com_Logo_%28Black_on_White%29.svg/2048px-Infowars.com_Logo_%28Black_on_White%29.svg.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://streams.alexjones.media/alexjonesshow-mp3"
+  },
+  {
+    "name": "Infowars - Alex Jones [Talk Stream Live]",
+    "url": "http://streams1.infowars.com/alexjonesshow",
+    "country": "US",
+    "tags": [
+      "news",
+      "politic",
+      "talk"
+    ],
+    "favicon": "https://logodix.com/logos/1638541.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://stream.alexjones.media/alexjonesshow"
+  },
+  {
+    "name": "Infowars - The War Room With Owen Shroyer [Talk Stream Live]",
+    "url": "http://tc1.bahamatel.net:7038/;",
+    "country": "US",
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "favicon": "https://logodix.com/logos/1638541,png",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "http://tc1.bahamatel.net:7038/;"
+  },
+  {
+    "name": "Infowars AAC Stream",
+    "url": "http://streams.infowars.com/alexjonesshow-aac",
+    "country": "US",
+    "tags": [
+      "conspiracies",
+      "conspiracy theories",
+      "information",
+      "news",
+      "survivalism",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://stream.alexjones.media/alexjonesshow"
+  },
+  {
+    "name": "Infowars.com Live Events",
+    "url": "http://streams1.infowars.com/infowarslive",
+    "country": "US",
+    "tags": [
+      "conspiracy theories",
+      "information",
+      "news",
+      "politics",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://streams.alexjones.media/infowarslive"
+  },
+  {
+    "name": "Jupiter Broadcasting Live",
+    "url": "http://n09.radiojar.com/0uk94cu0xrquv",
+    "country": "US",
+    "tags": [
+      "live",
+      "news",
+      "podcast",
+      "talk",
+      "technology"
+    ],
+    "favicon": "https://www.jupiterbroadcasting.com/images/favicon/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "http://n0c.radiojar.com/0uk94cu0xrquv?rj-ttl=5&rj-tok=AAABn-z9OqYARf8wNFcdfvkMMw"
+  },
+  {
+    "name": "K-Talk 1640 AM Salt Lake City, UT",
+    "url": "http://s3.voscast.com:7204/",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://s3.voscast.com:7204/"
+  },
+  {
+    "name": "KAHI - 950 AM - Auburn, CA",
+    "url": "https://crystalout.surfernetwork.com:8001/KAHI-AM_MP3",
+    "country": "US",
+    "tags": [
+      "local radio",
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-04.surfernetwork.com/paivy8dmsfrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYWl2eThkbXNmcnR2IiwiaG9zdCI6InN0cmVhbS0wNC5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidXRDTHg1dW5RM2FSS0p1ZFFDbWRfdyIsImlhdCI6MTc4NjM4Njg0NiwiZXhwIjoxNzg2Mzg2OTA2fQ.C3kLpRUNPRQsgzcJ2-bAn-9-u0_4SbLSMB8IEGlmayE"
+  },
+  {
+    "name": "KANU 91.5 \"Kansas Public Radio\" Lawrence, KS",
+    "url": "http://streaming.kansaspublicradio.org:8000/kpr1",
+    "country": "US",
+    "tags": [
+      "classical",
+      "jazz",
+      "kansas public radio",
+      "lawrence",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "http://kansaspublicradio.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://streaming.kansaspublicradio.org:8000/kpr1"
+  },
+  {
+    "name": "KANU-HD2 \"Kansas Public Radio\" News Stream - Lawrence, KS",
+    "url": "http://streaming.kansaspublicradio.org:8000/kpr2",
+    "country": "US",
+    "tags": [
+      "bbc",
+      "kansas public radio",
+      "lawrence",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "http://kansaspublicradio.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://streaming.kansaspublicradio.org:8000/kpr2"
+  },
+  {
+    "name": "KANW-2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2.mp3",
+    "country": "US",
+    "tags": [
+      "new mexico",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://16613.live.streamtheworld.com/KANWHD2.mp3"
+  },
+  {
+    "name": "KBBF RADIO 89.1 FM (La Voz De Tu Comunidad) (The voice of your community)",
+    "url": "http://quarrel.str3am.com:7050/live",
+    "country": "US",
+    "tags": [
+      "community",
+      "news",
+      "social",
+      "talk"
+    ],
+    "favicon": "https://kbbf.org/wp-content/uploads/2017/09/kbbf_RECT-gold-250px.png",
+    "codec": "MP3",
+    "bitrate": 75,
+    "working_url": "http://quarrel.str3am.com:7050/live"
+  },
+  {
+    "name": "KBIA 91.3 FM",
+    "url": "https://das-sa43.cdnstream1.com/6062_256k.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://www.kbia.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 256,
+    "working_url": "https://das-sa43.cdnstream1.com/6062_256k.aac"
+  },
+  {
+    "name": "KBRF Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBRFAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://14153.live.streamtheworld.com/KBRFAMAAC.aac"
+  },
+  {
+    "name": "KBRN Boerne Radio 103.9 FM",
+    "url": "https://ice42.securenetsystems.net/KBRN",
+    "country": "US",
+    "tags": [
+      "golden oldies",
+      "local news"
+    ],
+    "favicon": "https://img1.wsimg.com/isteam/ip/25b5efd4-38b3-4ebd-8f0a-8b85ad741da0/Boerne%20Radio%20Tower%20Logo%202026.png/:/rs=w:180,h:180,m",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ice42.securenetsystems.net/KBRN"
+  },
+  {
+    "name": "KBRW 91.9 FM - Barrow Alaska",
+    "url": "http://tektite.streamguys1.com:5340/live",
+    "country": "US",
+    "tags": [
+      "eclectic",
+      "native american",
+      "news",
+      "npr"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://tektite.streamguys1.com:5340/live"
+  },
+  {
+    "name": "KBVU 97.5 \"The Edge\"  Alta, IA",
+    "url": "http://kbvu.streamon.fm:8000/KBVU-48k.aac",
+    "country": "US",
+    "tags": [
+      "alta",
+      "alternative rock",
+      "sports news"
+    ],
+    "favicon": "https://static.wixstatic.com/media/e4ac53_e909c3904c334e088a3278fc992fcca3%7Emv2.jpg",
+    "codec": "AAC",
+    "bitrate": 96,
+    "working_url": "http://ais-sa1.streamon.fm/7018_48k.aac"
+  },
+  {
+    "name": "KCFR 90.1 - Colorado Public Radio News - Denver, CO AAC+",
+    "url": "http://stream1.cprnetwork.org/cpr1_aac",
+    "country": "US",
+    "tags": [
+      "denver",
+      "information",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "http://www.cpr.org/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://stream1.cprnetwork.org/cpr1_aac"
+  },
+  {
+    "name": "KCFR 90.1 Colorado Public Radio - News  - Denver, CO  MP3",
+    "url": "http://stream1.cprnetwork.org/cpr1_lo",
+    "country": "US",
+    "tags": [
+      "denver",
+      "information",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "http://www.cpr.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://stream1.cprnetwork.org/cpr1_lo"
+  },
+  {
+    "name": "KCMO Talk Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.kcmotalkradio.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://14123.live.streamtheworld.com/KCMOAMAAC.aac"
+  },
+  {
+    "name": "KCRW 88.9 FM - Live",
+    "url": "https://streams.kcrw.com/kcrw_mp3?aw_0_1st.playerid=radio-browser.info",
+    "country": "US",
+    "tags": [
+      "culture",
+      "live",
+      "music",
+      "news",
+      "npr",
+      "public radio",
+      "santa monica",
+      "santa monica college",
+      "various"
+    ],
+    "favicon": "https://www.kcrw.com/++theme++kcrw.theme/icons/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://streams.kcrw.com/kcrw_mp3?aw_0_1st.playerid=radio-browser.info"
+  },
+  {
+    "name": "KCRW Live 89.9 FM (AAC)",
+    "url": "https://streams.kcrw.com/kcrw_aac",
+    "country": "US",
+    "tags": [
+      "culture",
+      "los angeles",
+      "music",
+      "news",
+      "npr"
+    ],
+    "favicon": "https://www.kcrw.com/++theme++kcrw.theme/icons/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 256,
+    "working_url": "https://streams.kcrw.com/kcrw_aac"
+  },
+  {
+    "name": "KCRW News 24 (AAC)",
+    "url": "https://streams.kcrw.com/news24_aac",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.kcrw.com/++theme++kcrw.theme/icons/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 256,
+    "working_url": "https://streams.kcrw.com/news24_aac"
+  },
+  {
+    "name": "KCRW NEWS24",
+    "url": "https://streams.kcrw.com/news24_mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.kcrw.com/++theme++kcrw.theme/icons/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://streams.kcrw.com/news24_mp3"
+  },
+  {
+    "name": "KDLM Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDLMAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://26253.live.streamtheworld.com/KDLMAMAAC.aac"
+  },
+  {
+    "name": "KDVS Davis",
+    "url": "https://archives.kdvs.org/stream",
+    "country": "US",
+    "tags": [
+      "college radio",
+      "community radio",
+      "davis",
+      "local news",
+      "sacramento",
+      "uc davis",
+      "ucd",
+      "university radio"
+    ],
+    "favicon": "https://kdvs.org/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "https://listen.kdvs.org/stream"
+  },
+  {
+    "name": "KEDT-FM 90.3 \"KEDT Public Radio\" Corpus Christi, TX",
+    "url": "https://kedt.streamguys1.com/live-aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://cdn-profiles.tunein.com/s32434/images/logog.jpg",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "https://kedt.streamguys1.com/live-aac"
+  },
+  {
+    "name": "KELO-AM 1320 Sioux Falls, SD",
+    "url": "http://18393.live.streamtheworld.com/KELOAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "news talk",
+      "sioux falls"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "http://18393.live.streamtheworld.com/KELOAMAAC_SC"
+  },
+  {
+    "name": "KEPW - Eugene PeaceWorks Homegrown Community Radio",
+    "url": "http://pacificaservice.org:8000/kepw_128",
+    "country": "US",
+    "tags": [
+      "community",
+      "community radio",
+      "community supported radio station",
+      "local news",
+      "music"
+    ],
+    "favicon": "https://kepw.org/wp-content/uploads/2016/01/cropped-cropped-cropped-logo-180x180.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://pacificaservice.org:8000/kepw_128"
+  },
+  {
+    "name": "KFAN 107.9",
+    "url": "http://ice41.securenetsystems.net/KFAN",
+    "country": "US",
+    "tags": [
+      "country",
+      "local news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice41.securenetsystems.net/KFAN"
+  },
+  {
+    "name": "KFBK \"News Radio 93.1 & 1530\" Sacramento, CA",
+    "url": "http://stream.revma.ihrhls.com/zc217",
+    "country": "US",
+    "tags": [
+      "iheart",
+      "local news weather",
+      "sacramento",
+      "stockton",
+      "talk radio",
+      "traffic"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/619e6a4ad3b8186ac9cac39f?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "http://cloud.revma.ihrhls.com/zc217?rj-org=n22b-e2&rj-ttl=5&rj-tok=AAABn-z9QVEAxDYdYS5vRBgPJA"
+  },
+  {
+    "name": "KFIR 720 AM",
+    "url": "https://ice10.securenetsystems.net/KFIR",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice10.securenetsystems.net/KFIR"
+  },
+  {
+    "name": "KFMO 1240 AM",
+    "url": "https://ice24.securenetsystems.net/KFMO",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ice24.securenetsystems.net/KFMO"
+  },
+  {
+    "name": "KFYI",
+    "url": "http://stream.revma.ihrhls.com/zc37",
+    "country": "US",
+    "tags": [
+      "phoenix news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "http://cloud.revma.ihrhls.com/zc37?rj-org=n1db-e2&rj-ttl=5&rj-tok=AAABn-z9QrAAb-wJmCClO50EUA"
+  },
+  {
+    "name": "KFYR 550 AM",
+    "url": "https://stream.revma.ihrhls.com/zc1661",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5e5558659791ac1fd5f1ccd5?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1661?rj-org=n13b-e2&rj-ttl=5&rj-tok=AAABn-z9Q5oAjhayup3rWB61HQ"
+  },
+  {
+    "name": "KGAL AM 1580 SmartTalk",
+    "url": "https://ice8.securenetsystems.net/KGAL",
+    "country": "US",
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "https://kgal.com/wp-content/uploads/2019/07/kgal-favicon.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice8.securenetsystems.net/KGAL"
+  },
+  {
+    "name": "KGGF Radio",
+    "url": "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-01.surfernetwork.com/jt35kq4in6ktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdDM1a3E0aW42a3R2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY3N5SS10ajdRSUNheHlpTk1YUXZGdyIsImlhdCI6MTc4NjM4Njg0OSwiZXhwIjoxNzg2Mzg2OTA5fQ.HaUZpIbEAcgvvBXjxl-kSX4rSAIscHXogvfG9sp9DV8"
+  },
+  {
+    "name": "KGNU",
+    "url": "https://kgnu.streamguys1.com/kgnu",
+    "country": "US",
+    "tags": [
+      "community radio",
+      "music",
+      "news",
+      "variety"
+    ],
+    "favicon": "https://kgnu.org/wp-content/uploads/2023/03/cropped-favicon-180x180.png",
+    "codec": "AAC",
+    "bitrate": 96,
+    "working_url": "https://kgnu.streamguys1.com/kgnu"
+  },
+  {
+    "name": "KGU 760 & 95.1 Honolulu, HI",
+    "url": "http://23023.live.streamtheworld.com/KGUAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "business news",
+      "honolulu",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://23023.live.streamtheworld.com/KGUAMAAC_SC"
+  },
+  {
+    "name": "KHNC 1360 \"The Lion\"",
+    "url": "https://www.ophanim.net:8444/s/7250/",
+    "country": "US",
+    "tags": [
+      "christian",
+      "conspiracy",
+      "news talk"
+    ],
+    "favicon": "https://1360khnc.com/wp-content/uploads/2020/01/cropped-logo.jpg",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "https://www.ophanim.net:8444/s/7250/"
+  },
+  {
+    "name": "Kickynit Satellite Radio",
+    "url": "https://streaming.live365.com/a64542",
+    "country": "US",
+    "tags": [
+      "big band",
+      "blues",
+      "news",
+      "r&b",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a64542"
+  },
+  {
+    "name": "KKFT 99.1 FM",
+    "url": "https://ice7.securenetsystems.net/KKFT?playSessionID=1EDA0062-B5F7-4EC8-2602BF8B1D21B33D",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "http://www.991fmtalk.com/templates/rt_xenon/custom/images/logo/favicon.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice7.securenetsystems.net/KKFT?playSessionID=1EDA0062-B5F7-4EC8-2602BF8B1D21B33D"
+  },
+  {
+    "name": "KLIF 570 AM Dallas, TX",
+    "url": "http://17843.live.streamtheworld.com/KLIFAM_SC",
+    "country": "US",
+    "tags": [
+      "news and talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 80,
+    "working_url": "http://17843.live.streamtheworld.com/KLIFAM_SC"
+  },
+  {
+    "name": "KMJ \"News Talk\" 580 AM Fresno, CA",
+    "url": "http://18433.live.streamtheworld.com/KMJAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "fresno",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.kmjnow.com/wp-content/uploads/sites/461/2015/04/mastheadkmjnowlogo1.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://18433.live.streamtheworld.com/KMJAMAAC_SC"
+  },
+  {
+    "name": "KMLB",
+    "url": "https://ice66.securenetsystems.net/KMLB",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "working_url": "https://ice66.securenetsystems.net/KMLB"
+  },
+  {
+    "name": "KNDN 960 AM",
+    "url": "https://ice9.securenetsystems.net/KNDN",
+    "country": "US",
+    "tags": [
+      "information",
+      "music",
+      "news"
+    ],
+    "favicon": "https://icy-tree-02d4dfa10.azurestaticapps.net/images/KNDN%20Logo.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice9.securenetsystems.net/KNDN"
+  },
+  {
+    "name": "KNEB",
+    "url": "https://ais-sa1.streamon.fm/7325_48k.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://media.ruralradio.co/nrr/uploads/sites/3/2021/02/cropped-kneb-1-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://ais-sa1.streamon.fm/7325_48k.aac"
+  },
+  {
+    "name": "KNKX",
+    "url": "https://knkx-live-a.edge.audiocdn.com/6284_128k",
+    "country": "US",
+    "tags": [
+      "blues",
+      "jazz",
+      "local news",
+      "news",
+      "npr"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://knkx-live-a.edge.audiocdn.com/6284_128k"
+  },
+  {
+    "name": "KNOW 91.1 Minnesota Public Radio News - Minneapolis-St. Paul, MN",
+    "url": "http://nis.stream.publicradio.org/nis.mp3",
+    "country": "US",
+    "tags": [
+      "minneapolis",
+      "minnesota public radio",
+      "news",
+      "npr",
+      "public radio",
+      "st. paul"
+    ],
+    "favicon": "http://www.mprnews.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://nis.stream.publicradio.org/nis.mp3"
+  },
+  {
+    "name": "KNOX News Radio",
+    "url": "https://18193.live.streamtheworld.com/KNOXAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "news talk",
+      "talk & speech",
+      "weather"
+    ],
+    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2404/files/2022/01/herologo-300x150-1.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://18193.live.streamtheworld.com/KNOXAMAAC.aac"
+  },
+  {
+    "name": "KOA 850 AM & 94.1 FM",
+    "url": "http://stream.revma.ihrhls.com/zc389/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "http://n35b-e2.revma.ihrhls.com/zc389/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9SQAAjtDVgg2UJskzDA"
+  },
+  {
+    "name": "KOAC 550 AM",
+    "url": "https://stream5.opb.org/radio_player.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "http://www.opb.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 127,
+    "working_url": "https://stream5.opb.org/radio_player.mp3"
+  },
+  {
+    "name": "KOGO AM 600",
+    "url": "https://ample.revma.ihrhls.com/zc257",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "conservative talk",
+      "news talk",
+      "san diego"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc257?rj-org=n28b-e2&rj-ttl=5&rj-tok=AAABn-z9StYA3dn7jMIyn9vxRA"
+  },
+  {
+    "name": "KOPB 91.5 Oregon Public Broadcasting - Portland, OR",
+    "url": "http://stream1.opb.org/radio.mp3",
+    "country": "US",
+    "tags": [
+      "apm",
+      "culture",
+      "news",
+      "npr",
+      "opb",
+      "politics",
+      "portland",
+      "pri",
+      "public",
+      "talk"
+    ],
+    "favicon": "http://www.opb.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 127,
+    "working_url": "http://stream1.opb.org/radio.mp3"
+  },
+  {
+    "name": "KOSW LP 91.3",
+    "url": "http://www.ophanim.net:7040/;",
+    "country": "US",
+    "tags": [
+      "grays harbor county",
+      "north beach",
+      "ocean shores washington",
+      "ocean shores washington news",
+      "ocean shores washington weather",
+      "voice of the hyaks"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://www.ophanim.net:7040/;"
+  },
+  {
+    "name": "KPAY - 93.9 FM - Chico",
+    "url": "https://ice10.securenetsystems.net/KPAY1290",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice10.securenetsystems.net/KPAY1290"
+  },
+  {
+    "name": "KPBS Radio Reading Service",
+    "url": "https://kpbs-rrs.streamguys1.com/kpbs-rrs",
+    "country": "US",
+    "tags": [
+      "blindness",
+      "book",
+      "newspapers",
+      "reading"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 75,
+    "working_url": "https://kpbs-rrs.streamguys1.com/kpbs-rrs"
+  },
+  {
+    "name": "KPCC",
+    "url": "https://laist.streamguys1.com/kpcc-mp3?aw_0_1st.playerId=laist",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://laist.streamguys1.com/kpcc-mp3?aw_0_1st.playerId=laist"
+  },
+  {
+    "name": "KPUP-LP 100.5 Patagonia, AZ",
+    "url": "http://www.ednixon.com:8140/stream",
+    "country": "US",
+    "tags": [
+      "arizona",
+      "community news",
+      "community radio",
+      "community radio - seniors",
+      "kpup",
+      "low power fm",
+      "patagonia",
+      "various"
+    ],
+    "favicon": "http://kpup.info/wp-content/uploads/2014/01/KPUP_Logo.jpg",
+    "codec": "MP3",
+    "bitrate": 120,
+    "working_url": "http://www.ednixon.com:8140/stream"
+  },
+  {
+    "name": "KQED 128 AAC",
+    "url": "https://hls.kqed.org/hls/kqed_app/playlist.m3u8",
+    "country": "US",
+    "tags": [
+      "cultural news",
+      "documentary",
+      "local news",
+      "news",
+      "news talk"
+    ],
+    "favicon": "https://asset.brandfetch.io/idQPhN-lSw/idojwfAi5K.png",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "https://hls.kqed.org/hls/kqed_app/playlist.m3u8"
+  },
+  {
+    "name": "KRCC CPR for Southern Colorado Colorado Public Radio",
+    "url": "https://streams.krcc.org/krcc_mp3",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news talk",
+      "public radio",
+      "speech"
+    ],
+    "favicon": "https://www.cpr.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://streams.krcc.org/krcc_mp3"
+  },
+  {
+    "name": "KRDO",
+    "url": "https://ice6.securenetsystems.net/KRDO",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-192x192.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice6.securenetsystems.net/KRDO"
+  },
+  {
+    "name": "KRDO News Radio Colorado Springs",
+    "url": "http://ice6.securenetsystems.net/KRDO",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://krdo.b-cdn.net/2019/11/cropped-krdo-logo-32x32.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice6.securenetsystems.net/KRDO"
+  },
+  {
+    "name": "KRMG 102.3 FM Tulsa",
+    "url": "https://14623.live.streamtheworld.com/KRMGFMAAC.aac",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "news talk",
+      "talk"
+    ],
+    "favicon": "https://i0.wp.com/krmg.com/wp-content/uploads/2025/10/KRMG_Favicon_228x228-1-1.webp",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "working_url": "https://14623.live.streamtheworld.com/KRMGFMAAC.aac"
+  },
+  {
+    "name": "KRTS 93.5 Marfa Public Radio - Marfa, TX",
+    "url": "http://marfapr-ice.streamguys1.com/krts",
+    "country": "US",
+    "tags": [
+      "local music",
+      "local news",
+      "news",
+      "npr",
+      "pri",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "https://www.marfapublicradio.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "http://marfapr-ice.streamguys1.com/krts"
+  },
+  {
+    "name": "KRVN Radio",
+    "url": "https://ais-sa1.streamon.fm/7323_48k.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://media.ruralradio.co/nrr/uploads/sites/2/2021/02/cropped-krvn-1-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://ais-sa1.streamon.fm/7323_48k.aac"
+  },
+  {
+    "name": "KSCO \"Talk Back Radio\" 1080 AM Santa Cruz, CA",
+    "url": "http://184.105.148.154:8000/live",
+    "country": "US",
+    "tags": [
+      "news",
+      "santa cruz",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "http://184.105.148.154:8000/live"
+  },
+  {
+    "name": "KSFO 560 AM San Francisco, CA",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM_SC",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "information",
+      "local news",
+      "news",
+      "news talk",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "http://16613.live.streamtheworld.com/KSFOAM_SC"
+  },
+  {
+    "name": "KSQD Community Radio",
+    "url": "https://ksqd.info:8100/stream",
+    "country": "US",
+    "tags": [
+      "community radio",
+      "local news",
+      "music",
+      "various"
+    ],
+    "favicon": "https://ksqd.org/wp-content/uploads/2023/07/ksqd-logo-updated-clean.png",
+    "codec": "MP3",
+    "bitrate": 160,
+    "working_url": "https://ksqd.info:8100/stream"
+  },
+  {
+    "name": "KSTX-FM 89.1 \"Texas Public Radio\"",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFMAAC.aac",
+    "country": "US",
+    "tags": [
+      "apm",
+      "bbc",
+      "information",
+      "news",
+      "npr",
+      "san antonio",
+      "talk"
+    ],
+    "favicon": "https://i.ibb.co/qxWWTpc/TPR.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://26373.live.streamtheworld.com/KSTXFMAAC.aac"
+  },
+  {
+    "name": "KSVP Artesias Own",
+    "url": "https://ice23.securenetsystems.net/KSVP",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 32,
+    "working_url": "https://ice23.securenetsystems.net/KSVP"
+  },
+  {
+    "name": "KTAR",
+    "url": "http://bonneville.cdnstream1.com/2698_48.aac",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 63,
+    "working_url": "http://bonneville.cdnstream1.com/2698_48.aac"
+  },
+  {
+    "name": "KTMC-FM",
+    "url": "https://ice42.securenetsystems.net/KTMC",
+    "country": "US",
+    "tags": [
+      "music",
+      "news"
+    ],
+    "favicon": "null",
+    "codec": "AAC",
+    "bitrate": 32,
+    "working_url": "https://ice42.securenetsystems.net/KTMC"
+  },
+  {
+    "name": "KUER NPR Utah",
+    "url": "https://kuer.streamguys1.com/high_icy",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.kuer.org/favicon.png",
+    "codec": "AAC+",
+    "bitrate": 63,
+    "working_url": "https://kuer.streamguys1.com/high_icy"
+  },
+  {
+    "name": "KUNC",
+    "url": "https://ais-sa1.streamon.fm/7891_96k.mp3",
+    "country": "US",
+    "tags": [
+      "journalism",
+      "local news",
+      "talk show radio"
+    ],
+    "favicon": "https://npr.brightspotcdn.com/dims4/default/eb7a7de/2147483647/strip/true/crop/125x75+0+0/resize/250x150!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0e%2Fcefb97524d20827bb03b50416f0c%2Fkunc-header-logo.png",
+    "codec": "MP3",
+    "bitrate": 100,
+    "working_url": "https://ais-sa1.streamon.fm/7891_96k.mp3"
+  },
+  {
+    "name": "KUSU 91.5 FM/HD1 Logan, UT",
+    "url": "http://uprxstreamer.usu.edu:8000/stream",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "public - npr",
+      "talk"
+    ],
+    "favicon": "http://upr.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://uprxstreamer.usu.edu:8000/stream"
+  },
+  {
+    "name": "KVGC - HomeTown Radio for Amador & Calaveras Counties",
+    "url": "https://ais-sa1.streamon.fm/7004_24k.aac",
+    "country": "US",
+    "tags": [
+      "amador",
+      "calaveras",
+      "local news"
+    ],
+    "favicon": "https://isteam.wsimg.com/ip/d00b1cdf-991b-41ca-8cd2-0b1c0d4bb8d5/titlecut.png",
+    "codec": "AAC",
+    "bitrate": 96,
+    "working_url": "https://ais-sa1.streamon.fm/7004_24k.aac"
+  },
+  {
+    "name": "KWBG AM 1590",
+    "url": "https://ice23.securenetsystems.net/KWBG",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice23.securenetsystems.net/KWBG"
+  },
+  {
+    "name": "KWMT True Country AM 540",
+    "url": "https://live.amperwave.net/direct/alphamidwest-kwmtammp3-ibc2",
+    "country": "US",
+    "tags": [
+      "ag news",
+      "classic country",
+      "country music",
+      "local news",
+      "news talk"
+    ],
+    "favicon": "https://www.alphamediausa.com/wp-content/uploads/brand/logo/FORTDODGE-KWMTAM-300X203.png",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "https://prod-98-92-197-179.amperwave.net/alphamidwest-kwmtammp3-ibc2?session-id=39211007e67baf0a9cb33de56654d5af"
+  },
+  {
+    "name": "KWMU1",
+    "url": "https://kwmu1-ice.streamguys1.com/kwmu1.m3u",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news talk",
+      "world news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://kwmu1-ice.streamguys1.com/kwmu1.m3u"
+  },
+  {
+    "name": "KZNU 1450 AM St. George, UT",
+    "url": "http://ice10.securenetsystems.net/KZNU",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice10.securenetsystems.net/KZNU"
+  },
+  {
+    "name": "KZUM 89.3 - Lincoln, NE",
+    "url": "http://us4.internet-radio.com:8030/stream",
+    "country": "US",
+    "tags": [
+      "bluegrass",
+      "community radio",
+      "folk music",
+      "funk",
+      "news talk",
+      "soul"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/a/a4/KZUM_FM_Logo.png",
+    "codec": "MP3",
+    "bitrate": 112,
+    "working_url": "http://us4.internet-radio.com:8030/stream"
+  },
+  {
+    "name": "Millennial Media Offensive",
+    "url": "https://stream.mmo.show/",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://i0.wp.com/namillennial.com/wp-content/uploads/2022/07/cropped-c4f59a6ee705282f-1.jpg?fit=180%2c180&#038;ssl=1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://live.mmo.show/NAMillennial"
+  },
+  {
+    "name": "MPR News (MP3 128k)",
+    "url": "https://nis.stream.publicradio.org/nis.mp3",
+    "country": "US",
+    "tags": [
+      "culture",
+      "music",
+      "news"
+    ],
+    "favicon": "https://yt3.googleusercontent.com/I1w9qrdqzjlsWrNuLmGddjiRbLBQ76ZrxKbg_G4Q0aM38nS3P1bKLOOjXfBqCD5XWj61oMVPxeE=s900-c-k-c0x00ffffff-no-rj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://nis.stream.publicradio.org/nis.mp3"
+  },
+  {
+    "name": "MPR News [AAC 48k]",
+    "url": "http://nis.stream.publicradio.org/nis.aac",
+    "country": "US",
+    "tags": [
+      "culture",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.mprnews.org/apple-touch-icon.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://nis.stream.publicradio.org/nis.aac"
+  },
+  {
+    "name": "MSNBC",
+    "url": "https://tunein.cdnstream1.com/3511_96.mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://tunein.cdnstream1.com/3511_96.mp3"
+  },
+  {
+    "name": "MyFM 101.3",
+    "url": "https://ice64.securenetsystems.net/WMRC",
+    "country": "US",
+    "tags": [
+      "101.3",
+      "local news",
+      "morning show",
+      "music",
+      "sports",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice64.securenetsystems.net/WMRC"
+  },
+  {
+    "name": "NBC News",
+    "url": "https://stream.revma.ihrhls.com/zc6043",
+    "country": "US",
+    "tags": [
+      "international news",
+      "news"
+    ],
+    "favicon": "https://cdn.worldvectorlogo.com/logos/nbc-news.svg",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc6043?rj-org=n1eb-e2&rj-ttl=5&rj-tok=AAABn-z9VekAFwxlspPI_hVYWg"
+  },
+  {
+    "name": "NBC News Radio",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://iscale.iheart.com/catalog/live/6043",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "http://cloud.revma.ihrhls.com/zc6043?rj-org=n0eb-e2&rj-ttl=5&rj-tok=AAABn-z9VhYAt5PAoxvBnTb5Yw"
+  },
+  {
+    "name": "NetTalk America",
+    "url": "https://stream.zeno.fm/st9bhqvgvceuv",
+    "country": "US",
+    "tags": [
+      "commentary",
+      "conservative talk",
+      "news talk",
+      "political talk",
+      "republican"
+    ],
+    "favicon": "https://img1.wsimg.com/isteam/ip/6e7215c5-5ca4-45c2-b61c-24421c4a5003/74cfc8bf-f67f-4e7d-ad46-0ac09ca2d362.gif.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1536",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-286.surfernetwork.com/st9bhqvgvceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdDliaHF2Z3ZjZXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImdKR3J0WnoyU3FXcVBWRUpMRC1EVGciLCJpYXQiOjE3ODYzODY4NTMsImV4cCI6MTc4NjM4NjkxM30.3-y-hqYx8M-yClSFhWTDjsWSHwtFgA-T2UYPcUA8u14"
+  },
+  {
+    "name": "News 88.9 KNPR Nevada",
+    "url": "https://27283.live.streamtheworld.com/KNPRFM_SC",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr"
+    ],
+    "favicon": "https://knpr.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://27283.live.streamtheworld.com/KNPRFM_SC"
+  },
+  {
+    "name": "News Radio 1000 KTOK",
+    "url": "https://stream.revma.ihrhls.com/zc1909",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5ed7d4c35375eb312c999a4b?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1909?rj-org=n27b-e2&rj-ttl=5&rj-tok=AAABn-z9Vt8AZXRnpRZcTMnvFg"
+  },
+  {
+    "name": "News Radio 1410 & 100.9",
+    "url": "https://stream.revma.ihrhls.com/zc3897",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e690072bf4221c6d5b20383?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3897?rj-org=n04b-e2&rj-ttl=5&rj-tok=AAABn-z9WCwAGfNCKp13Kdy0Cg"
+  },
+  {
+    "name": "News Radio 1450 WILM",
+    "url": "https://stream.revma.ihrhls.com/zc465",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60ccbb211b3a402cbd502645?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc465?rj-org=n3cb-e2&rj-ttl=5&rj-tok=AAABn-z9WE4AGUq8yCcguKD5pQ"
+  },
+  {
+    "name": "News Radio 1470",
+    "url": "https://stream.revma.ihrhls.com/zc3151",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60be2d1036c6eff93cae6e29?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3151?rj-org=n05b-e2&rj-ttl=5&rj-tok=AAABn-z9WXkABhUk2UlBO-EnkQ"
+  },
+  {
+    "name": "News Radio 570 WWNC",
+    "url": "https://stream.revma.ihrhls.com/zc1593",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/63000662194bc83c1c5946f9?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1593?rj-org=n1cb-e2&rj-ttl=5&rj-tok=AAABn-z9WY4Aq1o70q-n1QfBQw"
+  },
+  {
+    "name": "News Radio 600 WMT",
+    "url": "https://stream.revma.ihrhls.com/zc917",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/6083353bfe5212afdc514ff2?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc917?rj-org=n08b-e2&rj-ttl=5&rj-tok=AAABn-z9WboAYYEMC4ptD98I1g"
+  },
+  {
+    "name": "News Radio 610",
+    "url": "https://stream.revma.ihrhls.com/zc2752",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5935ce33cf6ae3bb587ca01e?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2752?rj-org=n08b-e2&rj-ttl=5&rj-tok=AAABn-z9WbkA_K1Juv2RjV4MQQ"
+  },
+  {
+    "name": "News Radio 690 KTSM",
+    "url": "https://stream.revma.ihrhls.com/zc5168",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/3a8fdf43b1b774e498192f1b0434f2bc?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc5168?rj-org=n06b-e2&rj-ttl=5&rj-tok=AAABn-z9WdUA4Z7R-RXhldc8lw"
+  },
+  {
+    "name": "News Radio 920 WHJJ",
+    "url": "https://stream.revma.ihrhls.com/zc3223",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5a7a0470fcfa19529647f384?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3223:alt?rj-org=n36b-e2&rj-ttl=5&rj-tok=AAABn-z9XoIAAr4eUUMJ0xKewQ"
+  },
+  {
+    "name": "News Radio 96.7",
+    "url": "https://stream.revma.ihrhls.com/zc2885",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/6419ff903c8c9a1eed30d5ec?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2885?rj-org=n40b-e2&rj-ttl=5&rj-tok=AAABn-z9WhkAiVsS65afXdtdug"
+  },
+  {
+    "name": "News Radio KWOS",
+    "url": "https://ais-sa1.streamon.fm/7401_48k.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://ais-sa1.streamon.fm/7401_48k.aac"
+  },
+  {
+    "name": "News talk 1150 KQQQ",
+    "url": "https://us9.streamingpulse.com/ssl/KQQQ",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://us9.streamingpulse.com/ssl/KQQQ"
+  },
+  {
+    "name": "News Talk 1400 KFRU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.kfru.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://29318.live.streamtheworld.com/KFRUAMAAC.aac"
+  },
+  {
+    "name": "News Talk 560 KLVI",
+    "url": "https://stream.revma.ihrhls.com/zc2197",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2197?rj-org=n3eb-e2&rj-ttl=5&rj-tok=AAABn-z9XDIA5N_MEt0uGtaLIA"
+  },
+  {
+    "name": "News Talk 630 WPRO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://18233.live.streamtheworld.com/WPROAMAAC.aac"
+  },
+  {
+    "name": "News Talk 940",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMACAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://18313.live.streamtheworld.com/WMACAMAAC.aac"
+  },
+  {
+    "name": "News Talk 99.5 WRNO",
+    "url": "https://stream.revma.ihrhls.com/zc1033",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/66e48d2c709d7268702bcb1c?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1033:alt?rj-org=n3ab-e2&rj-ttl=5&rj-tok=AAABn-z9YiEAx2mJvEEBHoVmRA"
+  },
+  {
+    "name": "News-Talk 1310 WIBA",
+    "url": "https://stream.revma.ihrhls.com/zc2661",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e831cfb690bf6bed2ed0660?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2661?rj-org=n44b-e2&rj-ttl=5&rj-tok=AAABn-z9XmYAkLXb-H75O8hVww"
+  },
+  {
+    "name": "News/Talk 1130 WISN",
+    "url": "https://stream.revma.ihrhls.com/zc4245",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/3a32752509bc3a19cb13e69c86e22a99?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc4245?rj-org=n22b-e2&rj-ttl=5&rj-tok=AAABn-z9XjsAxt5kNOMct3ywow"
+  },
+  {
+    "name": "News/Talk 550 WDUN",
+    "url": "https://ice42.securenetsystems.net/WDUN",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WDUN.jpg",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ice42.securenetsystems.net/WDUN"
+  },
+  {
+    "name": "NewsRadio 1150 WGOW",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://express-images.franklymedia.com/6616/sites/74/2023/07/20030500/wgow-am-logo1-1.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://18853.live.streamtheworld.com/WGOWAMAAC.aac"
+  },
+  {
+    "name": "NewsRadio 560 WHYN",
+    "url": "https://stream.revma.ihrhls.com/zc4685",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/59316c9ae9c262af90f49e19?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc4685?rj-org=n35b-e2&rj-ttl=5&rj-tok=AAABn-z9Xj8A5qrUtEIPevh7GQ"
+  },
+  {
+    "name": "NewsRadio 630 WLAP",
+    "url": "https://stream.revma.ihrhls.com/zc965",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/2db2dc6199ab5f8bd82f761ba9eed6fc?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc965?rj-org=n38b-e2&rj-ttl=5&rj-tok=AAABn-z9XkEAxsgeo3NlNqTeCQ"
+  },
+  {
+    "name": "NewsRadio 790 WAEB",
+    "url": "https://stream.revma.ihrhls.com/zc3072",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e5ea82a1d12de29fa25f500?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc3072?rj-org=n22b-e2&rj-ttl=5&rj-tok=AAABn-z9XlsAIxM9kvqDgezDzg"
+  },
+  {
+    "name": "NewsRadio 840 WHAS",
+    "url": "https://stream.revma.ihrhls.com/zc969",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/a2a5779db99a96e3df9b621b4a5c5a4a?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc969?rj-org=n16b-e2&rj-ttl=5&rj-tok=AAABn-z9XoIAAr4eUUMJ0xKewQ"
+  },
+  {
+    "name": "Newsradio 95 WXTK",
+    "url": "https://stream.revma.ihrhls.com/zc6675",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/66e48dae709d7268702bcb1f?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc6675?rj-org=n39b-e2&rj-ttl=5&rj-tok=AAABn-z9XqQApjeqtXJuHhX_0w"
+  },
+  {
+    "name": "Newsradio 970 WFLA 48kbps",
+    "url": "http://stream.revma.ihrhls.com/zc2823",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/d/d9/WFLA_NEWSRADIO_logo.jpg",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "http://cloud.revma.ihrhls.com/zc2823?rj-org=n27b-e2&rj-ttl=5&rj-tok=AAABn-z9XwMAzpSpHF07ljn5Gw"
+  },
+  {
+    "name": "Newsradio WJPF",
+    "url": "https://ice23.securenetsystems.net/WJPF",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1322/2020/02/12201752/cropped-logo2-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice23.securenetsystems.net/WJPF"
+  },
+  {
+    "name": "Newsradio WTAG",
+    "url": "https://stream.revma.ihrhls.com/zc1113",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5935d74ccf6ae3bb587ca036?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1113?rj-org=n35b-e2&rj-ttl=5&rj-tok=AAABn-z9YjYARSkq96uek-VRIA"
+  },
+  {
+    "name": "NewsTalk 1240 KODY",
+    "url": "https://ice9.securenetsystems.net/KODY",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice9.securenetsystems.net/KODY"
+  },
+  {
+    "name": "Newstalk KTTR 99.7 FM",
+    "url": "https://ice7.securenetsystems.net/KTTR",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice7.securenetsystems.net/KTTR"
+  },
+  {
+    "name": "Northwest Public Broadcasting - Classical and News",
+    "url": "https://nwpb.streamguys1.com/nwprclassical-aac-128-icy",
+    "country": "US",
+    "tags": [
+      "classical",
+      "news talk"
+    ],
+    "favicon": "https://www.nwpb.org/wp-content/uploads/2017/11/cropped-site_emoticon-300x300.png",
+    "codec": "AAC",
+    "bitrate": 130,
+    "working_url": "https://nwpb.streamguys1.com/nwprclassical-aac-128-icy"
+  },
+  {
+    "name": "Northwest Public Broadcasting - News",
+    "url": "https://nwpb.streamguys1.com/nwprnews-aac-128-icy",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 130,
+    "working_url": "https://nwpb.streamguys1.com/nwprnews-aac-128-icy"
+  },
+  {
+    "name": "NPR 24 Hour Program Stream",
+    "url": "http://npr-ice.streamguys1.com/live.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "news talk",
+      "political talk",
+      "politics",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "https://static-assets.npr.org/static/images/favicon/favicon-96x96.png",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "name": "NPR Newscast",
+    "url": "http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "world news"
+    ],
+    "favicon": "https://static-assets.npr.org/static/images/favicon/favicon-32x32.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3"
+  },
+  {
+    "name": "NPR Program Stream",
+    "url": "https://npr-ice.streamguys1.com/live.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "politics",
+      "public",
+      "talk"
+    ],
+    "favicon": "https://static-assets.npr.org/chrome_svg/npr-logo-2025.svg",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://npr-ice.streamguys1.com/live.mp3"
+  },
+  {
+    "name": "Polskie Radio 1030 Chicago WNVR",
+    "url": "https://s1.reliastream.com/proxy/polskieradio?mp=/stream",
+    "country": "US",
+    "tags": [
+      "community",
+      "entertainment",
+      "news",
+      "polish",
+      "talk"
+    ],
+    "favicon": "https://polskieradio.com/wp-content/uploads/2019/11/polskie-radio-logo.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://s1.reliastream.com/proxy/polskieradio?mp=/stream"
+  },
+  {
+    "name": "Power 92.1 (WRBD)",
+    "url": "http://ice64.securenetsystems.net/POWER921",
+    "country": "US",
+    "tags": [
+      "music",
+      "news"
+    ],
+    "favicon": "https://powerstation92.com/wp-content/uploads/2022/09/Frame-1-1.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice64.securenetsystems.net/POWER921"
+  },
+  {
+    "name": "Progressive Radio Network",
+    "url": "http://216.55.165.146:8000/;",
+    "country": "US",
+    "tags": [
+      "commentary",
+      "current affairs",
+      "democracy",
+      "english",
+      "entertainment",
+      "information",
+      "international news",
+      "new york",
+      "news",
+      "news talk",
+      "political talk",
+      "politics",
+      "politics & current affairs",
+      "progressive",
+      "progressive politics",
+      "progressive talk",
+      "talk",
+      "talk & speech",
+      "talk radio",
+      "talk show",
+      "world news"
+    ],
+    "favicon": "https://prn.live/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://216.55.165.146:8000/;"
+  },
+  {
+    "name": "Prophecy Today Radio",
+    "url": "http://streaming.radio.co/sa2953afc7/listen",
+    "country": "US",
+    "tags": [
+      "bible",
+      "christian",
+      "news"
+    ],
+    "favicon": "https://static.wixstatic.com/media/08e5b6_44ff9df3bc744a11a524f3064ec961cf%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/08e5b6_44ff9df3bc744a11a524f3064ec961cf%7emv2.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://streaming.radio.co/sa2953afc7/listen"
+  },
+  {
+    "name": "Radio (Catolica) Mission Evangelizadora -\"DIGITAL\"",
+    "url": "http://stream.zeno.fm/36t0twtds18uv",
+    "country": "US",
+    "tags": [
+      "catholic",
+      "christian",
+      "music",
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "http://stream-175.surfernetwork.com/36t0twtds18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzNnQwdHd0ZHMxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRSM2NjTjRBUmFlZVltejBRRnNyclEiLCJpYXQiOjE3ODYzODY4NTcsImV4cCI6MTc4NjM4NjkxN30.IOGjlunBN1k2cAKATp8H7g4yMvq2k9sWMiJIXhTWHtw"
+  },
+  {
+    "name": "Radio 570 WNAX",
+    "url": "https://live.amperwave.net/manifest/saga-wnaxamaac-hlsc1.m3u8",
+    "country": "US",
+    "tags": [
+      "am",
+      "conservative talk",
+      "local news"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 32,
+    "working_url": "https://prod-44-195-61-138.amperwave.net/saga-wnaxamaac-hlsc1.m3u8"
+  },
+  {
+    "name": "Radio Marti",
+    "url": "https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.net/ocb01",
+    "country": "US",
+    "tags": [
+      "news talk",
+      "talk show"
+    ],
+    "favicon": "https://www.radiotelevisionmarti.com/content/responsive/ocb/img/webapp/ico-128x128.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://n0e.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABn-z9aZUAqYVL606eD3k8uw"
+  },
+  {
+    "name": "Radio Sidewinder",
+    "url": "http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_b",
+    "country": "US",
+    "tags": [
+      "electronic",
+      "elite dangerous",
+      "fictional news",
+      "music",
+      "video game"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_b"
+  },
+  {
+    "name": "Real Talk 910",
+    "url": "https://stream.revma.ihrhls.com/zc297",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.iheart.com/static/assets/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc297?rj-org=n43b-e2&rj-ttl=5&rj-tok=AAABn-z9Z7UAIDLMxHPrTlfVlg"
+  },
+  {
+    "name": "Red River Radio - HD 3 News/Talk",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3?uuid=1rkt6177s",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://npr.brightspotcdn.com/dims4/default/4c692f3/2147483647/strip/true/crop/297x115+0+0/resize/534x206!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/ab/c9/8f32bbde488d84abe0e88d7e7fb0/rrr-logo-fid.png",
+    "codec": "MP3",
+    "bitrate": 24,
+    "working_url": "https://17793.live.streamtheworld.com/KDAQHD3.mp3?uuid=1rkt6177s"
+  },
+  {
+    "name": "Relevant Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3",
+    "country": "US",
+    "tags": [
+      "bible",
+      "bible teaching",
+      "books",
+      "catholic",
+      "catholic radio",
+      "catholic talk",
+      "christian",
+      "christian talk",
+      "church",
+      "cultural news",
+      "god",
+      "hope",
+      "international news",
+      "local news",
+      "news",
+      "news talk",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "religion",
+      "religious",
+      "spiritual",
+      "talk",
+      "talk radio",
+      "world news"
+    ],
+    "favicon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://relevantradio.com&size=64",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://17653.live.streamtheworld.com/RR_MAIN.mp3"
+  },
+  {
+    "name": "Rense",
+    "url": "http://67.225.254.37:6266/",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "http://67.225.254.37:6266/"
+  },
+  {
+    "name": "Rense Radio Network",
+    "url": "http://s9.voscast.com:9310/live",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "conspiracy",
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://s9.voscast.com:9310/live"
+  },
+  {
+    "name": "Rip City Radio 620",
+    "url": "https://stream.revma.ihrhls.com/zc1965",
+    "country": "US",
+    "tags": [
+      "live show",
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60cff21b53ecd13f469a45d3?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1965?rj-org=n2db-e2&rj-ttl=5&rj-tok=AAABn-z9aFQA3Wyh2H7-ZirRqA"
+  },
+  {
+    "name": "RIPR - The Public's Radio - WNPN 89.3 FM",
+    "url": "https://amber.streamguys1.com:5595/riprdeskweb",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public"
+    ],
+    "favicon": "https://i0.wp.com/newspack-thepublicsradio.s3.amazonaws.com/uploads/2023/09/tpr-logo-app-transparent.png?fit=192%2c188&#038;ssl=1",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://amber.streamguys1.com:5595/riprdeskweb"
+  },
+  {
+    "name": "Roswells Talk KEND",
+    "url": "https://ice23.securenetsystems.net/KEND",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 32,
+    "working_url": "https://ice23.securenetsystems.net/KEND"
+  },
+  {
+    "name": "Salem News Channel Audio Stream",
+    "url": "https://tc1.bahamatel.net:7928/;?type=http&nocache=6029555",
+    "country": "US",
+    "tags": [
+      "conservative talk",
+      "news",
+      "political news",
+      "political talk"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Salem_news_channel_logo_3_22.jpg",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "https://tc1.bahamatel.net:7928/;?type=http&nocache=6029555"
+  },
+  {
+    "name": "Salt:30 Radio",
+    "url": "https://streaming.live365.com/a95708",
+    "country": "US",
+    "tags": [
+      "apocrypha",
+      "bible study",
+      "christian rock",
+      "classic rock",
+      "encouragement",
+      "genesis to revelation",
+      "news clips",
+      "old time radio clips",
+      "praise",
+      "prophecy",
+      "scripture reading",
+      "worship"
+    ],
+    "favicon": "https://live365.com/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a95708"
+  },
+  {
+    "name": "Spokane Public Radio - News",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM.mp3",
+    "country": "US",
+    "tags": [
+      "local radio",
+      "news",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 56,
+    "working_url": "https://16643.live.streamtheworld.com/KPBX_FM.mp3"
+  },
+  {
+    "name": "Sports 1140 KHTK",
+    "url": "https://bonneville.cdnstream1.com/2616_48.aac",
+    "country": "US",
+    "tags": [
+      "sports",
+      "sports news"
+    ],
+    "favicon": "https://cdn.sactownsports.com/khtk2/wp-content/uploads/2022/06/cropped-square-512-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 47,
+    "working_url": "https://bonneville.cdnstream1.com/2616_48.aac"
+  },
+  {
+    "name": "Stinger FM 102.9 - KITY",
+    "url": "https://stream-04.aiir.com/yz4jdg3k4emvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ejRqZGczazRlbXZ2IiwiaG9zdCI6InN0cmVhbS0wNC5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6ImhQRjNULXlXUmNhMjM3YXQzYjk1bEEiLCJpYXQiOjE3MzU4MjYwNDEsImV4cCI6MTczNTgyNjEwMX0.BPaO6dZ6F_kM0nEI7k5FyQyeY7_bCKxjvpM_diUV6tY&_=50475",
+    "country": "US",
+    "tags": [
+      "country",
+      "local news",
+      "texas"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-14.aiir.com/yz4jdg3k4emvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ejRqZGczazRlbXZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVWloTXdiMzBTWmlpR1FGU3ktTkxuQSIsImlhdCI6MTc4NjM4Njg1OSwiZXhwIjoxNzg2Mzg2OTE5fQ.ILAVQtKsGk8ReB10W5e3xWxNRMGduJM1N061p-XlKYw"
+  },
+  {
+    "name": "Talk 650 KSTE - Where Sacramento Comes To Talk",
+    "url": "http://stream.revma.ihrhls.com/zc229",
+    "country": "US",
+    "tags": [
+      "iheart",
+      "local news",
+      "sacramento",
+      "talk radio",
+      "traffic"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "http://cloud.revma.ihrhls.com/zc229?rj-org=n3fb-e2&rj-ttl=5&rj-tok=AAABn-z9aZkACkLCIPGy-UMRpA"
+  },
+  {
+    "name": "TALK 97.3FM - 990AM WEEB",
+    "url": "http://ice.weeb990.com:8000/weeb990",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "conservative talk",
+      "local news",
+      "local radio",
+      "news talk",
+      "north carolina",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 56,
+    "working_url": "http://ice.weeb990.com:8000/weeb990"
+  },
+  {
+    "name": "Talk 99.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WZRRFMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://www.talk995.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://26193.live.streamtheworld.com/WZRRFMAAC.aac"
+  },
+  {
+    "name": "Talk Radio 102.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWFMAAC.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://express-images.franklymedia.com/6616/sites/80/2023/07/20030055/wgow-fm-logo-1.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://20593.live.streamtheworld.com/WGOWFMAAC.aac"
+  },
+  {
+    "name": "Talkradio 970 KSYL",
+    "url": "https://ice5.securenetsystems.net/KSYL",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice5.securenetsystems.net/KSYL"
+  },
+  {
+    "name": "The Big 550 KTRS",
+    "url": "https://ice6.securenetsystems.net/KTRS",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice6.securenetsystems.net/KTRS"
+  },
+  {
+    "name": "The Mighty 990",
+    "url": "https://ice24.securenetsystems.net/KWAM",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "working_url": "https://ice24.securenetsystems.net/KWAM"
+  },
+  {
+    "name": "The Patriot 104.3 FM",
+    "url": "https://streaming.live365.com/a55548",
+    "country": "US",
+    "tags": [
+      "news",
+      "newstalk",
+      "politics",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a55548"
+  },
+  {
+    "name": "The Patriot AM 1150",
+    "url": "https://stream.revma.ihrhls.com/zc197",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/e0eca5d8d587c993be4872beadd83963?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc197?rj-org=n13b-e2&rj-ttl=5&rj-tok=AAABn-z9bOQAZOp954syfJBl6w"
+  },
+  {
+    "name": "Truckers Radio USA",
+    "url": "http://streamer.radio.co/s81d30349a/low",
+    "country": "US",
+    "tags": [
+      "classic country",
+      "country",
+      "news",
+      "talk",
+      "truck-driving country"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "http://streamer.radio.co/s81d30349a/low"
+  },
+  {
+    "name": "Tube City Online Radio - McKeesport",
+    "url": "https://tubecityonline.out.airtime.pro/tubecityonline_a",
+    "country": "US",
+    "tags": [
+      "community supported radio station",
+      "local information",
+      "local news",
+      "non-commercial"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://tubecityonline.out.airtime.pro/tubecityonline_a"
+  },
+  {
+    "name": "Twin Cities News Talk",
+    "url": "https://stream.revma.ihrhls.com/zc1213",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/KTLK.png",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1213?rj-org=n36b-e2&rj-ttl=5&rj-tok=AAABn-z9bh8Ah_SuIWEnAph8Aw"
+  },
+  {
+    "name": "UCM-The Beat",
+    "url": "http://198.245.60.88:8232/stream",
+    "country": "US",
+    "tags": [
+      "alternative rock",
+      "celtic",
+      "college radio",
+      "country",
+      "disney",
+      "gospel",
+      "heavy metal",
+      "kansas city",
+      "news",
+      "pop",
+      "sports",
+      "talk show",
+      "top 40",
+      "university radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://198.245.60.88:8232/stream"
+  },
+  {
+    "name": "VPR(Vermont Public Radio) News",
+    "url": "https://vpr.streamguys1.com/vpr64.aac",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.vpr.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "https://vpr.streamguys1.com/vpr64.aac"
+  },
+  {
+    "name": "VPR(Vermont Public Radio) relay BBC",
+    "url": "https://vprbbc.streamguys1.com/vprbbc24.mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 24,
+    "working_url": "https://vprbbc.streamguys1.com/vprbbc24.mp3"
+  },
+  {
+    "name": "WAAV 107.9 FM & 980 AM The Wave",
+    "url": "http://14153.live.streamtheworld.com:3690/WAAVAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "news talk",
+      "sports",
+      "talk"
+    ],
+    "favicon": "https://media-cdn.socastsrm.com/uploads/station/3173/squareIcon.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://14153.live.streamtheworld.com:3690/WAAVAMAAC_SC"
+  },
+  {
+    "name": "WABC",
+    "url": "http://18093.live.streamtheworld.com:3690/WABCAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "local talk",
+      "news",
+      "news talk"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2018/03/22100847/cropped-wabc-logo-1024-1024-3-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "http://18093.live.streamtheworld.com:3690/WABCAMAAC_SC"
+  },
+  {
+    "name": "WABC 770 AM - NewYork, NY",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3",
+    "country": "US",
+    "tags": [
+      "local talk",
+      "news",
+      "news talk",
+      "oldies music radio weekeds"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2022/01/21131743/77-WABC-Gold_narrow_4.png",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://13683.live.streamtheworld.com/WABCAM.mp3"
+  },
+  {
+    "name": "WAMC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://en.m.wikipedia.org/wiki/File:Logo_wamc.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://17793.live.streamtheworld.com/WAMCFM.mp3"
+  },
+  {
+    "name": "WAMU American University Radio",
+    "url": "https://wamu.cdnstream1.com/wamu.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://wamu.cdnstream1.com/wamu.mp3"
+  },
+  {
+    "name": "War Room With Owen Shroyer - Infowars",
+    "url": "http://streams1.infowars.com/warroom",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "information",
+      "news talk",
+      "politics",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://streams.alexjones.media/warroom"
+  },
+  {
+    "name": "WBAP News Talk",
+    "url": "http://19263.live.streamtheworld.com:3690/WBAPAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WBAP_%28AM%29_former_logo_%282010-2013%29.png/100px-WBAP_%28AM%29_former_logo_%282010-2013%29.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://19263.live.streamtheworld.com:3690/WBAPAMAAC_SC"
+  },
+  {
+    "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
+    "url": "http://26433.live.streamtheworld.com/WBBRAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "business news",
+      "economic news"
+    ],
+    "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://26433.live.streamtheworld.com/WBBRAMAAC_SC"
+  },
+  {
+    "name": "WBCQ The Planet",
+    "url": "http://splatterbox.us/wbcq1",
+    "country": "US",
+    "tags": [
+      "call-in",
+      "independent news",
+      "radio drama",
+      "religious",
+      "shortwave",
+      "talk",
+      "various"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 54,
+    "working_url": "http://splatterbox.us/wbcq1"
+  },
+  {
+    "name": "WBEZ 91.5 Chicago Public Radio",
+    "url": "http://stream.wbez.org/wbez128.mp3",
+    "country": "US",
+    "tags": [
+      "chicago",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://www.wbez.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://stream.wbez.org/wbez128.mp3"
+  },
+  {
+    "name": "WBFO-FM 88.7 Buffalo, NY",
+    "url": "http://26423.live.streamtheworld.com/WBFOFM_SC",
+    "country": "US",
+    "tags": [
+      "buffalo",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://26423.live.streamtheworld.com/WBFOFM_SC"
+  },
+  {
+    "name": "WBHM 90.3 Birmingham, AL",
+    "url": "https://audio.wbhm.org/live.mp3",
+    "country": "US",
+    "tags": [
+      "alabama",
+      "apm",
+      "birmingham",
+      "classical",
+      "local music",
+      "local news",
+      "news talk",
+      "npr",
+      "prx",
+      "public radio"
+    ],
+    "favicon": "https://wbhm.org/media/apple-icon-120x120.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://audio.wbhm.org/live.mp3"
+  },
+  {
+    "name": "WBLQ 1230 Westerly, RI",
+    "url": "http://ice3.securenetsystems.net/WBLQ",
+    "country": "US",
+    "tags": [
+      "community radio",
+      "local news",
+      "westerly"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice3.securenetsystems.net/WBLQ"
+  },
+  {
+    "name": "WBUR",
+    "url": "https://fm909.wbur.org/wbur_www",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://media.npr.org/images/podcasts/primary/icon_381444772-0cf95c0dd84cbfbd6e8b429b516cf44326aa3737.png?s=1400",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "https://fm909.wbur.org/wbur_www"
+  },
+  {
+    "name": "WBUR 90.9 FM Boston [AAC+]",
+    "url": "http://wbur-sc.streamguys.com/wbur.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public",
+      "talk"
+    ],
+    "favicon": "http://d3kwtionx0p7im.cloudfront.net/images/icons/favicon.png",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "http://wbur-sc.streamguys.com/wbur.aac"
+  },
+  {
+    "name": "WBUR 90.9 FM Boston [MP3]",
+    "url": "http://wbur-sc.streamguys.com/wbur",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public",
+      "talk"
+    ],
+    "favicon": "https://static.wbur.org/images/icons/favicon.png",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "http://wbur-sc.streamguys.com/wbur"
+  },
+  {
+    "name": "WCBM 680",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBMAM.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 32,
+    "working_url": "https://18363.live.streamtheworld.com/WCBMAM.mp3"
+  },
+  {
+    "name": "WCMU-HD2",
+    "url": "http://26223.live.streamtheworld.com:3690/WCMUHD2_SC",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://26223.live.streamtheworld.com:3690/WCMUHD2_SC"
+  },
+  {
+    "name": "WCSP 90.1 \"C-SPAN Radio\" Washington, DC",
+    "url": "http://26283.live.streamtheworld.com:3690/CSPANRADIO_SC",
+    "country": "US",
+    "tags": [
+      "current affairs",
+      "national news",
+      "news",
+      "politics"
+    ],
+    "favicon": "http://freevector.co/wp-content/uploads/2013/03/c-span-radio.png",
+    "codec": "MP3",
+    "bitrate": 40,
+    "working_url": "http://26283.live.streamtheworld.com:3690/CSPANRADIO_SC"
+  },
+  {
+    "name": "WCVEFM",
+    "url": "https://26233.live.streamtheworld.com/WCVEFM.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "public radio"
+    ],
+    "favicon": "https://www.vpm.org/listen",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://26233.live.streamtheworld.com/WCVEFM.mp3"
+  },
+  {
+    "name": "WDAE 620 AM/95.3 FM - Tampa Bay's Sports Radio",
+    "url": "https://n21b-e2.revma.ihrhls.com/zc673",
+    "country": "US",
+    "tags": [
+      "local news",
+      "sports"
+    ],
+    "favicon": "https://worldradiomap.com/us-fl/images/wdae.gif",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc673?rj-org=n3ab-e2&rj-ttl=5&rj-tok=AAABn-z9daMAaHKLFWyPJWU59Q"
+  },
+  {
+    "name": "WDAY 970 AM",
+    "url": "https://ice2.securenetsystems.net/WDAY",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice2.securenetsystems.net/WDAY"
+  },
+  {
+    "name": "WDBF.fm",
+    "url": "http://s4.voscast.com:8296/;",
+    "country": "US",
+    "tags": [
+      "community",
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://s4.voscast.com:8296/;"
+  },
+  {
+    "name": "WDET 101.9 FM Detroit Public Radio",
+    "url": "https://wdet.cdnstream1.com/4550_256.aac?esPlayer&cb=893951.m4a",
+    "country": "US",
+    "tags": [
+      "music",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "https://wdet.org/wp-content/uploads/elementor/thumbs/wdet-footer-logo-piq24fxcpolk3sv5hdjlzlmwy2xdr7orwf5rh2152a.png",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "working_url": "https://wdet.cdnstream1.com/4550_256.aac?esPlayer&cb=893951.m4a"
+  },
+  {
+    "name": "WDEV 550 AM Waterbury, VT",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDEVFM.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "http://www.wdevradio.com/files/2023/06/wdev.png?w=196&h=196&zc=0",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://17803.live.streamtheworld.com/WDEVFM.mp3"
+  },
+  {
+    "name": "WDUN",
+    "url": "https://ice42.securenetsystems.net/WDUN?playSessionID=93D84410-B7F0-FF8C-0BA876AE142B1E36",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ice42.securenetsystems.net/WDUN?playSessionID=93D84410-B7F0-FF8C-0BA876AE142B1E36"
+  },
+  {
+    "name": "WDXY",
+    "url": "https://cb.streamguys1.com/wdxy.aac",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://pwa.tunegenie.com/wdxyam/icon-192.png",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "https://cb.streamguys1.com/wdxy.aac"
+  },
+  {
+    "name": "WERU Community Radio",
+    "url": "http://pacificaservice.org:8000/weru_128",
+    "country": "US",
+    "tags": [
+      "diverse music",
+      "downeast maine",
+      "independent news",
+      "noncommercial"
+    ],
+    "favicon": "https://weru.org/wp-content/uploads/2020/01/cropped-weru-favicon-med-180x180.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://pacificaservice.org:8000/weru_128"
+  },
+  {
+    "name": "WETS 89.5 Johnson City, TN",
+    "url": "https://wets-fm.streamguys1.com/live-1",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 90,
+    "working_url": "https://wets-fm.streamguys1.com/live-1"
+  },
+  {
+    "name": "WFCR 88.5 New England Public Radio - Amherst, MA",
+    "url": "http://nepr.iad.streamguys1.com/WFCR",
+    "country": "US",
+    "tags": [
+      "amherst",
+      "classical",
+      "jazz",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 56,
+    "working_url": "http://nepr.iad.streamguys1.com/WFCR"
+  },
+  {
+    "name": "WFLA 970 AM Tampa Bay, FL",
+    "url": "https://stream.revma.ihrhls.com/zc2823",
+    "country": "US",
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/60675fb63e8b1ff06401afd2?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2823?rj-org=n2bb-e2&rj-ttl=5&rj-tok=AAABn-z9eJcAMG9LXOqShPBceQ"
+  },
+  {
+    "name": "WFMB-AM \"Sports Radio 1450\" Springfield, IL",
+    "url": "http://27063.live.streamtheworld.com:3690/WFMBAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "espn",
+      "sports news",
+      "springfield"
+    ],
+    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2511/files/2020/03/cropped-neuhoff-hero-logo-300x300-1.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://27063.live.streamtheworld.com:3690/WFMBAMAAC_SC"
+  },
+  {
+    "name": "WFPL 89.3 News Louisville, KY",
+    "url": "http://lpm.streamguys1.com/wfpl-web",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "http://wfpl.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 64,
+    "working_url": "http://lpm.streamguys1.com/wfpl-web"
+  },
+  {
+    "name": "WFYI 90.1 Indianapolis, IN",
+    "url": "http://wfyi-iad.streamguys1.com/live",
+    "country": "US",
+    "tags": [
+      "bbc",
+      "indianapolis",
+      "news",
+      "npr",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "http://www.wfyi.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://wfyi-iad.streamguys1.com/live"
+  },
+  {
+    "name": "WGAU",
+    "url": "https://sim-im-cmg.streamguys1.com/ath1340/ath1340-sgplayer-aac?amsparams=playerid%3ASGplayer%3Bskey%3A1577117415129%3B&awparams=playerid%3ASGplayer%3B",
+    "country": "US",
+    "tags": [
+      "local news weather"
+    ],
+    "favicon": "https://www.wgauradio.com/pf/resources/images/sites/cmg-rd-20015/favicon.ico?d=819",
+    "codec": "AAC+",
+    "bitrate": 50,
+    "working_url": "https://sim-im-cmg.streamguys1.com/ath1340/ath1340-sgplayer-aac?amsparams=playerid:SGplayer%3Bskey:1577117415129%3B&awparams=playerid:SGplayer%3B"
+  },
+  {
+    "name": "WGFX \"The Zone\" 104.5 FM Gallatin, TN",
+    "url": "http://20603.live.streamtheworld.com:3690/WGFXFMAAC_SC",
+    "country": "US",
+    "tags": [
+      "gallatin",
+      "news",
+      "sport",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://20603.live.streamtheworld.com:3690/WGFXFMAAC_SC"
+  },
+  {
+    "name": "WGMD \"News Radio 92.7\" Rehoboth Beach, DE",
+    "url": "http://ice6.securenetsystems.net/WGMD",
+    "country": "US",
+    "tags": [
+      "news talk",
+      "rehoboth beach"
+    ],
+    "favicon": "http://www.wgmd.com/wp-content/uploads/2022/04/favicon-150x150.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice6.securenetsystems.net/WGMD"
+  },
+  {
+    "name": "WGNS 1450 AM Murfreesboro, TN",
+    "url": "http://ice3.securenetsystems.net/WGNS",
+    "country": "US",
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice3.securenetsystems.net/WGNS"
+  },
+  {
+    "name": "WHAM 1180",
+    "url": "http://stream.revma.ihrhls.com/zc1505/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5d41d35ed0e8bf4d5a0853d2?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "http://n03b-e2.revma.ihrhls.com/zc1505/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9eo4AGBkPcdb0X6tavA"
+  },
+  {
+    "name": "WHAV",
+    "url": "https://whav.streamguys1.com:80/live",
+    "country": "US",
+    "tags": [
+      "local",
+      "news",
+      "oldies"
+    ],
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/05/WHAV_Web.jpg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://whav.streamguys1.com:80/live"
+  },
+  {
+    "name": "WHCL 97.9 Chapelboro Chapel Hill, NC",
+    "url": "https://wchl.streamon.fm/wchl-24k.aac",
+    "country": "US",
+    "tags": [
+      "chapel hill",
+      "college radio",
+      "news",
+      "north carolina"
+    ],
+    "favicon": "https://chapelboromedia.s3.amazonaws.com/wp-content/uploads/2024/07/24101954/cropped-download-1-180x180.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ais-sa1.streamon.fm/7207_24k.aac"
+  },
+  {
+    "name": "WHIR Newstalk Sports 1230",
+    "url": "https://us2.maindigitalstream.com/ssl/WHIR",
+    "country": "US",
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 130,
+    "working_url": "https://us2.maindigitalstream.com/ssl/WHIR"
+  },
+  {
+    "name": "WHP 580",
+    "url": "https://stream.revma.ihrhls.com/zc4027",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5e612da2f322abb96cd6eb06?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc4027?rj-org=n2fb-e2&rj-ttl=5&rj-tok=AAABn-z9fBMAFaH26FOTQxrVoA"
+  },
+  {
+    "name": "WHTC 1450 & 99.7 \"Real News Now\" Holland, MI",
+    "url": "http://26423.live.streamtheworld.com/WHTCAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "holland",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://26423.live.streamtheworld.com/WHTCAMAAC_SC"
+  },
+  {
+    "name": "WHYY 90.9  Philadelphia, PA",
+    "url": "http://whyy.streamguys1.com/whyy-mp3",
+    "country": "US",
+    "tags": [
+      "apm",
+      "information",
+      "news",
+      "npr",
+      "philadelphia",
+      "pri"
+    ],
+    "favicon": "https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://whyy.streamguys1.com/whyy-mp3"
+  },
+  {
+    "name": "WIBX 950 AM Utica, NY",
+    "url": "https://live.amperwave.net/manifest/townsquare-wibxamaac-ibc3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://wibx950.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://prod-3-237-98-35.amperwave.net/townsquare-wibxamaac-ibc3"
+  },
+  {
+    "name": "WILL-AM 580 Urbana, IL",
+    "url": "http://icecast.will.illinois.edu:8000/WILL-mp3-48",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "urbana"
+    ],
+    "favicon": "http://will.illinois.edu/apple-touch-icon.png",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "working_url": "http://icecast.will.illinois.edu:8000/WILL-mp3-48"
+  },
+  {
+    "name": "WINT 1330 & 101.5 - Willoughby, Ohio",
+    "url": "http://149.56.185.59:8000/;&type=mp3",
+    "country": "US",
+    "tags": [
+      "local talk",
+      "news talk",
+      "political talk",
+      "talk",
+      "talk radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://149.56.185.59:8000/;&type=mp3"
+  },
+  {
+    "name": "WIQO 100.9",
+    "url": "http://ice6.securenetsystems.net/WMNAFM?playSessionID=1CF94D0D-9121-0C06-54D5B51920EC063D",
+    "country": "US",
+    "tags": [
+      "lynchburg",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice6.securenetsystems.net/WMNAFM?playSessionID=1CF94D0D-9121-0C06-54D5B51920EC063D"
+  },
+  {
+    "name": "WIZS 1450 Henderson, NC",
+    "url": "http://26283.live.streamtheworld.com/WIZSAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "country",
+      "henderson",
+      "local news",
+      "local sports"
+    ],
+    "favicon": "http://wizs.com/wp-content/uploads/2015/07/wizs-listen-live.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "http://26283.live.streamtheworld.com/WIZSAMAAC_SC"
+  },
+  {
+    "name": "WJBO Newsradio 1150 AM & 97.7 FM",
+    "url": "https://stream.revma.ihrhls.com/zc1009",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5ec2b6e8abba2bcf04dcb253?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1009?rj-org=n2ab-e2&rj-ttl=5&rj-tok=AAABn-z9fvkA4nxsdCJu48DZYQ"
+  },
+  {
+    "name": "WJR 760 Detroit, MI",
+    "url": "http://18363.live.streamtheworld.com/WJRAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "detroit",
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://18363.live.streamtheworld.com/WJRAMAAC_SC"
+  },
+  {
+    "name": "WKAR AM 870 NewsTalk - East Lansing, MI",
+    "url": "http://mozart.wkar.msu.edu/wkar-am-mp3",
+    "country": "US",
+    "tags": [
+      "east lansing",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://mozart.wkar.msu.edu/wkar-am-mp3"
+  },
+  {
+    "name": "WKHM AM 970",
+    "url": "http://ice9.securenetsystems.net/KWAY",
+    "country": "US",
+    "tags": [
+      "jackson michigan",
+      "michigan wolverines",
+      "ncaa football",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1757/2020/10/12160146/station-150x150.png",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice9.securenetsystems.net/KWAY"
+  },
+  {
+    "name": "WKIP 1450 & 98.5 FM Newstalk",
+    "url": "http://stream.revma.ihrhls.com/zc5877/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "http://n11b-e2.revma.ihrhls.com/zc5877/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9fdEASbhNAKpVvu1w5A"
+  },
+  {
+    "name": "WKMS 91.3 FM",
+    "url": "https://wkms.streamguys1.com/WKMS1.mp3?uuid=1iwxb6s47",
+    "country": "US",
+    "tags": [
+      "music",
+      "news"
+    ],
+    "favicon": "https://npr.brightspotcdn.com/dims4/default/21a3a73/2147483647/strip/true/crop/1115x748+0+0/resize/358x240!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/7d/bd/58d22a7940d392884ba7256b5e9e/wkms2017navy.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://wkms.streamguys1.com/WKMS1.mp3?uuid=1iwxb6s47"
+  },
+  {
+    "name": "WKNR 850 Cleveland",
+    "url": "http://stream.abacast.net/direct/goodkarma-wknrammp3-ibc2",
+    "country": "US",
+    "tags": [
+      "espn",
+      "sports news",
+      "talk"
+    ],
+    "favicon": "http://www.espn.com/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "http://98.94.23.38/goodkarma-wknrammp3-ibc2?session-id=6235f559c6b09df827b49bda2ffe27cf"
+  },
+  {
+    "name": "WKNY 1490AM 107.9FM",
+    "url": "https://stream.radiokingston.org/rk.mp3",
+    "country": "US",
+    "tags": [
+      "community",
+      "contemporary",
+      "music",
+      "news",
+      "news talk",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "https://radiokingston.org/assets/images/logo-expanded.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://stream.radiokingston.org/rk.mp3"
+  },
+  {
+    "name": "WKSU HD4 News & More",
+    "url": "https://live.ideastream.org/wksu4.128.mp3",
+    "country": "US",
+    "tags": [
+      "chopin",
+      "classical",
+      "news",
+      "opera",
+      "polish"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://live.ideastream.org/wksu4.128.mp3"
+  },
+  {
+    "name": "WLNI 105.9 FM",
+    "url": "https://ice66.securenetsystems.net/WLNI",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice66.securenetsystems.net/WLNI"
+  },
+  {
+    "name": "WLRH 89.3 FM HD1 Huntsville, AL",
+    "url": "http://wlrh.streamguys1.com/live",
+    "country": "US",
+    "tags": [
+      "local music",
+      "local news",
+      "local talk",
+      "news",
+      "npr",
+      "public radio",
+      "talk shows"
+    ],
+    "favicon": "http://wlrh.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "http://wlrh.streamguys1.com/live"
+  },
+  {
+    "name": "WLRH 89.3 FM HD2 Huntsville, AL",
+    "url": "http://wlrh.streamguys1.com/classical",
+    "country": "US",
+    "tags": [
+      "local music",
+      "local news",
+      "local talk",
+      "news",
+      "npr",
+      "public radio",
+      "talk shows"
+    ],
+    "favicon": "http://wlrh.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "http://wlrh.streamguys1.com/classical"
+  },
+  {
+    "name": "WLVL 1340 & & 105.3 Lockport, NY",
+    "url": "http://hemnos.cdnstream.com/1426_64",
+    "country": "US",
+    "tags": [
+      "lockport",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://hemnos.cdnstream.com/1426_64"
+  },
+  {
+    "name": "WLW - 700 AM - Cincinnati, OH",
+    "url": "https://stream.revma.ihrhls.com/zc1713/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news",
+      "right winger",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/new_assets/2f71b3f2-773d-48a3-892f-a6f72850d704?ops=fit(75%2C75)",
+    "codec": "AAC",
+    "bitrate": 22,
+    "working_url": "https://n05b-e2.revma.ihrhls.com/zc1713/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9gYcAq4z74UtpAUjrVw"
+  },
+  {
+    "name": "WMAN AM 1400 FM 98.3",
+    "url": "https://stream.revma.ihrhls.com/zc4121/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "local news",
+      "local sports",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/66df38dfb0c180c830a87db6?ops=gravity(%22center%22),contain(600,600)",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n3bb-e2.revma.ihrhls.com/zc4121/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9gaMAjXVJgUflV-AHmA"
+  },
+  {
+    "name": "WMBD 1470 AM 100.3 FM Peoria News and Talk",
+    "url": "https://15313.live.streamtheworld.com/WMBDAMAAC.aac",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news and talk",
+      "political talk"
+    ],
+    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2326/files/2022/05/wmbd-logo-bubble-60h.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://15313.live.streamtheworld.com/WMBDAMAAC.aac"
+  },
+  {
+    "name": "WNRI 1380",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a20809",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "https://i.ibb.co/bJ4zsq0/WNRI-logo-with-FM-2.png",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://das-edge11-live365-dal03.cdnstream.com/a20809"
+  },
+  {
+    "name": "WNTK News Talk 99.7",
+    "url": "http://natrix.sugarrivermedia.com:8000/wntk",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://natrix.sugarrivermedia.com:8000/wntk"
+  },
+  {
+    "name": "WNUR",
+    "url": "https://www.wnur.org/api/stream",
+    "country": "US",
+    "tags": [
+      "jazz",
+      "local news",
+      "news",
+      "rock",
+      "sports",
+      "streetbeat"
+    ],
+    "favicon": "https://www.wnur.org/favicon.ico?favicon.0l6_5w42fd4yq.ico",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://n04-us.rcs.revma.com/w4pmmfkdx4zuv?rj-ttl=5&rj-tok=AAABn-z9huwAwxqkNRRU7Q7_Ag"
+  },
+  {
+    "name": "WNYC 93.9 FM",
+    "url": "http://fm939.wnyc.org/wnycfm.aac",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png",
+    "codec": "AAC+",
+    "bitrate": 31,
+    "working_url": "http://fm939.wnyc.org/wnycfm.aac"
+  },
+  {
+    "name": "WNYC FM",
+    "url": "https://fm939.wnyc.org/wnycfm-web",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "https://www.google.com/search?q=wnyc+logo&client=ms-android-samsung-rvo1&sca_esv=560376192&tbm=isch&prmd=inv&sxsrf=AB5stBirrRLCEy5EixqlSfngVwQYvhFe1Q:1693083894883&source=lnms&sa=X&ved=2ahUKEwjTloSBnfuAAxXmavEDHfieAj0Q_AUoAXoECAMQAQ&biw=412&bih=717&dpr=2.63#imgrc=7X0w4rpwW2Y9iM",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://fm939.wnyc.org/wnycfm-web"
+  },
+  {
+    "name": "WNYC-FM 93.9 New York Public Radio",
+    "url": "https://fm939.wnyc.org/wnycfm",
+    "country": "US",
+    "tags": [
+      "information",
+      "new york city",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://fm939.wnyc.org/wnycfm"
+  },
+  {
+    "name": "WOC 1420",
+    "url": "https://stream.revma.ihrhls.com/zc2889",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/1d2ca0b097a9e22d842a8e27be61adde?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2889?rj-org=n01b-e2&rj-ttl=5&rj-tok=AAABn-z9gxYAC0gJzczybgZNzQ"
+  },
+  {
+    "name": "WOOD News",
+    "url": "https://stream.revma.ihrhls.com/zc1165",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5dbc624ec155b103bf7e739b?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1165?rj-org=n38b-e2&rj-ttl=5&rj-tok=AAABn-z9gyEA_ZnWxirl9UtHlA"
+  },
+  {
+    "name": "WOOD-AM WOOD-FM WOOD- Grand Rapids, MI, USA News-Talk AM 1300 FM 106.9",
+    "url": "https://stream.revma.ihrhls.com/zc1165/hls.m3u8",
+    "country": "US",
+    "tags": [
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 24,
+    "working_url": "https://n2eb-e2.revma.ihrhls.com/zc1165/hls.m3u8?rj-ttl=5&rj-tok=AAABn-z9g6kAL6b2Tcgfezs2QQ"
+  },
+  {
+    "name": "WOWO",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WOWOAMaac.m3u8",
+    "country": "US",
+    "tags": [
+      "talk-news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "working_url": "http://18093.live.streamtheworld.com/WOWOAMAAC/HLS/playlist.m3u8"
+  },
+  {
+    "name": "WPIC \"News Talk 790\" Sharon, PA",
+    "url": "http://26193.live.streamtheworld.com:3690/WPICAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "news talk",
+      "sharon",
+      "youngstown"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://26193.live.streamtheworld.com:3690/WPICAMAAC_SC"
+  },
+  {
+    "name": "WPLN FM 90.3 Nashville Public Radio, TN",
+    "url": "https://wpln.streamguys1.com/wplnfm.mp3",
+    "country": "US",
+    "tags": [
+      "nashville",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "https://wpln.streamguys1.com/wplnfm.mp3"
+  },
+  {
+    "name": "WPTX 1690 AM & 100.7 FM",
+    "url": "https://www.streamvortex.com:8444/s/11040",
+    "country": "US",
+    "tags": [
+      "adult contemporary",
+      "classics",
+      "local news"
+    ],
+    "favicon": "https://gitlab.com/alexby306/host-images/-/raw/main/540x540bb.jpg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://www.streamvortex.com:8444/s/11040"
+  },
+  {
+    "name": "WQVZ Mission Radio",
+    "url": "https://icy.cloudrad.io/dfa7ae1d",
+    "country": "US",
+    "tags": [
+      "education",
+      "information",
+      "local and syndicated faith",
+      "music  and sports",
+      "news",
+      "talk"
+    ],
+    "favicon": "https://assets.clrd.net/uploads/logos/autodj/019fd25c-dda2-7ffd-8f62-3ca4dfa7ae1d/be816bb1-3c16-4f86-bb0e-569dda022c51.webp",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "https://gra16-eu-icy.clrd.net/dfa7ae1d"
+  },
+  {
+    "name": "WRAL News+",
+    "url": "https://ais-sa8.cdnstream1.com/2745_64.aac?listenerId=a1a239a4c8b9ea9da8e079414ae50037&NoPreroll=true&starttime=1&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1689391886",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ais-sa8.cdnstream1.com/2745_64.aac?listenerId=a1a239a4c8b9ea9da8e079414ae50037&NoPreroll=true&starttime=1&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1689391886"
+  },
+  {
+    "name": "WRFG 89.3FM Atlanta, GA",
+    "url": "https://s2.radio.co/s2133c4bad/listen",
+    "country": "US",
+    "tags": [
+      "blues",
+      "community radio",
+      "jazz",
+      "news",
+      "variety"
+    ],
+    "favicon": "https://wrfg.org/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 192,
+    "working_url": "https://s2.radio.co/s2133c4bad/listen"
+  },
+  {
+    "name": "WRHI",
+    "url": "https://ice7.securenetsystems.net/WRHI",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice7.securenetsystems.net/WRHI"
+  },
+  {
+    "name": "WRKO-AM 680",
+    "url": "https://stream.revma.ihrhls.com/zc7750",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/623b3302f27ef877e7867576?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc7750?rj-org=n17b-e2&rj-ttl=5&rj-tok=AAABn-z9hv4A7QITC7ETOAKyvQ"
+  },
+  {
+    "name": "WRMI 9955 Shortwave - Miami, FL",
+    "url": "http://wrmi.listen.creek.fm/stream",
+    "country": "US",
+    "tags": [
+      "features",
+      "international programming",
+      "miami",
+      "news"
+    ],
+    "favicon": "http://www.wrmi.net/files/8315/2225/8049/57microphone_icon.ico",
+    "codec": "MP3",
+    "bitrate": 48,
+    "working_url": "http://wrmi.listen.creek.fm/stream"
+  },
+  {
+    "name": "WRMN 1410",
+    "url": "https://ice24.securenetsystems.net/WRMN",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WRMN-AM.png",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "https://ice24.securenetsystems.net/WRMN"
+  },
+  {
+    "name": "WRN North America",
+    "url": "http://shoutcast.wrn.org:8025/NAMAAP",
+    "country": "US",
+    "tags": [
+      "international news",
+      "world news"
+    ],
+    "favicon": "https://www.encompass.tv/wp-content/themes/encompassmarketing/library/images/favicon.png",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://shoutcast.wrn.org:8025/NAMAAP"
+  },
+  {
+    "name": "WRSC",
+    "url": "https://ice23.securenetsystems.net/WRSC",
+    "country": "US",
+    "tags": [
+      "local news",
+      "news",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://ice23.securenetsystems.net/WRSC"
+  },
+  {
+    "name": "WRVO-3 BBC World Service Stream - Oswego, NY",
+    "url": "http://26423.live.streamtheworld.com:3690/WRVOHD3_SC",
+    "country": "US",
+    "tags": [
+      "bbc",
+      "low bandwidth",
+      "news",
+      "oswego",
+      "world news"
+    ],
+    "favicon": "http://wrvo.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 24,
+    "working_url": "http://26423.live.streamtheworld.com:3690/WRVOHD3_SC"
+  },
+  {
+    "name": "WSBA \"News Talk 93.9 & 910\" York, PA",
+    "url": "http://26443.live.streamtheworld.com/WSBAAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "new york city",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://26443.live.streamtheworld.com/WSBAAMAAC_SC"
+  },
+  {
+    "name": "WSDL 90.7 Delmarva Public Radio \"Rhythm & News\" - Ocean City, MD",
+    "url": "http://14843.live.streamtheworld.com/WSDLFM_SC",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "ocean city",
+      "public radio",
+      "variety"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "working_url": "http://14843.live.streamtheworld.com/WSDLFM_SC"
+  },
+  {
+    "name": "WSHU 1260 Fairfield, CT",
+    "url": "http://wshu.streamguys.org/wshu-news",
+    "country": "US",
+    "tags": [
+      "apm",
+      "fairfield",
+      "news",
+      "npr",
+      "pri",
+      "public radio"
+    ],
+    "favicon": "http://wshu.org/apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 128,
+    "working_url": "http://wshu.streamguys.org/wshu-news"
+  },
+  {
+    "name": "WSLU 88.1 \"North Country Public Radio\" Canton, NY",
+    "url": "https://ncpr-ice.streamguys1.com/ncpr-96k.mp3",
+    "country": "US",
+    "tags": [
+      "features",
+      "news",
+      "npr"
+    ],
+    "favicon": "https://www.northcountrypublicradio.org/apple-touch-icon.png?v=e6jl8kmrjw",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://ncpr-ice.streamguys1.com/ncpr-96k.mp3"
+  },
+  {
+    "name": "WTAM 1100 - Cleveland, Ohio",
+    "url": "https://stream.revma.ihrhls.com/zc1749",
+    "country": "US",
+    "tags": [
+      "local news",
+      "local talk",
+      "news",
+      "news talk",
+      "talk",
+      "talk radio"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5be5a5068788fad5368c18e9?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc1749?rj-org=n09b-e2&rj-ttl=5&rj-tok=AAABn-z9iccAnjClV5tUNoa3Xg"
+  },
+  {
+    "name": "WTAQ 1360 & 92.5 Green Bay, WI",
+    "url": "http://26143.live.streamtheworld.com/WTAQAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "green bay",
+      "news talk",
+      "sports news"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://26143.live.streamtheworld.com/WTAQAMAAC_SC"
+  },
+  {
+    "name": "WTCM 580 Traverse City, MI",
+    "url": "http://ice64.securenetsystems.net/WTCM",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk",
+      "traverse city"
+    ],
+    "favicon": "http://www.wix.com/favicon.ico",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice64.securenetsystems.net/WTCM"
+  },
+  {
+    "name": "WTOP",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3?nocache=1552197927&dist=hubbard&ttag=web",
+    "country": "US",
+    "tags": [
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://27153.live.streamtheworld.com/WTOPFM.mp3?nocache=1552197927&dist=hubbard&ttag=web"
+  },
+  {
+    "name": "WTOP 103.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://wtop.com/wp-content/themes/wtop-new/assets/img/favicons/apple-touch-icon-120x120.png",
+    "codec": "MP3",
+    "bitrate": 96,
+    "working_url": "https://26193.live.streamtheworld.com/WTOPFM.mp3"
+  },
+  {
+    "name": "WUFT News",
+    "url": "https://ais-sa1.streamon.fm/7647_48k.aac/playlist.m3u8?listenerId=d022961cd3f2d326b3099ffd4020559b&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1583551216",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "pri"
+    ],
+    "favicon": "https://www.wuft.org/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 48,
+    "working_url": "https://ais-sa1.streamon.fm/7647_48k.aac/playlist.m3u8?listenerId=d022961cd3f2d326b3099ffd4020559b&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1583551216"
+  },
+  {
+    "name": "wuga",
+    "url": "http://wuga-ice.streamguys1.com/live-mp3",
+    "country": "US",
+    "tags": [
+      "classical",
+      "folk",
+      "jazz",
+      "news",
+      "talk",
+      "variety"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "working_url": "http://wuga-ice.streamguys1.com/live-mp3"
+  },
+  {
+    "name": "WUKY-HD2",
+    "url": "https://wuky.streamguys1.com/HD2",
+    "country": "US",
+    "tags": [
+      "classical",
+      "news"
+    ],
+    "favicon": "https://www.wuky.org/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 98,
+    "working_url": "https://wuky.streamguys1.com/HD2"
+  },
+  {
+    "name": "WUNC 91.5 Chapel Hill, NC",
+    "url": "http://wunc-ice.streamguys1.com/wunc-128-mp3",
+    "country": "US",
+    "tags": [
+      "apm",
+      "bbc",
+      "chapel hill",
+      "news",
+      "npr",
+      "pri",
+      "public radio",
+      "talk"
+    ],
+    "favicon": "http://www.wunc.org/apple-touch-icon.png",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "http://wunc-ice.streamguys1.com/wunc-128-mp3"
+  },
+  {
+    "name": "WUSF NPR",
+    "url": "https://streaming.wusf.fm/wusf",
+    "country": "US",
+    "tags": [
+      "jazz",
+      "news",
+      "npr"
+    ],
+    "favicon": "https://wusf.org/apple-touch-icon.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "https://wusf.streamguys1.com/wusf"
+  },
+  {
+    "name": "WUWM 89.7 Milwaukee's NPR",
+    "url": "https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9",
+    "country": "US",
+    "tags": [
+      "news",
+      "npr",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.streams/67d07fe6ec13cba16d9784c5?ops=fit(960%2C960)%2Cresize(0%2C390)",
+    "codec": "AAC",
+    "bitrate": 96,
+    "working_url": "https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9"
+  },
+  {
+    "name": "WVMT Newstalk 620",
+    "url": "https://live.amperwave.net/manifest/vox-wvmtamaac-hlsc.m3u8",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 96,
+    "working_url": "https://prod-34-227-171-136.amperwave.net/vox-wvmtamaac-hlsc.m3u8"
+  },
+  {
+    "name": "WVOC",
+    "url": "https://stream.revma.ihrhls.com/zc2085",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/68b02b0b710b64a4998b09828fdc200b?ops=gravity(%22center%22),contain(32,32),quality(65)",
+    "codec": "AAC",
+    "bitrate": 0,
+    "working_url": "https://cloud.revma.ihrhls.com/zc2085?rj-org=n45b-e2&rj-ttl=5&rj-tok=AAABn-z9jUIA_5i9J1VxKAVGRA"
+  },
+  {
+    "name": "WVPB 88.5 \"West Virginia Public Broadcasting\" - Charleston, WV",
+    "url": "https://wvpublic.streamguys1.com/wvpb256k.aac",
+    "country": "US",
+    "tags": [
+      "bluegrass",
+      "local news",
+      "mountain stage",
+      "news",
+      "npr",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "AAC",
+    "bitrate": 256,
+    "working_url": "https://wvpublic.streamguys1.com/wvpb256k.aac"
+  },
+  {
+    "name": "WWBA 820 AM",
+    "url": "https://ice41.securenetsystems.net/WWBA",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "https://ice41.securenetsystems.net/WWBA"
+  },
+  {
+    "name": "WWJB - 103.9 FM The Boot | 92.3 FM - 1450 AM",
+    "url": "http://ice3.securenetsystems.net/WWJB",
+    "country": "US",
+    "tags": [
+      "country music",
+      "news",
+      "sports",
+      "talk"
+    ],
+    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1685/2021/10/15134556/logo%402x.png",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "working_url": "http://ice3.securenetsystems.net/WWJB"
+  },
+  {
+    "name": "WWSP 90FM UW Stevens Point",
+    "url": "https://a6.asurahosting.com:8210/radio.mp3",
+    "country": "US",
+    "tags": [
+      "alternative",
+      "indie",
+      "local news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 320,
+    "working_url": "https://a6.asurahosting.com:8210/radio.mp3"
+  },
+  {
+    "name": "WWTN \"Super Talk 99.7\" Hendersonville, TN",
+    "url": "http://26153.live.streamtheworld.com/WWTNFMAAC_SC",
+    "country": "US",
+    "tags": [
+      "hendersonville",
+      "nashville",
+      "news talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://26153.live.streamtheworld.com/WWTNFMAAC_SC"
+  },
+  {
+    "name": "WXLM 980 Groton, CT",
+    "url": "http://26143.live.streamtheworld.com/WXLMAMAAC_SC",
+    "country": "US",
+    "tags": [
+      "groton",
+      "new london",
+      "news",
+      "sport",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "working_url": "http://26143.live.streamtheworld.com/WXLMAMAAC_SC"
+  },
+  {
+    "name": "WXLW 950 \"Freedom 95\" Indianapolis, IN",
+    "url": "http://ice24.securenetsystems.net/WFDM",
+    "country": "US",
+    "tags": [
+      "conservative",
+      "finance",
+      "local weather",
+      "news",
+      "talk",
+      "traffic"
+    ],
+    "favicon": "",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "working_url": "http://ice24.securenetsystems.net/WFDM"
+  },
+  {
+    "name": "WZXI 1280 AM",
+    "url": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3",
+    "country": "US",
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 75,
+    "working_url": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3"
+  },
+  {
+    "name": "美国中文电台-旧金山",
+    "url": "http://radiokest.serverroom.us:6670/;?type=http&nocache=3295",
+    "country": "US",
+    "tags": [
+      "chinese",
+      "news",
+      "public radio"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 24,
+    "working_url": "http://radiokest.serverroom.us:6670/;?type=http&nocache=3295"
+  },
+  {
+    "name": "自由亚洲",
+    "url": "https://stream-160.zeno.fm/ub3pfplpqbktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjNwZnBscHFia3R2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWEYybFJHNTNUYS1hLWp1VWdiY3pBZyIsImlhdCI6MTc2ODQ0MjYxMSwiZXhwIjoxNzY4NDQyNjcxfQ.06_HWbLfxMfXVTmCHzGzYQ6e74o-ifU8nWoLPrgZwDE",
+    "country": "US",
+    "tags": [
+      "information",
+      "news"
+    ],
+    "favicon": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "working_url": "https://stream-283.surfernetwork.com/ub3pfplpqbktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjNwZnBscHFia3R2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjQsImp0aSI6IlAyOEwwTGJIUUdXRXJjdUtTQ2c4aXciLCJpYXQiOjE3ODYzODY4NjgsImV4cCI6MTc4NjM4NjkyOH0.3QB-ZYqMs8a4Xx67L_nvMc6cK27lfrWxQNfI_LBQuAA"
+  }
+]
