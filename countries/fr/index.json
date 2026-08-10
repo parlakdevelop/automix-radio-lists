@@ -1,13 +1,10 @@
 [
   { "id": "pop",     "name": "Pop" },
   { "id": "rock",    "name": "Rock" },
-  { "id": "news",    "name": "Haber / Talk" },
-  { "id": "country", "name": "Country" },
+  { "id": "news",    "name": "News" },
   { "id": "jazz",    "name": "Jazz" },
   { "id": "classical","name": "Classical" },
-  { "id": "electronic","name": "electronic" },
   { "id": "hiphop",    "name": "hiphop" },
   { "id": "dance","name": "dance" },
-  { "id": "latin","name": "latin" },
   { "id": "talk",    "name": "talk" }
 ]
