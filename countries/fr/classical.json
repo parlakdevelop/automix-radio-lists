@@ -1,0 +1,569 @@
+[
+    {
+        "name": ".. مختصر التفسير",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://qurango.net/radio/mukhtasartafsir"
+    },
+    {
+        "name": "..al quran radio",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n01.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-yj-i8AzpkIk9Bo-5JgQA"
+    },
+    {
+        "name": ".mohammed ayyub",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://qurango.net/radio/mohammed_ayyub"
+    },
+    {
+        "name": "6coup.fm",
+        "url": "http://stream.zeno.fm/p4cea0p314zuv",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://stream-176.surfernetwork.com/p4cea0p314zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNGNlYTBwMzE0enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJtTzNyNlFLblQ0bVBvY3RYRDdzUEZBIiwiaWF0IjoxNzg2MzgwOTk2LCJleHAiOjE3ODYzODEwNTZ9.0whN-aucbhWT52JDa7xZ45Sey_i6P3jz0rOyY63u8zM"
+    },
+    {
+        "name": "Allzic Classic Piano",
+        "url": "http://allzic47.ice.infomaniak.ch/allzic47.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.allzicradio.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic47.ice.infomaniak.ch/allzic47.mp3"
+    },
+    {
+        "name": "Allzic Radio Classic",
+        "url": "http://allzic06.ice.infomaniak.ch/allzic06",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic06.ice.infomaniak.ch/allzic06"
+    },
+    {
+        "name": "AllZic Radio Classic Violon",
+        "url": "http://allzic48.ice.infomaniak.ch/allzic48.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic48.ice.infomaniak.ch/allzic48.mp3"
+    },
+    {
+        "name": "CAMP Radio",
+        "url": "https://listen.camp/campradio.ogg",
+        "country": "FR",
+        "tags": [
+            "ambient",
+            "avantgarde",
+            "classical music",
+            "cosmic",
+            "dream pop",
+            "drone",
+            "dub",
+            "electroacoustic",
+            "electronic",
+            "experimental",
+            "field recording",
+            "folk",
+            "hip hop",
+            "idm",
+            "improvisation",
+            "jazz",
+            "modern classical",
+            "multi genre",
+            "noise",
+            "poetry",
+            "post-punk",
+            "psychedelic",
+            "punk",
+            "shoegaze",
+            "soundart",
+            "soundscape",
+            "soundtrack",
+            "world"
+        ],
+        "favicon": "https://favicon.im/listen.camp",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "https://listen.camp/campradio.ogg"
+    },
+    {
+        "name": "CINEMUSIC Radio",
+        "url": "https://listen.radioking.com/radio/422/stream/62785",
+        "country": "FR",
+        "tags": [
+            "cinema",
+            "classical",
+            "jazz",
+            "movie",
+            "movie scores",
+            "music",
+            "oldies",
+            "pop",
+            "relax"
+        ],
+        "favicon": "https://cinemusicradio.com/upload/design/63b2a6080fdb31.87854813.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen.radioking.com/radio/422/stream/62785"
+    },
+    {
+        "name": "Classic FM",
+        "url": "http://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://classicfm.ice.infomaniak.ch/classic-fm.mp3"
+    },
+    {
+        "name": "FIP",
+        "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://icecast.radiofrance.fr/fip-hifi.aac"
+    },
+    {
+        "name": "France Musique",
+        "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "jazz",
+            "music",
+            "public radio",
+            "radio france"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3"
+    },
+    {
+        "name": "France Musique | Classique Easy",
+        "url": "http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3",
+        "country": "FR",
+        "tags": [
+            "classic",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3"
+    },
+    {
+        "name": "France Musique | Classique Plus",
+        "url": "http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3",
+        "country": "FR",
+        "tags": [
+            "classic",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3"
+    },
+    {
+        "name": "France Musique | Concerts Radio France",
+        "url": "http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3",
+        "country": "FR",
+        "tags": [
+            "classic",
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3"
+    },
+    {
+        "name": "France Musique Classique Easy",
+        "url": "http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "aac",
+            "classical",
+            "public radio",
+            "radio france"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac"
+    },
+    {
+        "name": "France Musique Classique Plus",
+        "url": "http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "aac",
+            "long pieces of classical music",
+            "public radio",
+            "radio france"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac"
+    },
+    {
+        "name": "France Musique Jazz",
+        "url": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac"
+    },
+    {
+        "name": "France Musique la B.O.",
+        "url": "https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac"
+    },
+    {
+        "name": "France Musique La Baroque",
+        "url": "http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "aac",
+            "classical",
+            "public radio",
+            "radio france"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac"
+    },
+    {
+        "name": "génération Soul",
+        "url": "https://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3"
+    },
+    {
+        "name": "Hotmix Classical",
+        "url": "https://streaming.hotmixradio.com/hotmix-classical-en-mp3?provider=radiobrowser",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "classical music"
+        ],
+        "favicon": "https://cdn.hotmixradio.com/hotmix-classical-en-mp3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.hotmixradio.com/hotmix-classical-en-mp3?provider=radiobrowser"
+    },
+    {
+        "name": "Jazz Radio Classic Jazz",
+        "url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3"
+    },
+    {
+        "name": "LA GRANDE MUSIQUE",
+        "url": "https://stream.rcs.revma.com/186wgykpq42vv",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "classique"
+        ],
+        "favicon": "https://static.wixstatic.com/media/6ee214_ca4e9e9812994f4e868ce25d93722f71~mv2.png/v1/fill/w_324,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1200_800%20logo%20LGMpremium.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n07-us.rcs.revma.com/186wgykpq42vv?rj-ttl=5&rj-tok=AAABn-yj_78ANByZHjoA18xkCw"
+    },
+    {
+        "name": "LA GRANDE MUSIQUE Baroque",
+        "url": "https://stream.rcs.revma.com/1g8a3ufsyp3vv",
+        "country": "FR",
+        "tags": [
+            "baroque",
+            "classical baroque"
+        ],
+        "favicon": "https://api.radiosolution.fr/data/logos/552_248_logo_lgm_baroque.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n02-us.rcs.revma.com/1g8a3ufsyp3vv?rj-ttl=5&rj-tok=AAABn-ykAQgA5-jMMTEqOaV-tw"
+    },
+    {
+        "name": "Le Bon mix soft",
+        "url": "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 0,
+        "working_url": "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio"
+    },
+    {
+        "name": "M Radio - Années 80",
+        "url": "http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3"
+    },
+    {
+        "name": "M Radio - Années 90",
+        "url": "http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3"
+    },
+    {
+        "name": "M Radio - Tubes du grenier",
+        "url": "http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3"
+    },
+    {
+        "name": "M Radio Cultes années 60 et 70",
+        "url": "http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3"
+    },
+    {
+        "name": "Pi ano FLAC+meta",
+        "url": "http://stream.p-node.org/piano",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "contemporary classical",
+            "jazz",
+            "piano"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "http://stream.p-node.org/piano"
+    },
+    {
+        "name": "Radio Boom Boom",
+        "url": "https://listen.radioboomboom.com/listen/rbb/radio.mp3",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "dub",
+            "jazz",
+            "pop",
+            "reggae",
+            "rock",
+            "techno"
+        ],
+        "favicon": "https://i.ibb.co/9sVFjX6/boomboom400.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen.radioboomboom.com/listen/rbb/radio.mp3"
+    },
+    {
+        "name": "Radio Classique",
+        "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+    },
+    {
+        "name": "Radio Courtoisie",
+        "url": "https://ice.creacast.com/radio-courtoisie",
+        "country": "FR",
+        "tags": [
+            "catholic",
+            "classical music",
+            "conservative talk",
+            "culture",
+            "french chansons"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/fr/3/32/Logo_radio_courtoisie.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice.creacast.com/radio-courtoisie"
+    },
+    {
+        "name": "Radio Neptune",
+        "url": "http://icecast.infini.fr:8000/neptune",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://icecast.infini.fr:8000/neptune"
+    },
+    {
+        "name": "Radio Zones 93,8 FM",
+        "url": "http://radiozones.dyndns.org:8000/radiozones",
+        "country": "FR",
+        "tags": [
+            "african",
+            "blues",
+            "classical",
+            "french music",
+            "hip-hop",
+            "italian music",
+            "jazz",
+            "latino",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radiozones.dyndns.org:8000/radiozones"
+    },
+    {
+        "name": "RTL",
+        "url": "http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming-ice.audiomeans.fr/rtl/feed-rtl-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=rtl&aw_0_1st.program=rtl&listen=webCwsBCggNCQgLDQUGBAcGBg"
+    },
+    {
+        "name": "size",
+        "url": "http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBO5yeUAhfsJOCv6Zdl9QA",
+        "country": "FR",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "https://www.size-radio.com/wp-content/uploads/2020/05/size-flyer-paris-300-50x50.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n08.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABn-yj_7YASrZzNuaoTDUouQ"
+    },
+    {
+        "name": "Soft Radio",
+        "url": "https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio",
+        "country": "FR",
+        "tags": [
+            "calm",
+            "classical",
+            "eclectic",
+            "jazz",
+            "relaxing",
+            "soft",
+            "soundtracks"
+        ],
+        "favicon": "https://static.wixstatic.com/media/8f2aad_aa6143964e8d4a1f80be28d048517260~mv2.png",
+        "codec": "AAC+",
+        "bitrate": 192,
+        "working_url": "https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio"
+    },
+    {
+        "name": "SUN Classique",
+        "url": "https://diffusion.lafrap.fr/sun-classique.mp3",
+        "country": "FR",
+        "tags": [
+            "classical",
+            "classique",
+            "instrumental",
+            "opera",
+            "salon"
+        ],
+        "favicon": "https://www.lesonunique.com/datasun/images_flux/logos/SD/classique.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://diffusion.lafrap.fr/sun-classique.mp3"
+    }
+]

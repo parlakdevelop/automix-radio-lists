@@ -1,0 +1,925 @@
+[
+    {
+        "name": "103 Radio",
+        "url": "http://streaming.103radio.fr/128",
+        "country": "FR",
+        "tags": [
+            "clubbing",
+            "dance",
+            "electro"
+        ],
+        "favicon": "https://www.103radio.fr/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming.103radio.fr/128"
+    },
+    {
+        "name": "Aïoli Radio",
+        "url": "https://stream.aioli-radio.org/main.ogg",
+        "country": "FR",
+        "tags": [
+            "ambient",
+            "autres",
+            "chanson",
+            "classique",
+            "dancehall",
+            "dub",
+            "electro",
+            "folk",
+            "funk",
+            "hip hop",
+            "infos",
+            "jazz",
+            "local",
+            "pop",
+            "reggae",
+            "trip hop"
+        ],
+        "favicon": "https://www.aioli-radio.org/icons/icon-144x144.png?v=1fcb4097b832c16b2996c0ec84a6fd0e",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "https://stream.aioli-radio.org/main.ogg"
+    },
+    {
+        "name": "Air Connect Radio",
+        "url": "https://stream2.airconnectradio.com/ac128.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "hits",
+            "pop"
+        ],
+        "favicon": "https://airconnectradio.com/img/logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream2.airconnectradio.com/ac128.mp3"
+    },
+    {
+        "name": "AkroRadio",
+        "url": "http://stream.akroradio.com:10012/AkroRadio",
+        "country": "FR",
+        "tags": [
+            "80's",
+            "90's",
+            "dance",
+            "hits",
+            "techno",
+            "top40"
+        ],
+        "favicon": "https://www.akroradio.com/wp-content/uploads/2020/11/cropped-icone-1-180x180.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://stream.akroradio.com:10012/AkroRadio"
+    },
+    {
+        "name": "AkroRadio - www.akroradio.com",
+        "url": "https://stream.akroradio.com/listen/akroradio/AkroRadio",
+        "country": "FR",
+        "tags": [
+            "80's",
+            "90's",
+            "dance",
+            "hits",
+            "techno",
+            "top40"
+        ],
+        "favicon": "https://akroradio.com/wp-content/uploads/2023/09/cropped-icone.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream.akroradio.com/listen/akroradio/AkroRadio"
+    },
+    {
+        "name": "Alefamusic",
+        "url": "http://www.radioking.com/play/alefamusic",
+        "country": "FR",
+        "tags": [
+            "african",
+            "african music",
+            "african pop",
+            "afrique",
+            "afro-pop",
+            "afropop",
+            "pop",
+            "pop dance",
+            "pop music"
+        ],
+        "favicon": "https://www.alefamusic.net/upload/583de911e42a49.25823503.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.radioking.com/radio/20/stream/635"
+    },
+    {
+        "name": "Allzic Radio Dance Floor",
+        "url": "http://allzic07.ice.infomaniak.ch/allzic07.mp3",
+        "country": "FR",
+        "tags": [
+            "charts",
+            "dance",
+            "edm",
+            "electro",
+            "pop"
+        ],
+        "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic07.ice.infomaniak.ch/allzic07.mp3"
+    },
+    {
+        "name": "Allzic Radio Fitness",
+        "url": "http://allzic13.ice.infomaniak.ch/allzic13.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "fitness",
+            "pop"
+        ],
+        "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic13.ice.infomaniak.ch/allzic13.mp3"
+    },
+    {
+        "name": "Allzic Radio Top 20",
+        "url": "http://allzic41.ice.infomaniak.ch/allzic41.mp3",
+        "country": "FR",
+        "tags": [
+            "charts",
+            "dance",
+            "hits",
+            "hot hits",
+            "pop",
+            "top 20"
+        ],
+        "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic41.ice.infomaniak.ch/allzic41.mp3"
+    },
+    {
+        "name": "Allzic Radio Top 50",
+        "url": "http://allzic55.ice.infomaniak.ch/allzic55.mp3",
+        "country": "FR",
+        "tags": [
+            "charts",
+            "dance",
+            "hits",
+            "hot",
+            "pop",
+            "top"
+        ],
+        "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://allzic55.ice.infomaniak.ch/allzic55.mp3"
+    },
+    {
+        "name": "B4B CLUB DANCE OFFICIAL",
+        "url": "http://eu10.fastcast4u.com:8120/",
+        "country": "FR",
+        "tags": [
+            "club",
+            "club dance",
+            "dance",
+            "deep house",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://eu10.fastcast4u.com:8120/"
+    },
+    {
+        "name": "B4B Radio DISCO FUNK",
+        "url": "https://eu10.fastcast4u.com:8120/",
+        "country": "FR",
+        "tags": [
+            "dance classics",
+            "disco funk",
+            "funk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://eu10.fastcast4u.com:8120/"
+    },
+    {
+        "name": "Boombox Radio",
+        "url": "http://hosting.studioradiomedia.fr:1100/boombox",
+        "country": "FR",
+        "tags": [
+            "00s",
+            "80s",
+            "90s",
+            "disco",
+            "eurodance",
+            "funk",
+            "pop rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://hosting.studioradiomedia.fr:1100/boombox"
+    },
+    {
+        "name": "C9 Radio",
+        "url": "https://stream.c9.fr/c9radio-192.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "pop",
+            "rock",
+            "talk",
+            "top 40"
+        ],
+        "favicon": "https://www.c9.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.c9.fr/c9radio-192.mp3"
+    },
+    {
+        "name": "EuroDance 90 radio",
+        "url": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+        "country": "FR",
+        "tags": [
+            "dancefloor",
+            "electronic dance music",
+            "eurodance",
+            "pop dance",
+            "pop music"
+        ],
+        "favicon": "https://eurodance90.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323"
+    },
+    {
+        "name": "FG Classics",
+        "url": "https://stream.rcs.revma.com/wknqhm4yuchvv?CAID=202605180046506038991434",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "house"
+        ],
+        "favicon": "https://www.radiofg.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n06-us.rcs.revma.com/wknqhm4yuchvv?rj-ttl=5&rj-tok=AAABn-ykIJQAjZZnsUs4_IlJOQ&CAID=202605180046506038991434"
+    },
+    {
+        "name": "france",
+        "url": "https://stream-eurodance90.fr/radio/8000/128.mp3",
+        "country": "FR",
+        "tags": [
+            "eurodance"
+        ],
+        "favicon": "https://stream-eurodance90.fr/static/uploads/browser_icon/120.1680701870.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream-eurodance90.fr/radio/8000/128.mp3"
+    },
+    {
+        "name": "FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club",
+        "url": "https://onair.net-radio.fr/frequence3dance.flac",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 128,
+        "working_url": "https://onair.net-radio.fr/frequence3dance.flac"
+    },
+    {
+        "name": "Fréquence 3 Dance",
+        "url": "https://frequence3.net-radio.fr/frequence3dance.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "pop"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "https://frequence3.net-radio.fr/frequence3dance.mp3"
+    },
+    {
+        "name": "FUN Radio",
+        "url": "http://icecast.funradio.fr/fun-1-44-128",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electro",
+            "latino"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming-ice.audiomeans.fr/rtl/feed-funradio-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun"
+    },
+    {
+        "name": "Generations Dance Hall",
+        "url": "http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3",
+        "country": "FR",
+        "tags": [
+            "dance hall",
+            "french"
+        ],
+        "favicon": "https://generations.fr/apple-touch-icon-120x120.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3"
+    },
+    {
+        "name": "Hit53",
+        "url": "https://azura.hit53.fr/hit128.mp3",
+        "country": "FR",
+        "tags": [
+            "contemporary hits",
+            "dance",
+            "electro",
+            "pop"
+        ],
+        "favicon": "https://hit53.fr/favicon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://azura.hit53.fr/hit128.mp3"
+    },
+    {
+        "name": "Hits 1",
+        "url": "https://hits1-audiomediaradio.radioca.st/hits1",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "dj",
+            "dj sets",
+            "djs",
+            "edm",
+            "electronic",
+            "hits",
+            "house",
+            "top 40",
+            "top charts",
+            "top hits"
+        ],
+        "favicon": "https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://hits1-audiomediaradio.radioca.st/hits1"
+    },
+    {
+        "name": "Hits 1 Cognac",
+        "url": "https://hits1cognac-audiomediaradio.radioca.st/hits1cognac",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "dj",
+            "dj sets",
+            "edm",
+            "electronic",
+            "hits",
+            "house",
+            "music",
+            "top 40",
+            "top charts",
+            "top hits"
+        ],
+        "favicon": "https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://hits1cognac-audiomediaradio.radioca.st/hits1cognac"
+    },
+    {
+        "name": "Hotmix 90",
+        "url": "https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser",
+        "country": "FR",
+        "tags": [
+            "90's",
+            "90s",
+            "90s dance",
+            "pop",
+            "pop rock"
+        ],
+        "favicon": "https://cdn.hotmixradio.com/hotmix-90s-fr-mp3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser"
+    },
+    {
+        "name": "Hotmix Dance",
+        "url": "https://streaming.hotmixradio.com/hotmix-dance-en-mp3?provider=radiobrowser",
+        "country": "FR",
+        "tags": [
+            "club dance",
+            "dance",
+            "dance music"
+        ],
+        "favicon": "https://cdn.hotmixradio.com/hotmix-dance-fr-mp3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.hotmixradio.com/hotmix-dance-en-mp3?provider=radiobrowser"
+    },
+    {
+        "name": "Hotmix Electro Dance",
+        "url": "https://streaming.hotmixradio.com/hotmix-electro-dance-en-mp3?provider=radiobrowser",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "edm",
+            "electro house"
+        ],
+        "favicon": "https://cdn.hotmixradio.com/hotmix-electro_dance-en-mp3.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.hotmixradio.com/hotmix-electro-dance-en-mp3?provider=radiobrowser"
+    },
+    {
+        "name": "Hotmix Party Dance",
+        "url": "https://streaming.hotmixradio.com/hotmix-party-dance-en-mp3?provider=radiobrowser",
+        "country": "FR",
+        "tags": [
+            "club dance",
+            "dance",
+            "party",
+            "party dance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.hotmixradio.com/hotmix-party-dance-en-mp3?provider=radiobrowser"
+    },
+    {
+        "name": "IAradio Dance House",
+        "url": "https://iaradiodance.ice.infomaniak.ch/iaradiodance-128.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://iaradiodance.ice.infomaniak.ch/iaradiodance-128.mp3"
+    },
+    {
+        "name": "ISEKOI Radio",
+        "url": "https://public.isekoi-radio.com/listen/isekoi/radio.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "dnb",
+            "drum & bass",
+            "eclectic",
+            "electronic",
+            "hip-hop",
+            "house",
+            "rap"
+        ],
+        "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://public.isekoi-radio.com/listen/isekoi/radio.mp3"
+    },
+    {
+        "name": "Latitude",
+        "url": "https://latitude.ice.infomaniak.ch/troyes.aac",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "pop dance",
+            "pop music",
+            "top40"
+        ],
+        "favicon": "https://www.latitude.fm/wp-content/uploads/2020/09/favicon.jpg",
+        "codec": "AAC+",
+        "bitrate": 0,
+        "working_url": "https://latitude.ice.infomaniak.ch/troyes.aac"
+    },
+    {
+        "name": "Laurent DINE IGLESIAS",
+        "url": "https://radio7.pro-fhi.net:19141/milleniumfm.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electro",
+            "electro latino",
+            "electro pop",
+            "french touch",
+            "hits",
+            "house",
+            "mix",
+            "progressive house",
+            "techno"
+        ],
+        "favicon": "https://milleniumfm.fr/wp-content/uploads/2023/01/Millenium-Vinyl-1280x768-3-e1673027437588.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio7.pro-fhi.net:19141/milleniumfm.mp3"
+    },
+    {
+        "name": "M40 Eurodance",
+        "url": "https://live.m40radio.fr/listen/m40-eurodance/m40-eurodance-128.mp3",
+        "country": "FR",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://cdn.m40radio.fr/wp-content/uploads/radio-m40-eurodance-370x370.webp",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://live.m40radio.fr/listen/m40-eurodance/m40-eurodance-128.mp3"
+    },
+    {
+        "name": "M40 Maxi Dance",
+        "url": "https://live.m40radio.fr/listen/m40-maxi-dance/m40-maxi-dance-128.mp3",
+        "country": "FR",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://cdn.m40radio.fr/wp-content/uploads/radio-m40-maxi-dance-370x370.webp",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://live.m40radio.fr/listen/m40-maxi-dance/m40-maxi-dance-128.mp3"
+    },
+    {
+        "name": "Max Radio Grenoble",
+        "url": "https://maxfm.ice.infomaniak.ch/maxfm-945.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "dance music",
+            "electro",
+            "electronic",
+            "electronic dance music",
+            "pop",
+            "pop music"
+        ],
+        "favicon": "https://max.radio/player/img/logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://maxfm.ice.infomaniak.ch/maxfm-945.mp3"
+    },
+    {
+        "name": "Maxximum 90's",
+        "url": "http://stream.rcs.revma.com/maygqbdap98uv",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electro",
+            "house",
+            "techno"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n06-us.rcs.revma.com/maygqbdap98uv?rj-ttl=5&rj-tok=AAABn-ykI_IAIpO-BXmpprsr4w"
+    },
+    {
+        "name": "Music Radio",
+        "url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
+        "country": "FR",
+        "tags": [
+            "chillout",
+            "chillout+lounge",
+            "club house",
+            "cool jazz",
+            "disco funk",
+            "easy listening",
+            "easy music",
+            "electronic",
+            "entertainment",
+            "funk",
+            "funky",
+            "funky house",
+            "hits",
+            "house",
+            "jazz",
+            "música pop",
+            "new releases",
+            "nu-jazz",
+            "piano jazz",
+            "pop dance",
+            "pop en español e inglés",
+            "pop en inglés",
+            "pop music",
+            "pop rock",
+            "popular",
+            "smooth jazz",
+            "soulful house",
+            "tech house",
+            "top hits"
+        ],
+        "favicon": "https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3"
+    },
+    {
+        "name": "Nostalgie Dance 90",
+        "url": "https://stream.rcs.revma.com/54xm7543ehuvv",
+        "country": "FR",
+        "tags": [
+            "90s",
+            "dance",
+            "hits",
+            "house"
+        ],
+        "favicon": "https://www.nostalgie.be/build/images/favicon.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://n01-us.rcs.revma.com/54xm7543ehuvv?rj-ttl=5&rj-tok=AAABn-ykJYgAZaAVKh8MLQ2u2Q"
+    },
+    {
+        "name": "Nova Reggae",
+        "url": "https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3",
+        "country": "FR",
+        "tags": [
+            "dancehall",
+            "dub",
+            "reggae",
+            "rocksteady",
+            "ska"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3"
+    },
+    {
+        "name": "NTI",
+        "url": "http://streaming.radionti.com/nti-128.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "mix"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming.radionti.com/nti-128.mp3"
+    },
+    {
+        "name": "PulsRadio 2000 (64k AAC)",
+        "url": "https://sc6.gergosnet.com:80/puls00AAC64.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electronic",
+            "trance"
+        ],
+        "favicon": "https://www.pulsradio.com/apple-icon-120x120.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://sc6.gergosnet.com:80/puls00AAC64.mp3"
+    },
+    {
+        "name": "PulsRadio Club",
+        "url": "https://icecast.pulsradio.com/mxHD.mp3",
+        "country": "FR",
+        "tags": [
+            "club",
+            "clubbing",
+            "dance",
+            "electronic",
+            "house",
+            "pulsradio",
+            "webradio"
+        ],
+        "favicon": "https://www.pulsradio.com/img/logo-club.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://str3.openstream.co/2138?aw_0_1st.collectionid%3D6052%26stationId%3D6052%26publisherId%3D2162%26k%3D1786381009"
+    },
+    {
+        "name": "PulsRadio Dance",
+        "url": "https://sc4.gergosnet.com/pulsHD.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "trance"
+        ],
+        "favicon": "https://images.radiovolna.net/_files/images/stations/5461/qek85953ca5055576843000583_130x130.webp",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://sc4.gergosnet.com/pulsHD.mp3"
+    },
+    {
+        "name": "Radio 90 Dance",
+        "url": "http://radiart.eu:8394/live",
+        "country": "FR",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://radiart.eu:8394/live"
+    },
+    {
+        "name": "Radio Aviva",
+        "url": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3",
+        "country": "FR",
+        "tags": [
+            "00s",
+            "70s",
+            "80s",
+            "90s",
+            "dance",
+            "house",
+            "local news",
+            "news",
+            "pop dance",
+            "top 40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3"
+    },
+    {
+        "name": "RADIO DANCE années 90",
+        "url": "https://radiodance.streamingmedia.it/fr.aac",
+        "country": "FR",
+        "tags": [
+            "90s dance",
+            "dance"
+        ],
+        "favicon": "https://www.radio.dance/logo_radiodance90s_512.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "https://radiodance.streamingmedia.it/fr.aac"
+    },
+    {
+        "name": "Radio Elecroshock",
+        "url": "http://manager.conceptradio.fr:1250/stream",
+        "country": "FR",
+        "tags": [
+            "club dance",
+            "club house",
+            "electronic dance music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://manager.conceptradio.fr:1250/stream"
+    },
+    {
+        "name": "Radio FG at work",
+        "url": "http://stream.rcs.revma.com/2v1zz979n98uv",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "edm",
+            "electro",
+            "house"
+        ],
+        "favicon": "https://static.mytuner.mobi/media/tvos_radios/116/fg-non-stop.48576e8c.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n09-us.rcs.revma.com/2v1zz979n98uv?rj-ttl=5&rj-tok=AAABn-ykJyEALpX50S_uUSJZww"
+    },
+    {
+        "name": "Radio FG Underground",
+        "url": "https://radiofg.impek.com/ufg.mp3",
+        "country": "FR",
+        "tags": [
+            "electronic dance music",
+            "underground"
+        ],
+        "favicon": "https://www.lawebradio.com/news/wp-content/uploads/2017/10/ima2-fgradio-undrgrnd-102017.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n09-us.rcs.revma.com/vb3b5749n98uv?rj-ttl=5&rj-tok=AAABn-ykKusAwK4DBNSDnPg4Wg"
+    },
+    {
+        "name": "Radio Fuego",
+        "url": "https://n12a-eu.rcs.revma.com/dapwbz2befcwv",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "latino",
+            "urban"
+        ],
+        "favicon": "https://radiofuego.fr/favicon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://n17-eu.rcs.revma.com/dapwbz2befcwv?rj-ttl=5&rj-tok=AAABn-ykKBEAbmdQp7gilBuWjw"
+    },
+    {
+        "name": "Radio NTI",
+        "url": "http://streaming.radionti.com/nti-hd.mp3",
+        "country": "FR",
+        "tags": [
+            "club dj remix dance pop",
+            "dj radio",
+            "dj remix",
+            "electronic dance music"
+        ],
+        "favicon": "https://www.radionti.com/upload/design/5dd6aba2840dc2.95622307.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://streaming.radionti.com/nti-hd.mp3"
+    },
+    {
+        "name": "Radio Odyssey",
+        "url": "https://listen.radioking.com/radio/706859/stream/772319",
+        "country": "FR",
+        "tags": [
+            "80s",
+            "breathing",
+            "chill",
+            "dance",
+            "easy listening",
+            "feel good",
+            "hits",
+            "pop",
+            "positive",
+            "relaxation",
+            "webradio",
+            "wellness"
+        ],
+        "favicon": "https://www.radio-odyssey.com/assets/images/logo.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.radioking.com/radio/706859/stream/772319"
+    },
+    {
+        "name": "Radio Scoop Powerdance",
+        "url": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
+        "country": "FR",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac"
+    },
+    {
+        "name": "Redzing Radio",
+        "url": "https://onair.redzingradio.com/redzing-256",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electro",
+            "pop",
+            "top40"
+        ],
+        "favicon": "https://redzingradio.com/wp-content/uploads/2020/06/cropped-logo_cerclebleu_RedzingRadio_2022.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://onair.redzingradio.com/redzing-256"
+    },
+    {
+        "name": "VertigeDance",
+        "url": "https://stream10.vestaradio.com/VertigeDance",
+        "country": "FR",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://studio10.vestaradio.com/uploads/temp/logos/logo_1_25_1781885967_59e992.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream10.vestaradio.com/VertigeDance"
+    },
+    {
+        "name": "Vip Radios - Hit Club Dance",
+        "url": "https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "electronic",
+            "trance"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance"
+    },
+    {
+        "name": "Yellow Radio",
+        "url": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "deep",
+            "electro",
+            "pop"
+        ],
+        "favicon": "https://yellow.radio/Logo_Yellow_Radio_180x180.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3"
+    },
+    {
+        "name": "🕺 Générations Dancehall",
+        "url": "https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.aac",
+        "country": "FR",
+        "tags": [
+            "dancehall"
+        ],
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnhJmvti_BH6oOOGOTfiuUc26pCXXZbu2kSzAztx5Djgb1TqKDf64tgGm2EGlhR08B10iUj4Aa0YcM1960rrGNkQd9R_-nj5hJ4mOhz119h-ipkZtnyblHix9CHBS_vnoSa2QXCGHtWPDWg0M2oANax1FdG8cAey3Sw10FuQMWx8z8Sh9RH6Jw48py/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-18_11-39-43.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.aac"
+    }
+]

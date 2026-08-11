@@ -1,0 +1,521 @@
+[
+    {
+        "name": "MARSANARYAS",
+        "url": "https://www.marsanaryas.com/radio/live/",
+        "country": "FR",
+        "tags": [
+            "independent",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://www.marsanaryas.com/radio/live/POD00.mp3?radio=marsanaryas&d=10082026-185822"
+    },
+    {
+        "name": "5Sens Radio",
+        "url": "https://radio.5sens.fr/radio/stream.php",
+        "country": "FR",
+        "tags": [
+            "games",
+            "talk radio"
+        ],
+        "favicon": "https://radio.5sens.fr/photos/podcasts/favicon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://radio.5sens.fr/radio/stream.php"
+    },
+    {
+        "name": "Africa Radio Paris",
+        "url": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+        "country": "FR",
+        "tags": [
+            "african music",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/africaradio/images/logo_RvDT2jBisJ.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3"
+    },
+    {
+        "name": "C9 Radio",
+        "url": "https://stream.c9.fr/c9radio-192.mp3",
+        "country": "FR",
+        "tags": [
+            "dance",
+            "pop",
+            "rock",
+            "talk",
+            "top 40"
+        ],
+        "favicon": "https://www.c9.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.c9.fr/c9radio-192.mp3"
+    },
+    {
+        "name": "Elise radio",
+        "url": "https://elise.wanastream.com:25000/;stream.nsv",
+        "country": "FR",
+        "tags": [
+            "90's",
+            "années 80",
+            "electro",
+            "emission",
+            "jazz",
+            "pop music",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://elise.wanastream.com:25000/;stream.nsv"
+    },
+    {
+        "name": "Europe 1",
+        "url": "https://stream.europe1.fr/europe1.aac",
+        "country": "FR",
+        "tags": [
+            "aac",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://www.europe1.fr/build/e1/images/favicon-120x120.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://europe1.lmn.fm/europe1.aac"
+    },
+    {
+        "name": "FPP Fréquence Paris Plurielle rfpp",
+        "url": "https://direct.rfpp.net/fpp.mp3",
+        "country": "FR",
+        "tags": [
+            "political talk",
+            "politique",
+            "radio associative",
+            "radio libre",
+            "voix des sans voix"
+        ],
+        "favicon": "https://rfpp.net/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://direct.rfpp.net/fpp.mp3"
+    },
+    {
+        "name": "France Culture",
+        "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+        "country": "FR",
+        "tags": [
+            "culture",
+            "talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/d/d6/France_Culture_logo_2021.svg",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "http://icecast.radiofrance.fr/franceculture-hifi.aac"
+    },
+    {
+        "name": "France Inter",
+        "url": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8",
+        "country": "FR",
+        "tags": [
+            "debate",
+            "hls",
+            "m3u8",
+            "music",
+            "news",
+            "public radio",
+            "radio france",
+            "talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8"
+    },
+    {
+        "name": "Monte Carlo Doualiya",
+        "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+        "country": "FR",
+        "tags": [
+            "arabic",
+            "entertainment",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://www.mc-doualiya.com/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"
+    },
+    {
+        "name": "Radio Bartas",
+        "url": "https://stream-ssl.radios-arra.fr:8443/radiobartas",
+        "country": "FR",
+        "tags": [
+            "local",
+            "music",
+            "talk"
+        ],
+        "favicon": "https://www.radiobartas.net/wp-content/uploads/2019/08/logo-RADIO-BARTAS-final.jpg",
+        "codec": "MP3",
+        "bitrate": 224,
+        "working_url": "https://stream-ssl.radios-arra.fr:8443/radiobartas"
+    },
+    {
+        "name": "Radio Broussaille",
+        "url": "https://stream.radiobroussaille.fr:8443/broussaille-hifi",
+        "country": "FR",
+        "tags": [
+            "adfree",
+            "broussaille",
+            "creative",
+            "direct",
+            "foss",
+            "gascon",
+            "gers",
+            "humour",
+            "libre",
+            "live",
+            "local",
+            "l’ouverture",
+            "musique",
+            "média engagé",
+            "occitanie",
+            "sanspub",
+            "talk",
+            "émission"
+        ],
+        "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
+        "codec": "AAC",
+        "bitrate": 320,
+        "working_url": "https://stream.radiobroussaille.fr:8443/broussaille-hifi"
+    },
+    {
+        "name": "Radio Broussaille (Lo-Fi AAC 128)",
+        "url": "https://stream.radiobroussaille.fr:8443/broussaille-lofi",
+        "country": "FR",
+        "tags": [
+            "adfree",
+            "broussaille",
+            "creative",
+            "direct",
+            "foss",
+            "gascon",
+            "gers",
+            "humour",
+            "libre",
+            "live",
+            "local",
+            "l’ouverture",
+            "musique",
+            "média engagé",
+            "occitanie",
+            "sanspub",
+            "talk",
+            "émission"
+        ],
+        "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://stream.radiobroussaille.fr:8443/broussaille-lofi"
+    },
+    {
+        "name": "radio cactus",
+        "url": "http://51.68.228.156:8000/cactus",
+        "country": "FR",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "http://www.radio-cactus.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://51.68.228.156:8000/cactus"
+    },
+    {
+        "name": "Radio Canut",
+        "url": "https://live.aurafm.org/radiocanut",
+        "country": "FR",
+        "tags": [
+            "musique",
+            "politics",
+            "rap",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://live.aurafm.org/radiocanut"
+    },
+    {
+        "name": "Radio Courtoisie",
+        "url": "https://ice.creacast.com/radio-courtoisie",
+        "country": "FR",
+        "tags": [
+            "catholic",
+            "classical music",
+            "conservative talk",
+            "culture",
+            "french chansons"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/fr/3/32/Logo_radio_courtoisie.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice.creacast.com/radio-courtoisie"
+    },
+    {
+        "name": "Radio Ici & Maintenant",
+        "url": "https://s64.radiolize.com/radio/8090/radio.mp3",
+        "country": "FR",
+        "tags": [
+            "cultural",
+            "culture",
+            "talk & speech"
+        ],
+        "favicon": "https://fr.wikipedia.org/wiki/Ici_et_Maintenant_!#/media/Fichier:RIM.jpg",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://s64.radiolize.com/radio/8090/radio.mp3"
+    },
+    {
+        "name": "Radio Libertaire (France)",
+        "url": "http://media.radio-libertaire.org:8080/radiolib.mp3",
+        "country": "FR",
+        "tags": [
+            "music",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://media.radio-libertaire.org:8080/radiolib.mp3"
+    },
+    {
+        "name": "Ràdio País",
+        "url": "https://stunnel2.cyber-streaming.com:9272/stream",
+        "country": "FR",
+        "tags": [
+            "bearn",
+            "folk",
+            "gascony",
+            "music",
+            "news",
+            "occitania",
+            "regional",
+            "talk",
+            "traditional"
+        ],
+        "favicon": "https://www.radiopais.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stunnel2.cyber-streaming.com:9272/stream"
+    },
+    {
+        "name": "Radio Pikez !",
+        "url": "http://ecouter.pikez.space:8000/pikez_hd",
+        "country": "FR",
+        "tags": [
+            "french",
+            "music",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ecouter.pikez.space:8000/pikez_hd"
+    },
+    {
+        "name": "Radio Public Santé",
+        "url": "http://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3",
+        "country": "FR",
+        "tags": [
+            "health",
+            "information",
+            "musique",
+            "news talk",
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://www.publicsante.com/favicon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3"
+    },
+    {
+        "name": "Replay News",
+        "url": "http://replaynews.ice.infomaniak.ch/replaynews-192.mp3",
+        "country": "FR",
+        "tags": [
+            "economic news",
+            "information",
+            "news talk",
+            "world news"
+        ],
+        "favicon": "https://www.replaynews.net/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://replaynews.ice.infomaniak.ch/replaynews-192.mp3"
+    },
+    {
+        "name": "RFI Russia",
+        "url": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
+        "country": "FR",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "https://www.rfi.fr/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3"
+    },
+    {
+        "name": "RMC",
+        "url": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8",
+        "country": "FR",
+        "tags": [
+            "infos",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://yt3.ggpht.com/-56JILsUfbls/AAAAAAAAAAI/AAAAAAAAAAA/47vJXr02s6k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8"
+    },
+    {
+        "name": "RTL France (MP3 128 kbps)",
+        "url": "http://icecast.rtl.fr/rtl-1-44-128",
+        "country": "FR",
+        "tags": [
+            "news talk music entertainment"
+        ],
+        "favicon": "https://m6unlimited.fr/app/uploads/sites/2/2025/01/rtl-rect-rouge-rvb.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://streaming-ice.audiomeans.fr/rtl/feed-rtl-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=rtl&aw_0_1st.program=rtl"
+    },
+    {
+        "name": "RVR",
+        "url": "https://live.aurafm.org:7443/rvr-tarareplata",
+        "country": "FR",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 160,
+        "working_url": "https://live.aurafm.org:7443/rvr-tarareplata"
+    },
+    {
+        "name": "Sanef 107.7 - Est",
+        "url": "https://sanef.ice.infomaniak.ch/sanef1077-est.mp3",
+        "country": "FR",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://sanef.ice.infomaniak.ch/sanef1077-est.mp3"
+    },
+    {
+        "name": "Sanef 107.7 - Île-de-France",
+        "url": "http://sanef.ice.infomaniak.ch/sanef1077-idf.mp3",
+        "country": "FR",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://sanef.ice.infomaniak.ch/sanef1077-idf.mp3"
+    },
+    {
+        "name": "Starsystem FM (Gérard)",
+        "url": "http://radiosurle.net:8765/radiogerard",
+        "country": "FR",
+        "tags": [
+            "humour",
+            "trash talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://radiosurle.net:8765/radiogerard"
+    },
+    {
+        "name": "Starsystem FM (MAX)",
+        "url": "https://radiosurle.net:8765/starsystemfm",
+        "country": "FR",
+        "tags": [
+            "humour",
+            "radio libre",
+            "trash talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://radiosurle.net:8765/starsystemfm"
+    },
+    {
+        "name": "Sud Radio",
+        "url": "https://ice.creacast.com/sudradio",
+        "country": "FR",
+        "tags": [
+            "conservative",
+            "info",
+            "mp3",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice.creacast.com/sudradio"
+    },
+    {
+        "name": "Supernana",
+        "url": "https://radiosurle.net:8765/showsupernana",
+        "country": "FR",
+        "tags": [
+            "talk show"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://radiosurle.net:8765/showsupernana"
+    },
+    {
+        "name": "WRP News",
+        "url": "http://wrp.stream.dicast.fr:8000/wrp-128.mp3",
+        "country": "FR",
+        "tags": [
+            "charts",
+            "expat",
+            "local news",
+            "news",
+            "paris",
+            "pop",
+            "talk"
+        ],
+        "favicon": "http://worldradioparis.org/wp-content/uploads/2023/09/cropped-worldradioparisicon4-1-180x180.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://wrp.stream.dicast.fr:8000/wrp-128.mp3"
+    },
+    {
+        "name": "Xiberoko botza",
+        "url": "https://hosting.studioradiomedia.fr:2975/stream",
+        "country": "FR",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://hosting.studioradiomedia.fr:2975/stream"
+    }
+]
