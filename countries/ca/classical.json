@@ -1,29 +1,5 @@
 [
     {
-        "name": "..tafsir coran",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "country": "CA",
-        "tags": [
-            "classical"
-        ],
-        "favicon": "",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://qurango.net/radio/mukhtasartafsir"
-    },
-    {
-        "name": ".Quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "country": "CA",
-        "tags": [
-            "classical"
-        ],
-        "favicon": "",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
-    },
-    {
         "name": "# 100 GREATEST CLASSICAL MUSIC",
         "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
         "country": "CA",
