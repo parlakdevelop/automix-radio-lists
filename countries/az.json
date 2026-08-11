@@ -1,14 +1,5 @@
 [
   {
-    "name": "Abdulbasit Abdulsamad",
-    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-    "country": "AZ",
-    "favicon": "https://mp3islam.com/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 192,
-    "working_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-  },
-  {
     "name": "Anti Radio",
     "url": "https://stream.antiradio.net/listen/anti_radio/mp3",
     "country": "AZ",
