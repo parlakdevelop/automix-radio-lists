@@ -1,6 +1,7 @@
 [
   { "code": "tr", "name": "Türkiye", "flag": "🇹🇷", "split": false },
   { "code": "az", "name": "Azərbaycan", "flag": "🇦🇿", "split": false },
+  { "code": "es", "name": "España", "flag": "🇪🇸", "split": false },
   { "code": "us", "name": "United States", "flag": "🇺🇸", "split": true },
   { "code": "de", "name": "Deutschland", "flag": "🇩🇪", "split": true },
   { "code": "fr", "name": "France", "flag": "🇫🇷", "split": true },
