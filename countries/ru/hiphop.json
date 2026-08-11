@@ -1,0 +1,42 @@
+[
+    {
+        "name": "HIP HOP RADIO",
+        "url": "https://tntradio.hostingradio.ru:8027/hhr128.mp3",
+        "country": "RU",
+        "tags": [
+            "hiphop"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 160,
+        "working_url": "https://tntradio.hostingradio.ru:8027/hhr128.mp3"
+    },
+    {
+        "name": "PromoDJ - Yoo",
+        "url": "http://radio.promodj.com:8000/yo-192",
+        "country": "RU",
+        "tags": [
+            "electro hop",
+            "hiphop"
+        ],
+        "favicon": "https://cdn.promodj.com/legacy/i/favicon/favicon_180.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radio.promodj.com:8000/yo-192"
+    },
+    {
+        "name": "Radio Caprice - Instrumental Hip-hop",
+        "url": "http://79.120.77.11:8000/instrumentalhiphop",
+        "country": "RU",
+        "tags": [
+            "hip-hop",
+            "hiphop",
+            "instrumental",
+            "instrumental hiphop"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/instrumentalhiphop"
+    }
+]

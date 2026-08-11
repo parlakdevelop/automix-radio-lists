@@ -1,0 +1,2205 @@
+[
+    {
+        "name": "Russian Punk rock",
+        "url": "http://79.120.77.11:8000/punkru",
+        "country": "RU",
+        "tags": [
+            "punk rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/punkru"
+    },
+    {
+        "name": "[RockTime-Radio]",
+        "url": "http://a9.radioheart.ru:8049/rocktime",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vzhabbbskf4g.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://a9.radioheart.ru:8049/rocktime"
+    },
+    {
+        "name": "1000 HITS RADIO",
+        "url": "https://stream.1000hit.ru:8000/stream128",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "eurodance",
+            "pop",
+            "pop dance",
+            "pop music",
+            "pop rock",
+            "rock"
+        ],
+        "favicon": "https://1000hit.ru/wp-content/uploads/elementor/thumbs/1000logo-qpueqzy2e63fp60e4sr3sfn0ao6habtfhem41brnr4.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.1000hit.ru:8000/stream128"
+    },
+    {
+        "name": "101.ru Scorpions",
+        "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/113",
+        "country": "RU",
+        "tags": [
+            "64kbps",
+            "aac+",
+            "discography",
+            "rock"
+        ],
+        "favicon": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/05d31f3851985ea99d76d89d5126b3d2.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://srv01.gpmradio.ru/stream/pro/aac/64/113"
+    },
+    {
+        "name": "101.ru Агата Кристи",
+        "url": "https://srv01.gpmradio.ru:8443/stream/pro/aac/64/139",
+        "country": "RU",
+        "tags": [
+            "64kbps",
+            "aac",
+            "discography",
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/f8f551fa21937abee762f45e9e3d37f8.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://srv01.gpmradio.ru:8443/stream/pro/aac/64/139"
+    },
+    {
+        "name": "101.ru ДДТ",
+        "url": "https://pub0101.101.ru/stream/pro/aac/64/112",
+        "country": "RU",
+        "tags": [
+            "101.ru",
+            "64kbps",
+            "ddt",
+            "rock",
+            "russian",
+            "ддт"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://pub0101.101.ru/stream/pro/aac/64/112"
+    },
+    {
+        "name": "101.ru Любэ",
+        "url": "https://pub0101.101.ru/stream/pro/aac/64/158",
+        "country": "RU",
+        "tags": [
+            "101.ru",
+            "64kbps",
+            "lyube",
+            "russian rock",
+            "любэ"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://pub0101.101.ru/stream/pro/aac/64/158"
+    },
+    {
+        "name": "101.ru Россия Топ 50",
+        "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac",
+        "country": "RU",
+        "tags": [
+            "pop",
+            "rock",
+            "top 50"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac"
+    },
+    {
+        "name": "101.ru Чайф",
+        "url": "https://srv01.gpmradio.ru:8443/stream/pro/aac/64/106",
+        "country": "RU",
+        "tags": [
+            "64kbps",
+            "aac",
+            "discography",
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "https://cdn2.101.ru/proxy/vardata/modules/channel/image/529f449f0fd5552600b56a02447a5c78.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://srv01.gpmradio.ru:8443/stream/pro/aac/64/106"
+    },
+    {
+        "name": "101.ru: Виктор Цой и группа «КИНО»",
+        "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/103",
+        "country": "RU",
+        "tags": [
+            "kino",
+            "rock",
+            "russian rock",
+            "кино",
+            "цой"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://pub0302.101.ru:8000/stream/pro/aac/64/103"
+    },
+    {
+        "name": "1Z1 Radio",
+        "url": "https://listen8.myradio24.com/1z1radio",
+        "country": "RU",
+        "tags": [
+            "2000s",
+            "80s",
+            "90s",
+            "rock",
+            "soft rock"
+        ],
+        "favicon": "https://1z1radio.com/favicon-512x512.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen8.myradio24.com/1z1radio"
+    },
+    {
+        "name": "32 Радио Брянск 87.9 FM",
+        "url": "http://online.guberniya.tv:8000/32radio",
+        "country": "RU",
+        "tags": [
+            "32 radio",
+            "87_9 fm",
+            "bryansk",
+            "music",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://online.guberniya.tv:8000/32radio"
+    },
+    {
+        "name": "Acoustic Rock Folk Radio",
+        "url": "http://live-radio.ru:8111/live",
+        "country": "RU",
+        "tags": [
+            "accordion",
+            "acoustic",
+            "acoustic rock",
+            "autor-interprete",
+            "cantautor",
+            "compositor",
+            "flute",
+            "folk",
+            "folklore",
+            "guitar",
+            "indie",
+            "liedermacher",
+            "live",
+            "percussion",
+            "piano",
+            "saxophone",
+            "singer-songwriter",
+            "unplugged",
+            "violin"
+        ],
+        "favicon": "http://live-radio.ru/favicon.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://live-radio.ru:8111/live"
+    },
+    {
+        "name": "Avtoradio - Moscow",
+        "url": "http://185.40.31.28:8000/station_93",
+        "country": "RU",
+        "tags": [
+            "pop rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://185.40.31.28:8000/station_93"
+    },
+    {
+        "name": "Avtoradio-Balakovo",
+        "url": "http://control1.craftradio.ru:8000/153_328f858f",
+        "country": "RU",
+        "tags": [
+            "pop rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://control1.craftradio.ru:8000/153_328f858f"
+    },
+    {
+        "name": "Biker FM",
+        "url": "https://listen4.myradio24.com/69846",
+        "country": "RU",
+        "tags": [
+            "bikers",
+            "metal",
+            "rock"
+        ],
+        "favicon": "https://sun9-85.userapi.com/c5665/g26740826/a_f8922e13.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen4.myradio24.com/69846"
+    },
+    {
+        "name": "Caprice - Surf Rock",
+        "url": "http://79.111.119.111:8002/surfrock",
+        "country": "RU",
+        "tags": [
+            "surf",
+            "surf music",
+            "surf rock",
+            "surfrock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/surfrock"
+    },
+    {
+        "name": "Dzhon Radio",
+        "url": "https://stream.drugradio.ru:8000/stream128",
+        "country": "RU",
+        "tags": [
+            "ambient",
+            "jungle",
+            "pop",
+            "ragga jungle",
+            "rock",
+            "trip-hop"
+        ],
+        "favicon": "https://dzradio.ru/wp-content/uploads/2023/12/logo_2023_428.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.drugradio.ru:8000/stream128"
+    },
+    {
+        "name": "East of Russia (Восток России)",
+        "url": "http://109.70.24.182:8000/stream/1/",
+        "country": "RU",
+        "tags": [
+            "rock",
+            "soft rock"
+        ],
+        "favicon": "https://vostoknews.ru/webapp/img/android-icon-128x128.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://109.70.24.182:8000/stream/1/"
+    },
+    {
+        "name": "Experimental/Avant Rock, Radio Caprice",
+        "url": "http://213.141.131.10:8004/avantrock",
+        "country": "RU",
+        "tags": [
+            "avant-garde rock",
+            "experimental rock"
+        ],
+        "favicon": "http://radcap.ru/graf2/radcaplogo.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8004/avantrock"
+    },
+    {
+        "name": "Glam Rock / Metal - Caprice Radio",
+        "url": "http://79.120.39.202:8000/glam",
+        "country": "RU",
+        "tags": [
+            "glam metal",
+            "glam rock"
+        ],
+        "favicon": "http://radcap.ru/graf2/radcaplogo.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/glam"
+    },
+    {
+        "name": "Heavy Music Atmospheric Radio",
+        "url": "http://stream.heavy-music.net:8176/stream",
+        "country": "RU",
+        "tags": [
+            "atmospheric",
+            "doom",
+            "gothic",
+            "heavy metal",
+            "metal",
+            "post-rock",
+            "progressive rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://stream.heavy-music.net:8176/stream"
+    },
+    {
+        "name": "ibiza",
+        "url": "http://radiorecord.hostingradio.ru/ibiza96.aacp",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "http://radiorecord.hostingradio.ru/ibiza96.aacp"
+    },
+    {
+        "name": "J-Rock (Japanese Rock Music)",
+        "url": "http://79.111.119.111:8000/jrock",
+        "country": "RU",
+        "tags": [
+            "jrock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/jrock"
+    },
+    {
+        "name": "Krautrock /Kosmiche Music - Radio Caprice",
+        "url": "http://79.111.119.111:8000/krautrock",
+        "country": "RU",
+        "tags": [
+            "krautrock",
+            "radio caprice; radcap"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/krautrock"
+    },
+    {
+        "name": "MAXIMUM",
+        "url": "https://maximum.hostingradio.ru/maximum96.aacp",
+        "country": "RU",
+        "tags": [
+            "alternative",
+            "pop",
+            "rock",
+            "russian",
+            "top40"
+        ],
+        "favicon": "https://maximum.ru/static/images/logo.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://maximum.hostingradio.ru/maximum96.aacp"
+    },
+    {
+        "name": "MAXIMUM Ozzy Osbourne",
+        "url": "https://maximum-ozzy.hostingradio.ru/ozzy96.aacp",
+        "country": "RU",
+        "tags": [
+            "hard rock",
+            "heavy metal",
+            "rock"
+        ],
+        "favicon": "https://maximum.ru/b/d/XS_d975tB1YUbdZMJDm-Eo5uJ-xCQw4Ib4niY8fCC5yiPwesYzA2jBpIGTUa-QsLzDVV9OvuSKfcCpztsyGAW15bDCkc=R9sMMhtj79SRcdBBUeF5qg.jpg",
+        "codec": "AAC+",
+        "bitrate": 192,
+        "working_url": "https://maximum-ozzy.hostingradio.ru/ozzy96.aacp"
+    },
+    {
+        "name": "Monsters of Rock USSR",
+        "url": "https://stream-51.zeno.fm/6nbz7p2w908uv",
+        "country": "RU",
+        "tags": [
+            "hard rock",
+            "heavy metal",
+            "rock"
+        ],
+        "favicon": "https://zeno.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-175.surfernetwork.com/6nbz7p2w908uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bmJ6N3AydzkwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJSUHhPQTFlZVJSaUkxWGlmSHZ1S0xRIiwiaWF0IjoxNzg2MzgxMzg0LCJleHAiOjE3ODYzODE0NDR9.0CWDN9Cm6FwwvB9tlS070M3D2LOUrbQ_bfKaOptH2_0"
+    },
+    {
+        "name": "Monte Carlo",
+        "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+        "country": "RU",
+        "tags": [
+            "lounge downtempo chillout ambient easy listening",
+            "pop rock"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+    },
+    {
+        "name": "MOTORADIO",
+        "url": "http://stream.motoradio.online:8000/high-aac",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "hard rock",
+            "rock",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 320,
+        "working_url": "http://stream.motoradio.online:8000/high-aac"
+    },
+    {
+        "name": "MOTORADIO.ONLINE, 320 kbps",
+        "url": "https://stream.motoradio.online/std-mp3",
+        "country": "RU",
+        "tags": [
+            "blues",
+            "classic-rock",
+            "hard-rock",
+            "heavy-metal",
+            "motorcycle"
+        ],
+        "favicon": "https://motoradio.online/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 224,
+        "working_url": "https://stream.motoradio.online/std-mp3"
+    },
+    {
+        "name": "MOTORADIO.ONLINE, Just music, no programs",
+        "url": "https://stream.motoradio.online/lite-mp3",
+        "country": "RU",
+        "tags": [
+            "blues",
+            "classic-rock",
+            "hard-rock",
+            "heavy-metal",
+            "motorcycle"
+        ],
+        "favicon": "https://motoradio.online/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream.motoradio.online/lite-mp3"
+    },
+    {
+        "name": "Muse - Радио MAXIMUM",
+        "url": "https://maximum.hostingradio.ru/maxmuse96.aacp",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://top-radio.ru/assets/image/radio/180/muse-radio-maximum.webp",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://maximum.hostingradio.ru/maxmuse96.aacp"
+    },
+    {
+        "name": "Nashe 2.0",
+        "url": "http://nashe.streamr.ru/nashe20-128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://nashe.streamr.ru/nashe20-128.mp3"
+    },
+    {
+        "name": "Nashe Radio 106.0 FM Serpukhov",
+        "url": "http://77.73.90.46:1055/nasheradio",
+        "country": "RU",
+        "tags": [
+            "festival",
+            "pop",
+            "pop music",
+            "pop rock",
+            "rock music",
+            "russian pop",
+            "russian rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://77.73.90.46:1055/nasheradio"
+    },
+    {
+        "name": "Nirvana",
+        "url": "https://stream.pcradio.ru/Nirvana-hi",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://pcradio.app/images/stations/61b09d36cac42.jpg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream04.pcradio.app/Nirvana-hi"
+    },
+    {
+        "name": "Nostalgie Russia",
+        "url": "https://listen8.myradio24.com/alexx333",
+        "country": "RU",
+        "tags": [
+            "pop rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://listen8.myradio24.com/alexx333"
+    },
+    {
+        "name": "Overdrive Live! Station",
+        "url": "https://stream.overdrivelive.net:8000/alternative_128.mp3",
+        "country": "RU",
+        "tags": [
+            "alternative",
+            "alternative metal",
+            "hard rock",
+            "industrial rock",
+            "metalcore",
+            "modern rock",
+            "nu-metal",
+            "post-grunge",
+            "post-hardcore",
+            "rap metal",
+            "rock"
+        ],
+        "favicon": "https://overdrivelive.net/wp-content/uploads/2024/06/favicon_overdrivelive.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.overdrivelive.net:8000/alternative_128.mp3"
+    },
+    {
+        "name": "POPFM Рок",
+        "url": "https://stream.popfm-bir.ru:1115/stream",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://i126.fastpic.org/big/2026/0125/f6/7ae379d847aba447cb996b4d0dc71af6.jpg",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://stream.popfm-bir.ru:1115/stream"
+    },
+    {
+        "name": "Pub Rock - Caprice Radio",
+        "url": "http://79.120.12.130:8000/pubrock",
+        "country": "RU",
+        "tags": [
+            "pub rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.12.130:8000/pubrock"
+    },
+    {
+        "name": "Queen",
+        "url": "http://ic7.101.ru:8000/stream/pro/aac/64/54?",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://ic7.101.ru:8000/stream/pro/aac/64/54"
+    },
+    {
+        "name": "radcap",
+        "url": "http://79.120.77.11:8000/hardrock",
+        "country": "RU",
+        "tags": [
+            "hardrock",
+            "radcap"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/hardrock"
+    },
+    {
+        "name": "RadCap - Britpop",
+        "url": "http://79.120.39.202:8004/britpop",
+        "country": "RU",
+        "tags": [
+            "britpop",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8004/britpop"
+    },
+    {
+        "name": "RadCap - Crossover Progressive",
+        "url": "http://79.111.14.76:8004/crossoverprog",
+        "country": "RU",
+        "tags": [
+            "crossover progressive",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8004/crossoverprog"
+    },
+    {
+        "name": "RadCap - Funk Rock Metal",
+        "url": "http://213.141.131.10:8004/funkrock",
+        "country": "RU",
+        "tags": [
+            "funk rock metal",
+            "metal",
+            "radio caprice"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8004/funkrock"
+    },
+    {
+        "name": "RadCap - Math Rock",
+        "url": "http://79.120.39.202:8004/mathrock",
+        "country": "RU",
+        "tags": [
+            "math rock",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8004/mathrock"
+    },
+    {
+        "name": "RadCap - Mathcore",
+        "url": "http://79.120.39.202:8004/mathcore",
+        "country": "RU",
+        "tags": [
+            "mathcore",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8004/mathcore"
+    },
+    {
+        "name": "RadCap - Medieval Metal Rock",
+        "url": "http://213.141.131.10:8004/medievalmetal",
+        "country": "RU",
+        "tags": [
+            "medieval metal rock",
+            "metal",
+            "radio caprice"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8004/medievalmetal"
+    },
+    {
+        "name": "RadCap - Noise Rock",
+        "url": "http://79.120.39.202:8000/noiserock",
+        "country": "RU",
+        "tags": [
+            "noise rock",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/noiserock"
+    },
+    {
+        "name": "RadCap - Oi Punk Rock",
+        "url": "http://79.111.119.111:8004/oistreetpunk",
+        "country": "RU",
+        "tags": [
+            "oi punk rock",
+            "punk",
+            "radio caprice"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8004/oistreetpunk"
+    },
+    {
+        "name": "RadCap - Shoegazing",
+        "url": "http://79.111.119.111:8002/shoegazing",
+        "country": "RU",
+        "tags": [
+            "radio caprice",
+            "rock",
+            "shoegaze"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/shoegazing"
+    },
+    {
+        "name": "RadCap - Ska",
+        "url": "http://79.111.119.111:8002/ska",
+        "country": "RU",
+        "tags": [
+            "radio caprice",
+            "rock",
+            "ska"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/ska"
+    },
+    {
+        "name": "RadCap - Space Rock",
+        "url": "http://79.111.119.111:8002/spacerock",
+        "country": "RU",
+        "tags": [
+            "radio caprice",
+            "rock",
+            "space rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/spacerock"
+    },
+    {
+        "name": "RADCAP: PROGRESSIVE ROCK",
+        "url": "http://79.111.119.111:8000/progressiverock",
+        "country": "RU",
+        "tags": [
+            "progressive rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/progressiverock"
+    },
+    {
+        "name": "Radio 2 Komsomolsk-na-Amure",
+        "url": "http://212.19.18.133:8000/stream",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "classic rock",
+            "hits",
+            "pop"
+        ],
+        "favicon": "https://radio2.online/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://212.19.18.133:8000/stream"
+    },
+    {
+        "name": "Radio 42 FM — Радио «Воруй-Убивай»",
+        "url": "http://listen.42fm.ru:8000/stealkill-8.0.ogg",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 0,
+        "working_url": "http://listen.42fm.ru:8000/stealkill-8.0.ogg"
+    },
+    {
+        "name": "Radio Caprice - Americana / American Roots",
+        "url": "http://213.141.131.10:8002/americana",
+        "country": "RU",
+        "tags": [
+            "americana",
+            "country",
+            "roots rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://213.141.131.10:8002/americana"
+    },
+    {
+        "name": "Radio Caprice - AOR / Melodic Hard Rock",
+        "url": "http://79.111.14.76:8002/aor",
+        "country": "RU",
+        "tags": [
+            "aor",
+            "hard rock",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/aor"
+    },
+    {
+        "name": "Radio Caprice - Art Rock",
+        "url": "http://79.120.39.202:8002/artrock",
+        "country": "RU",
+        "tags": [
+            "art rock",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/artrock"
+    },
+    {
+        "name": "Radio Caprice - Blues Rock",
+        "url": "http://79.120.39.202:8002/bluesrock",
+        "country": "RU",
+        "tags": [
+            "blues rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/bluesrock"
+    },
+    {
+        "name": "Radio Caprice - Classic Rock",
+        "url": "http://79.120.77.11:8000/rock",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "queen",
+            "radio caprice",
+            "rock",
+            "rock classics"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/rock"
+    },
+    {
+        "name": "Radio Caprice - Classic Rock / Rock",
+        "url": "http://79.120.77.11:8002/rock",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/rock"
+    },
+    {
+        "name": "Radio Caprice - Country Rock",
+        "url": "http://79.111.119.111:8002/countryrock",
+        "country": "RU",
+        "tags": [
+            "country rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/countryrock"
+    },
+    {
+        "name": "Radio Caprice - Epic Metal",
+        "url": "http://79.111.119.111:8000/epicmetal",
+        "country": "RU",
+        "tags": [
+            "epic metal",
+            "hard rock",
+            "heavy metal",
+            "metal",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/epicmetal"
+    },
+    {
+        "name": "Radio Caprice - Female vocal in metal music",
+        "url": "http://79.111.14.76:8000/femalemetal?type=.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://cdn.onlineradiobox.com/img/l/4/64714.v28.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/femalemetal?type=.mp3"
+    },
+    {
+        "name": "Radio Caprice - Folk Rock",
+        "url": "http://79.111.14.76:8002/folkrock",
+        "country": "RU",
+        "tags": [
+            "folk rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/folkrock"
+    },
+    {
+        "name": "Radio Caprice - Funk Rock / Metal",
+        "url": "http://213.141.131.10:8002/funkrock",
+        "country": "RU",
+        "tags": [
+            "funk metal",
+            "funk rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://213.141.131.10:8002/funkrock"
+    },
+    {
+        "name": "Radio Caprice - Garage Rock / Garage Revival",
+        "url": "http://79.111.119.111:8002/garagerock",
+        "country": "RU",
+        "tags": [
+            "garage revival",
+            "garage rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/garagerock"
+    },
+    {
+        "name": "Radio Caprice - Gothic Metal",
+        "url": "http://79.120.77.11:8002/gothicmetal",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://cdn.onlineradiobox.com/img/l/5/62055.v16.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/gothicmetal"
+    },
+    {
+        "name": "Radio Caprice - HeavyPsych (heavy psychedelic rock)",
+        "url": "http://79.120.39.202:8000/heavypsych",
+        "country": "RU",
+        "tags": [
+            "70s",
+            "hard rock",
+            "heavy",
+            "heavy psych",
+            "heavy psychedelic rock",
+            "heavy-psych",
+            "heavypsych",
+            "psychedelic rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/heavypsych"
+    },
+    {
+        "name": "Radio Caprice - HeavyPsych (stream 2)",
+        "url": "http://79.120.39.202:8004/heavypsych",
+        "country": "RU",
+        "tags": [
+            "hard rock",
+            "hard-rock",
+            "hardrock",
+            "heavy psychedelic rock",
+            "heavy-psych",
+            "heavypsych",
+            "proto-prog",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8004/heavypsych"
+    },
+    {
+        "name": "Radio Caprice - Instrumental Rock",
+        "url": "http://79.120.39.202:8002/instrumentalrock",
+        "country": "RU",
+        "tags": [
+            "guitar rock",
+            "instrumental",
+            "instrumental rock",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/instrumentalrock"
+    },
+    {
+        "name": "Radio Caprice - Jazz Rock",
+        "url": "http://79.111.119.111:8002/jazzrock",
+        "country": "RU",
+        "tags": [
+            "jazz rock",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/jazzrock"
+    },
+    {
+        "name": "Radio Caprice - Melodic Heavy Metal",
+        "url": "http://79.111.119.111:8000/melodicheavy",
+        "country": "RU",
+        "tags": [
+            "heavy metal",
+            "melodic heavy metal",
+            "metal",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/melodicheavy"
+    },
+    {
+        "name": "Radio Caprice - Neo-progressive Rock",
+        "url": "http://79.111.119.111:8002/neoprogrock",
+        "country": "RU",
+        "tags": [
+            "neo-progressive rock",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/neoprogrock"
+    },
+    {
+        "name": "Radio Caprice - Neue Deutsche Härte",
+        "url": "http://213.141.131.10:8000/ndh",
+        "country": "RU",
+        "tags": [
+            "deutsch",
+            "heavy metal",
+            "metal",
+            "ndh",
+            "neue detusche härte",
+            "radio caprice",
+            "rammstein",
+            "rock"
+        ],
+        "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8000/ndh"
+    },
+    {
+        "name": "Radio Caprice - Pop rock / soft rock / power pop",
+        "url": "http://79.120.77.11:8002/poprock",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/poprock"
+    },
+    {
+        "name": "Radio Caprice - Post-rock",
+        "url": "http://79.111.14.76:8004/postrock",
+        "country": "RU",
+        "tags": [
+            "post-rock"
+        ],
+        "favicon": "http://radcap.ru/stylegraf/postrock4.jpg",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8004/postrock"
+    },
+    {
+        "name": "Radio Caprice - Progressive Folk",
+        "url": "http://213.141.131.10:8000/progfolk",
+        "country": "RU",
+        "tags": [
+            "progressive folk",
+            "progressive rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8000/progfolk"
+    },
+    {
+        "name": "Radio Caprice - Punk Rock",
+        "url": "http://79.120.77.11:8002/punk",
+        "country": "RU",
+        "tags": [
+            "punk rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/punk"
+    },
+    {
+        "name": "Radio Caprice - Rock / Metal Ballads",
+        "url": "http://79.120.77.11:8002/rockballads",
+        "country": "RU",
+        "tags": [
+            "metal ballads",
+            "rock ballads"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/rockballads"
+    },
+    {
+        "name": "Radio Caprice - Rock Ballads",
+        "url": "http://79.120.77.11:8000/rockballads",
+        "country": "RU",
+        "tags": [
+            "ballads",
+            "metal ballads",
+            "radio caprice",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/rockballads"
+    },
+    {
+        "name": "Radio Caprice - Russian Folk Rock",
+        "url": "http://79.111.14.76:8000/folkrockru",
+        "country": "RU",
+        "tags": [
+            "folk",
+            "folk rock",
+            "radcap",
+            "radio caprice",
+            "russian",
+            "russian rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/folkrockru"
+    },
+    {
+        "name": "Radio Caprice - Russian Rock / Bard Rock",
+        "url": "http://79.120.77.11:8002/rockru",
+        "country": "RU",
+        "tags": [
+            "russian bard rock",
+            "russian rock"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/rockru"
+    },
+    {
+        "name": "Radio Caprice - Space Rock",
+        "url": "http://79.111.119.111:8000/spacerock",
+        "country": "RU",
+        "tags": [
+            "space",
+            "space rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/spacerock"
+    },
+    {
+        "name": "Radio Caprice - Surf Rock",
+        "url": "http://79.111.119.111:8000/surfrock",
+        "country": "RU",
+        "tags": [
+            "surf",
+            "surf music",
+            "surf rock",
+            "surfrock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/surfrock"
+    },
+    {
+        "name": "Radio Caprice - Symphonic Gothic Metal",
+        "url": "http://213.141.131.10:8002/symphogoth",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://cdn.onlineradiobox.com/img/l/9/89519.v4.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://213.141.131.10:8002/symphogoth"
+    },
+    {
+        "name": "Radio Caprice - Symphonic Rock",
+        "url": "http://79.120.39.202:8002/symphorock",
+        "country": "RU",
+        "tags": [
+            "rock",
+            "symphonic rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/symphorock"
+    },
+    {
+        "name": "Radio Caprice Math Rock",
+        "url": "http://79.120.39.202:8000/mathrock",
+        "country": "RU",
+        "tags": [
+            "instrumental",
+            "math rock",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/mathrock"
+    },
+    {
+        "name": "Radio Iskatel",
+        "url": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+        "country": "RU",
+        "tags": [
+            "russian rock"
+        ],
+        "favicon": "https://radioiskatel.ru/wp-content/uploads/2020/06/cropped-Favicon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3"
+    },
+    {
+        "name": "Radio Maximum",
+        "url": "https://maximum.hostingradio.ru/maximum128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://sun9-52.userapi.com/impf/c621513/v621513634/19b70/mlfH5n5JsAI.jpg?size=604x604&quality=96&sign=e66eefcb195bad96140072e9742b4a69&type=album",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://maximum.hostingradio.ru/maximum128.mp3"
+    },
+    {
+        "name": "Radio Maximum - Heavy 80s",
+        "url": "https://maximum80.hostingradio.ru/max8096.aacp",
+        "country": "RU",
+        "tags": [
+            "80s",
+            "heavy metal",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://maximum80.hostingradio.ru/max8096.aacp"
+    },
+    {
+        "name": "Radio Maximum - Supernova",
+        "url": "https://maximum-unplugged.hostingradio.ru/maxunplugged96.aacp",
+        "country": "RU",
+        "tags": [
+            "heavy metal",
+            "metal",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://maximum-unplugged.hostingradio.ru/maxunplugged96.aacp"
+    },
+    {
+        "name": "Radio Muzyka Moyego Goroda",
+        "url": "https://webradio.mcm.fm:10443/hit128",
+        "country": "RU",
+        "tags": [
+            "hits",
+            "rock",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://webradio.mcm.fm:10443/hit128"
+    },
+    {
+        "name": "Radio OldHit",
+        "url": "https://oldhit.ru/stream?1778250827993",
+        "country": "RU",
+        "tags": [
+            "80s",
+            "90s",
+            "dance",
+            "hits",
+            "oldies",
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://oldhit.ru/img/fav/favicon180.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://oldhit.ru:8000/?1778250827993"
+    },
+    {
+        "name": "Radio Piramida",
+        "url": "http://www.nazarovo-online.ru:8080/piramida/nazarovo",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "classic rock",
+            "hits",
+            "pop"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://www.nazarovo-online.ru:8080/piramida/nazarovo"
+    },
+    {
+        "name": "Radio Samara Maksimum",
+        "url": "http://85.236.172.22:8000/maximum",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "classic rock",
+            "hits",
+            "pop"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://85.236.172.22:8000/maximum"
+    },
+    {
+        "name": "Radio Sputnik Volgograd 105.1FM",
+        "url": "https://online.sputnikfm.ru/sputnik_mp3",
+        "country": "RU",
+        "tags": [
+            "2000s",
+            "80s",
+            "90s",
+            "pop",
+            "rock",
+            "talk"
+        ],
+        "favicon": "https://www.sputnikfm.ru/favicon2020.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://online.sputnikfm.ru/sputnik_mp3"
+    },
+    {
+        "name": "Radio Ultra",
+        "url": "https://nashe1.hostingradio.ru/ultra-256",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://nashe1.hostingradio.ru/ultra-256"
+    },
+    {
+        "name": "Radio Voice of Burma",
+        "url": "http://listen4.myradio24.com/39982",
+        "country": "RU",
+        "tags": [
+            "news talk",
+            "pop",
+            "pop music",
+            "pop rock",
+            "talk",
+            "talk radio"
+        ],
+        "favicon": "http://www.voiceofburma.ru/_si/0/66602499.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen4.myradio24.com/39982"
+    },
+    {
+        "name": "RadioGora - ATD",
+        "url": "http://listen.radiogora.ru:8000/atd128",
+        "country": "RU",
+        "tags": [
+            "alternative rock",
+            "metal"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.radiogora.ru:8000/atd128"
+    },
+    {
+        "name": "ROCK FM",
+        "url": "https://nashe1.hostingradio.ru:80/rock-128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nashe1.hostingradio.ru:80/rock-128.mp3"
+    },
+    {
+        "name": "ROCK FM, 00s",
+        "url": "http://jfm1.hostingradio.ru:14536/rock00.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/rock00.mp3"
+    },
+    {
+        "name": "ROCK FM, 70s",
+        "url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/rock70.mp3"
+    },
+    {
+        "name": "ROCK FM, 80s",
+        "url": "http://jfm1.hostingradio.ru:14536/rock80.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/rock80.mp3"
+    },
+    {
+        "name": "ROCK FM, 90s",
+        "url": "http://jfm1.hostingradio.ru:14536/rock90.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/rock90.mp3"
+    },
+    {
+        "name": "ROCK FM,HEAVY",
+        "url": "http://jfm1.hostingradio.ru:14536/metal.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/metal.mp3"
+    },
+    {
+        "name": "ROCK FM,PROG",
+        "url": "http://jfm1.hostingradio.ru:14536/prog.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/prog.mp3"
+    },
+    {
+        "name": "Rock'n'Roll - Caprice Radio",
+        "url": "http://79.120.77.11:8000/rockroll",
+        "country": "RU",
+        "tags": [
+            "rock'n'roll"
+        ],
+        "favicon": "http://radcap.ru/",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/rockroll"
+    },
+    {
+        "name": "Rockabilly - Caprice",
+        "url": "http://79.111.14.76:8000/rockabilly",
+        "country": "RU",
+        "tags": [
+            "rockabilly"
+        ],
+        "favicon": "https://i.imgur.com/WJLfH19.jpg",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/rockabilly"
+    },
+    {
+        "name": "rockfm.ru progressive",
+        "url": "https://jfm1.hostingradio.ru:14536/prog.mp3",
+        "country": "RU",
+        "tags": [
+            "progressive rock",
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://jfm1.hostingradio.ru:14536/prog.mp3"
+    },
+    {
+        "name": "rockfm.ru rock70",
+        "url": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://jfm1.hostingradio.ru:14536/rock70.mp3"
+    },
+    {
+        "name": "Rocksteady / Lovers Rock - Caprice Radio",
+        "url": "http://79.120.39.202:8000/rocksteady",
+        "country": "RU",
+        "tags": [
+            "lovers rock",
+            "reggae",
+            "rocksteady"
+        ],
+        "favicon": "http://radcap.ru/graf2/radcaplogo.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/rocksteady"
+    },
+    {
+        "name": "RTFM.fm",
+        "url": "https://stream.rtfm.fm/aac256",
+        "country": "RU",
+        "tags": [
+            "alternative rock",
+            "downtempo",
+            "electronic",
+            "jazz",
+            "pop rock",
+            "rock"
+        ],
+        "favicon": "https://rtfm.fm/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://stream.rtfm.fm/aac256"
+    },
+    {
+        "name": "Russian Rock - РУССКИЙ РОК - AMG Radio",
+        "url": "https://dirxiph.amgradio.ru/RusRock",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "pop",
+            "rock",
+            "russian"
+        ],
+        "favicon": "https://volna.top/logoradio/rusrock.svg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://rock.amgradio.ru/rusrock.aacp"
+    },
+    {
+        "name": "UltraFan",
+        "url": "http://radioultrafan.ru:8000/192",
+        "country": "RU",
+        "tags": [
+            "alternative rock"
+        ],
+        "favicon": "https://telegram.org/img/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radioultrafan.ru:8000/192"
+    },
+    {
+        "name": "Volna FM",
+        "url": "https://listen5.myradio24.com/nvolna",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "https://listen5.myradio24.com/nvolna"
+    },
+    {
+        "name": "Zaycev.FM NewRock",
+        "url": "https://abs.zaycev.fm/rock128k",
+        "country": "RU",
+        "tags": [
+            "alternative rock",
+            "rock"
+        ],
+        "favicon": "https://top-radio.ru/assets/image/radio/180/zaycev-new-rock.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://abs.zaycev.fm/rock128k"
+    },
+    {
+        "name": "АукцЫон",
+        "url": "https://stream02.pcradio.biz/auktsyon-hi",
+        "country": "RU",
+        "tags": [
+            "discography",
+            "russian-rock"
+        ],
+        "favicon": "null",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream02.pcradio.biz/auktsyon-hi"
+    },
+    {
+        "name": "Балтик Плюс",
+        "url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3",
+        "country": "RU",
+        "tags": [
+            "adult contemporary",
+            "news",
+            "pop",
+            "soft rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"
+    },
+    {
+        "name": "Вечная молодость",
+        "url": "http://misato.ru-hoster.com:8037/stream",
+        "country": "RU",
+        "tags": [
+            "pop",
+            "retro",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://misato.ru-hoster.com:8037/stream"
+    },
+    {
+        "name": "ГУСЬ.Рок",
+        "url": "https://stream3.radiogoose.ru/listen/rock/play",
+        "country": "RU",
+        "tags": [
+            "alternative",
+            "alternative rock",
+            "metal",
+            "post-punk",
+            "punk rock",
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "https://radiogoose.ru/res/logo/rock.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream3.radiogoose.ru/listen/rock/play"
+    },
+    {
+        "name": "ГУСЬ.Рус",
+        "url": "https://stream1.radiogoose.ru/listen/rus/play",
+        "country": "RU",
+        "tags": [
+            "pop music",
+            "post-punk",
+            "russia",
+            "russian hits",
+            "russian music",
+            "russian pop",
+            "russian rave",
+            "russian rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream1.radiogoose.ru/listen/rus/play"
+    },
+    {
+        "name": "Два Берега (Two Coast)",
+        "url": "http://2beregafm.ru:8100/ber_FM.ogg",
+        "country": "RU",
+        "tags": [
+            "russian rock"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 256,
+        "working_url": "http://2beregafm.ru:8100/ber_FM.ogg"
+    },
+    {
+        "name": "Дигравиль ФМ",
+        "url": "https://jecarchive.ru/radio.mp3",
+        "country": "RU",
+        "tags": [
+            "alternative",
+            "comedy",
+            "electric",
+            "experimental",
+            "indie",
+            "music",
+            "punk",
+            "rock",
+            "russian"
+        ],
+        "favicon": "https://jecarchive.ru/favicon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://jecarchive.ru/radio.mp3"
+    },
+    {
+        "name": "Иваново ФМ 106.7 FM",
+        "url": "http://stream.ivpromedia.ru:8000/IvanovoFM.mp3",
+        "country": "RU",
+        "tags": [
+            "ivanovo",
+            "music",
+            "rock"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250429_124847488.jpg?alt=media&token=0b62a2d0-746c-404f-a058-07117e6092f8",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://stream.ivpromedia.ru:8000/IvanovoFM.mp3"
+    },
+    {
+        "name": "Калинов Мост",
+        "url": "https://stream02.pcradio.biz/Kalinov_most-hi",
+        "country": "RU",
+        "tags": [
+            "discography",
+            "metal",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream02.pcradio.biz/Kalinov_most-hi"
+    },
+    {
+        "name": "Наше радио",
+        "url": "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nashe1.hostingradio.ru:80/nashe-128.mp3"
+    },
+    {
+        "name": "Наше радио 2.0",
+        "url": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3"
+    },
+    {
+        "name": "Наше радио Казань 96.8 FM",
+        "url": "http://online2.gkvr.ru:8000/nashe_kaz_64.aac",
+        "country": "RU",
+        "tags": [
+            "kazan'",
+            "music",
+            "nashe radio",
+            "rock",
+            "tatarstan"
+        ],
+        "favicon": "null",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://online2.gkvr.ru:8000/nashe_kaz_64.aac"
+    },
+    {
+        "name": "Наше Радио Классик Рок",
+        "url": "http://nashe1.hostingradio.ru/nasheclassic.mp3",
+        "country": "RU",
+        "tags": [
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://nashe1.hostingradio.ru/nasheclassic.mp3"
+    },
+    {
+        "name": "Наше радио Нижний Новгород 93.5 FM",
+        "url": "http://52radio.ru:8000/nashe_nn",
+        "country": "RU",
+        "tags": [
+            "music",
+            "nashe radio",
+            "nizhniy novgorod",
+            "rock"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211614264.jpg?alt=media&token=811cc627-c981-432a-8b1a-51d7e022d93c",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://52radio.ru:8000/nashe_nn"
+    },
+    {
+        "name": "Наше радио Самара 92.9 FM",
+        "url": "http://online-2.gkvr.ru:8000/nr_sam_96.aac",
+        "country": "RU",
+        "tags": [
+            "music",
+            "rock"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225640723.jpg?alt=media&token=38c0881c-4d3f-4028-bbce-0233527ea851",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "http://online-2.gkvr.ru:8000/nr_sam_96.aac"
+    },
+    {
+        "name": "Наше радио Санкт-Петербург 104.0 FM",
+        "url": "https://nashe1.hostingradio.ru/nashespb128.mp3",
+        "country": "RU",
+        "tags": [
+            "104_0 fm",
+            "78",
+            "music",
+            "nashe radio",
+            "rock",
+            "spb"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250118_224615857.jpg?alt=media&token=fa1081ff-8b37-4c47-b1f8-99dffa7a00ce",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://nashe1.hostingradio.ru/nashespb128.mp3"
+    },
+    {
+        "name": "Наше Радио СПБ",
+        "url": "https://nashe1.hostingradio.ru:80/nashespb128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://nashe1.hostingradio.ru:80/nashespb128.mp3"
+    },
+    {
+        "name": "Наше радио Туапсе 94.2 FM",
+        "url": "http://185.185.69.62:8000/nashe",
+        "country": "RU",
+        "tags": [
+            "music",
+            "nashe radio",
+            "rock",
+            "tuapse"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://185.185.69.62:8000/nashe"
+    },
+    {
+        "name": "Наше радио Тула 101.9 FM",
+        "url": "http://87.244.47.90:8000/NASHE",
+        "country": "RU",
+        "tags": [
+            "music",
+            "nashe radio",
+            "region 71",
+            "rock",
+            "tula"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_231922847.jpg?alt=media&token=c6672dd0-fd6d-472f-b19b-5a60e787f327",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://87.244.47.90:8000/NASHE"
+    },
+    {
+        "name": "НАШЕ Радио Тюмень",
+        "url": "http://nashe1.hostingradio.ru/nashe-256",
+        "country": "RU",
+        "tags": [
+            "alternative rock",
+            "classic rock",
+            "pop rock",
+            "rock"
+        ],
+        "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://nashe1.hostingradio.ru/nashe-256"
+    },
+    {
+        "name": "Наше Радио ЩАС СПОЮ",
+        "url": "http://nashe1.hostingradio.ru/nashesongs.mp3",
+        "country": "RU",
+        "tags": [
+            "rock",
+            "russian rock"
+        ],
+        "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://nashe1.hostingradio.ru/nashesongs.mp3"
+    },
+    {
+        "name": "Неслучайное Радио",
+        "url": "http://aska.ru-hoster.com:8006/stream",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://aska.ru-hoster.com:8006/stream"
+    },
+    {
+        "name": "Нестандарт (aac • 64)",
+        "url": "https://listen.radionestandart.ru:8200/64.aac",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "pop music",
+            "rock"
+        ],
+        "favicon": "https://radionestandart.ru/favicon.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://listen.radionestandart.ru:8200/64.aac"
+    },
+    {
+        "name": "Радио 19-22",
+        "url": "http://onair.radio1922.ru:8000/192.mp3",
+        "country": "RU",
+        "tags": [
+            "pop",
+            "rock",
+            "sports"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://onair.radio1922.ru:8000/192.mp3"
+    },
+    {
+        "name": "Радио Ultra",
+        "url": "https://nashe2.hostingradio.ru/ultra-128.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nashe2.hostingradio.ru/ultra-128.mp3"
+    },
+    {
+        "name": "Радио ULTRA HD",
+        "url": "http://nashe1.hostingradio.ru/ultra-192.mp3",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://nashe1.hostingradio.ru/ultra-192.mp3"
+    },
+    {
+        "name": "РАДИО ГУСЬ",
+        "url": "https://stream4.radiogoose.ru/listen/radiogoose/play",
+        "country": "RU",
+        "tags": [
+            "bigroom",
+            "dance",
+            "dancecore",
+            "deep",
+            "dnb",
+            "edm",
+            "electro",
+            "hardcore",
+            "hardstyle",
+            "house",
+            "metal",
+            "midtempo",
+            "phonk",
+            "pop",
+            "radio hit",
+            "rave",
+            "rock",
+            "techno",
+            "trance"
+        ],
+        "favicon": "https://radiogoose.ru/res/logo/radiogoose.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream4.radiogoose.ru/listen/radiogoose/play"
+    },
+    {
+        "name": "Радио Максимум",
+        "url": "http://maximum.hostingradio.ru/maximum128.mp3",
+        "country": "RU",
+        "tags": [
+            "maximum",
+            "music",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://maximum.hostingradio.ru/maximum128.mp3"
+    },
+    {
+        "name": "РадиоКанск",
+        "url": "https://azura-cast.radiokansk.ru/listen/radiokansk/live",
+        "country": "RU",
+        "tags": [
+            "disco",
+            "electronic",
+            "jazz",
+            "podcast",
+            "rock"
+        ],
+        "favicon": "https://www.radiokansk.ru/wp-content/uploads/2025/02/cropped-favicon-512x512-1-32x32.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://azura-cast.radiokansk.ru/listen/radiokansk/live"
+    },
+    {
+        "name": "Ретро FM Санкт-Петербург (128 kbps, mp3)",
+        "url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3",
+        "country": "RU",
+        "tags": [
+            "disco",
+            "pop",
+            "rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3"
+    },
+    {
+        "name": "Рок АРСЕНАЛ - Rock Arsenal",
+        "url": "http://online.rockarsenal.ru:8000/rockarsenal",
+        "country": "RU",
+        "tags": [
+            "classic rock"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://online.rockarsenal.ru:8000/rockarsenal"
+    },
+    {
+        "name": "Русский Рок - Russian Rock",
+        "url": "http://rock.volna.top/RusRock",
+        "country": "RU",
+        "tags": [
+            "amg",
+            "rock",
+            "russian"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://rock.amgradio.ru/rusrock.aacp"
+    },
+    {
+        "name": "РУССКОЕ 1995-2005 [HDR FLAC]",
+        "url": "http://harddanceradio.ddns.is74.ru:9000/russian.ogg",
+        "country": "RU",
+        "tags": [
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://telegram.org/img/apple-touch-icon.png",
+        "codec": "OGG",
+        "bitrate": 320,
+        "working_url": "http://harddanceradio.ddns.is74.ru:9000/russian.ogg"
+    },
+    {
+        "name": "Русское Радио: Русский Рок",
+        "url": "https://icecast01.hostingradio.ru:80/russkijrok96.aacp",
+        "country": "RU",
+        "tags": [
+            "russian rock",
+            "русский рок"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://icecast01.hostingradio.ru:80/russkijrok96.aacp"
+    },
+    {
+        "name": "Салют Fm Rock",
+        "url": "https://stream.salyutfm.ru:8050/stream",
+        "country": "RU",
+        "tags": [
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.salyutfm.ru:8050/stream"
+    },
+    {
+        "name": "Сектор Газовой Атаки",
+        "url": "https://stream02.pcradio.biz/sector_gazovoy_ataki-hi",
+        "country": "RU",
+        "tags": [
+            "discography",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream02.pcradio.biz/sector_gazovoy_ataki-hi"
+    },
+    {
+        "name": "Хит FM",
+        "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+        "country": "RU",
+        "tags": [
+            "pop rock",
+            "russian music",
+            "top hits"
+        ],
+        "favicon": "https://hitfm.ru/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://hitfm.hostingradio.ru/hitfm96.aacp"
+    }
+]

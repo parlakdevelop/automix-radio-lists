@@ -1,0 +1,1341 @@
+[
+    {
+        "name": "диполь",
+        "url": "https://icecast-sibinformburo.cdnvideo.ru/dipolfm",
+        "country": "RU",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://icecast-sibinformburo.cdnvideo.ru/dipolfm"
+    },
+    {
+        "name": "1000 HITS RADIO",
+        "url": "https://stream.1000hit.ru:8000/stream128",
+        "country": "RU",
+        "tags": [
+            "classic rock",
+            "eurodance",
+            "pop",
+            "pop dance",
+            "pop music",
+            "pop rock",
+            "rock"
+        ],
+        "favicon": "https://1000hit.ru/wp-content/uploads/elementor/thumbs/1000logo-qpueqzy2e63fp60e4sr3sfn0ao6habtfhem41brnr4.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.1000hit.ru:8000/stream128"
+    },
+    {
+        "name": "101,ru Russian Dance",
+        "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s",
+        "country": "RU",
+        "tags": [
+            "#101",
+            "#music",
+            "#russiandance",
+            "101.ru"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s"
+    },
+    {
+        "name": "101.ru Italo Disco",
+        "url": "http://pub0202.101.ru:8000/stream/pro/aac/64/161",
+        "country": "RU",
+        "tags": [
+            "dance 80s",
+            "euro disco",
+            "italo disco"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://pub0202.101.ru:8000/stream/pro/aac/64/161"
+    },
+    {
+        "name": "16Bit.FM iBeat",
+        "url": "http://16bitfm.com:8000/main_mp3_128",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "electronic",
+            "house",
+            "progressive"
+        ],
+        "favicon": "https://16bitfm.com/images/logo.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://16bitfm.com:8000/main_mp3_128"
+    },
+    {
+        "name": "1Z1 Radio",
+        "url": "https://listen8.myradio24.com/1z1radio",
+        "country": "RU",
+        "tags": [
+            "90s y más",
+            "dance",
+            "hits 80s",
+            "pop music",
+            "rnb",
+            "soft rock",
+            "top hits"
+        ],
+        "favicon": "https://1z1radio.com/favicon-512x512.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen8.myradio24.com/1z1radio"
+    },
+    {
+        "name": "7Nevo",
+        "url": "http://91.201.117.219:8000/stream",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "dance",
+            "hits",
+            "pop",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://91.201.117.219:8000/stream"
+    },
+    {
+        "name": "ABBA Radio",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788",
+        "country": "RU",
+        "tags": [
+            "1970s",
+            "1980s",
+            "70 80 hits",
+            "70s",
+            "70s disco",
+            "80s",
+            "classic hits 60s 70a 80s",
+            "dance pop",
+            "disco",
+            "pop dance",
+            "pop music"
+        ],
+        "favicon": "https://cdn2.101.ru/proxy/vardata/modules/channel/dynamics/personal/178/1785788.jpg?w=300&h=300&pos=center&t=1681310271",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788"
+    },
+    {
+        "name": "Armin van Buuren (Record)",
+        "url": "https://radiorecord.hostingradio.ru/armin96.aacp",
+        "country": "RU",
+        "tags": [
+            "club dance electronic house trance",
+            "club house trance dance",
+            "deejay remix",
+            "remixed",
+            "remixes",
+            "trance"
+        ],
+        "favicon": "https://www.radiobells.com/stations/recordarmin.webp",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://radiorecord.hostingradio.ru/armin96.aacp"
+    },
+    {
+        "name": "Big Room",
+        "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/220",
+        "country": "RU",
+        "tags": [
+            "101",
+            "big",
+            "bigroom",
+            "club",
+            "dance",
+            "house",
+            "room",
+            "ru",
+            "wapmahka"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/220"
+    },
+    {
+        "name": "Caprice Dance Pop",
+        "url": "http://79.120.77.11:8000/dancepop",
+        "country": "RU",
+        "tags": [
+            "caprice",
+            "dance",
+            "pop"
+        ],
+        "favicon": "http://radcap.ru/stylegraf/dancepop2.jpg",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/dancepop"
+    },
+    {
+        "name": "Dancehall / Raggamuffin - Caprice Radio",
+        "url": "http://79.111.14.76:8000/dancehall",
+        "country": "RU",
+        "tags": [
+            "dancehall"
+        ],
+        "favicon": "http://radcap.ru/graf2/radcaplogo.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/dancehall"
+    },
+    {
+        "name": "DFM - Club",
+        "url": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
+        "country": "RU",
+        "tags": [
+            "club",
+            "dance",
+            "dancefloor",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp"
+    },
+    {
+        "name": "DFM - Dancehall",
+        "url": "https://dfm-dancehall.hostingradio.ru/dancehall96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dance pop",
+            "house",
+            "mix"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dancehall.hostingradio.ru/dancehall96.aacp"
+    },
+    {
+        "name": "DFM - Insomnia",
+        "url": "https://dfm-insomnia.hostingradio.ru/insomnia96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "house",
+            "progresive house",
+            "trance"
+        ],
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-insomnia.hostingradio.ru/insomnia96.aacp"
+    },
+    {
+        "name": "DFM - Party",
+        "url": "https://dfm-party.hostingradio.ru/dfmparty96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dance pop",
+            "hits",
+            "party",
+            "pop",
+            "various"
+        ],
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-party.hostingradio.ru/dfmparty96.aacp"
+    },
+    {
+        "name": "DFM - Pop Dance",
+        "url": "https://dfm-popdance.hostingradio.ru/popdance96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dance pop",
+            "pop",
+            "pop dance"
+        ],
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-popdance.hostingradio.ru/popdance96.aacp"
+    },
+    {
+        "name": "DFM 101,2 FM",
+        "url": "https://dfm.hostingradio.ru/dfm96.aacp",
+        "country": "RU",
+        "tags": [
+            "club",
+            "dance",
+            "electronic",
+            "pop"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DFM_radio_logo.svg/1200px-DFM_radio_logo.svg.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://dfm.hostingradio.ru/dfm96.aacp"
+    },
+    {
+        "name": "DFM 101.2",
+        "url": "https://dfm.hostingradio.ru/dfm128.mp3",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dance pop",
+            "house",
+            "tech house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://dfm.hostingradio.ru/dfm128.mp3"
+    },
+    {
+        "name": "DFM DANCE GOLD 1990s",
+        "url": "https://dfm-dancegold90.hostingradio.ru/dancegold9096.aacp",
+        "country": "RU",
+        "tags": [
+            "90s",
+            "dance",
+            "music"
+        ],
+        "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dancegold90.hostingradio.ru/dancegold9096.aacp"
+    },
+    {
+        "name": "DFM DANCE GOLD 2000s",
+        "url": "https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp",
+        "country": "RU",
+        "tags": [
+            "00s",
+            "2000s",
+            "dance",
+            "music"
+        ],
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp"
+    },
+    {
+        "name": "DFM DANCE GOLD 2010s",
+        "url": "https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp",
+        "country": "RU",
+        "tags": [
+            "2010s",
+            "dance",
+            "music"
+        ],
+        "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp"
+    },
+    {
+        "name": "DFM DANCE GOLD 2020s",
+        "url": "https://dfm-dancegold20.hostingradio.ru/dancegold2096.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "music"
+        ],
+        "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dancegold20.hostingradio.ru/dancegold2096.aacp"
+    },
+    {
+        "name": "DFM RUSSIAN DANCE",
+        "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+        "country": "RU",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://dfm.ru/uploads/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274"
+    },
+    {
+        "name": "DFM Воронеж 104.3 FM",
+        "url": "http://82.146.46.30:8000/dfm",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "dfm",
+            "music",
+            "pop",
+            "voronezh"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://82.146.46.30:8000/dfm"
+    },
+    {
+        "name": "DFM Дискач 90-х",
+        "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+        "country": "RU",
+        "tags": [
+            "90-е",
+            "eurodance",
+            "nostalgia"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp"
+    },
+    {
+        "name": "DFM Смоленск 105.6 FM",
+        "url": "http://92.241.103.200:8081/dfm_sm",
+        "country": "RU",
+        "tags": [
+            "105_6 fm",
+            "dance radio",
+            "dfm",
+            "music",
+            "pop",
+            "smolensk"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://92.241.103.200:8081/dfm_sm"
+    },
+    {
+        "name": "Discothec 80-90",
+        "url": "https://listen8.myradio24.com/dance80",
+        "country": "RU",
+        "tags": [
+            "eurodance",
+            "eurodisco"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen8.myradio24.com/dance80"
+    },
+    {
+        "name": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
+        "url": "http://finland.discovertrance.com:8113//",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "trance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://finland.discovertrance.com:8113//"
+    },
+    {
+        "name": "Europa Plus",
+        "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "house",
+            "pop"
+        ],
+        "favicon": "http://liveam.tv/img/2494.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3"
+    },
+    {
+        "name": "Europa Plus (128 kbps)",
+        "url": "http://ep128.streamr.ru/",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "house",
+            "pop"
+        ],
+        "favicon": "http://www.europaplus.ru/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://ep128.hostingradio.ru:8030/ep128"
+    },
+    {
+        "name": "Fantasy Radio Moscow",
+        "url": "http://fantasyradioru.no-ip.biz:8002/live",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "hits",
+            "top100"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://fantasyradioru.no-ip.biz:8002/live"
+    },
+    {
+        "name": "HIT FM",
+        "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop"
+        ],
+        "favicon": "http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://hitfm.hostingradio.ru/hitfm96.aacp"
+    },
+    {
+        "name": "Jam FM Rezh",
+        "url": "https://online2.jamfm.ru/jam_aacplus?v=1683053061316",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "hits",
+            "russian hits",
+            "top100"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://online2.jamfm.ru/jam_aacplus?v=1683053061316"
+    },
+    {
+        "name": "Kinozal.TV",
+        "url": "https://listen4.myradio24.com/kinozaltv",
+        "country": "RU",
+        "tags": [
+            "2023",
+            "adult conterporary",
+            "best",
+            "club",
+            "club house",
+            "dance",
+            "dance pop",
+            "deep house",
+            "electro",
+            "electronic",
+            "fresh",
+            "hot",
+            "house",
+            "misc",
+            "new",
+            "party",
+            "pop",
+            "remix",
+            "russian",
+            "russian pop",
+            "variety",
+            "various"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen4.myradio24.com/kinozaltv"
+    },
+    {
+        "name": "Klubb",
+        "url": "http://radio.promodj.com/klubb-192",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dj",
+            "electronic",
+            "house",
+            "jumpstyle",
+            "klubb",
+            "lubava",
+            "promo",
+            "promodj",
+            "pump",
+            "wapmahka",
+            "клуб",
+            "клубная",
+            "танцевальная",
+            "танцевальный"
+        ],
+        "favicon": "https://cdn.promodj.com/legacy/i/favicon/favicon_180.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radio.promodj.com/klubb-192"
+    },
+    {
+        "name": "Leopard Radio - A Spotty Sound",
+        "url": "http://radio-server.imfurry.ru:8000/iceleo192",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "edm",
+            "electronic",
+            "trance"
+        ],
+        "favicon": "https://en.wikifur.com/w/images/a/a3/LeopardRadioLogo.jpeg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://radio-server.imfurry.ru:8000/iceleo192"
+    },
+    {
+        "name": "Made In Russia Dance Radio",
+        "url": "https://listen8.myradio24.com/9083",
+        "country": "RU",
+        "tags": [
+            "club dance",
+            "club house",
+            "dance",
+            "dj remix",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen8.myradio24.com/9083"
+    },
+    {
+        "name": "Mega FM Arkhangelsk",
+        "url": "http://s0.radioheart.ru:8000/RH23554",
+        "country": "RU",
+        "tags": [
+            "club dance",
+            "club house",
+            "dance",
+            "house",
+            "progressive house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://s0.radioheart.ru:8000/RH23554"
+    },
+    {
+        "name": "Metaradio",
+        "url": "https://s2.metaradio.ru/mradio.aacp",
+        "country": "RU",
+        "tags": [
+            "russian dance electronic pop hits radio"
+        ],
+        "favicon": "https://s2.metaradio.ru/Metaradio_ID.png",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://s2.metaradio.ru/mradio.aacp"
+    },
+    {
+        "name": "Mixadance FM",
+        "url": "https://stream.mixadance.fm/mixadance",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "electro",
+            "electronic",
+            "house",
+            "music"
+        ],
+        "favicon": "http://www.mixadance.fm/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream.mixadance.fm/mixadance"
+    },
+    {
+        "name": "Much FM Eurodance",
+        "url": "http://myradio24.org/7552",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dj remix",
+            "eurodance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://listen1.myradio24.com/7552"
+    },
+    {
+        "name": "Noise FM - EDM Radio",
+        "url": "http://play.sas-media.ru/play_256",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dnb",
+            "drum and bass",
+            "dubstep",
+            "electronic",
+            "top40",
+            "trance",
+            "various"
+        ],
+        "favicon": "https://noisefm.ru/thumbnail.jpg",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://play.sas-media.ru/play_256"
+    },
+    {
+        "name": "Pervoesetevoe FM",
+        "url": "http://streamer.radiovseti.ru:8000/320",
+        "country": "RU",
+        "tags": [
+            "club dance",
+            "dance",
+            "hits",
+            "pop",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://streamer.radiovseti.ru:8000/320"
+    },
+    {
+        "name": "Pilot fm dance channel",
+        "url": "https://online.pilotfm.ru/pilot_dance",
+        "country": "RU",
+        "tags": [
+            "dance music"
+        ],
+        "favicon": "https://pilotfm.ru/apple-touch-icon-114x114.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://online.pilotfm.ru/pilot_dance"
+    },
+    {
+        "name": "Power Hit Radio",
+        "url": "http://radio.dline-media.com/powerhit128",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "dance",
+            "hits",
+            "top100"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://drh-node-02.dline-media.com/powerhit128"
+    },
+    {
+        "name": "Premium FM",
+        "url": "http://listen.rpfm.ru:9000/premium128",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "eurodance",
+            "hits",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen.rpfm.ru:9000/premium128"
+    },
+    {
+        "name": "RadCap - Dance Punk",
+        "url": "http://213.141.131.10:8004/dancepunk",
+        "country": "RU",
+        "tags": [
+            "dance punk",
+            "punk",
+            "radio caprice"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8004/dancepunk"
+    },
+    {
+        "name": "Radio 107 Moscow",
+        "url": "http://62.183.34.109:8000/radio107.mp3",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "eurodance",
+            "hits",
+            "top 100"
+        ],
+        "favicon": "https://radio107.ru/images/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://62.183.34.109:8000/radio107.mp3"
+    },
+    {
+        "name": "Radio 2000x",
+        "url": "http://air.radio2000x.com:8000/stream",
+        "country": "RU",
+        "tags": [
+            "2000s",
+            "90s",
+            "dance",
+            "eurodance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://air.radio2000x.com:8000/stream"
+    },
+    {
+        "name": "Radio Caprice - Russian Club Dance Music [1]",
+        "url": "http://79.120.77.11:8002/clubru",
+        "country": "RU",
+        "tags": [
+            "club",
+            "club dance",
+            "electronic",
+            "radcap",
+            "russian"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/clubru"
+    },
+    {
+        "name": "Radio Caprice - Russian Club Dance Music [2]",
+        "url": "http://79.120.77.11:8000/clubru",
+        "country": "RU",
+        "tags": [
+            "club",
+            "club dance",
+            "electronic",
+            "radcap",
+            "russian"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/clubru"
+    },
+    {
+        "name": "Radio Caprice - Russian Club Dance Music [3]",
+        "url": "http://79.120.77.11:8004/clubru",
+        "country": "RU",
+        "tags": [
+            "club",
+            "club dance",
+            "electronic",
+            "radcap",
+            "russian"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8004/clubru"
+    },
+    {
+        "name": "Radio DFM Ufa 91.5 FM",
+        "url": "http://92.50.177.134:8000/dfm_ufa",
+        "country": "RU",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://top-radio.ru/assets/image/radio/180/dfm.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://92.50.177.134:8000/dfm_ufa"
+    },
+    {
+        "name": "Radio Myata",
+        "url": "http://radio.dline-media.com/myata",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "hits",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://drh-node-02.dline-media.com/myata"
+    },
+    {
+        "name": "Radio Novaya Rossiya",
+        "url": "http://91.194.120.107:8000/256",
+        "country": "RU",
+        "tags": [
+            "classic hits",
+            "dance",
+            "hits",
+            "pop",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://91.194.120.107:8000/256"
+    },
+    {
+        "name": "Radio OldHit",
+        "url": "https://oldhit.ru/stream?1778250827993",
+        "country": "RU",
+        "tags": [
+            "80s",
+            "90s",
+            "dance",
+            "hits",
+            "oldies",
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://oldhit.ru/img/fav/favicon180.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://oldhit.ru:8000/?1778250827993"
+    },
+    {
+        "name": "Radio Portal Novovoronezh",
+        "url": "http://icecast-ext.dimfm.ru:8000/portal",
+        "country": "RU",
+        "tags": [
+            "eurodance",
+            "hits",
+            "pop",
+            "top40"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://icecast-ext.dimfm.ru:8000/portal"
+    },
+    {
+        "name": "Radio Record - Main Channel",
+        "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "https://i.imgur.com/cLHqnQ5.jpg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+    },
+    {
+        "name": "Radio Record - Summer Dance",
+        "url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "dance music",
+            "dance pop",
+            "eurodance"
+        ],
+        "favicon": "https://i.imgur.com/n5PBous.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://radiorecord.hostingradio.ru/summerparty96.aacp"
+    },
+    {
+        "name": "Radio Tourist",
+        "url": "http://stream.radiojar.com/av2rrf6547zuv",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "hot hits",
+            "pop music",
+            "r&b/urban",
+            "travel"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n10.radiojar.com/av2rrf6547zuv?rj-ttl=5&rj-tok=AAABn-yogJEA9qTDIDx6w0B9EQ"
+    },
+    {
+        "name": "Remix FM",
+        "url": "http://air4.amgradio.ru/RemixFM",
+        "country": "RU",
+        "tags": [
+            "club dance",
+            "dance",
+            "dj mix",
+            "eurodance",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://rmx.amgradio.ru/remixfm.aacp"
+    },
+    {
+        "name": "Royal Club",
+        "url": "http://193.33.170.218:8000/RoyalClub",
+        "country": "RU",
+        "tags": [
+            "club",
+            "dance",
+            "mix",
+            "pop",
+            "royal",
+            "royalradio.ru",
+            "various",
+            "танцевальная"
+        ],
+        "favicon": "http://royalradio.ru/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://193.33.170.218:8000/RoyalClub"
+    },
+    {
+        "name": "Royal Radio Sankt Peterburg",
+        "url": "https://c22.radioboss.fm/stream/186",
+        "country": "RU",
+        "tags": [
+            "eurodance",
+            "hits",
+            "top40"
+        ],
+        "favicon": "https://royalradio.ru/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://c22.radioboss.fm/stream/186"
+    },
+    {
+        "name": "Russian Drive",
+        "url": "https://rusdriveradio.ru:8000/live_aac64",
+        "country": "RU",
+        "tags": [
+            "pop dance"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://rusdriveradio.ru:8000/live_aac64"
+    },
+    {
+        "name": "SUPER RADIO remix",
+        "url": "https://listen2.myradio24.com/serz",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop",
+            "танцевальная"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240324_095134480.jpg?alt=media&token=49fdc253-75ce-4fde-9556-bc1b599a842c",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen2.myradio24.com/serz"
+    },
+    {
+        "name": "THT Music Radio",
+        "url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "hits",
+            "pop"
+        ],
+        "favicon": "https://tntmusic.ru/static/favicon/favicon-32x32.png",
+        "codec": "AAC",
+        "bitrate": 160,
+        "working_url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3"
+    },
+    {
+        "name": "Volna FM",
+        "url": "https://listen5.myradio24.com/nvolna",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop",
+            "rock"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "https://listen5.myradio24.com/nvolna"
+    },
+    {
+        "name": "XXL FM",
+        "url": "http://91.211.246.42:8000/XXL-FM",
+        "country": "RU",
+        "tags": [
+            "club dance",
+            "club house",
+            "dance",
+            "dj remix",
+            "house"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://91.211.246.42:8000/XXL-FM"
+    },
+    {
+        "name": "Апекс-Радио Кемерово 101.0 FM",
+        "url": "http://62.152.59.3:8000/kem",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop",
+            "russian",
+            "spanish",
+            "top 40"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://62.152.59.3:8000/kem"
+    },
+    {
+        "name": "Апекс-Радио Новокузнецк 100.5 FM",
+        "url": "http://62.152.59.3:8000/nkz",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "pop",
+            "russian",
+            "top 40"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://62.152.59.3:8000/nkz"
+    },
+    {
+        "name": "Владивосток FM",
+        "url": "http://vladfm.ru:8000/vfm?1702126392317",
+        "country": "RU",
+        "tags": [
+            "dance"
+        ],
+        "favicon": "http://vladivostokfm.ru/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://vladfm.ru:8000/vfm?1702126392317"
+    },
+    {
+        "name": "ГУСЬ.Олдскул",
+        "url": "https://stream1.radiogoose.ru/listen/oldschool/play",
+        "country": "RU",
+        "tags": [
+            "00",
+            "90",
+            "eurodance",
+            "greatest hits",
+            "old time radio",
+            "oldschool"
+        ],
+        "favicon": "https://radiogoose.ru/res/logo/oldschool.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream1.radiogoose.ru/listen/oldschool/play"
+    },
+    {
+        "name": "ГУСЬ.Хардденс",
+        "url": "https://stream1.radiogoose.ru/listen/harddance/play",
+        "country": "RU",
+        "tags": [
+            "darktekk",
+            "darkwave",
+            "hard dance",
+            "harddance",
+            "psy",
+            "rave",
+            "techno"
+        ],
+        "favicon": "https://radiogoose.ru/res/logo/harddance.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream1.radiogoose.ru/listen/harddance/play"
+    },
+    {
+        "name": "Диско-радио SOVA",
+        "url": "https://evcast.mediacp.eu:1965/stream",
+        "country": "RU",
+        "tags": [
+            "80's",
+            "80s",
+            "dance",
+            "disco",
+            "italo disco"
+        ],
+        "favicon": "https://disco-radio.ru/logo-sova512.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://evcast.mediacp.eu:1965/stream"
+    },
+    {
+        "name": "Радио Capital-ФМ\nМосква\n105,3 FM",
+        "url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+        "country": "RU",
+        "tags": [
+            "capital",
+            "dance music",
+            "moskva",
+            "music",
+            "pop"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241106_202128911.jpg?alt=media&token=2593c42a-0df3-4c52-bf78-76d892a63c11",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
+    },
+    {
+        "name": "РАДИО ENERGY - Москва 104.2 FM",
+        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/99",
+        "country": "RU",
+        "tags": [
+            "dance radio online"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://gpm.hostingradio.ru/gpm-energyfm495.aacp"
+    },
+    {
+        "name": "РАДИО ГУСЬ",
+        "url": "https://stream4.radiogoose.ru/listen/radiogoose/play",
+        "country": "RU",
+        "tags": [
+            "bigroom",
+            "dance",
+            "dancecore",
+            "deep",
+            "dnb",
+            "edm",
+            "electro",
+            "hardcore",
+            "hardstyle",
+            "house",
+            "metal",
+            "midtempo",
+            "phonk",
+            "pop",
+            "radio hit",
+            "rave",
+            "rock",
+            "techno",
+            "trance"
+        ],
+        "favicon": "https://radiogoose.ru/res/logo/radiogoose.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://stream4.radiogoose.ru/listen/radiogoose/play"
+    },
+    {
+        "name": "Радио Рекорд Великий Новгород 100.0 FM",
+        "url": "http://nov.rlnk.ru:8000/radio.recrdn",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "music",
+            "pop"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_191932506.jpg?alt=media&token=d506106b-6b17-4ca6-a45e-6359ecc24ead",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://nov.rlnk.ru:8000/radio.recrdn"
+    },
+    {
+        "name": "Радио Рекорд Казань 101.9 FM",
+        "url": "http://online-2.gkvr.ru:8000/record_kaz_64.aac",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "kazan'",
+            "music",
+            "pop",
+            "record",
+            "tatarstan"
+        ],
+        "favicon": "null",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://online-2.gkvr.ru:8000/record_kaz_64.aac"
+    },
+    {
+        "name": "Радио Рекорд Кириши 104.9 FM",
+        "url": "http://79.173.124.23:1121/Recordkir",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "kirishi",
+            "music",
+            "pop",
+            "radio record"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241225_211219683.jpg?alt=media&token=1642b2ae-5549-4acf-93fd-499068f4b77c",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://79.173.124.23:1121/Recordkir"
+    },
+    {
+        "name": "Радио Рекорд Нижний Новгород 100.9 FM",
+        "url": "http://online2.gkvr.ru:8000/record_nno_64.aac",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "music",
+            "nizhniy novgorod",
+            "pop",
+            "record"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212321094.jpg?alt=media&token=81370aaa-06b1-4dcf-81f4-e48a075cc237",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://online2.gkvr.ru:8000/record_nno_64.aac"
+    },
+    {
+        "name": "Радио Рекорд Самара 101.5 FM",
+        "url": "http://online-1.gkvr.ru:8000/record_sam_96.aac",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "music",
+            "pop"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225808382.jpg?alt=media&token=c0d36d8b-0c87-45eb-8b05-265b9354dc74",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "http://online-1.gkvr.ru:8000/record_sam_96.aac"
+    },
+    {
+        "name": "Радио Рекорд Ставрополь (Михайловск) 100.1 FM",
+        "url": "http://77.39.8.49:8000/hit_stv",
+        "country": "RU",
+        "tags": [
+            "club",
+            "dance",
+            "pop",
+            "russian"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://77.39.8.49:8000/hit_stv"
+    },
+    {
+        "name": "Радио Рекорд Тула 91.3 FM",
+        "url": "http://87.244.47.90:8000/Record",
+        "country": "RU",
+        "tags": [
+            "dance radio",
+            "music",
+            "pop",
+            "record",
+            "region 71",
+            "tula"
+        ],
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_232240732.jpg?alt=media&token=b471bb8f-87c5-432f-8616-2e42ab7065dd",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://87.244.47.90:8000/Record"
+    },
+    {
+        "name": "салют FM",
+        "url": "https://stream.salyutfm.ru:8005/stream?x=1702122341752",
+        "country": "RU",
+        "tags": [
+            "dance",
+            "retro"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.salyutfm.ru:8005/stream?x=1702122341752"
+    }
+]

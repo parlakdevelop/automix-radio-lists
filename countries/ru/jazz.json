@@ -1,0 +1,850 @@
+[
+    {
+        "name": "Breaking Bass Air",
+        "url": "https://aircast.breaking-bass.ru:8443/air",
+        "country": "RU",
+        "tags": [
+            "atmospheric",
+            "darkstep",
+            "dnb",
+            "dram&bass",
+            "drumandbass",
+            "hardstep",
+            "intelligent",
+            "jazzstep",
+            "jumpup",
+            "jungle",
+            "liquid",
+            "neurofunk",
+            "sambass",
+            "techstep"
+        ],
+        "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://aircast.breaking-bass.ru:8443/air"
+    },
+    {
+        "name": "Caprice - Chicago blues",
+        "url": "http://79.111.14.76:8000/chicagoblues",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/chicagoblues"
+    },
+    {
+        "name": "hermitage",
+        "url": "http://hermitage.hostingradio.ru/hermitage128.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz spb"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://hermitage.hostingradio.ru/hermitage128.mp3"
+    },
+    {
+        "name": "Instrumental Jazz",
+        "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+        "country": "RU",
+        "tags": [
+            "instrumental",
+            "jazz"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+    },
+    {
+        "name": "JAZZ 89.1 FM",
+        "url": "https://nashe1.hostingradio.ru:80/jazz-128.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://radiojazzfm.ru/img/logo-jazz.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://nashe1.hostingradio.ru:80/jazz-128.mp3"
+    },
+    {
+        "name": "JAZZ MANOUCHE / GYPSY JAZZ / GYPSY SWING - Radio Caprice",
+        "url": "http://79.120.77.11:8004/manouche",
+        "country": "RU",
+        "tags": [
+            "jazz manouche / gypsy jazz / gypsy swing"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8004/manouche"
+    },
+    {
+        "name": "Mixadance FM",
+        "url": "https://stream.mixadance.fm/mixadancejazz",
+        "country": "RU",
+        "tags": [
+            "blues",
+            "chill",
+            "jazz",
+            "moody",
+            "music",
+            "relax",
+            "working"
+        ],
+        "favicon": "http://www.mixadance.fm/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 80,
+        "working_url": "https://stream.mixadance.fm/mixadancejazz"
+    },
+    {
+        "name": "Monte Carlo",
+        "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+        "country": "RU",
+        "tags": [
+            "classical",
+            "hits",
+            "instrumental",
+            "jazz",
+            "pop",
+            "rock"
+        ],
+        "favicon": "https://montecarlo.ru/_nuxt/img/26f497b.svg",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+    },
+    {
+        "name": "MonteCarlo Nights",
+        "url": "https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp",
+        "country": "RU",
+        "tags": [
+            "downtempo",
+            "jazz",
+            "lo-fi",
+            "lounge",
+            "nu-jazz",
+            "smooth jazz",
+            "soulful house"
+        ],
+        "favicon": "https://station.ru/resize_130x130/uploads/40/d3/cda32ef542a4700cc2ec49d650e8.png",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp"
+    },
+    {
+        "name": "RadCap - Jazz Fusion Metal",
+        "url": "http://213.141.131.10:8004/jazzmetal",
+        "country": "RU",
+        "tags": [
+            "jazz fusion metal",
+            "metal",
+            "radio caprice"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://213.141.131.10:8004/jazzmetal"
+    },
+    {
+        "name": "RadCap - Trumpet Jazz",
+        "url": "http://213.141.131.10:8002/trumpetjazz",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "radio caprice",
+            "trumpet jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://213.141.131.10:8002/trumpetjazz"
+    },
+    {
+        "name": "RADCAP: DARK / DOOM / NOIR / FUNERAL / AMBIENT JAZZ",
+        "url": "http://79.120.39.202:8000/darkjazz",
+        "country": "RU",
+        "tags": [
+            "dark jazz"
+        ],
+        "favicon": "http://radcap.ru/stylegraf/darkjazz-c.jpg",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/darkjazz"
+    },
+    {
+        "name": "Radio Caprice - Avant-Garde Jazz / Free Improvisation [1]",
+        "url": "http://79.111.119.111:8002/avantgardejazz",
+        "country": "RU",
+        "tags": [
+            "avant-garde",
+            "avant-garde jazz",
+            "free jazz",
+            "improvisation",
+            "radcap"
+        ],
+        "favicon": "http://radcap.ru/graf2/rclogo.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/avantgardejazz"
+    },
+    {
+        "name": "Radio Caprice - Avant-Garde Jazz / Free Improvisation [2]",
+        "url": "http://79.111.119.111:8000/avantgardejazz",
+        "country": "RU",
+        "tags": [
+            "avant-garde",
+            "avant-garde jazz",
+            "free jazz",
+            "improvisation",
+            "radcap"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.119.111:8000/avantgardejazz"
+    },
+    {
+        "name": "Radio Caprice - Bossa Nova",
+        "url": "http://79.111.14.76:8002/bossanova",
+        "country": "RU",
+        "tags": [
+            "bossa nova",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/bossanova"
+    },
+    {
+        "name": "Radio Caprice - Chamber Jazz",
+        "url": "http://79.120.39.202:8002/chamberjazz",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/chamberjazz"
+    },
+    {
+        "name": "Radio Caprice - Contemporary Jazz",
+        "url": "http://79.111.119.111:8002/contemporaryjazz",
+        "country": "RU",
+        "tags": [
+            "contemporary jazz",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/contemporaryjazz"
+    },
+    {
+        "name": "Radio Caprice - Cool / West Coast Jazz",
+        "url": "http://79.120.39.202:8002/cooljazz",
+        "country": "RU",
+        "tags": [
+            "cool jazz",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/cooljazz"
+    },
+    {
+        "name": "Radio Caprice - Dixieland",
+        "url": "http://79.120.39.202:8002/dixieland",
+        "country": "RU",
+        "tags": [
+            "dixieland",
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/dixieland"
+    },
+    {
+        "name": "Radio Caprice - Erotic",
+        "url": "http://79.120.39.202:8000/erotic",
+        "country": "RU",
+        "tags": [
+            "chill",
+            "deep",
+            "downtempo",
+            "jazz",
+            "sensual",
+            "smooth"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.39.202:8000/erotic"
+    },
+    {
+        "name": "Radio Caprice - Free Jazz",
+        "url": "http://79.111.14.76:8002/freejazz",
+        "country": "RU",
+        "tags": [
+            "free jazz",
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/freejazz"
+    },
+    {
+        "name": "Radio Caprice - Guitar Jazz",
+        "url": "http://79.120.77.11:8002/guitarjazz",
+        "country": "RU",
+        "tags": [
+            "guitar jazz",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.77.11:8002/guitarjazz"
+    },
+    {
+        "name": "Radio Caprice - Hard Bob",
+        "url": "http://79.111.14.76:8000/hardbop",
+        "country": "RU",
+        "tags": [
+            "bebop",
+            "hard bop",
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/hardbop"
+    },
+    {
+        "name": "Radio Caprice - Hard Bop",
+        "url": "http://79.111.14.76:8002/hardbop",
+        "country": "RU",
+        "tags": [
+            "bebop",
+            "hard bop",
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/hardbop"
+    },
+    {
+        "name": "Radio Caprice - Jazz Funk",
+        "url": "http://79.120.39.202:8002/jazzfunk",
+        "country": "RU",
+        "tags": [
+            "funk",
+            "jazz",
+            "jazz funk"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/jazzfunk"
+    },
+    {
+        "name": "Radio Caprice - Jazz Fusion",
+        "url": "http://79.111.119.111:8002/jazzfusion",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "jazz fusion"
+        ],
+        "favicon": "http://radcap.ru/graf2/rclogo.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/jazzfusion"
+    },
+    {
+        "name": "Radio Caprice - Jazz Rock",
+        "url": "http://79.111.119.111:8002/jazzrock",
+        "country": "RU",
+        "tags": [
+            "jazz rock",
+            "rock"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/jazzrock"
+    },
+    {
+        "name": "Radio Caprice - Latin / Afro-Cuban Jazz",
+        "url": "http://79.111.119.111:8002/latinjazz",
+        "country": "RU",
+        "tags": [
+            "bolero",
+            "cuban music",
+            "jazz",
+            "latin music"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/latinjazz"
+    },
+    {
+        "name": "Radio Caprice - Piano Jazz / Stride / Ragtime",
+        "url": "http://79.111.119.111:8002/pianojazz",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "piano jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.119.111:8002/pianojazz"
+    },
+    {
+        "name": "Radio Caprice - Smooth Jazz",
+        "url": "http://79.120.39.202:8002/smoothjazz",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/smoothjazz"
+    },
+    {
+        "name": "Radio Caprice - Soul Jazz",
+        "url": "http://79.111.14.76:8002/souljazz",
+        "country": "RU",
+        "tags": [
+            "soul jazz"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.111.14.76:8002/souljazz"
+    },
+    {
+        "name": "Radio Caprice - Swing / Neo-swing",
+        "url": "http://79.120.39.202:8002/swing",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "swing"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://79.120.39.202:8002/swing"
+    },
+    {
+        "name": "Radio Caprice - VIbraphone in Jazz",
+        "url": "http://213.141.131.10:8002/vibraphone",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "http://213.141.131.10:8002/vibraphone"
+    },
+    {
+        "name": "Radio Caprice ACID / CLUB / GROOVE JAZZ",
+        "url": "http://79.111.14.76:8000/acidjazz",
+        "country": "RU",
+        "tags": [
+            "acid jazz",
+            "club",
+            "groove"
+        ],
+        "favicon": "http://radcap.ru/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.111.14.76:8000/acidjazz"
+    },
+    {
+        "name": "Radio Caprice Jazz Modern Creative",
+        "url": "http://79.120.77.11:8000/mcreative",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "http://radcap.ru/apple-touch-icon.png",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://79.120.77.11:8000/mcreative"
+    },
+    {
+        "name": "Radio Jazz 89.1 - Classic JAZZ",
+        "url": "http://jfm1.hostingradio.ru:14536/ijstream.mp3",
+        "country": "RU",
+        "tags": [
+            "classic jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/ijstream.mp3"
+    },
+    {
+        "name": "Radio Jazz 89.1 - JAZZ Legends",
+        "url": "http://jfm1.hostingradio.ru:14536/jlstream.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/jlstream.mp3"
+    },
+    {
+        "name": "Radio Jazz 89.1 - JAZZ Vocals",
+        "url": "http://jfm1.hostingradio.ru:14536/jvstream.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz vocal"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/favicon-32x32.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/jvstream.mp3"
+    },
+    {
+        "name": "Radio Jazz 89.1 FM",
+        "url": "http://main.hostingradio.ru/jazz-128.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://main.hostingradio.ru/jazz-128.mp3"
+    },
+    {
+        "name": "Radio Minor",
+        "url": "http://radiominor.ru:8000/radiominor_ru_jazz.mp3",
+        "country": "RU",
+        "tags": [
+            "classic jazz",
+            "jazz"
+        ],
+        "favicon": "https://radiominor.ru/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "http://radiominor.ru:8000/radiominor_ru_jazz.mp3"
+    },
+    {
+        "name": "Radio Monte Carlo - Bossa Nova",
+        "url": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315",
+        "country": "RU",
+        "tags": [
+            "bossa",
+            "bossa nova",
+            "bossanova",
+            "jazz",
+            "latin",
+            "latin jazz",
+            "music"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315"
+    },
+    {
+        "name": "Radio Record Lo-Fi",
+        "url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
+        "country": "RU",
+        "tags": [
+            "chill",
+            "chill beats",
+            "chillhop",
+            "jazzhop",
+            "lo-fi"
+        ],
+        "favicon": "https://cdn-profiles.tunein.com/s255374/images/logog.png?t=152330",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://radiorecord.hostingradio.ru/lofi96.aacp"
+    },
+    {
+        "name": "Relax FM 90,8 Moscow",
+        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
+        "country": "RU",
+        "tags": [
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://gpm.hostingradio.ru/gpm-relaxfm495.aacp"
+    },
+    {
+        "name": "Relax FM Smooth Jazz",
+        "url": "https://pub0201.101.ru/stream/trust/mp3/128/31?",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "https://top-radio.ru/assets/image/radio/180/relax-fm-smooth-jazz.jpg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://pub0201.101.ru/stream/trust/mp3/128/31"
+    },
+    {
+        "name": "RTFM.fm",
+        "url": "https://stream.rtfm.fm/aac256",
+        "country": "RU",
+        "tags": [
+            "alternative rock",
+            "downtempo",
+            "electronic",
+            "jazz",
+            "pop rock",
+            "rock"
+        ],
+        "favicon": "https://rtfm.fm/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 256,
+        "working_url": "https://stream.rtfm.fm/aac256"
+    },
+    {
+        "name": "Russian Lounge",
+        "url": "https://muzdolet.com/radio.mp3",
+        "country": "RU",
+        "tags": [
+            "chillout",
+            "downtempo",
+            "jazz",
+            "jazz easy listening",
+            "lounge radio",
+            "russian"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://muzdolet.com/radio.mp3"
+    },
+    {
+        "name": "SECTOR Jazz",
+        "url": "http://89.223.45.5:8000/jazz-flac",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "OGG",
+        "bitrate": 3072,
+        "working_url": "http://89.223.45.5:8000/jazz-flac"
+    },
+    {
+        "name": "Бурлеск FM",
+        "url": "http://burlesquefm.ru:8000/radio",
+        "country": "RU",
+        "tags": [
+            "easy listening",
+            "jazz",
+            "music",
+            "pop",
+            "tango"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://burlesquefm.ru:8000/radio"
+    },
+    {
+        "name": "Культура (AAC+)",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps",
+        "country": "RU",
+        "tags": [
+            "64 kbps aac+",
+            "classical",
+            "cultural news",
+            "folk",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps"
+    },
+    {
+        "name": "Нестандарт (aac • 64)",
+        "url": "https://listen.radionestandart.ru:8200/64.aac",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "pop music",
+            "rock"
+        ],
+        "favicon": "https://radionestandart.ru/favicon.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://listen.radionestandart.ru:8200/64.aac"
+    },
+    {
+        "name": "Радио Jazz",
+        "url": "http://nashe1.hostingradio.ru/jazz-128.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://nashe1.hostingradio.ru/jazz-128.mp3"
+    },
+    {
+        "name": "Радио JAZZ 89.1 256kbps",
+        "url": "https://nashe1.hostingradio.ru/jazz-256",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/favicon-32x32.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://nashe1.hostingradio.ru/jazz-256"
+    },
+    {
+        "name": "Радио Jazz Smooth",
+        "url": "http://jfm1.hostingradio.ru:14536/sjstream.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "smooth jazz"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://jfm1.hostingradio.ru:14536/sjstream.mp3"
+    },
+    {
+        "name": "Радио Джаз 89,1FM",
+        "url": "http://jazz.streamr.ru/jazz-128.mp3",
+        "country": "RU",
+        "tags": [
+            "jazz",
+            "music"
+        ],
+        "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://jazz.streamr.ru/jazz-128.mp3"
+    },
+    {
+        "name": "Радио Культура",
+        "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm",
+        "country": "RU",
+        "tags": [
+            "classical",
+            "culture",
+            "experimental",
+            "folk",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm"
+    },
+    {
+        "name": "Радио Культура / Radio Kultura",
+        "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps",
+        "country": "RU",
+        "tags": [
+            "folk",
+            "jazz",
+            "moscow",
+            "music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps"
+    },
+    {
+        "name": "Радио Монте Карло - Время джаза",
+        "url": "https://mc-mcjazz.hostingradio.ru/mcjazz96.aacp",
+        "country": "RU",
+        "tags": [
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 96,
+        "working_url": "https://mc-mcjazz.hostingradio.ru/mcjazz96.aacp"
+    },
+    {
+        "name": "Радио Эрмитаж Санкт-Петербург 90.1 FM",
+        "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+        "country": "RU",
+        "tags": [
+            "78",
+            "blues",
+            "jazz",
+            "music",
+            "radio hermitage",
+            "spb"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://hermitage.hostingradio.ru/hermitage128.mp3"
+    },
+    {
+        "name": "РадиоКанск",
+        "url": "https://azura-cast.radiokansk.ru/listen/radiokansk/live",
+        "country": "RU",
+        "tags": [
+            "disco",
+            "electronic",
+            "jazz",
+            "podcast",
+            "rock"
+        ],
+        "favicon": "https://www.radiokansk.ru/wp-content/uploads/2025/02/cropped-favicon-512x512-1-32x32.png",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "https://azura-cast.radiokansk.ru/listen/radiokansk/live"
+    },
+    {
+        "name": "Спокойное радио",
+        "url": "https://listen9.myradio24.com/6262",
+        "country": "RU",
+        "tags": [
+            "ambient",
+            "chillout",
+            "easy listening",
+            "jazz",
+            "lounge",
+            "moscow",
+            "relax",
+            "sounds of nature"
+        ],
+        "favicon": "https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen9.myradio24.com/6262"
+    }
+]
