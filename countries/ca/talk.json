@@ -1,0 +1,948 @@
+[
+    {
+        "name": "# 70s 80s 90s RdMix Network",
+        "url": "https://cast1.torontocast.com:1830/stream",
+        "country": "CA",
+        "tags": [
+            "00's",
+            "00s",
+            "192kbps",
+            "1970s",
+            "1980s",
+            "1990s",
+            "70's",
+            "70s",
+            "80's",
+            "80s",
+            "90's",
+            "90s",
+            "charts",
+            "classic hits",
+            "classic rock",
+            "dance",
+            "entretenimiento",
+            "fm",
+            "high quality audio",
+            "hits",
+            "local news",
+            "local radio",
+            "misc",
+            "music",
+            "musica",
+            "news",
+            "oldies",
+            "ontario",
+            "pop",
+            "pop music",
+            "pop rock",
+            "public radio",
+            "radio",
+            "rock",
+            "talk",
+            "top 100",
+            "top hits",
+            "top40",
+            "toronto",
+            "webradio"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://cast1.torontocast.com:1830/stream"
+    },
+    {
+        "name": "00-Radio Canada Montreal",
+        "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "information",
+            "talk & speech"
+        ],
+        "favicon": "https://ici.radio-canada.ca/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8"
+    },
+    {
+        "name": "630 CHED",
+        "url": "https://corus.leanstream.co/CHEDAM-MP3",
+        "country": "CA",
+        "tags": [
+            "hockey",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/uploads/2021/01/630-CHED-Oilers-Radio-300x300-Tile-CLEAN.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://corus.leanstream.co/CHEDAM-MP3"
+    },
+    {
+        "name": "98.5FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
+        "country": "CA",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8"
+    },
+    {
+        "name": "A1中文电台",
+        "url": "http://s2.voscast.com:9530/",
+        "country": "CA",
+        "tags": [
+            "chinese",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://www.a1chineseradio.ca/images/a1_logo_114x114.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://s2.voscast.com:9530/"
+    },
+    {
+        "name": "CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)",
+        "url": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "blues",
+            "classical",
+            "contemporary",
+            "eclectic programming",
+            "folk",
+            "jazz",
+            "local programming",
+            "news",
+            "news talk music",
+            "public radio",
+            "talk"
+        ],
+        "favicon": "https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
+    },
+    {
+        "name": "CBC Radio 1 Halifax",
+        "url": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "local news",
+            "public",
+            "talk",
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8"
+    },
+    {
+        "name": "CBC Radio 1 Ottawa (CBO-FM)",
+        "url": "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8",
+        "country": "CA",
+        "tags": [
+            "information",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://commons.wikimedia.org/wiki/File:CBC_Logo_1992-Present.svg",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8"
+    },
+    {
+        "name": "CBC Radio One Montréal",
+        "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "local news",
+            "public radio",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8"
+    },
+    {
+        "name": "CFAC \"Sportsnet 960\" Calgary, AB",
+        "url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "calgary",
+            "sports news",
+            "sports talk"
+        ],
+        "favicon": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8"
+    },
+    {
+        "name": "CFAX 1070 (Victoria, BC)",
+        "url": "http://13743.live.streamtheworld.com:3690/CFAXAMAAC_SC",
+        "country": "CA",
+        "tags": [
+            "commercial",
+            "local news",
+            "news",
+            "news talk",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 40,
+        "working_url": "http://13743.live.streamtheworld.com:3690/CFAXAMAAC_SC"
+    },
+    {
+        "name": "CFGQ 107.3 \"QR Calgary 107 & 770\" Calgary, AB",
+        "url": "http://live.leanstream.co/CFGQFM-MP3",
+        "country": "CA",
+        "tags": [
+            "corus media",
+            "global news",
+            "news talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/CHQR_770_2023.svg/250px-CHQR_770_2023.svg.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://live.leanstream.co/CFGQFM-MP3"
+    },
+    {
+        "name": "CFIQ 640 \"Global News Radio\" Toronto, ON",
+        "url": "https://corus.leanstream.co/CFIQAM-MP3",
+        "country": "CA",
+        "tags": [
+            "news",
+            "talk radio"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-morty.svg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://corus.leanstream.co/CFIQAM-MP3"
+    },
+    {
+        "name": "CFLN 97.9 \"Big Land - Labrador's FM\" Happy Valley-Goose Bay, NL",
+        "url": "http://newcap.leanstream.co/CFLNFM",
+        "country": "CA",
+        "tags": [
+            "commercial",
+            "country",
+            "goose bay",
+            "happy valley",
+            "labrador",
+            "news",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 131,
+        "working_url": "http://newcap.leanstream.co/CFLNFM"
+    },
+    {
+        "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+        "url": "http://66.70.178.194:9700/stream",
+        "country": "CA",
+        "tags": [
+            "music",
+            "talk",
+            "trad"
+        ],
+        "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
+        "codec": "AAC+",
+        "bitrate": 80,
+        "working_url": "http://66.70.178.194:9700/stream"
+    },
+    {
+        "name": "CFPL-AM 980 London, ON",
+        "url": "http://live.leanstream.co/CFPLAM-MP3",
+        "country": "CA",
+        "tags": [
+            "london",
+            "news",
+            "sport",
+            "talk"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://live.leanstream.co/CFPLAM-MP3"
+    },
+    {
+        "name": "CFRA \"News Talk Radio 580\" Ottawa, ON",
+        "url": "http://18063.live.streamtheworld.com/CFRAAMAAC_SC",
+        "country": "CA",
+        "tags": [
+            "news talk"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 40,
+        "working_url": "http://18063.live.streamtheworld.com/CFRAAMAAC_SC"
+    },
+    {
+        "name": "CFYX-FM 93.3 Rimouski, QC",
+        "url": "http://stream.statsradio.com:8048/stream",
+        "country": "CA",
+        "tags": [
+            "news talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "http://stream.statsradio.com:8048/stream"
+    },
+    {
+        "name": "CHED 630 \"Global News Radio\" Edmonton, AB",
+        "url": "http://live.leanstream.co/CHEDAM",
+        "country": "CA",
+        "tags": [
+            "news talk"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-black.svg",
+        "codec": "AAC+",
+        "bitrate": 57,
+        "working_url": "http://live.leanstream.co/CHEDAM"
+    },
+    {
+        "name": "CHNL 610 \"Radio NL\" Kamloops, BC",
+        "url": "http://newcap.leanstream.co/CHNLAM",
+        "country": "CA",
+        "tags": [
+            "classic hits",
+            "commercial",
+            "sport",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 57,
+        "working_url": "http://newcap.leanstream.co/CHNLAM"
+    },
+    {
+        "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
+        "url": "http://icecast-choi.rncm.ca/choi.aac",
+        "country": "CA",
+        "tags": [
+            "commercial",
+            "quebec city",
+            "talk"
+        ],
+        "favicon": "https://radiox.com/apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://icecast-choi.rncm.ca/choi.aac"
+    },
+    {
+        "name": "Choi Radio X 98,1",
+        "url": "http://icecast-choi.rncm.ca/choi.mp3",
+        "country": "CA",
+        "tags": [
+            "talk"
+        ],
+        "favicon": "https://radiox.com/apple-touch-icon.png",
+        "codec": "MP3",
+        "bitrate": 64,
+        "working_url": "http://icecast-choi.rncm.ca/choi.mp3"
+    },
+    {
+        "name": "CHQR 770 (Calgary, AB)",
+        "url": "http://live.leanstream.co/CHQRAM",
+        "country": "CA",
+        "tags": [
+            "calgary",
+            "information",
+            "local news",
+            "news",
+            "news talk",
+            "traffic"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png",
+        "codec": "AAC+",
+        "bitrate": 57,
+        "working_url": "http://live.leanstream.co/CHQRAM"
+    },
+    {
+        "name": "CHQR 770 Global News Radio - Calgary, AB",
+        "url": "https://live.leanstream.co/CHQRAM-MP3",
+        "country": "CA",
+        "tags": [
+            "calgary",
+            "news talk"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://live.leanstream.co/CHQRAM-MP3"
+    },
+    {
+        "name": "CHUM TSN 1050 Toronto",
+        "url": "http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC",
+        "country": "CA",
+        "tags": [
+            "sports",
+            "talk",
+            "toronto"
+        ],
+        "favicon": "https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png",
+        "codec": "AAC+",
+        "bitrate": 40,
+        "working_url": "http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC"
+    },
+    {
+        "name": "CHVN-FM",
+        "url": "https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "contemporary",
+            "music",
+            "talk",
+            "worship"
+        ],
+        "favicon": "https://i.imgur.com/5OrXTfD.png",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8"
+    },
+    {
+        "name": "CIOG-FM harvesters.fm",
+        "url": "https://harvestersciog.radioca.st/CIOG",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "music",
+            "talk",
+            "uplifting"
+        ],
+        "favicon": "https://i.imgur.com/Nt3hlNv.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://harvestersciog.radioca.st/CIOG"
+    },
+    {
+        "name": "CITA-FM Harvesters FM",
+        "url": "https://harvestersfm.radioca.st/NB",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "educational",
+            "inspirational",
+            "music",
+            "talk"
+        ],
+        "favicon": "https://i.imgur.com/v0Odxew.png",
+        "codec": "AAC+",
+        "bitrate": 128,
+        "working_url": "https://harvestersfm.radioca.st/NB"
+    },
+    {
+        "name": "CIWW CityNews Ottawa",
+        "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "news",
+            "sport",
+            "talk"
+        ],
+        "favicon": "https://www.vmcdn.ca/files/ui/rogers/citynews/at.png",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8"
+    },
+    {
+        "name": "CJAD 800",
+        "url": "https://27243.live.streamtheworld.com/CJADAM_SC",
+        "country": "CA",
+        "tags": [
+            "local news",
+            "news talk",
+            "talk"
+        ],
+        "favicon": "https://www.cjad800.com/content/dam/audio/iheart-stations-logos/logo-cjad.svg",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "https://27243.live.streamtheworld.com/CJADAM_SC"
+    },
+    {
+        "name": "CJCA AM930 The Light",
+        "url": "https://shinefm.streamguys1.com/cjca",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "education",
+            "music",
+            "talk"
+        ],
+        "favicon": "https://i.imgur.com/P2QepUC.png",
+        "codec": "AAC",
+        "bitrate": 95,
+        "working_url": "https://shinefm.streamguys1.com/cjca"
+    },
+    {
+        "name": "CJCL Sportsnet 590 The Fan",
+        "url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "sports",
+            "talk",
+            "toronto"
+        ],
+        "favicon": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8"
+    },
+    {
+        "name": "CJCL Sportsnet 590 The Fan (Alt Stream)",
+        "url": "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "sports",
+            "talk",
+            "toronto"
+        ],
+        "favicon": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8"
+    },
+    {
+        "name": "CJLI am700 The Light",
+        "url": "https://shinefm.streamguys1.com/cjli",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "rock",
+            "talk",
+            "worship"
+        ],
+        "favicon": "https://i.imgur.com/2WqKUYE.png",
+        "codec": "AAC",
+        "bitrate": 96,
+        "working_url": "https://shinefm.streamguys1.com/cjli"
+    },
+    {
+        "name": "CJMD 96.9  Levis, QC",
+        "url": "https://arcq.streamb.live/SB00213",
+        "country": "CA",
+        "tags": [
+            "hip hop",
+            "radio communautaire",
+            "rock",
+            "talk"
+        ],
+        "favicon": "https://969fm.ca/css/img/favicon.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://arcq.streamb.live/SB00213"
+    },
+    {
+        "name": "CJME News/Talk 980 (Regina, SK)",
+        "url": "http://rawlco.leanstream.co/CJMEAM-MP3",
+        "country": "CA",
+        "tags": [
+            "news",
+            "news talk",
+            "sport",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "http://rawlco.leanstream.co/CJMEAM-MP3"
+    },
+    {
+        "name": "CJOB 680 Winnipeg, MB",
+        "url": "http://live.leanstream.co/CJOBAM-MP3",
+        "country": "CA",
+        "tags": [
+            "news",
+            "talk",
+            "winnipeg"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://live.leanstream.co/CJOBAM-MP3"
+    },
+    {
+        "name": "CJRP-FM - Alive FM Saint John Canada",
+        "url": "https://us9.streamingpulse.com/ssl/NewsongFM",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "inspirtational",
+            "music",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://us9.streamingpulse.com/ssl/NewsongFM"
+    },
+    {
+        "name": "CJRY 105.9 Shinefm",
+        "url": "https://shinefm.streamguys1.com/cjry",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "music",
+            "sermons",
+            "talk",
+            "worship"
+        ],
+        "favicon": "https://i.imgur.com/4Ftq9SF.png",
+        "codec": "AAC",
+        "bitrate": 96,
+        "working_url": "https://shinefm.streamguys1.com/cjry"
+    },
+    {
+        "name": "CKGL \"City News 570\" Kitchener, ON",
+        "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "news talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8"
+    },
+    {
+        "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (AAC Stream)",
+        "url": "https://newcap.leanstream.co/CKJRAM",
+        "country": "CA",
+        "tags": [
+            "new format rebranding",
+            "sports news",
+            "sports talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sports1440-splash-logo.png/200px-Sports1440-splash-logo.png",
+        "codec": "AAC",
+        "bitrate": 132,
+        "working_url": "https://newcap.leanstream.co/CKJRAM"
+    },
+    {
+        "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (MP3 Stream)",
+        "url": "https://newcap.leanstream.co/CKJRAM-MP3",
+        "country": "CA",
+        "tags": [
+            "new format rebranding",
+            "sports news",
+            "sports talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sports1440-splash-logo.png/200px-Sports1440-splash-logo.png",
+        "codec": "AAC",
+        "bitrate": 129,
+        "working_url": "https://newcap.leanstream.co/CKJRAM-MP3"
+    },
+    {
+        "name": "CKLW \"AM 800\" Windsor, ON",
+        "url": "http://20593.live.streamtheworld.com:3690/CKLWAMAAC_SC",
+        "country": "CA",
+        "tags": [
+            "bell media",
+            "news talk"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/CKLW_AM.png/250px-CKLW_AM.png",
+        "codec": "AAC+",
+        "bitrate": 40,
+        "working_url": "http://20593.live.streamtheworld.com:3690/CKLWAMAAC_SC"
+    },
+    {
+        "name": "CKNW 980 New Westminster, BC",
+        "url": "http://live.leanstream.co/CKNWAM",
+        "country": "CA",
+        "tags": [
+            "new westminster",
+            "news",
+            "talk",
+            "vancouver"
+        ],
+        "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png",
+        "codec": "AAC+",
+        "bitrate": 57,
+        "working_url": "http://live.leanstream.co/CKNWAM"
+    },
+    {
+        "name": "CKOB \"FM 106.9 Mauricie\" Trois-Rivieres, QC",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.m3u8",
+        "country": "CA",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "https://cdn.cogecolive.com/websites-public/logo_1069_2021_color_default.svg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8"
+    },
+    {
+        "name": "CKOE-FM Radio 107.3 FM Moncton",
+        "url": "http://us2.streamingpulse.com:8110/stream",
+        "country": "CA",
+        "tags": [
+            "christian",
+            "music",
+            "talk"
+        ],
+        "favicon": "https://i.imgur.com/PJ2ZGKf.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://us2.streamingpulse.com:8110/stream"
+    },
+    {
+        "name": "CKOM News/Talk 650 (Saskatoon, SK)",
+        "url": "http://rawlco.leanstream.co/CKOMAM",
+        "country": "CA",
+        "tags": [
+            "news",
+            "news talk",
+            "sport",
+            "talk"
+        ],
+        "favicon": "http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302",
+        "codec": "AAC+",
+        "bitrate": 32,
+        "working_url": "http://rawlco.leanstream.co/CKOMAM"
+    },
+    {
+        "name": "CKOY \"107.7 FM Estrie\"  Sherbrooke, QC",
+        "url": "https://18193.live.streamtheworld.com/CKOYFMAAC_SC",
+        "country": "CA",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "https://cdn.cogecolive.com/websites-public/logo_1077_2021_color_default.svg",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8"
+    },
+    {
+        "name": "Edmonton Sports Talk",
+        "url": "https://s4.radio.co/sf54cd4560/listen",
+        "country": "CA",
+        "tags": [
+            "sports talk"
+        ],
+        "favicon": "https://edmontonsportstalk.com/Sports%20talk%20banner%20final_1248692151127834771_hu3d03a01dcc18bc5be0e67db3d8d209a6_0_300x0_resize_q90_h2_lanczos.webp",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://s4.radio.co/sf54cd4560/listen"
+    },
+    {
+        "name": "fairchildren radio",
+        "url": "http://icecast01.eseenet.com:8000/am1430",
+        "country": "CA",
+        "tags": [
+            "talk radio"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 49,
+        "working_url": "http://icecast01.eseenet.com:8000/am1430"
+    },
+    {
+        "name": "ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)",
+        "url": "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "classical",
+            "french culture",
+            "french music",
+            "jazz",
+            "news",
+            "news talk music",
+            "public radio",
+            "talk"
+        ],
+        "favicon": "https://ici.radio-canada.ca/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8"
+    },
+    {
+        "name": "ICI Radio-Canada Première Nouveau-Brinswick",
+        "url": "https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8",
+        "country": "CA",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8"
+    },
+    {
+        "name": "KYK 95.7 Saguenay",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC.aac",
+        "country": "CA",
+        "tags": [
+            "talk & speech"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8"
+    },
+    {
+        "name": "N10.AS",
+        "url": "https://n10as.radiocult.fm/stream",
+        "country": "CA",
+        "tags": [
+            "ambient",
+            "blues",
+            "classical",
+            "country",
+            "dance",
+            "disco",
+            "dub",
+            "electronic",
+            "experimental",
+            "groove",
+            "heavy metal",
+            "hiphop",
+            "house",
+            "indie",
+            "jazz",
+            "lifestyle",
+            "other",
+            "pop",
+            "post-punk",
+            "psychedelic",
+            "rap",
+            "reggae",
+            "rnb",
+            "rock",
+            "soul",
+            "special broadcast",
+            "talk",
+            "techno",
+            "world"
+        ],
+        "favicon": "https://n10.as/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://n10as.radiocult.fm/stream"
+    },
+    {
+        "name": "Nuxalk Radio",
+        "url": "https://openbroadcaster.nuxalkradio.com/",
+        "country": "CA",
+        "tags": [
+            "indigenous",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://openbroadcaster.nuxalkradio.com/"
+    },
+    {
+        "name": "RADIO MARIA CANADA - HMWN",
+        "url": "http://dreamsiteradiocp.com:8016/stream",
+        "country": "CA",
+        "tags": [
+            "catholic",
+            "christian",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://dreamsiteradiocp.com:8016/stream"
+    },
+    {
+        "name": "Radio Maria Canada - Spanish",
+        "url": "http://rmcesp.radiomaria.ca:8050/;stream.mp3",
+        "country": "CA",
+        "tags": [
+            "catholic",
+            "christian",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "http://rmcesp.radiomaria.ca:8050/;stream.mp3"
+    },
+    {
+        "name": "RADIO MARIA CANADA - TORONTO",
+        "url": "http://dreamsiteradiocp4.com:8016/stream",
+        "country": "CA",
+        "tags": [
+            "catholic",
+            "christian",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "http://dreamsiteradiocp4.com:8016/stream"
+    },
+    {
+        "name": "Radio VM",
+        "url": "https://s5.radio.co/sec326ff8a/listen",
+        "country": "CA",
+        "tags": [
+            "religion",
+            "spiritual",
+            "talk"
+        ],
+        "favicon": "https://www.radiovm.com/sites/default/themes/at_panels_everywhere/css/images/apple-icon-114x114.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://s5.radio.co/sec326ff8a/listen"
+    },
+    {
+        "name": "Sportsnet 650 Vancouver",
+        "url": "http://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8",
+        "country": "CA",
+        "tags": [
+            "650",
+            "sports",
+            "sports talk",
+            "sportsnet",
+            "vancouver"
+        ],
+        "favicon": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
+        "codec": "AAC+",
+        "bitrate": 47,
+        "working_url": "http://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8"
+    },
+    {
+        "name": "Tsn Montreal 690",
+        "url": "https://26413.live.streamtheworld.com/CKGMAM_ADP",
+        "country": "CA",
+        "tags": [
+            "sports talk"
+        ],
+        "favicon": "https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",
+        "codec": "FLV",
+        "bitrate": 0,
+        "working_url": "https://26413.live.streamtheworld.com/CKGMAM_ADP"
+    },
+    {
+        "name": "Мегаполис Торонто",
+        "url": "https://c25.radioboss.fm:8297/stream",
+        "country": "CA",
+        "tags": [
+            "local news",
+            "news",
+            "news talk",
+            "talk"
+        ],
+        "favicon": "https://megapolis.ca/wp-content/uploads/elementor/thumbs/Logonew3-qqwypvn5rdr57yh5k24eyvviscbmsi48m2f9rs2cq0.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://c25.radioboss.fm:8297/stream"
+    }
+]

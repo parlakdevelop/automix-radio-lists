@@ -1,0 +1,71 @@
+[
+    {
+        "name": "J-Club Powerplay HipHop",
+        "url": "https://kathy.torontocast.com:3350/",
+        "country": "CA",
+        "tags": [
+            "club",
+            "hiphop",
+            "j-hiphop"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://kathy.torontocast.com:3350/"
+    },
+    {
+        "name": "N10.AS",
+        "url": "https://n10as.radiocult.fm/stream",
+        "country": "CA",
+        "tags": [
+            "ambient",
+            "blues",
+            "classical",
+            "country",
+            "dance",
+            "disco",
+            "dub",
+            "electronic",
+            "experimental",
+            "groove",
+            "heavy metal",
+            "hiphop",
+            "house",
+            "indie",
+            "jazz",
+            "lifestyle",
+            "other",
+            "pop",
+            "post-punk",
+            "psychedelic",
+            "rap",
+            "reggae",
+            "rnb",
+            "rock",
+            "soul",
+            "special broadcast",
+            "talk",
+            "techno",
+            "world"
+        ],
+        "favicon": "https://n10.as/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://n10as.radiocult.fm/stream"
+    },
+    {
+        "name": "Sankofa Radio Toronto",
+        "url": "https://srtlive.duckdns.org/listen/sankofaradiotoronto/radio.mp3",
+        "country": "CA",
+        "tags": [
+            "african music",
+            "afrobeats",
+            "gospel music",
+            "rap hiphop rnb"
+        ],
+        "favicon": "https://sankofaradiotoronto.com/Favicon",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://srtlive.duckdns.org/listen/sankofaradiotoronto/radio.mp3"
+    }
+]
