@@ -1,0 +1,1071 @@
+[
+    {
+        "name": "Alfred",
+        "url": "https://stream2.hippynet.co.uk:8204/stream",
+        "country": "GB",
+        "tags": [
+            "community news"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "https://stream2.hippynet.co.uk:8204/stream"
+    },
+    {
+        "name": "BBC Afrique Radio",
+        "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
+        "country": "GB",
+        "tags": [
+            "africa",
+            "afrique",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/afrique/images/icons/icon-128x128.png",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
+    },
+    {
+        "name": "BBC Arabic",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "null",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
+    },
+    {
+        "name": "BBC Arabic Radio",
+        "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8",
+        "country": "GB",
+        "tags": [
+            "arabic",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/icons/icon-128x128.png",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
+    },
+    {
+        "name": "BBC for Australasia",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "https://bbc.co.uk/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia"
+    },
+    {
+        "name": "BBC Live News (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Live News (48k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d48000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio=48000.norewind.m3u8"
+    },
+    {
+        "name": "BBC News HD (720P)",
+        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+        "country": "GB",
+        "tags": [
+            "england",
+            "english",
+            "london",
+            "news",
+            "uk",
+            "world news"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+    },
+    {
+        "name": "BBC Radio 4",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "comedy",
+            "drama",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio 4 (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "comedy",
+            "drama",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio 5 Live (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s24943q.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Cymru (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "entertainment",
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Cymru 2 (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "music",
+            "news"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Foyle (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio London (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "local radio",
+            "london",
+            "music",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio London (96k nonuk)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "local radio",
+            "london",
+            "music",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8"
+    },
+    {
+        "name": "BBC Radio nan Gàidheal (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "entertainment",
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Northampton (Outside UK Only)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8",
+        "country": "GB",
+        "tags": [
+            "information",
+            "local",
+            "local news",
+            "news"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
+    },
+    {
+        "name": "BBC Radio Northampton (UK Only)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8",
+        "country": "GB",
+        "tags": [
+            "information",
+            "local",
+            "local news",
+            "news"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "AAC",
+        "bitrate": 339,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
+    },
+    {
+        "name": "BBC Radio Orkney (96k)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "local radio",
+            "variety"
+        ],
+        "favicon": "https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_orkney/colour_default.svg",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8"
+    },
+    {
+        "name": "BBC Radio Scotland (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Scotland Extra (96k)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_scotland_mw.m3u8",
+        "country": "GB",
+        "tags": [
+            "news",
+            "sports",
+            "talk",
+            "variety"
+        ],
+        "favicon": "https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_scotland_mw/colour_default.svg",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_scotland_mw.m3u8"
+    },
+    {
+        "name": "BBC Radio Shetland (96k)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_shetland.m3u8",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "local radio",
+            "variety"
+        ],
+        "favicon": "https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_shetland/colour_default.svg",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_shetland.m3u8"
+    },
+    {
+        "name": "BBC Radio Ulster (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Radio Wales (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "music",
+            "news",
+            "sports",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "BBC Somali Radio",
+        "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8",
+        "country": "GB",
+        "tags": [
+            "news",
+            "somali",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
+    },
+    {
+        "name": "BBC Sounds News (96k)",
+        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_sounds_news.m3u8",
+        "country": "GB",
+        "tags": [
+            "news",
+            "news talk"
+        ],
+        "favicon": "https://sounds.files.bbci.co.uk/3.9.4/services/bbc_sounds_news/colour_default.svg",
+        "codec": "AAC+",
+        "bitrate": 101,
+        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_sounds_news.m3u8"
+    },
+    {
+        "name": "BBC Three Counties Radio",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "bedfordshire",
+            "buckinghamshire",
+            "hertfordshire",
+            "local news",
+            "local radio",
+            "music",
+            "talk"
+        ],
+        "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHcdR3ZAZt7XGf71t9zi_ef5R0tQCcoXcnatVENMMBw&s=10",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio=96000.norewind.m3u8"
+    },
+    {
+        "name": "BBC tv",
+        "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d",
+        "country": "GB",
+        "tags": [
+            "news",
+            "world news"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d"
+    },
+    {
+        "name": "BBC West Midlands",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "pop",
+            "sports news"
+        ],
+        "favicon": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio=96000.norewind.m3u8"
+    },
+    {
+        "name": "BBC World Service",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg",
+        "codec": "MP3",
+        "bitrate": 56,
+        "working_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia"
+    },
+    {
+        "name": "BBC World Service (128k)",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8",
+        "country": "GB",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=128000.norewind.m3u8"
+    },
+    {
+        "name": "Bloomberg DAB Digital Radio London",
+        "url": "http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+        "country": "GB",
+        "tags": [
+            "business",
+            "business news",
+            "news"
+        ],
+        "favicon": "https://cdn-profiles.tunein.com/s308991/images/logod.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8"
+    },
+    {
+        "name": "Bloomberg UK",
+        "url": "https://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+        "country": "GB",
+        "tags": [
+            "business",
+            "news",
+            "ridwan",
+            "talk",
+            "world news"
+        ],
+        "favicon": "https://www.bloomberg.com/favicon.ico",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8"
+    },
+    {
+        "name": "Brooklands Radio",
+        "url": "https://stream4.hippynet.co.uk/stream/brooklandsradio",
+        "country": "GB",
+        "tags": [
+            "community radio",
+            "local news",
+            "local talk",
+            "pop music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://stream4.hippynet.co.uk/stream/brooklandsradio"
+    },
+    {
+        "name": "broradio",
+        "url": "https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260",
+        "country": "GB",
+        "tags": [
+            "community radio",
+            "local news",
+            "music",
+            "welsh language"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260"
+    },
+    {
+        "name": "Bucks Radio",
+        "url": "http://n01.radiojar.com/f6mru9artg0uv",
+        "country": "GB",
+        "tags": [
+            "community radio",
+            "local news",
+            "local radio"
+        ],
+        "favicon": "https://mmo.aiircdn.com/461/668fbdfa46224.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "http://n06.radiojar.com/f6mru9artg0uv?rj-ttl=5&rj-tok=AAABn-y5K1UANjOsIsgnyIaVgQ"
+    },
+    {
+        "name": "ClearAir.fm",
+        "url": "https://a12.asurahosting.com/listen/clearair/radio.mp3",
+        "country": "GB",
+        "tags": [
+            "international news",
+            "news talk music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://a12.asurahosting.com/listen/clearair/radio.mp3"
+    },
+    {
+        "name": "CNN UK",
+        "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+        "country": "GB",
+        "tags": [
+            "business",
+            "business news",
+            "education",
+            "local news",
+            "news",
+            "ridwan",
+            "talk"
+        ],
+        "favicon": "https://edition.cnn.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 96,
+        "working_url": "https://tunein.cdnstream1.com/2868_96.mp3"
+    },
+    {
+        "name": "Fosse 107",
+        "url": "https://icecast.maxxwave.co.uk/fossehinckleyhq",
+        "country": "GB",
+        "tags": [
+            "80s",
+            "90s",
+            "local news",
+            "news",
+            "rock"
+        ],
+        "favicon": "https://mm.aiircdn.com/375/59372c77cd002.png",
+        "codec": "AAC",
+        "bitrate": 80,
+        "working_url": "https://icecast.maxxwave.co.uk/fossehinckleyhq"
+    },
+    {
+        "name": "FSN World News",
+        "url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3",
+        "country": "GB",
+        "tags": [
+            "news",
+            "world news"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3"
+    },
+    {
+        "name": "GB News",
+        "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8",
+        "country": "GB",
+        "tags": [
+            "gbn",
+            "news",
+            "tv"
+        ],
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 1020,
+        "working_url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8"
+    },
+    {
+        "name": "GB News (UK) 48k eAAC+",
+        "url": "http://listen-gbnews.sharp-stream.com/gbnews.aac",
+        "country": "GB",
+        "tags": [
+            "news",
+            "news talk"
+        ],
+        "favicon": "http://cdn-profiles.tunein.com/s310252/images/logod.png",
+        "codec": "AAC+",
+        "bitrate": 127,
+        "working_url": "http://listen-gbnews.sharp-stream.com/gbnews.aac"
+    },
+    {
+        "name": "GBNews",
+        "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
+        "country": "GB",
+        "tags": [
+            "news",
+            "news talk",
+            "talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3"
+    },
+    {
+        "name": "GeminiDX",
+        "url": "https://s4.radio.co/s5907ff6bd/listen",
+        "country": "GB",
+        "tags": [
+            "acid",
+            "ham",
+            "ham radio news",
+            "jazz"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://s4.radio.co/s5907ff6bd/listen"
+    },
+    {
+        "name": "Gen X Radio",
+        "url": "https://s2.radio.co/sf25229e16/listen",
+        "country": "GB",
+        "tags": [
+            "00s",
+            "10s",
+            "20s",
+            "60s",
+            "70s",
+            "80s",
+            "90s",
+            "adult contemporary",
+            "classic hits",
+            "hits",
+            "local information",
+            "local news",
+            "local programming",
+            "local radio",
+            "local talk",
+            "local weather",
+            "oldies",
+            "suffolk",
+            "todays hits"
+        ],
+        "favicon": "https://genxradio.co.uk/wp-content/uploads/2021/11/cropped-GenXAsset-9-192x192.png",
+        "codec": "AAC",
+        "bitrate": 320,
+        "working_url": "https://s2.radio.co/sf25229e16/listen"
+    },
+    {
+        "name": "Heart North Wales",
+        "url": "http://media-ice.musicradio.com/HeartNorthWalesMP3",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "music",
+            "traffic"
+        ],
+        "favicon": "http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://media-ice.musicradio.com/HeartNorthWalesMP3"
+    },
+    {
+        "name": "Hospital Radio Perth",
+        "url": "http://streaming.broadcastradio.com:9222/perth",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 170,
+        "working_url": "http://streaming.broadcastradio.com:9222/perth"
+    },
+    {
+        "name": "Hot Radio",
+        "url": "https://stream1.hippynet.co.uk/stream/hotradio/dorset",
+        "country": "GB",
+        "tags": [
+            "00s",
+            "2000s",
+            "2010s",
+            "2020s",
+            "bournemouth",
+            "community",
+            "community radio",
+            "dorset",
+            "hits",
+            "local",
+            "local info",
+            "local news",
+            "non-profit",
+            "poole",
+            "pop"
+        ],
+        "favicon": "https://mmo.aiircdn.com/406/601068617960a.png",
+        "codec": "MP3",
+        "bitrate": 160,
+        "working_url": "https://stream1.hippynet.co.uk/stream/hotradio/dorset"
+    },
+    {
+        "name": "Kearney FM",
+        "url": "http://cast1.my-control-panel.com:8206/:.mp3",
+        "country": "GB",
+        "tags": [
+            "community radio",
+            "local news",
+            "top 40",
+            "top100"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "http://cast1.my-control-panel.com:8206/:.mp3"
+    },
+    {
+        "name": "LBC London (London stream) AAC",
+        "url": "http://media-sov.musicradio.com/LBCLondon",
+        "country": "GB",
+        "tags": [
+            "london",
+            "news",
+            "talk"
+        ],
+        "favicon": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://media-sov.musicradio.com/LBCLondon"
+    },
+    {
+        "name": "LBC London (London stream) MP3",
+        "url": "http://media-ice.musicradio.com/LBCLondonMP3Low",
+        "country": "GB",
+        "tags": [
+            "london",
+            "news",
+            "talk"
+        ],
+        "favicon": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "http://media-ice.musicradio.com/LBCLondonMP3Low"
+    },
+    {
+        "name": "LBC London (National stream)",
+        "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
+        "country": "GB",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+        "codec": "MP3",
+        "bitrate": 48,
+        "working_url": "http://media-ice.musicradio.com/LBCUKMP3Low"
+    },
+    {
+        "name": "LBC London News",
+        "url": "http://media-ice.musicradio.com/LBC1152",
+        "country": "GB",
+        "tags": [
+            "news"
+        ],
+        "favicon": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://media-ice.musicradio.com/LBC1152"
+    },
+    {
+        "name": "LBC News",
+        "url": "https://media-ssl.musicradio.com/LBCNewsUK",
+        "country": "GB",
+        "tags": [
+            "london",
+            "news",
+            "uk"
+        ],
+        "favicon": "https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "https://media-ssl.musicradio.com/LBCNewsUK"
+    },
+    {
+        "name": "LBC UK",
+        "url": "http://media-ice.musicradio.com/LBCUK",
+        "country": "GB",
+        "tags": [
+            "news talk",
+            "talk"
+        ],
+        "favicon": "https://cdn-radiotime-logos.tunein.com/s220687q.png",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://media-ice.musicradio.com/LBCUK"
+    },
+    {
+        "name": "Monocle Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3",
+        "country": "GB",
+        "tags": [
+            "culture",
+            "design",
+            "entrepreneurship",
+            "global",
+            "live shows",
+            "news",
+            "urbanism"
+        ],
+        "favicon": "https://pbs.twimg.com/profile_images/1641728752236281856/zeIa6wPU_400x400.jpg",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://28513.live.streamtheworld.com/MONOCLE_24.mp3"
+    },
+    {
+        "name": "News Radio UK",
+        "url": "https://stream.aiir.com/clcb6m0k9shvv",
+        "country": "GB",
+        "tags": [
+            "information",
+            "news",
+            "talk"
+        ],
+        "favicon": "https://newsradiouk.co.uk/wp-content/uploads/2022/06/Facebook-profile.png",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream-14.aiir.com/clcb6m0k9shvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbGNiNm0wazlzaHZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6IkNUZXlsdHEtU3lxVUNKbGt6bS1HM1EiLCJpYXQiOjE3ODYzODIzODcsImV4cCI6MTc4NjM4MjQ0N30.vXhhXbsWFv8NxZiuYH8cUjyTJQY2uZWjN82NOE3ZX0U"
+    },
+    {
+        "name": "Radio Camarthenshire",
+        "url": "https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3",
+        "country": "GB",
+        "tags": [
+            "local news",
+            "pop music",
+            "welsh language"
+        ],
+        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Radiocarmar.png/250px-Radiocarmar.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3"
+    },
+    {
+        "name": "Radio Jackie",
+        "url": "http://media.radiojackie.com:5873/",
+        "country": "GB",
+        "tags": [
+            "berkshire",
+            "community radio",
+            "hits",
+            "news",
+            "pop",
+            "rock",
+            "south west london",
+            "surrey"
+        ],
+        "favicon": "https://radiojackie.com/wp-content/uploads/2023/07/logo-mike-artwork-flat.jpg",
+        "codec": "AAC+",
+        "bitrate": 320,
+        "working_url": "http://media.radiojackie.com:5873/"
+    },
+    {
+        "name": "Radio Northwich",
+        "url": "https://stream.radio.co/s98163f694/listen",
+        "country": "GB",
+        "tags": [
+            "local information",
+            "local music",
+            "local news",
+            "local programming",
+            "local radio",
+            "local talk"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.radio.co/s98163f694/listen"
+    },
+    {
+        "name": "Radio Scilly",
+        "url": "http://radio.canstream.co.uk:8040/live.mp3",
+        "country": "GB",
+        "tags": [
+            "community",
+            "community radio",
+            "cornwall",
+            "local",
+            "local news",
+            "music",
+            "non-profit"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 256,
+        "working_url": "http://radio.canstream.co.uk:8040/live.mp3"
+    },
+    {
+        "name": "Radio Xtra Dance",
+        "url": "https://c30.radioboss.fm:8613/stream",
+        "country": "GB",
+        "tags": [
+            "00s dance",
+            "10s dance",
+            "90s dance",
+            "commercial free",
+            "dance music",
+            "news free",
+            "no ads"
+        ],
+        "favicon": "https://radioxtra.co.uk/wp-content/uploads/2023/07/xTRA-DANCE-B-150x150-1.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://c30.radioboss.fm:8613/stream"
+    },
+    {
+        "name": "REPLAY NEWS - English           News radio every 5 minutes",
+        "url": "https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3",
+        "country": "GB",
+        "tags": [
+            "information",
+            "news"
+        ],
+        "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-EN.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3"
+    },
+    {
+        "name": "Riverside Radio",
+        "url": "https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream",
+        "country": "GB",
+        "tags": [
+            "arts",
+            "culture",
+            "local radio",
+            "music news",
+            "variety"
+        ],
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream"
+    },
+    {
+        "name": "Shetland Islands Broadcasting Company (SIBC) 96.2 & 102.2",
+        "url": "http://tx9.zetcast.net:8100/stream",
+        "country": "GB",
+        "tags": [
+            "commercial",
+            "local news",
+            "music",
+            "weather"
+        ],
+        "favicon": "http://www.sibc.co.uk/favicon-196x196.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://tx9.zetcast.net:8100/stream"
+    },
+    {
+        "name": "Source FM",
+        "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+        "country": "GB",
+        "tags": [
+            "community",
+            "community radio",
+            "cornwall",
+            "local",
+            "local news",
+            "local programming",
+            "local radio",
+            "local talk",
+            "music"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 110,
+        "working_url": "http://live.canstream.co.uk:8000/sourcefm.mp3"
+    },
+    {
+        "name": "Source FM 96.1  Falmouth",
+        "url": "http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3",
+        "country": "GB",
+        "tags": [
+            "community radio",
+            "falmouth",
+            "news",
+            "talk"
+        ],
+        "favicon": "http://www.thesourcefm.co.uk/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 110,
+        "working_url": "http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3"
+    },
+    {
+        "name": "Times Radio",
+        "url": "https://timesradio.wireless.radio/stream",
+        "country": "GB",
+        "tags": [
+            "news",
+            "talk"
+        ],
+        "favicon": "https://play-lh.googleusercontent.com/SSmTtYYV5SkMMJ6_ojBDxHkprncSfh_jrhfn8f7rj3tnDOUIaNA9Vf28FqVS1zrTvE9_",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://times.live.stream.broadcasting.news/stream"
+    },
+    {
+        "name": "U105",
+        "url": "http://gbradio.cdn.tibus.net/U105?ref=rf",
+        "country": "GB",
+        "tags": [
+            "charts",
+            "classic hits",
+            "contemporary hits",
+            "local news",
+            "oldies"
+        ],
+        "favicon": "https://mm.aiircdn.com/615/5d77b0909f0e5.png",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://onic.belfast.live.stream.broadcasting.news/stream-u105?ref=rf"
+    },
+    {
+        "name": "Virgin Radio UK",
+        "url": "https://radio.virginradio.co.uk/stream",
+        "country": "GB",
+        "tags": [
+            "00s",
+            "80s",
+            "90s",
+            "information",
+            "news",
+            "pop",
+            "pop rock"
+        ],
+        "favicon": "https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "https://assets.wireless.radio/audio/georestriction-barkers/virgin-stations.mp3"
+    }
+]
