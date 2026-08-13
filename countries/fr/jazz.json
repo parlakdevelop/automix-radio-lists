@@ -3,19 +3,6 @@
         "name": "#1 Splash Jazz",
         "url": "https://ais-sa2.cdnstream1.com/2346_128.mp3",
         "country": "FR",
-        "tags": [
-            "big band",
-            "classic jazz",
-            "cool jazz",
-            "free jazz",
-            "jazz",
-            "jazz fusion",
-            "latin jazz",
-            "nu-jazz",
-            "smooth jazz",
-            "splash",
-            "vocal jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -25,24 +12,6 @@
         "name": "Aïoli Radio",
         "url": "https://stream.aioli-radio.org/main.ogg",
         "country": "FR",
-        "tags": [
-            "ambient",
-            "autres",
-            "chanson",
-            "classique",
-            "dancehall",
-            "dub",
-            "electro",
-            "folk",
-            "funk",
-            "hip hop",
-            "infos",
-            "jazz",
-            "local",
-            "pop",
-            "reggae",
-            "trip hop"
-        ],
         "favicon": "https://www.aioli-radio.org/icons/icon-144x144.png?v=1fcb4097b832c16b2996c0ec84a6fd0e",
         "codec": "OGG",
         "bitrate": 0,
@@ -52,10 +21,6 @@
         "name": "Allzic Radio Jazz",
         "url": "https://allzic40.ice.infomaniak.ch/allzic40.aac",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "music"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
@@ -65,10 +30,6 @@
         "name": "Allzic Radio Jazz Lounge",
         "url": "https://allzic03.ice.infomaniak.ch/allzic03.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "music"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -78,16 +39,6 @@
         "name": "Alternative Radio",
         "url": "https://www.radioking.com/play/alternative-radio-1",
         "country": "FR",
-        "tags": [
-            "electro",
-            "folk",
-            "funk",
-            "hiphop",
-            "jazz",
-            "rock",
-            "soul",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -97,12 +48,6 @@
         "name": "Black Corvette",
         "url": "https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette",
         "country": "FR",
-        "tags": [
-            "groovy",
-            "hip-hop",
-            "r&b soul",
-            "urban jazz & neo-soul"
-        ],
         "favicon": "http://www.vip-radios.fm/Logos/Black-Corvette-logo.jpg",
         "codec": "AAC",
         "bitrate": 64,
@@ -112,18 +57,6 @@
         "name": "bringthenoise",
         "url": "https://radio.bringthenoi.se/listen/dj_nocide/default",
         "country": "FR",
-        "tags": [
-            "disco",
-            "drum and bass",
-            "folk",
-            "funk",
-            "fusion",
-            "house",
-            "indie",
-            "jazz",
-            "pop",
-            "stoner rock"
-        ],
         "favicon": "https://bringthenoi.se/apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 192,
@@ -131,58 +64,17 @@
     },
     {
         "name": "C Lab",
-        "url": "http://stream.c-lab.fr:8001/c-lab",
+        "url": "https://stream.c-lab.fr:8001/c-lab",
         "country": "FR",
-        "tags": [
-            "electro",
-            "funk",
-            "hiphop",
-            "jazz",
-            "pop",
-            "rap",
-            "reggae",
-            "soul",
-            "world music"
-        ],
         "favicon": "https://www.c-lab.fr/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://stream.c-lab.fr:8001/c-lab"
+        "working_url": "https://stream.c-lab.fr:8001/c-lab"
     },
     {
         "name": "CAMP Radio",
         "url": "https://listen.camp/campradio.ogg",
         "country": "FR",
-        "tags": [
-            "ambient",
-            "avantgarde",
-            "classical music",
-            "cosmic",
-            "dream pop",
-            "drone",
-            "dub",
-            "electroacoustic",
-            "electronic",
-            "experimental",
-            "field recording",
-            "folk",
-            "hip hop",
-            "idm",
-            "improvisation",
-            "jazz",
-            "modern classical",
-            "multi genre",
-            "noise",
-            "poetry",
-            "post-punk",
-            "psychedelic",
-            "punk",
-            "shoegaze",
-            "soundart",
-            "soundscape",
-            "soundtrack",
-            "world"
-        ],
         "favicon": "https://favicon.im/listen.camp",
         "codec": "OGG",
         "bitrate": 0,
@@ -192,17 +84,6 @@
         "name": "CINEMUSIC Radio",
         "url": "https://listen.radioking.com/radio/422/stream/62785",
         "country": "FR",
-        "tags": [
-            "cinema",
-            "classical",
-            "jazz",
-            "movie",
-            "movie scores",
-            "music",
-            "oldies",
-            "pop",
-            "relax"
-        ],
         "favicon": "https://cinemusicradio.com/upload/design/63b2a6080fdb31.87854813.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -210,35 +91,17 @@
     },
     {
         "name": "COMALA Radio",
-        "url": "http://www.radioking.com/play/supag",
+        "url": "https://www.radioking.com/play/supag",
         "country": "FR",
-        "tags": [
-            "afro",
-            "brasil",
-            "disco",
-            "funk",
-            "global",
-            "groove",
-            "hiphop",
-            "house",
-            "jazz",
-            "oriental",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioking.com/radio/38120/stream/74513"
+        "working_url": "https://listen.radioking.com/radio/38120/stream/74513"
     },
     {
         "name": "Cool Radio",
         "url": "https://listen.radioking.com/radio/530131/stream/588580",
         "country": "FR",
-        "tags": [
-            "lounge music",
-            "musique du monde",
-            "smooth jazz"
-        ],
         "favicon": "https://static.wixstatic.com/media/a276e6_268d8bb5969c4360808f3688aa0f7ce4~mv2.png/v1/fill/w_454,h_454,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20COOL%20RADIO%20MAI%202023.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -248,9 +111,6 @@
         "name": "Couleurs JAZZ",
         "url": "https://www.radioking.com/play/couleurs-jazz/216016",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -258,172 +118,80 @@
     },
     {
         "name": "Crooner Radio Barbra Streisand",
-        "url": "http://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3",
+        "url": "https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "barbra",
-            "barbra streisand",
-            "crooner",
-            "crooners",
-            "oldies",
-            "smooth",
-            "smoothest songs",
-            "streisand",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-BARBRA-STREISAND.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3"
+        "working_url": "https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3"
     },
     {
         "name": "Crooner Radio Celine Dion",
-        "url": "http://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3",
+        "url": "https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "celine",
-            "celine dion",
-            "crooner",
-            "crooners",
-            "dion",
-            "female vocals",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-CELINE-DION-1.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3"
+        "working_url": "https://croonerradio_celinedion.ice.infomaniak.ch/croonerradio-celinedion-midfi.mp3"
     },
     {
         "name": "Crooner Radio Dean Martin",
-        "url": "http://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3",
+        "url": "https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "crooner",
-            "crooners",
-            "dean",
-            "dean martin",
-            "martin",
-            "oldies",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-DEAN-MARTIN.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3"
+        "working_url": "https://croonerradio_deanmartin.ice.infomaniak.ch/croonerradio-deanmartin-midfi.mp3"
     },
     {
         "name": "Crooner Radio Gentlemen Drivers",
-        "url": "http://croonerradio_gentlemendrivers.ice.infomaniak.ch/croonerradio-gentlemendrivers-midfi.mp3",
+        "url": "https://croonerradio_gentlemendrivers.ice.infomaniak.ch/croonerradio-gentlemendrivers-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "crooner",
-            "crooner radio",
-            "crooners",
-            "gentlemen drivers",
-            "oldies",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-GENTLEMEN-DRIVERS.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_gentlemendrivers.ice.infomaniak.ch/croonerradio-gentlemendrivers-midfi.mp3"
+        "working_url": "https://croonerradio_gentlemendrivers.ice.infomaniak.ch/croonerradio-gentlemendrivers-midfi.mp3"
     },
     {
         "name": "Crooner Radio Italiano",
-        "url": "http://croonerradio_italiano.ice.infomaniak.ch/croonerradio-italiano-midfi.mp3",
+        "url": "https://croonerradio_italiano.ice.infomaniak.ch/croonerradio-italiano-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "crooner",
-            "crooner radio",
-            "crooners",
-            "italiano",
-            "oldies",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2021/06/LOGO-CROONER-RADIO-WR-ITALIANO.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_italiano.ice.infomaniak.ch/croonerradio-italiano-midfi.mp3"
+        "working_url": "https://croonerradio_italiano.ice.infomaniak.ch/croonerradio-italiano-midfi.mp3"
     },
     {
         "name": "Crooner Radio Legends",
-        "url": "http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3",
+        "url": "https://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "crooners",
-            "goldies",
-            "oldies",
-            "sinatra",
-            "smooth jazz",
-            "vocal jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3"
+        "working_url": "https://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3"
     },
     {
         "name": "Crooner Radio Love (Romantique)",
-        "url": "http://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3",
+        "url": "https://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "crooner",
-            "crooner radio",
-            "crooners",
-            "love songs",
-            "oldies",
-            "romantique",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2023/02/LOGO-CROONER-RADIO-WR-LOVE.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3"
+        "working_url": "https://croonerradio_love.ice.infomaniak.ch/croonerradio-love-midfi.mp3"
     },
     {
         "name": "Crooner Radio Michael Buble",
-        "url": "http://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3",
+        "url": "https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "buble",
-            "crooner",
-            "crooner radio",
-            "crooners",
-            "michael",
-            "michael buble",
-            "smooth",
-            "smoothest songs",
-            "vocal jazz"
-        ],
         "favicon": "https://www.croonerradio.fr/wp-content/uploads/2019/05/LOGO-CROONER-RADIO-WR-MICHAEL-BUBLE.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3"
+        "working_url": "https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3"
     },
     {
         "name": "Discothèque Fantastique Radio",
         "url": "https://radio.discothequefantastique.org/listen/discotheque_fantastique_radio/radio.mp3",
         "country": "FR",
-        "tags": [
-            "balearic",
-            "boogie",
-            "disco",
-            "funk",
-            "jazz",
-            "reggae",
-            "soul"
-        ],
         "favicon": "https://discothequefantastique.org/wp-content/uploads/2026/03/cropped-logo-small-1-300x168.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -433,15 +201,6 @@
         "name": "Elise radio",
         "url": "https://elise.wanastream.com:25000/;stream.nsv",
         "country": "FR",
-        "tags": [
-            "90's",
-            "années 80",
-            "electro",
-            "emission",
-            "jazz",
-            "pop music",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -451,9 +210,6 @@
         "name": "Europa Radio Jazz HD",
         "url": "https://streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -461,52 +217,35 @@
     },
     {
         "name": "Fip",
-        "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
+        "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
         "country": "FR",
-        "tags": [
-            "pop jazz"
-        ],
         "favicon": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
         "codec": "AAC",
         "bitrate": 192,
-        "working_url": "http://icecast.radiofrance.fr/fip-hifi.aac"
+        "working_url": "https://icecast.radiofrance.fr/fip-hifi.aac"
     },
     {
         "name": "FIP autour du groove",
-        "url": "http://direct.fipradio.fr/live/fip-webradio3.mp3",
+        "url": "https://direct.fipradio.fr/live/fip-webradio3.mp3",
         "country": "FR",
-        "tags": [
-            "groove",
-            "jazz",
-            "lounge"
-        ],
         "favicon": "http://www.fipradio.fr/dist/favicons/logo-120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.radiofrance.fr/fipgroove-midfi.mp3"
+        "working_url": "https://icecast.radiofrance.fr/fipgroove-midfi.mp3"
     },
     {
         "name": "FIP Jazz",
-        "url": "http://icecast.radiofrance.fr/fipjazz-hifi.aac",
+        "url": "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
         "country": "FR",
-        "tags": [
-            "aac",
-            "jazz",
-            "public radio",
-            "radio france"
-        ],
         "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
         "codec": "AAC",
         "bitrate": 192,
-        "working_url": "http://icecast.radiofrance.fr/fipjazz-hifi.aac"
+        "working_url": "https://icecast.radiofrance.fr/fipjazz-hifi.aac"
     },
     {
         "name": "FIP Jazz (Hi-Fi)",
         "url": "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/300x300_fip-jazz-01.jpg",
         "codec": "UNKNOWN",
         "bitrate": 0,
@@ -516,9 +255,6 @@
         "name": "FIP Jazz (hifi.aac)",
         "url": "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 192,
@@ -526,63 +262,35 @@
     },
     {
         "name": "France Musique",
-        "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+        "url": "https://direct.francemusique.fr/live/francemusique-midfi.mp3",
         "country": "FR",
-        "tags": [
-            "classical",
-            "jazz",
-            "music",
-            "public radio",
-            "radio france"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3"
+        "working_url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3"
     },
     {
         "name": "France Musique | La Jazz",
-        "url": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3",
+        "url": "https://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3"
+        "working_url": "https://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3"
     },
     {
         "name": "France Musique La Jazz",
-        "url": "http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+        "url": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
         "country": "FR",
-        "tags": [
-            "aac",
-            "jazz",
-            "public radio",
-            "radio france"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 192,
-        "working_url": "http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac"
+        "working_url": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac"
     },
     {
         "name": "GENERATION SOUL DISCO FUNK RADIO",
         "url": "https://gestream.fr/g-radio-hd.mp3",
         "country": "FR",
-        "tags": [
-            "acid jazz",
-            "disco",
-            "funk",
-            "groove",
-            "neo soul",
-            "new jack swing",
-            "nu disco",
-            "nu funk",
-            "smooth jazz",
-            "soul"
-        ],
         "favicon": "https://generationdiscofunk.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -592,11 +300,6 @@
         "name": "Hotmix Cocktail Jazz",
         "url": "https://streaming.hotmixradio.com/hotmix-cocktail-jazz-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "jazz fusion",
-            "smooth jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -606,13 +309,6 @@
         "name": "Hotmix Jazz",
         "url": "https://streaming.hotmixradio.com/hotmix-jazz-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "cool jazz",
-            "jazz",
-            "latin jazz",
-            "smooth jazz",
-            "vocal jazz"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-dinner_jazz-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -622,11 +318,6 @@
         "name": "Hotmix Piano Bar",
         "url": "https://streaming.hotmixradio.com/hotmix-piano-bar-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "piano jazz",
-            "piano music"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-piano_bar-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -636,9 +327,6 @@
         "name": "IAradio Jazz",
         "url": "https://iaradiojazz.ice.infomaniak.ch/iaradiojazz-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -646,24 +334,17 @@
     },
     {
         "name": "Jazz Afro",
-        "url": "http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3",
+        "url": "https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3",
         "country": "FR",
-        "tags": [
-            "afro",
-            "jazz"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3"
+        "working_url": "https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3"
     },
     {
         "name": "Jazz Radio",
         "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=84509",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "AAC+",
         "bitrate": 64,
@@ -671,79 +352,53 @@
     },
     {
         "name": "Jazz Radio - La radio de tous les Jazz",
-        "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+        "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://www.jazzradio.fr/media/option/logo-jazzradio-52715.webp",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+        "working_url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
     },
     {
         "name": "Jazz Radio Black Music",
-        "url": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
+        "url": "https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
         "country": "FR",
-        "tags": [
-            "black",
-            "blasmusik",
-            "jazz",
-            "music"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3"
+        "working_url": "https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3"
     },
     {
         "name": "Jazz Radio Blues",
-        "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+        "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
         "country": "FR",
-        "tags": [
-            "blues",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3"
+        "working_url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3"
     },
     {
         "name": "Jazz Radio Classic Jazz",
-        "url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+        "url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
         "country": "FR",
-        "tags": [
-            "classical",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3"
+        "working_url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3"
     },
     {
         "name": "Jazz Radio Contemporary Jazz",
-        "url": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
+        "url": "https://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
         "country": "FR",
-        "tags": [
-            "contemporary",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3"
+        "working_url": "https://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3"
     },
     {
         "name": "Jazz Radio Electro Swing",
         "url": "https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090",
         "country": "FR",
-        "tags": [
-            "electro swing",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png",
         "codec": "AAC+",
         "bitrate": 64,
@@ -751,115 +406,80 @@
     },
     {
         "name": "Jazz Radio Gospel",
-        "url": "http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3",
+        "url": "https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3",
         "country": "FR",
-        "tags": [
-            "gospel",
-            "jazz"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3"
+        "working_url": "https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3"
     },
     {
         "name": "Jazz Radio Groov'Up",
-        "url": "http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
+        "url": "https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
         "country": "FR",
-        "tags": [
-            "groove",
-            "jazz"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3"
+        "working_url": "https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3"
     },
     {
         "name": "Jazz Radio Groove",
-        "url": "http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
+        "url": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
         "country": "FR",
-        "tags": [
-            "groove",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3"
+        "working_url": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3"
     },
     {
         "name": "Jazz Radio Happy Hour",
-        "url": "http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3",
+        "url": "https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3"
+        "working_url": "https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3"
     },
     {
         "name": "Jazz Radio Jazz & Cinema",
-        "url": "http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
+        "url": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
         "country": "FR",
-        "tags": [
-            "cinema",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3"
+        "working_url": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3"
     },
     {
         "name": "Jazz Radio Jazzy French",
-        "url": "http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
+        "url": "https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
         "country": "FR",
-        "tags": [
-            "french music",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3"
+        "working_url": "https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3"
     },
     {
         "name": "Jazz Radio Ladies & Crooners",
-        "url": "http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
+        "url": "https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3"
+        "working_url": "https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3"
     },
     {
         "name": "Jazz Radio Latin Jazz",
-        "url": "http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+        "url": "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "latin",
-            "latin jazz",
-            "latino"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3"
+        "working_url": "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3"
     },
     {
         "name": "Jazz Radio Lounge",
         "url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac?i=57064",
         "country": "FR",
-        "tags": [
-            "jazz lounge"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
@@ -867,165 +487,116 @@
     },
     {
         "name": "Jazz Radio Manouche",
-        "url": "http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
+        "url": "https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "manouche"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3"
+        "working_url": "https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3"
     },
     {
         "name": "Jazz Radio New Orleans",
-        "url": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
+        "url": "https://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3"
+        "working_url": "https://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3"
     },
     {
         "name": "Jazz Radio Nouveautés Jazz",
-        "url": "http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3",
+        "url": "https://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3"
+        "working_url": "https://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3"
     },
     {
         "name": "Jazz Radio Only Women",
-        "url": "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
+        "url": "https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "women"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3"
+        "working_url": "https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3"
     },
     {
         "name": "Jazz Radio Piano Jazz",
-        "url": "http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
+        "url": "https://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "piano"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3"
+        "working_url": "https://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3"
     },
     {
         "name": "Jazz Radio Reprises",
-        "url": "http://reprises.ice.infomaniak.ch/reprises-high.mp3",
+        "url": "https://reprises.ice.infomaniak.ch/reprises-high.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://reprises.ice.infomaniak.ch/reprises-high.mp3"
+        "working_url": "https://reprises.ice.infomaniak.ch/reprises-high.mp3"
     },
     {
         "name": "Jazz Radio Saxo Jazz",
-        "url": "http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3",
+        "url": "https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3"
+        "working_url": "https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3"
     },
     {
         "name": "Jazz Radio Soul Food by DJ Philgood",
-        "url": "http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3",
+        "url": "https://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3"
+        "working_url": "https://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3"
     },
     {
         "name": "Jazz Radio Stax and Motown",
-        "url": "http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3",
+        "url": "https://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3",
         "country": "FR",
-        "tags": [
-            "funk",
-            "jazz",
-            "motown",
-            "soul",
-            "stax"
-        ],
         "favicon": "http://www.jazzradio.fr/media/radio/thumb/90x90_stax-and-motown.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3"
+        "working_url": "https://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3"
     },
     {
         "name": "Jazz Radio Sunset",
-        "url": "http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3",
+        "url": "https://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3"
+        "working_url": "https://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3"
     },
     {
         "name": "Jazz Radio Zen Attitude",
-        "url": "http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3",
+        "url": "https://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3"
+        "working_url": "https://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3"
     },
     {
         "name": "Jazz Swing Manouche Radio",
-        "url": "http://stream.radiojar.com/6rxpyrnzsv5tv",
+        "url": "https://stream.radiojar.com/6rxpyrnzsv5tv",
         "country": "FR",
-        "tags": [
-            "jazz manouche / gypsy jazz / gypsy swing"
-        ],
         "favicon": "https://static.wixstatic.com/media/24812b_0f6ba96bb33141c9b011b429bbef1964~mv2.png/v1/fill/w_178,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/24812b_0f6ba96bb33141c9b011b429bbef1964~mv2.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n07.radiojar.com/6rxpyrnzsv5tv?rj-ttl=5&rj-tok=AAABn-ykePYACcQ4vx0k5txTcw"
+        "working_url": "https://n07.radiojar.com/6rxpyrnzsv5tv?rj-ttl=5&rj-tok=AAABn-ykePYACcQ4vx0k5txTcw"
     },
     {
         "name": "Jazzradio.fr Jazz & Cinema",
         "url": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
         "country": "FR",
-        "tags": [
-            "cinema",
-            "jazz"
-        ],
         "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1035,10 +606,6 @@
         "name": "Jazzradio.fr Jazz & Classique",
         "url": "https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
         "country": "FR",
-        "tags": [
-            "classic",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1048,10 +615,6 @@
         "name": "Jazzradio.fr Jazz Manouche",
         "url": "https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "manouche"
-        ],
         "favicon": "https://www.jazzradio.fr/media/radio/thumb/160x160_jazz-manouche.webp",
         "codec": "MP3",
         "bitrate": 128,
@@ -1061,12 +624,6 @@
         "name": "La Grosse Radio Rock",
         "url": "https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3",
         "country": "FR",
-        "tags": [
-            "blues",
-            "disco",
-            "jazz",
-            "rock"
-        ],
         "favicon": "https://s1.wp.com/i/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -1076,16 +633,6 @@
         "name": "Le Bon Mix - AAC320LC",
         "url": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "disco",
-            "eclectic",
-            "funk",
-            "jazz",
-            "reggae",
-            "rock",
-            "soul",
-            "soundtracks"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png",
         "codec": "AAC+",
         "bitrate": 320,
@@ -1095,14 +642,6 @@
         "name": "Le Bon Mix HiFi Flac 1411 Kbps",
         "url": "https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "eclectic",
-            "electro",
-            "jazz",
-            "pop",
-            "rock",
-            "world"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png",
         "codec": "OGG",
         "bitrate": 0,
@@ -1112,13 +651,6 @@
         "name": "Le Grigri",
         "url": "https://www.radioking.com/play/legrigri/273715",
         "country": "FR",
-        "tags": [
-            "african music",
-            "free jazz",
-            "hip-hop",
-            "jazz",
-            "world music"
-        ],
         "favicon": "https://www.le-grigri.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -1128,15 +660,6 @@
         "name": "Le New Djam Flac",
         "url": "https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "funk",
-            "hip-hop et disco",
-            "jazz",
-            "reggae",
-            "rock",
-            "soul",
-            "world"
-        ],
         "favicon": "https://admuzzum.xdevel.com/cloud/x/cid/35/im/jpeg/XZXU/Y/XY/461e934b5f97297dd03c9d04f9f7c108.jpg",
         "codec": "OGG",
         "bitrate": 0,
@@ -1146,12 +669,6 @@
         "name": "Le Poste Parisien - AAC192LC",
         "url": "https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "eclectic",
-            "jazz",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_551f87ad90164e958e57990804c3e8d1~mv2.png",
         "codec": "AAC+",
         "bitrate": 0,
@@ -1161,37 +678,6 @@
         "name": "Music Radio",
         "url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
         "country": "FR",
-        "tags": [
-            "chillout",
-            "chillout+lounge",
-            "club house",
-            "cool jazz",
-            "disco funk",
-            "easy listening",
-            "easy music",
-            "electronic",
-            "entertainment",
-            "funk",
-            "funky",
-            "funky house",
-            "hits",
-            "house",
-            "jazz",
-            "música pop",
-            "new releases",
-            "nu-jazz",
-            "piano jazz",
-            "pop dance",
-            "pop en español e inglés",
-            "pop en inglés",
-            "pop music",
-            "pop rock",
-            "popular",
-            "smooth jazz",
-            "soulful house",
-            "tech house",
-            "top hits"
-        ],
         "favicon": "https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg",
         "codec": "MP3",
         "bitrate": 0,
@@ -1199,38 +685,17 @@
     },
     {
         "name": "New Morning Radio",
-        "url": "http://listen.radioking.com/radio/605/stream/2195",
+        "url": "https://listen.radioking.com/radio/605/stream/2195",
         "country": "FR",
-        "tags": [
-            "club",
-            "funk",
-            "jazz",
-            "live concert",
-            "paris",
-            "rnb",
-            "soul"
-        ],
         "favicon": "https://www.newmorning.com/images/apple-touch-icon-114x114.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioking.com/radio/605/stream/2195"
+        "working_url": "https://listen.radioking.com/radio/605/stream/2195"
     },
     {
         "name": "OceaneFM",
         "url": "https://stream.rcs.revma.com/4q26yzaf0v3vv",
         "country": "FR",
-        "tags": [
-            "breizh",
-            "bretagne",
-            "breton",
-            "jazz",
-            "local news",
-            "news",
-            "pop",
-            "pop rock",
-            "radio française",
-            "rock"
-        ],
         "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/filters:format(webp)/filters:quality(100)/radios/oceane/images/footerLogo_DreypbXRpp.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -1238,28 +703,17 @@
     },
     {
         "name": "Pi ano FLAC+meta",
-        "url": "http://stream.p-node.org/piano",
+        "url": "https://stream.p-node.org/piano",
         "country": "FR",
-        "tags": [
-            "classical",
-            "contemporary classical",
-            "jazz",
-            "piano"
-        ],
         "favicon": "",
         "codec": "OGG",
         "bitrate": 0,
-        "working_url": "http://stream.p-node.org/piano"
+        "working_url": "https://stream.p-node.org/piano"
     },
     {
         "name": "Pinata",
         "url": "https://listen.radioking.com/radio/96031/stream/134656",
         "country": "FR",
-        "tags": [
-            "electronica",
-            "hiphop",
-            "jazz"
-        ],
         "favicon": "https://i1.sndcdn.com/avatars-WNhpWtZWyficOMFg-CT1Hyw-t200x200.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -1269,15 +723,6 @@
         "name": "Podjazz Radio",
         "url": "https://radio.podjazz.net/listen/podjazz_radio/radio.mp3",
         "country": "FR",
-        "tags": [
-            "bebop",
-            "blues",
-            "france",
-            "jazz",
-            "jazz history",
-            "podcast",
-            "swing"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1285,29 +730,17 @@
     },
     {
         "name": "Radio 17bis",
-        "url": "http://listen.radioking.com/radio/444/stream/1754",
+        "url": "https://listen.radioking.com/radio/444/stream/1754",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "popular",
-            "smooth",
-            "smooth jazz"
-        ],
         "favicon": "http://www.dixseptbis.com/__ovh/common/img/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioking.com/radio/444/stream/1754"
+        "working_url": "https://listen.radioking.com/radio/444/stream/1754"
     },
     {
         "name": "Radio Bar Sardine",
         "url": "https://listen.radioking.com/radio/552908/stream/612230",
         "country": "FR",
-        "tags": [
-            "disco",
-            "folk",
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtvbStzBwDUnWYoX8UJZQL7tgoSr8IZ6nPN77UMlLpwa-3Sbr6QMg_j4K&s=10",
         "codec": "MP3",
         "bitrate": 128,
@@ -1317,15 +750,6 @@
         "name": "Radio Boom Boom",
         "url": "https://listen.radioboomboom.com/listen/rbb/radio.mp3",
         "country": "FR",
-        "tags": [
-            "classical",
-            "dub",
-            "jazz",
-            "pop",
-            "reggae",
-            "rock",
-            "techno"
-        ],
         "favicon": "https://i.ibb.co/9sVFjX6/boomboom400.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1335,16 +759,6 @@
         "name": "Radio campus bordeaux",
         "url": "https://live.radio-campus.org:8002/campus-bordeaux",
         "country": "FR",
-        "tags": [
-            "blues",
-            "classique",
-            "folk",
-            "hip-hop",
-            "jazz",
-            "reggae",
-            "rock",
-            "électro"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1354,18 +768,6 @@
         "name": "Radio Campus Clermont-Ferrand",
         "url": "https://live.radio-campus.org:8002/clermont-ferrand",
         "country": "FR",
-        "tags": [
-            "culture",
-            "electronic",
-            "french music",
-            "humour",
-            "jazz",
-            "politics",
-            "pop",
-            "rap",
-            "working",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
@@ -1375,11 +777,6 @@
         "name": "Radio Echo des Choucas (REC)",
         "url": "https://hosting.radiomedia.fr:2005/stream",
         "country": "FR",
-        "tags": [
-            "french chansons",
-            "french music",
-            "jazz"
-        ],
         "favicon": "https://radiorec.fr/wp-content/uploads/2025/03/cropped-logo-REC-2024-1-32x32.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1387,38 +784,17 @@
     },
     {
         "name": "Radio Late Night Dream",
-        "url": "http://91.121.59.45:8412/stream",
+        "url": "https://91.121.59.45:8412/stream",
         "country": "FR",
-        "tags": [
-            "brazilian",
-            "funk",
-            "pop",
-            "smooth jazz",
-            "soul"
-        ],
         "favicon": "https://im1.lixty.com/images/fr-late-night-dream-logo.jpg",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://91.121.59.45:8412/stream"
+        "working_url": "https://91.121.59.45:8412/stream"
     },
     {
         "name": "Radio Méga",
         "url": "https://stream.ferarock.org:8020/radio-mega",
         "country": "FR",
-        "tags": [
-            "chansons françaises",
-            "electronic",
-            "folk",
-            "jazz",
-            "local music",
-            "local news",
-            "local radio",
-            "pop",
-            "radio associative",
-            "rap",
-            "rock",
-            "various"
-        ],
         "favicon": "https://www.radio-mega.com/templates/signweb/images/favicon.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -1428,13 +804,6 @@
         "name": "Radio Nelly",
         "url": "https://stream.radionelly.com:8443/nelly.aac",
         "country": "FR",
-        "tags": [
-            "alternative / indie",
-            "eclectic",
-            "electronic",
-            "jazz",
-            "world music"
-        ],
         "favicon": "https://www.radionelly.com/Nelly300x300.jpg",
         "codec": "AAC",
         "bitrate": 160,
@@ -1442,29 +811,17 @@
     },
     {
         "name": "Radio Neptune",
-        "url": "http://icecast.infini.fr:8000/neptune",
+        "url": "https://icecast.infini.fr:8000/neptune",
         "country": "FR",
-        "tags": [
-            "classical",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://icecast.infini.fr:8000/neptune"
+        "working_url": "https://icecast.infini.fr:8000/neptune"
     },
     {
         "name": "RADIO NOVA",
         "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
         "country": "FR",
-        "tags": [
-            "electro",
-            "hip hop",
-            "jazz",
-            "new wave",
-            "reggae",
-            "world music"
-        ],
         "favicon": "https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75",
         "codec": "MP3",
         "bitrate": 128,
@@ -1474,12 +831,6 @@
         "name": "Radio Titine",
         "url": "https://listen.radioking.com/radio/435545/stream/489533",
         "country": "FR",
-        "tags": [
-            "love",
-            "pop",
-            "smooth jazz",
-            "west coast"
-        ],
         "favicon": "https://static.wixstatic.com/media/578136_24e4883683c748a2a776595e66118a35%7emv2.png/v1/fit/w_2500,h_1330,al_c/578136_24e4883683c748a2a776595e66118a35%7emv2.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1489,12 +840,6 @@
         "name": "Radio Univers",
         "url": "https://stream4.vestaradio.com/RadioUnivers",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "poetry",
-            "progressive rock",
-            "world music"
-        ],
         "favicon": "https://www.radio-univers.com/wp-includes/images/w-logo-blue-white-bg.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1502,66 +847,35 @@
     },
     {
         "name": "Radio Zones 93,8 FM",
-        "url": "http://radiozones.dyndns.org:8000/radiozones",
+        "url": "https://radiozones.dyndns.org:8000/radiozones",
         "country": "FR",
-        "tags": [
-            "african",
-            "blues",
-            "classical",
-            "french music",
-            "hip-hop",
-            "italian music",
-            "jazz",
-            "latino",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://radiozones.dyndns.org:8000/radiozones"
+        "working_url": "https://radiozones.dyndns.org:8000/radiozones"
     },
     {
         "name": "Radio44",
-        "url": "http://eu.publicssl.net:7020/",
+        "url": "https://eu.publicssl.net:7020/",
         "country": "FR",
-        "tags": [
-            "chanson française",
-            "classic",
-            "jazz",
-            "world music"
-        ],
         "favicon": "https://www.radio44.fr/favicon.ico",
         "codec": "AAC",
         "bitrate": 192,
-        "working_url": "http://eu.publicssl.net:7020/"
+        "working_url": "https://eu.publicssl.net:7020/"
     },
     {
         "name": "RADIOSATELLITE",
-        "url": "http://manager10.streamradio.fr:1770/stream",
+        "url": "https://manager10.streamradio.fr:1770/stream",
         "country": "FR",
-        "tags": [
-            "country music",
-            "easy listening",
-            "instrumental music",
-            "smooth jazz",
-            "world music"
-        ],
         "favicon": "https://imagizer.imageshack.com/img922/6016/d4gqW2.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://manager10.streamradio.fr:1770/stream"
+        "working_url": "https://manager10.streamradio.fr:1770/stream"
     },
     {
         "name": "RCV 99 fm",
         "url": "https://listen.radioking.com/radio/3086/stream/9476",
         "country": "FR",
-        "tags": [
-            "electro",
-            "jazz",
-            "punk",
-            "reggae",
-            "rock"
-        ],
         "favicon": "https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1571,16 +885,6 @@
         "name": "RDWA Luc",
         "url": "https://live.aurafm.org/R-Dwa-LUC",
         "country": "FR",
-        "tags": [
-            "dub",
-            "eclectic",
-            "electronic",
-            "funk",
-            "jazz",
-            "reggae",
-            "rock",
-            "urban"
-        ],
         "favicon": "https://www.aurafm.org/wp-content/uploads/rdwa.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1590,15 +894,6 @@
         "name": "Soft Radio",
         "url": "https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "calm",
-            "classical",
-            "eclectic",
-            "jazz",
-            "relaxing",
-            "soft",
-            "soundtracks"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_aa6143964e8d4a1f80be28d048517260~mv2.png",
         "codec": "AAC+",
         "bitrate": 192,
@@ -1608,11 +903,6 @@
         "name": "Soul Radio",
         "url": "https://listen.soulradio.eu/eu",
         "country": "FR",
-        "tags": [
-            "hip-hop",
-            "jazz",
-            "soul"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 192,
@@ -1620,31 +910,17 @@
     },
     {
         "name": "Soulmet Radio",
-        "url": "http://91.121.59.45:10184/stream",
+        "url": "https://91.121.59.45:10184/stream",
         "country": "FR",
-        "tags": [
-            "funk",
-            "jazz",
-            "rap",
-            "rnb",
-            "soul"
-        ],
         "favicon": "https://static.wixstatic.com/media/a51df2_1c64505953b64daead89b06067bd9a30.png/v1/fill/w_329,h_329,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a51df2_1c64505953b64daead89b06067bd9a30.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://91.121.59.45:10184/stream"
+        "working_url": "https://91.121.59.45:10184/stream"
     },
     {
         "name": "SUN Hip Hop",
         "url": "https://diffusion.lafrap.fr/sun-hip-hop.mp3",
         "country": "FR",
-        "tags": [
-            "groove",
-            "hip hop",
-            "jazz",
-            "r&b",
-            "rap"
-        ],
         "favicon": "https://www.lesonunique.com/datasun/images_flux/logos/SD/hiphop.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1654,9 +930,6 @@
         "name": "SUN Jazz",
         "url": "https://diffusion.lafrap.fr/sun-jazz.mp3",
         "country": "FR",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.lesonunique.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 320,
@@ -1666,12 +939,6 @@
         "name": "SUN Soul & Funk",
         "url": "https://diffusion.lafrap.fr/sun-soul.funk.mp3",
         "country": "FR",
-        "tags": [
-            "funk",
-            "hip hop",
-            "jazz fusion",
-            "soul"
-        ],
         "favicon": "https://www.lesonunique.com/datasun/images_flux/logos/HD/soulandfunk.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1681,9 +948,6 @@
         "name": "SUNSET JAZZ RADIO",
         "url": "https://radio2.vip-radios.fm:18077/stream-mp3-SunsetJazz",
         "country": "FR",
-        "tags": [
-            "soft jazz – 100% vocal"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1691,31 +955,17 @@
     },
     {
         "name": "Swing FM",
-        "url": "http://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
+        "url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
         "country": "FR",
-        "tags": [
-            "blues",
-            "gospel",
-            "jazz",
-            "swing"
-        ],
         "favicon": "https://www.swingfm.asso.fr/wp-content/themes/bsi_swingfm/img/logo_d.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://swingfm.ice.infomaniak.ch/swingfm-128.mp3"
+        "working_url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3"
     },
     {
         "name": "The Lounge Hour",
         "url": "https://listen2.streamaudio.co/stream/8056",
         "country": "FR",
-        "tags": [
-            "calm",
-            "chillout",
-            "instrumental music",
-            "jazz",
-            "lounge",
-            "smooth jazz"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,

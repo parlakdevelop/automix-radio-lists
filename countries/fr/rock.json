@@ -3,19 +3,6 @@
         "name": "..87,5!. Nantes",
         "url": "https://listen.radioking.com/radio/15130/stream/28217",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "alternative rock",
-            "classic rock",
-            "electro",
-            "electronic",
-            "electronica",
-            "house",
-            "pop",
-            "pop rock",
-            "rock",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -23,25 +10,17 @@
     },
     {
         "name": "123 All Classic Rock",
-        "url": "http://str4uice.streamakaci.com/4uclassicrock.mp3",
+        "url": "https://str4uice.streamakaci.com/4uclassicrock.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "rock",
-            "rock-classic"
-        ],
         "favicon": "https://www.facebook.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://str4uice.streamakaci.com/4uclassicrock.mp3"
+        "working_url": "https://str4uice.streamakaci.com/4uclassicrock.mp3"
     },
     {
         "name": "4U 70s Flower",
         "url": "https://str4uice.streamakaci.com/4u70s.mp3",
         "country": "FR",
-        "tags": [
-            "rock classic"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -51,10 +30,6 @@
         "name": "4U Classic Rock",
         "url": "https://str4uice.streamakaci.com/4uclassicrock.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "hits"
-        ],
         "favicon": "https://www.4urock.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -64,9 +39,6 @@
         "name": "4U Hard FM",
         "url": "https://live.4uradios.com/4uhardfm.mp3",
         "country": "FR",
-        "tags": [
-            "hard rock heavy metal"
-        ],
         "favicon": "https://www.4uradios.com/images/4uhardfm.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -74,96 +46,62 @@
     },
     {
         "name": "Addict Rock",
-        "url": "http://stream2.addictradio.net/addictrock.mp3",
+        "url": "https://stream2.addictradio.net/addictrock.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream2.addictradio.net/addictrock.mp3"
+        "working_url": "https://stream2.addictradio.net/addictrock.mp3"
     },
     {
         "name": "Allzic Radio 2000s",
-        "url": "http://allzic49.ice.infomaniak.ch/allzic49.mp3",
+        "url": "https://allzic49.ice.infomaniak.ch/allzic49.mp3",
         "country": "FR",
-        "tags": [
-            "00s",
-            "alternative",
-            "classic hits",
-            "love",
-            "pop",
-            "rnb",
-            "rock"
-        ],
         "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic49.ice.infomaniak.ch/allzic49.mp3"
+        "working_url": "https://allzic49.ice.infomaniak.ch/allzic49.mp3"
     },
     {
         "name": "Allzic Radio 90s",
-        "url": "http://allzic24.ice.infomaniak.ch/allzic24.mp3",
+        "url": "https://allzic24.ice.infomaniak.ch/allzic24.mp3",
         "country": "FR",
-        "tags": [
-            "90s",
-            "alternative",
-            "classic hits",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic24.ice.infomaniak.ch/allzic24.mp3"
+        "working_url": "https://allzic24.ice.infomaniak.ch/allzic24.mp3"
     },
     {
         "name": "AllZic Radio Gothique",
-        "url": "http://allzic27.ice.infomaniak.ch/allzic27.mp3",
+        "url": "https://allzic27.ice.infomaniak.ch/allzic27.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic27.ice.infomaniak.ch/allzic27.mp3"
+        "working_url": "https://allzic27.ice.infomaniak.ch/allzic27.mp3"
     },
     {
         "name": "Allzic Radio Hard Heavy",
-        "url": "http://allzic18.ice.infomaniak.ch/allzic18.mp3",
+        "url": "https://allzic18.ice.infomaniak.ch/allzic18.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "hard rock",
-            "heavy rock",
-            "rock"
-        ],
         "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic18.ice.infomaniak.ch/allzic18.mp3"
+        "working_url": "https://allzic18.ice.infomaniak.ch/allzic18.mp3"
     },
     {
         "name": "Allzic Radio Rock",
-        "url": "http://allzic17.ice.infomaniak.ch/allzic17.mp3",
+        "url": "https://allzic17.ice.infomaniak.ch/allzic17.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "http://www.allzicradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic17.ice.infomaniak.ch/allzic17.mp3"
+        "working_url": "https://allzic17.ice.infomaniak.ch/allzic17.mp3"
     },
     {
         "name": "Allzic Radio Rock FM",
         "url": "https://allzic17.ice.infomaniak.ch/allzic17.mp3",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://www.allzicradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -173,16 +111,6 @@
         "name": "Alternative Radio",
         "url": "https://www.radioking.com/play/alternative-radio-1",
         "country": "FR",
-        "tags": [
-            "electro",
-            "folk",
-            "funk",
-            "hiphop",
-            "jazz",
-            "rock",
-            "soul",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -190,50 +118,26 @@
     },
     {
         "name": "Big Cactus Classic Rock",
-        "url": "http://radio12.pro-fhi.net/radio/9134/stream.mp3",
+        "url": "https://radio12.pro-fhi.net/radio/9134/stream.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "https://cdn-radiotime-logos.tunein.com/s221218q.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://radio12.pro-fhi.net/radio/9134/stream.mp3"
+        "working_url": "https://radio12.pro-fhi.net/radio/9134/stream.mp3"
     },
     {
         "name": "Boombox Radio",
-        "url": "http://hosting.studioradiomedia.fr:1100/boombox",
+        "url": "https://hosting.studioradiomedia.fr:1100/boombox",
         "country": "FR",
-        "tags": [
-            "00s",
-            "80s",
-            "90s",
-            "disco",
-            "eurodance",
-            "funk",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://hosting.studioradiomedia.fr:1100/boombox"
+        "working_url": "https://hosting.studioradiomedia.fr:1100/boombox"
     },
     {
         "name": "bringthenoise",
         "url": "https://radio.bringthenoi.se/listen/dj_nocide/default",
         "country": "FR",
-        "tags": [
-            "disco",
-            "drum and bass",
-            "folk",
-            "funk",
-            "fusion",
-            "house",
-            "indie",
-            "jazz",
-            "pop",
-            "stoner rock"
-        ],
         "favicon": "https://bringthenoi.se/apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 192,
@@ -241,27 +145,17 @@
     },
     {
         "name": "C9",
-        "url": "http://newstream.c9.fr/c9radio-192.mp3",
+        "url": "https://newstream.c9.fr/c9radio-192.mp3",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://www.c9.fr/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://newstream.c9.fr/c9radio-192.mp3"
+        "working_url": "https://newstream.c9.fr/c9radio-192.mp3"
     },
     {
         "name": "C9 Radio",
         "url": "https://stream.c9.fr/c9radio-192.mp3",
         "country": "FR",
-        "tags": [
-            "dance",
-            "pop",
-            "rock",
-            "talk",
-            "top 40"
-        ],
         "favicon": "https://www.c9.fr/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -269,23 +163,17 @@
     },
     {
         "name": "Canal B - 94Mhz",
-        "url": "http://stream.levillage.org/canalb",
+        "url": "https://stream.levillage.org/canalb",
         "country": "FR",
-        "tags": [
-            "alternative rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream.levillage.org/canalb"
+        "working_url": "https://stream.levillage.org/canalb"
     },
     {
         "name": "Clapas Rock",
         "url": "https://stream.radioclapas.fr/listen/clapas_rock/radio.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://www.radioclapas.fr/player/rock.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -293,33 +181,17 @@
     },
     {
         "name": "Droogies",
-        "url": "http://www.droogies.org:8000/stream",
+        "url": "https://www.droogies.org:8000/stream",
         "country": "FR",
-        "tags": [
-            "hardcore",
-            "oi!",
-            "punk",
-            "reggae",
-            "rocksteady"
-        ],
         "favicon": "http://www.droogies.org/css/radio-page/img/logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://www.droogies.org:8000/stream"
+        "working_url": "https://www.droogies.org:8000/stream"
     },
     {
         "name": "EklectyWaves - The Sharing Radio",
         "url": "https://play.radioking.io/eklectywaves-the-sharing-radio",
         "country": "FR",
-        "tags": [
-            "blues",
-            "classic rock",
-            "metal",
-            "pop rock",
-            "progressive",
-            "rock",
-            "world"
-        ],
         "favicon": "https://www.radioplug.co.uk/img/channel/19-03-2025-22-43-21-c.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -329,11 +201,6 @@
         "name": "Elise radio",
         "url": "https://elise.wanastream.com:25000/;stream.nsv",
         "country": "FR",
-        "tags": [
-            "elecro",
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -341,51 +208,35 @@
     },
     {
         "name": "ESSENTIEL radio",
-        "url": "http://essentielradioing.streamakaci.com/essentielradio.mp3",
+        "url": "https://essentielradioing.streamakaci.com/essentielradio.mp3",
         "country": "FR",
-        "tags": [
-            "gospel",
-            "pop rock"
-        ],
         "favicon": "http://www.essentielradio.com/upload/5b26b4bf024887.93808522.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://essentielradioing.streamakaci.com/essentielradio.mp3"
+        "working_url": "https://essentielradioing.streamakaci.com/essentielradio.mp3"
     },
     {
         "name": "ESSENTIEL.fr",
-        "url": "http://cdnradio.streamakaci.com/essentielfr.mp3",
+        "url": "https://cdnradio.streamakaci.com/essentielfr.mp3",
         "country": "FR",
-        "tags": [
-            "gospel",
-            "pop rock"
-        ],
         "favicon": "http://www.essentielradio.com/upload/Radios%20digitales/ESSENTIEL.fr1200.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cdnradio.streamakaci.com/essentielfr.mp3"
+        "working_url": "https://cdnradio.streamakaci.com/essentielfr.mp3"
     },
     {
         "name": "Europe 2",
-        "url": "http://europe2.lmn.fm/europe2.mp3",
+        "url": "https://europe2.lmn.fm/europe2.mp3",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://europe2.lmn.fm/europe2.mp3"
+        "working_url": "https://europe2.lmn.fm/europe2.mp3"
     },
     {
         "name": "Europe 2 Classics",
         "url": "https://europe2.lmn.fm/vr-wr2.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "pop",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2002.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -395,10 +246,6 @@
         "name": "Europe 2 Happy Rock Hours",
         "url": "https://europe2.lmn.fm/vr-wr5.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2005.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -408,9 +255,6 @@
         "name": "Europe 2 Hits",
         "url": "https://europe2.lmn.fm/vr-wr4.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -420,11 +264,6 @@
         "name": "Europe 2 Mix / Rock, Electro, Pop",
         "url": "https://europe2.lmn.fm/vr-wr6.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "electro",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_wr6_v2.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -434,9 +273,6 @@
         "name": "Europe 2 New",
         "url": "https://europe2.lmn.fm/vr-wr1.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2001.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -446,11 +282,6 @@
         "name": "Europe 2 Nouvelle Scène",
         "url": "https://europe2.lmn.fm/vr-wr8.mp3?aw_0_1st.playerid=lagardereappVirgin",
         "country": "FR",
-        "tags": [
-            "french pop",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2008.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -460,11 +291,6 @@
         "name": "Europe 2 Pays de la Loire",
         "url": "https://europe2.lmn.fm/europe2-44000/playlist.m3u8",
         "country": "FR",
-        "tags": [
-            "pop",
-            "rock",
-            "top 40 pop"
-        ],
         "favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png",
         "codec": "AAC",
         "bitrate": 127,
@@ -474,9 +300,6 @@
         "name": "Europe 2 Radio Officiel",
         "url": "https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
@@ -484,30 +307,17 @@
     },
     {
         "name": "Feeling Floyd Rock",
-        "url": "http://91.121.59.45:8013/stream",
+        "url": "https://91.121.59.45:8013/stream",
         "country": "FR",
-        "tags": [
-            "70s",
-            "80s",
-            "90er",
-            "pink floyd",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "http://www.feelingfloydrock.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://91.121.59.45:8013/stream"
+        "working_url": "https://91.121.59.45:8013/stream"
     },
     {
         "name": "FIP Metal",
         "url": "https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance",
         "country": "FR",
-        "tags": [
-            "hard rock",
-            "metal",
-            "thrash"
-        ],
         "favicon": "https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp",
         "codec": "AAC",
         "bitrate": 192,
@@ -517,11 +327,6 @@
         "name": "FIP Rock",
         "url": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance",
         "country": "FR",
-        "tags": [
-            "public",
-            "public radio",
-            "rock"
-        ],
         "favicon": "https://www.allzicradio.com/media/radios/fip-rock.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
@@ -529,30 +334,17 @@
     },
     {
         "name": "FIP Rock (metadata)",
-        "url": "http://radio-metadata.fr:8000/fiprock",
+        "url": "https://radio-metadata.fr:8000/fiprock",
         "country": "FR",
-        "tags": [
-            "fip",
-            "rock"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 192,
-        "working_url": "http://radio-metadata.fr:8000/fiprock"
+        "working_url": "https://radio-metadata.fr:8000/fiprock"
     },
     {
         "name": "Fréquence Hit",
         "url": "https://stream.frequencehit.com/frequencehit.mp3",
         "country": "FR",
-        "tags": [
-            "classic hits",
-            "hits",
-            "music non stop",
-            "non-stop music",
-            "rock",
-            "top 40 hits",
-            "top hits"
-        ],
         "favicon": "https://www.frequencehit.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -562,16 +354,6 @@
         "name": "Frequence Luz",
         "url": "https://stream-ssl.radios-arra.fr:8443/frequenceluz",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "funk",
-            "local music",
-            "local news",
-            "pop",
-            "rnb",
-            "rock",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -579,36 +361,17 @@
     },
     {
         "name": "Fréquence Mutine",
-        "url": "http://icecast.infini.fr:8000/mutine",
+        "url": "https://icecast.infini.fr:8000/mutine",
         "country": "FR",
-        "tags": [
-            "electro",
-            "emission",
-            "hip-hop",
-            "punk",
-            "radio libre",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://icecast.infini.fr:8000/mutine"
+        "working_url": "https://icecast.infini.fr:8000/mutine"
     },
     {
         "name": "Girl Power",
         "url": "https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac",
         "country": "FR",
-        "tags": [
-            "female vocalists",
-            "female vocals",
-            "female voices",
-            "femininity",
-            "feminist",
-            "pop",
-            "pop rock",
-            "rock",
-            "soft rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
@@ -618,11 +381,6 @@
         "name": "Hag' FM",
         "url": "https://hagfm.streamakaci.com/hagfm.mp3",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://www.hagfm.com/wp-content/uploads/2023/06/Logo-sans-fond-110x69.png",
         "codec": "MP3",
         "bitrate": 256,
@@ -632,11 +390,6 @@
         "name": "Heavy1",
         "url": "https://listen.radioking.com/radio/119653/stream/159127",
         "country": "FR",
-        "tags": [
-            "hard rock",
-            "heavy metal",
-            "rock"
-        ],
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/sdapkvmjcrmh.jpg",
         "codec": "MP3",
         "bitrate": 320,
@@ -646,11 +399,6 @@
         "name": "Hotmix 8",
         "url": "https://streaming.hotmixradio.com/hotmix-80-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "80's",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -660,13 +408,6 @@
         "name": "Hotmix 90",
         "url": "https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "90's",
-            "90s",
-            "90s dance",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-90s-fr-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -676,10 +417,6 @@
         "name": "Hotmix Blues",
         "url": "https://streaming.hotmixradio.com/hotmix-blues-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "blues",
-            "blues rock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-blues-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -689,9 +426,6 @@
         "name": "Hotmix Classic Rock",
         "url": "https://streaming.hotmixradio.com/hotmix-classic-rock-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-classic-rock-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -701,12 +435,6 @@
         "name": "Hotmix Hard Rock",
         "url": "https://streaming.hotmixradio.com/hotmix-hard-rock-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "classic hard rock",
-            "hard rock",
-            "hard rock heavy metal",
-            "rock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-hard_rock-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -716,10 +444,6 @@
         "name": "Hotmix Pop Rock",
         "url": "https://streaming.hotmixradio.com/hotmix-pop-rock-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "pop rock",
-            "poprock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-pop_rock-fr-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -729,12 +453,6 @@
         "name": "Hotmix Rock",
         "url": "https://streaming.hotmixradio.com/hotmix-rock-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "alternative rock",
-            "punk rock",
-            "rock",
-            "soft rock"
-        ],
         "favicon": "https://cdn.hotmixradio.com/hotmix-rock-en-mp3.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -744,9 +462,6 @@
         "name": "IAradio Pop Rock",
         "url": "https://iaradiopoprock.ice.infomaniak.ch/iaradiopoprock-128.mp3",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -756,13 +471,6 @@
         "name": "KISS Pop Rock",
         "url": "https://radiola.me/listen/kiss_pop_rock/radio.mp3",
         "country": "FR",
-        "tags": [
-            "blues",
-            "pop",
-            "pop rock",
-            "rock",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -772,11 +480,6 @@
         "name": "La Grosse Radio Métal",
         "url": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
         "country": "FR",
-        "tags": [
-            "hard",
-            "metal",
-            "rock"
-        ],
         "favicon": "https://s1.wp.com/i/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -786,9 +489,6 @@
         "name": "La Grosse Radio Rock",
         "url": "https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3",
         "country": "FR",
-        "tags": [
-            "alternative rock"
-        ],
         "favicon": "https://cdn1.lagrosseradio.com/wp-content/uploads/2025/03/LaGrosseRadio_Logo_Full_Black_Rock@4x-768x439.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -798,16 +498,6 @@
         "name": "Le Bon Mix - AAC320LC",
         "url": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "disco",
-            "eclectic",
-            "funk",
-            "jazz",
-            "reggae",
-            "rock",
-            "soul",
-            "soundtracks"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png",
         "codec": "AAC+",
         "bitrate": 320,
@@ -817,14 +507,6 @@
         "name": "Le Bon Mix HiFi Flac 1411 Kbps",
         "url": "https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "eclectic",
-            "electro",
-            "jazz",
-            "pop",
-            "rock",
-            "world"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png",
         "codec": "OGG",
         "bitrate": 0,
@@ -834,15 +516,6 @@
         "name": "Le New Djam Flac",
         "url": "https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "funk",
-            "hip-hop et disco",
-            "jazz",
-            "reggae",
-            "rock",
-            "soul",
-            "world"
-        ],
         "favicon": "https://admuzzum.xdevel.com/cloud/x/cid/35/im/jpeg/XZXU/Y/XY/461e934b5f97297dd03c9d04f9f7c108.jpg",
         "codec": "OGG",
         "bitrate": 0,
@@ -852,12 +525,6 @@
         "name": "Le Poste Parisien - AAC192LC",
         "url": "https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio",
         "country": "FR",
-        "tags": [
-            "eclectic",
-            "jazz",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://static.wixstatic.com/media/8f2aad_551f87ad90164e958e57990804c3e8d1~mv2.png",
         "codec": "AAC+",
         "bitrate": 0,
@@ -867,12 +534,6 @@
         "name": "Le village pop",
         "url": "https://listen.radioking.com/radio/200437/stream/243028",
         "country": "FR",
-        "tags": [
-            "folk",
-            "indie",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -882,9 +543,6 @@
         "name": "M40 PopRock",
         "url": "https://live.m40radio.fr/listen/m40-pop-rock/m40-pop-rock-128.mp3",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://cdn.m40radio.fr/wp-content/uploads/radio-m40-pop-rock-370x370.webp",
         "codec": "AAC",
         "bitrate": 128,
@@ -892,29 +550,17 @@
     },
     {
         "name": "Magenta Station 87.7",
-        "url": "http://82.65.103.36:8000/magenta-station",
+        "url": "https://82.65.103.36:8000/magenta-station",
         "country": "FR",
-        "tags": [
-            "grunge",
-            "metal",
-            "punk",
-            "rock"
-        ],
         "favicon": "https://www.nexusxiv.fr/media/radio/logos/87.7_Magenta_Station.webp",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://82.65.103.36:8000/magenta-station"
+        "working_url": "https://82.65.103.36:8000/magenta-station"
     },
     {
         "name": "Maxi France radio",
         "url": "https://stream.maxifrance.radio/stream",
         "country": "FR",
-        "tags": [
-            "chansons françaises",
-            "pop",
-            "rock",
-            "variety hits"
-        ],
         "favicon": "https://www.maxifrance.radio/wp-content/uploads/2023/03/cropped-logo-512.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -922,26 +568,17 @@
     },
     {
         "name": "MCRADIO",
-        "url": "http://puylouradio.net:8000/stream",
+        "url": "https://puylouradio.net:8000/stream",
         "country": "FR",
-        "tags": [
-            "hits",
-            "pop rock",
-            "regional radio"
-        ],
         "favicon": "http://www.mcradio.fr/assets/img/mcr-167.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://puylouradio.net:8000/stream"
+        "working_url": "https://puylouradio.net:8000/stream"
     },
     {
         "name": "Melody Rock & Pop Forever",
         "url": "https://n06.rcs.revma.com/tsmxsrn6ky3vv?",
         "country": "FR",
-        "tags": [
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -951,11 +588,6 @@
         "name": "Metal Invasion Radio",
         "url": "https://radio.metal-invasion.fr/radio/8000/stream96",
         "country": "FR",
-        "tags": [
-            "hard rock",
-            "heavy metal",
-            "metal"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
@@ -963,76 +595,35 @@
     },
     {
         "name": "MOROW [AAC+ 64k]",
-        "url": "http://stream.fr.morow.com:8080/morow_med.aacp",
+        "url": "https://stream.fr.morow.com:8080/morow_med.aacp",
         "country": "FR",
-        "tags": [
-            "progressive rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stream.fr.morow.com:8080/morow_med.aacp"
+        "working_url": "https://stream.fr.morow.com:8080/morow_med.aacp"
     },
     {
         "name": "Morow Prog Rock Radio",
-        "url": "http://stream.fr.morow.com:8080/morow_med.mp3",
+        "url": "https://stream.fr.morow.com:8080/morow_med.mp3",
         "country": "FR",
-        "tags": [
-            "progressive rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.fr.morow.com:8080/morow_med.mp3"
+        "working_url": "https://stream.fr.morow.com:8080/morow_med.mp3"
     },
     {
         "name": "Morow Progressive Rock Radio",
-        "url": "http://stream.fr.morow.com:8080/morow_hi.aacp",
+        "url": "https://stream.fr.morow.com:8080/morow_hi.aacp",
         "country": "FR",
-        "tags": [
-            "prog rock",
-            "progressive rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stream.fr.morow.com:8080/morow_hi.aacp"
+        "working_url": "https://stream.fr.morow.com:8080/morow_hi.aacp"
     },
     {
         "name": "Music Radio",
         "url": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
         "country": "FR",
-        "tags": [
-            "chillout",
-            "chillout+lounge",
-            "club house",
-            "cool jazz",
-            "disco funk",
-            "easy listening",
-            "easy music",
-            "electronic",
-            "entertainment",
-            "funk",
-            "funky",
-            "funky house",
-            "hits",
-            "house",
-            "jazz",
-            "música pop",
-            "new releases",
-            "nu-jazz",
-            "piano jazz",
-            "pop dance",
-            "pop en español e inglés",
-            "pop en inglés",
-            "pop music",
-            "pop rock",
-            "popular",
-            "smooth jazz",
-            "soulful house",
-            "tech house",
-            "top hits"
-        ],
         "favicon": "https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg",
         "codec": "MP3",
         "bitrate": 0,
@@ -1040,30 +631,17 @@
     },
     {
         "name": "Nihon no Oto",
-        "url": "http://stream1.nihon-no-oto.com/nihonogg",
+        "url": "https://stream1.nihon-no-oto.com/nihonogg",
         "country": "FR",
-        "tags": [
-            "anime",
-            "japanese music",
-            "jpop",
-            "jrock"
-        ],
         "favicon": "",
         "codec": "OGG",
         "bitrate": 0,
-        "working_url": "http://stream1.nihon-no-oto.com/nihonogg"
+        "working_url": "https://stream1.nihon-no-oto.com/nihonogg"
     },
     {
         "name": "Nova Reggae",
         "url": "https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3",
         "country": "FR",
-        "tags": [
-            "dancehall",
-            "dub",
-            "reggae",
-            "rocksteady",
-            "ska"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1073,16 +651,6 @@
         "name": "NRJ LINKIN PARK",
         "url": "https://streaming.nrjaudio.fm/ouvfbfoarp52",
         "country": "FR",
-        "tags": [
-            "english",
-            "france",
-            "linkin park",
-            "linkinpark",
-            "metal",
-            "nrj",
-            "nu metal",
-            "rock"
-        ],
         "favicon": "https://www.radio.net/300/nrjlinkinpark.jpeg?version=9ec7666b0204107fd6befaf6e99299f6a38aaff9",
         "codec": "MP3",
         "bitrate": 128,
@@ -1092,18 +660,6 @@
         "name": "OceaneFM",
         "url": "https://stream.rcs.revma.com/4q26yzaf0v3vv",
         "country": "FR",
-        "tags": [
-            "breizh",
-            "bretagne",
-            "breton",
-            "jazz",
-            "local news",
-            "news",
-            "pop",
-            "pop rock",
-            "radio française",
-            "rock"
-        ],
         "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/filters:format(webp)/filters:quality(100)/radios/oceane/images/footerLogo_DreypbXRpp.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -1111,32 +667,17 @@
     },
     {
         "name": "ODS Radio Légende du Rock",
-        "url": "http://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3",
+        "url": "https://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3",
         "country": "FR",
-        "tags": [
-            "alternative rock",
-            "classic rock",
-            "hard rock",
-            "indie rock",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://www.odsradio.com/media/radio/thumb/360x360_691f2bd2af31f-plan-de-travail-1.webp",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3"
+        "working_url": "https://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3"
     },
     {
         "name": "ODS Radio Rock",
         "url": "https://ods-rock.ice.infomaniak.ch/ods-rock.mp3",
         "country": "FR",
-        "tags": [
-            "alternative rock",
-            "indie rock",
-            "pop rock",
-            "rock",
-            "soft rock"
-        ],
         "favicon": "https://www.odsradio.com/media/radio/thumb/360x360_691f2bc5851bf-plan-de-travail-1.webp",
         "codec": "MP3",
         "bitrate": 128,
@@ -1144,25 +685,17 @@
     },
     {
         "name": "Ouest Track Radio",
-        "url": "http://stream.ouest-track.com:9030/stream",
+        "url": "https://stream.ouest-track.com:9030/stream",
         "country": "FR",
-        "tags": [
-            "indie pop",
-            "indie rock",
-            "le havre"
-        ],
         "favicon": "https://www.ouest-track.com/upload/design/5f48d750a06ae6.63157840.png",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://stream.ouest-track.com:9030/stream"
+        "working_url": "https://stream.ouest-track.com:9030/stream"
     },
     {
         "name": "OUI FM",
         "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1172,10 +705,6 @@
         "name": "OUI FM ACOUSTIC",
         "url": "https://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3",
         "country": "FR",
-        "tags": [
-            "acoustic",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/NSzUtv6XGF/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1183,24 +712,17 @@
     },
     {
         "name": "OÜI FM Alternatif",
-        "url": "http://ouifm2.ice.infomaniak.ch/ouifm2.aac",
+        "url": "https://ouifm2.ice.infomaniak.ch/ouifm2.aac",
         "country": "FR",
-        "tags": [
-            "metal",
-            "rock alternatif"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://ouifm2.ice.infomaniak.ch/ouifm2.aac"
+        "working_url": "https://ouifm2.ice.infomaniak.ch/ouifm2.aac"
     },
     {
         "name": "OUI FM ALTERNATIF",
         "url": "https://ouifm2.ice.infomaniak.ch/ouifm2.mp3",
         "country": "FR",
-        "tags": [
-            "alternative rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1210,9 +732,6 @@
         "name": "OUI FM BLUES'N'ROCK",
         "url": "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3",
         "country": "FR",
-        "tags": [
-            "blues rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1222,10 +741,6 @@
         "name": "OUI FM BRING THE NOISE",
         "url": "https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3",
         "country": "FR",
-        "tags": [
-            "hard rock",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/tBdigJT2rb/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1235,9 +750,6 @@
         "name": "OUI FM CLASSIC ROCK",
         "url": "https://ouifm3.ice.infomaniak.ch/ouifm3.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3qhtSltZ27/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1247,10 +759,6 @@
         "name": "OUI FM GARAGE",
         "url": "https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-128.mp3",
         "country": "FR",
-        "tags": [
-            "garage",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1258,24 +766,17 @@
     },
     {
         "name": "OÜI FM Garage Rock",
-        "url": "http://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac",
+        "url": "https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac",
         "country": "FR",
-        "tags": [
-            "rock garage"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/ouifm/radiostream/PVQ1nX8P2i/vignette_X52HTWr00S.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac"
+        "working_url": "https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac"
     },
     {
         "name": "OUI FM GIRLS ROCK",
         "url": "https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3",
         "country": "FR",
-        "tags": [
-            "female voices",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1285,10 +786,6 @@
         "name": "OUI FM GIRLS ROCK [AAC 64k]",
         "url": "https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac",
         "country": "FR",
-        "tags": [
-            "female voices",
-            "rock"
-        ],
         "favicon": "https://www.ouifm.fr/favicon.ico",
         "codec": "AAC+",
         "bitrate": 64,
@@ -1298,9 +795,6 @@
         "name": "OUI FM LES SLOWS DU ROCK",
         "url": "https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3",
         "country": "FR",
-        "tags": [
-            "slow rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1310,10 +804,6 @@
         "name": "OUI FM ROCK 2000",
         "url": "https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3",
         "country": "FR",
-        "tags": [
-            "2000",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1323,10 +813,6 @@
         "name": "OUI FM ROCK 60's",
         "url": "https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3",
         "country": "FR",
-        "tags": [
-            "60's",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1336,10 +822,6 @@
         "name": "OUI FM ROCK 70's",
         "url": "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3",
         "country": "FR",
-        "tags": [
-            "70's",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1349,10 +831,6 @@
         "name": "OUI FM ROCK 80's",
         "url": "https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3",
         "country": "FR",
-        "tags": [
-            "80's",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1362,10 +840,6 @@
         "name": "OUI FM ROCK 90's",
         "url": "https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3",
         "country": "FR",
-        "tags": [
-            "90's",
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1375,9 +849,6 @@
         "name": "OUI FM ROCK FRANCAIS",
         "url": "https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3fkpVzB8Cc/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1387,9 +858,6 @@
         "name": "OUI FM ROCK INDÉ",
         "url": "https://ouifm5.ice.infomaniak.ch/ouifm5.mp3",
         "country": "FR",
-        "tags": [
-            "indie rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 64,
@@ -1399,9 +867,6 @@
         "name": "OUI FM SUMMERTIME",
         "url": "https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1411,9 +876,6 @@
         "name": "OUI FM TOP OF THE WEEK",
         "url": "https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1423,9 +885,6 @@
         "name": "OUI FM WOODSTOCK",
         "url": "https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/xD29y7pjPX/vignette.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1433,35 +892,17 @@
     },
     {
         "name": "OutOfParadise",
-        "url": "http://ecmanager4.pro-fhi.net:1470/stream",
+        "url": "https://ecmanager4.pro-fhi.net:1470/stream",
         "country": "FR",
-        "tags": [
-            "disco",
-            "electro",
-            "electronic",
-            "hardrock",
-            "metal",
-            "music",
-            "pop",
-            "radio",
-            "rock",
-            "soul",
-            "webradio"
-        ],
         "favicon": "https://ecmanager4.pro-fhi.net:3450/media/servers/IMG_1285.jpeg",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://ecmanager4.pro-fhi.net:1470/stream"
+        "working_url": "https://ecmanager4.pro-fhi.net:1470/stream"
     },
     {
         "name": "Pistache La Radio",
         "url": "https://rpstrm.pistache.org:9443/pistache.aac",
         "country": "FR",
-        "tags": [
-            "adult contemporary",
-            "pop",
-            "soft rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 320,
@@ -1471,15 +912,6 @@
         "name": "Platine 45 Radio",
         "url": "https://ecmanager.pro-fhi.net:1710/;",
         "country": "FR",
-        "tags": [
-            "2000s",
-            "80s",
-            "90s",
-            "pop",
-            "rock",
-            "the best of 80's",
-            "the best of 90's"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1487,35 +919,26 @@
     },
     {
         "name": "playlist radio",
-        "url": "http://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3",
+        "url": "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://i0.wp.com/www.playlist-webradio.net/wp-content/uploads/cropped-icone.jpg?fit=180%2c180&#038;ssl=1",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3"
+        "working_url": "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3"
     },
     {
         "name": "Poptastic",
-        "url": "http://s7.everestcast.com:8191/;",
+        "url": "https://s7.everestcast.com:8191/;",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://s7.everestcast.com:8191/;"
+        "working_url": "https://s7.everestcast.com:8191/;"
     },
     {
         "name": "Radio 666",
         "url": "https://stream2.radio666.net/remote192.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://radio666.com/wp-content/uploads/2023/11/cropped-cropped-Logotype-2-32x32.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1525,14 +948,6 @@
         "name": "Radio AC'S",
         "url": "https://listen.radioking.com/radio/33824/stream/199675",
         "country": "FR",
-        "tags": [
-            "french chansons",
-            "french rap",
-            "pop",
-            "rap",
-            "rock",
-            "world music"
-        ],
         "favicon": "https://radioacs.radio-website.com/upload/design/63ca6b9be24252.73424119.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -1542,15 +957,6 @@
         "name": "Radio Boom Boom",
         "url": "https://listen.radioboomboom.com/listen/rbb/radio.mp3",
         "country": "FR",
-        "tags": [
-            "classical",
-            "dub",
-            "jazz",
-            "pop",
-            "reggae",
-            "rock",
-            "techno"
-        ],
         "favicon": "https://i.ibb.co/9sVFjX6/boomboom400.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1560,9 +966,6 @@
         "name": "radio brume",
         "url": "https://www.radioking.com/play/brume-campus-lyon/546695",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1572,16 +975,6 @@
         "name": "Radio campus bordeaux",
         "url": "https://live.radio-campus.org:8002/campus-bordeaux",
         "country": "FR",
-        "tags": [
-            "blues",
-            "classique",
-            "folk",
-            "hip-hop",
-            "jazz",
-            "reggae",
-            "rock",
-            "électro"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1589,43 +982,26 @@
     },
     {
         "name": "Radio Campus Troyes",
-        "url": "http://stream.campus3.fr/live-128.mp3",
+        "url": "https://stream.campus3.fr/live-128.mp3",
         "country": "FR",
-        "tags": [
-            "88.7",
-            "alternative",
-            "artistes locaux",
-            "le son campus",
-            "radio campus",
-            "rock",
-            "troyes"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.campus3.fr/live-128.mp3"
+        "working_url": "https://stream.campus3.fr/live-128.mp3"
     },
     {
         "name": "Radio Caroline - La Radio de Bretagne",
-        "url": "http://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3",
+        "url": "https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3",
         "country": "FR",
-        "tags": [
-            "chansons françaises",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://www.radiocaroline.bzh/upload/favicon.ico",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3"
+        "working_url": "https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3"
     },
     {
         "name": "Radio collection",
         "url": "https://listen.radioking.com/radio/251653/stream/296545",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://www.radiocollection.fr/upload/favicon.ico",
         "codec": "MP3",
         "bitrate": 320,
@@ -1633,38 +1009,26 @@
     },
     {
         "name": "Radio Coteaux",
-        "url": "http://cdnradio.streamakaci.com/radiocoteaux.mp3",
+        "url": "https://cdnradio.streamakaci.com/radiocoteaux.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://cdnradio.streamakaci.com/radiocoteaux.mp3"
+        "working_url": "https://cdnradio.streamakaci.com/radiocoteaux.mp3"
     },
     {
         "name": "Radio Croco",
-        "url": "http://listen.radioking.com/radio/73198/stream/111151",
+        "url": "https://listen.radioking.com/radio/73198/stream/111151",
         "country": "FR",
-        "tags": [
-            "electro rock",
-            "lounge",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioking.com/radio/73198/stream/111151"
+        "working_url": "https://listen.radioking.com/radio/73198/stream/111151"
     },
     {
         "name": "Radio Déjà Vu",
         "url": "https://listen.radioking.com/radio/22274/stream/63592",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1674,24 +1038,6 @@
         "name": "Radio Dio",
         "url": "https://live.aurafm.org/RadioDio",
         "country": "FR",
-        "tags": [
-            "89.5 fm",
-            "alternative",
-            "feminist",
-            "ferarock",
-            "local music",
-            "local news",
-            "local radio",
-            "multicultural",
-            "music",
-            "punk",
-            "radio locale",
-            "rock",
-            "rumba",
-            "saint-etienne",
-            "sainté",
-            "stephanoise"
-        ],
         "favicon": "https://radiodio.org/wp-content/themes/point/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 160,
@@ -1699,31 +1045,17 @@
     },
     {
         "name": "Radio Flash (Montpellier)",
-        "url": "http://37.187.16.224:8000/radioflash.mp3",
+        "url": "https://37.187.16.224:8000/radioflash.mp3",
         "country": "FR",
-        "tags": [
-            "electro",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "https://radioflash.fr/wp-content/uploads/2020/02/cropped-favicon-radioflash-min-192x192.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://37.187.16.224:8000/radioflash.mp3"
+        "working_url": "https://37.187.16.224:8000/radioflash.mp3"
     },
     {
         "name": "Radio La Belle Aventure",
         "url": "https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3",
         "country": "FR",
-        "tags": [
-            "chanson française",
-            "eclectic",
-            "oldies",
-            "pop",
-            "radio libre",
-            "rock",
-            "sanspub"
-        ],
         "favicon": "https://www.radiolabelleaventure.com/wp-content/uploads/2025/05/cropped-logo-transparent-192x192.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1731,36 +1063,17 @@
     },
     {
         "name": "Radio Lux",
-        "url": "http://5.39.71.39:8004/stream",
+        "url": "https://5.39.71.39:8004/stream",
         "country": "FR",
-        "tags": [
-            "garage",
-            "punk",
-            "rock"
-        ],
         "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://5.39.71.39:8004/stream"
+        "working_url": "https://5.39.71.39:8004/stream"
     },
     {
         "name": "Radio Méga",
         "url": "https://stream.ferarock.org:8020/radio-mega",
         "country": "FR",
-        "tags": [
-            "chansons françaises",
-            "electronic",
-            "folk",
-            "jazz",
-            "local music",
-            "local news",
-            "local radio",
-            "pop",
-            "radio associative",
-            "rap",
-            "rock",
-            "various"
-        ],
         "favicon": "https://www.radio-mega.com/templates/signweb/images/favicon.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -1770,13 +1083,6 @@
         "name": "Radio Mirror Park",
         "url": "https://radiomirrorpark.duckdns.org/stream",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "chill",
-            "indie",
-            "indie pop",
-            "indie rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -1786,11 +1092,6 @@
         "name": "Radio Néo",
         "url": "https://ice.creacast.com/radio-neo-paris",
         "country": "FR",
-        "tags": [
-            "chanson française",
-            "electro",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1800,19 +1101,6 @@
         "name": "Radio Nova France",
         "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "dub",
-            "ecletic",
-            "electro",
-            "folk",
-            "hip-hop",
-            "reggae",
-            "rock",
-            "soul",
-            "trip-hop",
-            "world music"
-        ],
         "favicon": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/08/cropped-favicon-4-t-384x384.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1820,33 +1108,17 @@
     },
     {
         "name": "Radio Public Santé",
-        "url": "http://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3",
+        "url": "https://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3",
         "country": "FR",
-        "tags": [
-            "health",
-            "information",
-            "musique",
-            "news talk",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://www.publicsante.com/favicon.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3"
+        "working_url": "https://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3"
     },
     {
         "name": "Radio Top Side",
         "url": "https://listen.radioking.com/radio/33560/stream/275656",
         "country": "FR",
-        "tags": [
-            "local",
-            "local news",
-            "local radio",
-            "pop",
-            "pop music",
-            "pop rock"
-        ],
         "favicon": "https://www.radiotopside.com/upload/design/6446351012a075.09916797.jpeg",
         "codec": "MP3",
         "bitrate": 320,
@@ -1856,12 +1128,6 @@
         "name": "Radio Univers",
         "url": "https://stream4.vestaradio.com/RadioUnivers",
         "country": "FR",
-        "tags": [
-            "jazz",
-            "poetry",
-            "progressive rock",
-            "world music"
-        ],
         "favicon": "https://www.radio-univers.com/wp-includes/images/w-logo-blue-white-bg.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1871,16 +1137,6 @@
         "name": "Radio Zaï Zaï",
         "url": "https://listen.radioking.com/radio/204667/stream/247420",
         "country": "FR",
-        "tags": [
-            "alternative rock",
-            "chill",
-            "dub",
-            "electro",
-            "electronic",
-            "reggae",
-            "rock",
-            "various"
-        ],
         "favicon": "https://zaizai-radio.org/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1890,13 +1146,6 @@
         "name": "Radio Zig Zag - Pays de Romans",
         "url": "https://zig.syndicastream.fr:8443/stream",
         "country": "FR",
-        "tags": [
-            "local",
-            "local radio",
-            "pop",
-            "pop music",
-            "pop rock"
-        ],
         "favicon": "https://www.radiozigzag.com/upload/players/5e8c9be47883d0.52483364.jpg",
         "codec": "MP3",
         "bitrate": 192,
@@ -1904,36 +1153,17 @@
     },
     {
         "name": "Radio Zones 93,8 FM",
-        "url": "http://radiozones.dyndns.org:8000/radiozones",
+        "url": "https://radiozones.dyndns.org:8000/radiozones",
         "country": "FR",
-        "tags": [
-            "african",
-            "blues",
-            "classical",
-            "french music",
-            "hip-hop",
-            "italian music",
-            "jazz",
-            "latino",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://radiozones.dyndns.org:8000/radiozones"
+        "working_url": "https://radiozones.dyndns.org:8000/radiozones"
     },
     {
         "name": "Radionysos",
         "url": "https://listen.radioking.com/radio/254980/stream/299539",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "electronic",
-            "folk",
-            "rock",
-            "soul",
-            "various"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1943,13 +1173,6 @@
         "name": "RCV 99 fm",
         "url": "https://listen.radioking.com/radio/3086/stream/9476",
         "country": "FR",
-        "tags": [
-            "electro",
-            "jazz",
-            "punk",
-            "reggae",
-            "rock"
-        ],
         "favicon": "https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1959,16 +1182,6 @@
         "name": "RDWA Luc",
         "url": "https://live.aurafm.org/R-Dwa-LUC",
         "country": "FR",
-        "tags": [
-            "dub",
-            "eclectic",
-            "electronic",
-            "funk",
-            "jazz",
-            "reggae",
-            "rock",
-            "urban"
-        ],
         "favicon": "https://www.aurafm.org/wp-content/uploads/rdwa.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1978,12 +1191,6 @@
         "name": "RFM POP-ROCK",
         "url": "https://stream.rfm.fr/rfm-wr10.aac",
         "country": "FR",
-        "tags": [
-            "chansons françaises",
-            "pop",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png",
         "codec": "AAC+",
         "bitrate": 128,
@@ -1993,11 +1200,6 @@
         "name": "RIG",
         "url": "https://stream.rigfm.fr/listen/rigfm/rigfm-320",
         "country": "FR",
-        "tags": [
-            "local",
-            "news",
-            "rock"
-        ],
         "favicon": "https://www.rigfm.fr/cdn/images/logo-color.svg",
         "codec": "MP3",
         "bitrate": 320,
@@ -2007,9 +1209,6 @@
         "name": "RJR - Radio Jeunes Reims (AAC 128k)",
         "url": "https://stream.rjrradio.fr/rjr.aac",
         "country": "FR",
-        "tags": [
-            "pop/rock"
-        ],
         "favicon": "https://www.rjrradio.fr/sites/default/files/logo2016.png",
         "codec": "AAC",
         "bitrate": 192,
@@ -2019,9 +1218,6 @@
         "name": "RJR - Radio Jeunes Reims (MP3 128k)",
         "url": "https://stream.rjrradio.fr/rjr.mp3",
         "country": "FR",
-        "tags": [
-            "pop/rock"
-        ],
         "favicon": "https://www.rjrradio.fr/sites/default/files/logo2016.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2031,9 +1227,6 @@
         "name": "RJR - Radio Jeunes Reims (Opus 128k)",
         "url": "https://stream.rjrradio.fr/rjr.ogg",
         "country": "FR",
-        "tags": [
-            "pop/rock"
-        ],
         "favicon": "https://www.rjrradio.fr/sites/default/files/logo2016.png",
         "codec": "OGG",
         "bitrate": 0,
@@ -2043,13 +1236,6 @@
         "name": "Rock & Folk (rock n folk)",
         "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
         "country": "FR",
-        "tags": [
-            "blues",
-            "classic rock",
-            "metal",
-            "punk",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2059,9 +1245,6 @@
         "name": "Rock Attack",
         "url": "https://listen.radioking.com/radio/176026/stream/218008",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2071,9 +1254,6 @@
         "name": "Rock&Folk Radio",
         "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2083,9 +1263,6 @@
         "name": "Rockenfolie",
         "url": "https://player.rockenfolie.com/",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://rockenfolie.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 256,
@@ -2095,13 +1272,6 @@
         "name": "RSTLSS",
         "url": "https://stream.radiosolution.fr/rstlss.mp3",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "heavy metal",
-            "metal",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://rstlss.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -2111,12 +1281,6 @@
         "name": "RTL La Collection Georges Lang",
         "url": "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl-georges-lang/130/audio-64000/index.m3u8",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "country",
-            "rock",
-            "rock n roll"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
@@ -2124,54 +1288,35 @@
     },
     {
         "name": "Sing Sing bis",
-        "url": "http://stream.sing-sing-bis.org:8000/singsing128",
+        "url": "https://stream.sing-sing-bis.org:8000/singsing128",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.sing-sing-bis.org:8000/singsing128"
+        "working_url": "https://stream.sing-sing-bis.org:8000/singsing128"
     },
     {
         "name": "Size Radio",
-        "url": "http://n11.radiojar.com/atr1e8aswa5tv",
+        "url": "https://n11.radiojar.com/atr1e8aswa5tv",
         "country": "FR",
-        "tags": [
-            "funk",
-            "hiphop",
-            "pop",
-            "rock",
-            "soul"
-        ],
         "favicon": "http://www.size-radio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n07.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABn-ylKToAlD0hKv5kB1t4_w"
+        "working_url": "https://n07.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABn-ylKToAlD0hKv5kB1t4_w"
     },
     {
         "name": "SOL FM",
-        "url": "http://stric6.streamakaci.com/solfm64.mp3",
+        "url": "https://stric6.streamakaci.com/solfm64.mp3",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stric6.streamakaci.com/solfm64.mp3"
+        "working_url": "https://stric6.streamakaci.com/solfm64.mp3"
     },
     {
         "name": "Steweo",
         "url": "https://listen.radioking.com/radio/26746/stream/59470",
         "country": "FR",
-        "tags": [
-            "alternative / indie",
-            "alternative rock",
-            "indie rock"
-        ],
         "favicon": "https://www.radioking.com/api/track/cover/4f2e1062-a259-4fab-b7a5-088a410ee714",
         "codec": "MP3",
         "bitrate": 128,
@@ -2181,12 +1326,6 @@
         "name": "SUN Rock",
         "url": "https://diffusion.lafrap.fr/sun-rock.mp3",
         "country": "FR",
-        "tags": [
-            "alternative rock",
-            "classic rock",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://www.lesonunique.com/datasun/images_flux/logos/SD/rock.png",
         "codec": "MP3",
         "bitrate": 160,
@@ -2194,30 +1333,17 @@
     },
     {
         "name": "Sunyfun radio",
-        "url": "http://serveur2.wanastream.com:25000/stream?fbclid=IwY2xjawJWfg1leHRuA2FlbQIxMQABHWEZvrZJFc1lgz4SjVi4poZjq89TsGf7uJFRptsil3KsX1QaigFkZZSgDw_aem_tI4D7Q3E5WUK9VJ4ja5R7w",
+        "url": "https://serveur2.wanastream.com:25000/stream?fbclid=IwY2xjawJWfg1leHRuA2FlbQIxMQABHWEZvrZJFc1lgz4SjVi4poZjq89TsGf7uJFRptsil3KsX1QaigFkZZSgDw_aem_tI4D7Q3E5WUK9VJ4ja5R7w",
         "country": "FR",
-        "tags": [
-            "80s",
-            "90s",
-            "news talents",
-            "rock",
-            "techno",
-            "électro"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://serveur2.wanastream.com:25000/stream?fbclid=IwY2xjawJWfg1leHRuA2FlbQIxMQABHWEZvrZJFc1lgz4SjVi4poZjq89TsGf7uJFRptsil3KsX1QaigFkZZSgDw_aem_tI4D7Q3E5WUK9VJ4ja5R7w"
+        "working_url": "https://serveur2.wanastream.com:25000/stream?fbclid=IwY2xjawJWfg1leHRuA2FlbQIxMQABHWEZvrZJFc1lgz4SjVi4poZjq89TsGf7uJFRptsil3KsX1QaigFkZZSgDw_aem_tI4D7Q3E5WUK9VJ4ja5R7w"
     },
     {
         "name": "TST Radio",
         "url": "https://listen.radioking.com/radio/113992/stream/153202",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/8/74428.v2.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2227,9 +1353,6 @@
         "name": "Veronica 60's & 70's",
         "url": "https://eu1.fastcast4u.com/proxy/veronica?mp=/1",
         "country": "FR",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "http://veronica.atspace.eu/images/Slide%20Show/veronica_slide.jpg",
         "codec": "MP3",
         "bitrate": 96,
@@ -2239,9 +1362,6 @@
         "name": "VertigeRadio-Rock",
         "url": "https://stream10.vestaradio.com/VertigeRadio-Rock",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://studio10.vestaradio.com/uploads/user-music/1/covers/cover_1_1783476616_a76fea.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -2251,11 +1371,6 @@
         "name": "Vinylestimes",
         "url": "https://listen.radioking.com/radio/7551/stream/385141",
         "country": "FR",
-        "tags": [
-            "classic rock",
-            "hard rock",
-            "metal"
-        ],
         "favicon": "https://image.radioking.io/radios/7551/logo/bcebad80-83fa-445a-8b1d-730512cd4e73.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -2263,72 +1378,44 @@
     },
     {
         "name": "Virage Radio Nationale",
-        "url": "http://virageradio.ice.infomaniak.ch/virageradio-natio.mp3",
+        "url": "https://virageradio.ice.infomaniak.ch/virageradio-natio.mp3",
         "country": "FR",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://www.virageradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://virageradio.ice.infomaniak.ch/virageradio-natio.mp3"
+        "working_url": "https://virageradio.ice.infomaniak.ch/virageradio-natio.mp3"
     },
     {
         "name": "Virage Radio Rock 2000",
-        "url": "http://virage-rock-2000.ice.infomaniak.ch/virage-rock-2000.mp3",
+        "url": "https://virage-rock-2000.ice.infomaniak.ch/virage-rock-2000.mp3",
         "country": "FR",
-        "tags": [
-            "2000s",
-            "rock"
-        ],
         "favicon": "https://www.virageradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://virage-rock-2000.ice.infomaniak.ch/virage-rock-2000.mp3"
+        "working_url": "https://virage-rock-2000.ice.infomaniak.ch/virage-rock-2000.mp3"
     },
     {
         "name": "Virage Radio Rock 80",
-        "url": "http://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3",
+        "url": "https://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3",
         "country": "FR",
-        "tags": [
-            "80s rock",
-            "rock"
-        ],
         "favicon": "https://www.virageradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3"
+        "working_url": "https://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3"
     },
     {
         "name": "Virage Radio Rock 90",
-        "url": "http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3",
+        "url": "https://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3",
         "country": "FR",
-        "tags": [
-            "90s",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3"
+        "working_url": "https://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3"
     },
     {
         "name": "VorteX | Radio",
         "url": "https://az11.yesstreaming.net:8530/radio.mp3",
         "country": "FR",
-        "tags": [
-            "alternative",
-            "alternative / indie",
-            "alternative pop",
-            "alternative rock",
-            "ambient",
-            "electronica",
-            "electropop",
-            "indie",
-            "indie pop",
-            "indie rock",
-            "new wave"
-        ],
         "favicon": "https://lesonduvortex.net/wp-content/uploads/2017/01/ChatGPT_Image_31_dec._2025__09_36_29-removebg-preview.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -2338,22 +1425,6 @@
         "name": "WAVE RADIO 89.8 Hossegor",
         "url": "https://s34.myradiostream.com/12340/listen.mp3",
         "country": "FR",
-        "tags": [
-            "alternative / indie",
-            "downtempo",
-            "electro",
-            "electronic",
-            "funk",
-            "fuzz",
-            "hip hop",
-            "punk",
-            "ragga",
-            "rock",
-            "surf",
-            "surf music",
-            "surfside beach",
-            "talk"
-        ],
         "favicon": "https://waveradio.fm/wp-content/themes/waveradio/img/favicons/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 160,

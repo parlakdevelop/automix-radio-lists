@@ -1,33 +1,17 @@
 [
     {
         "name": "Allzic Radio Black",
-        "url": "http://allzic04.ice.infomaniak.ch/allzic04.mp3",
+        "url": "https://allzic04.ice.infomaniak.ch/allzic04.mp3",
         "country": "FR",
-        "tags": [
-            "black",
-            "hiphop",
-            "oldschool",
-            "rap"
-        ],
         "favicon": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://allzic04.ice.infomaniak.ch/allzic04.mp3"
+        "working_url": "https://allzic04.ice.infomaniak.ch/allzic04.mp3"
     },
     {
         "name": "Alternative Radio",
         "url": "https://www.radioking.com/play/alternative-radio-1",
         "country": "FR",
-        "tags": [
-            "electro",
-            "folk",
-            "funk",
-            "hiphop",
-            "jazz",
-            "rock",
-            "soul",
-            "world music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -35,58 +19,26 @@
     },
     {
         "name": "C Lab",
-        "url": "http://stream.c-lab.fr:8001/c-lab",
+        "url": "https://stream.c-lab.fr:8001/c-lab",
         "country": "FR",
-        "tags": [
-            "electro",
-            "funk",
-            "hiphop",
-            "jazz",
-            "pop",
-            "rap",
-            "reggae",
-            "soul",
-            "world music"
-        ],
         "favicon": "https://www.c-lab.fr/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://stream.c-lab.fr:8001/c-lab"
+        "working_url": "https://stream.c-lab.fr:8001/c-lab"
     },
     {
         "name": "COMALA Radio",
-        "url": "http://www.radioking.com/play/supag",
+        "url": "https://www.radioking.com/play/supag",
         "country": "FR",
-        "tags": [
-            "afro",
-            "brasil",
-            "disco",
-            "funk",
-            "global",
-            "groove",
-            "hiphop",
-            "house",
-            "jazz",
-            "oriental",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioking.com/radio/38120/stream/74513"
+        "working_url": "https://listen.radioking.com/radio/38120/stream/74513"
     },
     {
         "name": "Fly Foot Selecta",
         "url": "https://manager5.streamradio.fr:1185/stream",
         "country": "FR",
-        "tags": [
-            "black",
-            "dub",
-            "hiphop",
-            "jungle",
-            "ragga",
-            "reggae"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -94,27 +46,17 @@
     },
     {
         "name": "Generations",
-        "url": "http://generationfm.ice.infomaniak.ch/generationfm-high.aac",
+        "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.aac",
         "country": "FR",
-        "tags": [
-            "hiphop",
-            "soul"
-        ],
         "favicon": "https://generations.fr/apple-touch-icon-120x120.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://generationfm.ice.infomaniak.ch/generationfm-high.aac"
+        "working_url": "https://generationfm.ice.infomaniak.ch/generationfm-high.aac"
     },
     {
         "name": "Générations 90",
         "url": "https://generations-90.ice.infomaniak.ch/generations-90.aac",
         "country": "FR",
-        "tags": [
-            "90's",
-            "france",
-            "hiphop",
-            "rap"
-        ],
         "favicon": "https://generations.fr/media/radio/generations-90s-logo-smartphone.webp",
         "codec": "AAC+",
         "bitrate": 64,
@@ -122,32 +64,17 @@
     },
     {
         "name": "Générations Lyon",
-        "url": "http://radiosun.ice.infomaniak.ch/radiosun-high.mp3",
+        "url": "https://radiosun.ice.infomaniak.ch/radiosun-high.mp3",
         "country": "FR",
-        "tags": [
-            "french",
-            "french music",
-            "hiphop",
-            "rap",
-            "rap fr",
-            "rap us",
-            "rnb",
-            "soul"
-        ],
         "favicon": "https://generations.fr/apple-touch-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiosun.ice.infomaniak.ch/radiosun-high.mp3"
+        "working_url": "https://radiosun.ice.infomaniak.ch/radiosun-high.mp3"
     },
     {
         "name": "Hotmix Rap US",
         "url": "https://streaming.hotmixradio.com/hotmix-hiphop-us-en-mp3?provider=radiobrowser",
         "country": "FR",
-        "tags": [
-            "rap",
-            "rap hiphop rnb",
-            "rap us"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -157,11 +84,6 @@
         "name": "Pinata",
         "url": "https://listen.radioking.com/radio/96031/stream/134656",
         "country": "FR",
-        "tags": [
-            "electronica",
-            "hiphop",
-            "jazz"
-        ],
         "favicon": "https://i1.sndcdn.com/avatars-WNhpWtZWyficOMFg-CT1Hyw-t200x200.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -171,13 +93,6 @@
         "name": "Radio RBS",
         "url": "https://www.radioking.com/play/radio-rbs-1",
         "country": "FR",
-        "tags": [
-            "electro",
-            "funk",
-            "hiphop",
-            "house",
-            "world music"
-        ],
         "favicon": "https://www.radiorbs.com/app/themes/rbs/build/images/favicon/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -185,28 +100,17 @@
     },
     {
         "name": "Size Radio",
-        "url": "http://n11.radiojar.com/atr1e8aswa5tv",
+        "url": "https://n11.radiojar.com/atr1e8aswa5tv",
         "country": "FR",
-        "tags": [
-            "funk",
-            "hiphop",
-            "pop",
-            "rock",
-            "soul"
-        ],
         "favicon": "http://www.size-radio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n09.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABn-ykTu8AO_NGcv6xWz8bRg"
+        "working_url": "https://n09.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABn-ykTu8AO_NGcv6xWz8bRg"
     },
     {
         "name": "🕺 Générations RNB Gold",
         "url": "https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac",
         "country": "FR",
-        "tags": [
-            "rap hiphop rnb",
-            "rnb"
-        ],
         "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisO5t14VXrwoJGhJNwKv7yTJFODlagq6q5wcl_a49WiMtiYf1Wk2B648liuElB_H-G6MG1nvjCIeI7fuiC5Pa2_8Ps14AMHAOWAsi6Wine2B3PDGe7NWijzJanue0AboSEpe_SWmAjvIvLqokAyoa3LNwxIl2uPmkBqx2iJKP_jy0DEihoJ9rHBTQbBA/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-14_19-24-08.png",
         "codec": "AAC+",
         "bitrate": 64,
