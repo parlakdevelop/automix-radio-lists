@@ -1,616 +1,353 @@
 [
-  {
-    "name": ".977 Jamz",
-    "url": "http://15113.live.streamtheworld.com/977_JAMZ_SC",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb",
-      "soul"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://15113.live.streamtheworld.com/977_JAMZ_SC"
-  },
-  {
-    "name": "181.FM - Old School HipHop/RnB",
-    "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "oldschool",
-      "rnb",
-      "waynesboro"
-    ],
-    "favicon": "http://www.181.fm/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://listen.181fm.com/181-oldschool_128k.mp3"
-  },
-  {
-    "name": "181.FM - The Beat (HipHop/R&B)",
-    "url": "http://listen.181fm.com/181-beat_128k.mp3",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb",
-      "urban",
-      "waynesboro"
-    ],
-    "favicon": "http://www.181.fm/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://listen.181fm.com/181-beat_128k.mp3"
-  },
-  {
-    "name": "181.fm The Beat",
-    "url": "http://listen.livestreamingservice.com/181-beat_64k.aac",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb"
-    ],
-    "favicon": "http://www.181.fm/favicon.ico",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "working_url": "http://listen.livestreamingservice.com/181-beat_64k.aac"
-  },
-  {
-    "name": "2000 FM - RnB & Hip-Hop",
-    "url": "http://bigrradio.cdnstream1.com/5105_128",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://bigrradio.cdnstream1.com/5105_128"
-  },
-  {
-    "name": "88.5 WHHC HD1",
-    "url": "https://stream.zeno.fm/6bmg275cmf9uv",
-    "country": "US",
-    "tags": [
-      "00s",
-      "10s",
-      "2000s",
-      "2010s",
-      "2020s",
-      "70s",
-      "80s",
-      "90s",
-      "hiphop",
-      "hits",
-      "pop",
-      "r&b",
-      "rap"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "working_url": "https://stream-176.surfernetwork.com/6bmg275cmf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Ym1nMjc1Y21mOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZ1TU1jNkJvU0dLUHdSWUFvc2dDZkEiLCJpYXQiOjE3ODYzODY3NjcsImV4cCI6MTc4NjM4NjgyN30.-s__3IA7JgRPlejf4sWwDFVH-V_D73iycr0ROO3jfUY"
-  },
-  {
-    "name": "AshTunes EDM Club",
-    "url": "https://stream.zeno.fm/3rjpbrwutohvv",
-    "country": "US",
-    "tags": [
-      "club",
-      "edm",
-      "hiphop"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "working_url": "https://stream-176.surfernetwork.com/3rjpbrwutohvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzcmpwYnJ3dXRvaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imp4bXVKZzl5U2YyZFNXRUUyRTZBSGciLCJpYXQiOjE3ODYzODY3NjYsImV4cCI6MTc4NjM4NjgyNn0.-A8HlV5fqDu3-b86_g0qjhi7pNB2_9g_VZ_wKLu9cFk"
-  },
-  {
-    "name": "Atl Paper Chasers Radio",
-    "url": "https://servidor27.brlogic.com:7004/live",
-    "country": "US",
-    "tags": [
-      "edm",
-      "gospel",
-      "jazz",
-      "rap",
-      "rap hiphop rnb",
-      "rave",
-      "reggae",
-      "rnb",
-      "top 40"
-    ],
-    "favicon": "https://www.atlpaperchasers.com",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://servidor27.brlogic.com:7004/live"
-  },
-  {
-    "name": "Best Music Radio",
-    "url": "https://stream.zeno.fm/n7e2mdt7sm0uv",
-    "country": "US",
-    "tags": [
-      "pop",
-      "pop music",
-      "rap hiphop rnb"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "working_url": "https://stream-177.surfernetwork.com/n7e2mdt7sm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuN2UybWR0N3NtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IklqNkFLSmJ1UmlTeGtoNFFzQ0lmWmciLCJpYXQiOjE3ODYzODY3NjYsImV4cCI6MTc4NjM4NjgyNn0.AgvU_YKG343GFiebqPH_jymebSU88VBRteEGQid_l84"
-  },
-  {
-    "name": "DSE Radio",
-    "url": "https://streaming.live365.com/a76080",
-    "country": "US",
-    "tags": [
-      "contemporary rnb",
-      "hip-hop",
-      "rap hiphop rnb",
-      "trap",
-      "urban"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a76080"
-  },
-  {
-    "name": "Excitement Radio",
-    "url": "https://das-edge13-live365-dal02.cdnstream.com/a78236?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1786122414",
-    "country": "US",
-    "tags": [
-      "rap hiphop rnb"
-    ],
-    "favicon": "https://excitementradio.com/wp-content/uploads/2013/11/excitement-radio-logo-website1-e1432581413884.png",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a78236?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1786122414"
-  },
-  {
-    "name": "Extreme Exposure Radio",
-    "url": "https://stream.zeno.fm/1tv2wfr01zquv",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "new age",
-      "news",
-      "pop",
-      "r&b",
-      "reggae",
-      "reggaeton",
-      "rock"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "working_url": "https://stream-289.surfernetwork.com/1tv2wfr01zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdHYyd2ZyMDF6cXV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhGLVFSYUc0VHVtNU8xRHhGLTlrMEEiLCJpYXQiOjE3ODYzODY3NjcsImV4cCI6MTc4NjM4NjgyN30.g58AmSPb3VhLlrzWVUTo3LTle7E2koCJEtZVKyI22mI"
-  },
-  {
-    "name": "Funk the Planet",
-    "url": "https://streaming.live365.com/a01484",
-    "country": "US",
-    "tags": [
-      "classic hip hop",
-      "contemporary r&b",
-      "disco funk",
-      "funk",
-      "future funk",
-      "hip hop",
-      "hip-hop",
-      "hip-hop and rap oldies",
-      "hiphop",
-      "hiphop r&b",
-      "jazz funk",
-      "neo soul",
-      "new jack swing",
-      "p-funk",
-      "r&b",
-      "r&b soul",
-      "r&b/urban",
-      "retro r&b",
-      "soul",
-      "soul music"
-    ],
-    "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_60653111.png",
-    "codec": "MP3",
-    "bitrate": 192,
-    "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a01484"
-  },
-  {
-    "name": "Gangstaville Radio",
-    "url": "http://stream.radio.co/s1cffd7347/listen",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "indie",
-      "miami",
-      "rnb",
-      "soul"
-    ],
-    "favicon": "http://cdn-profiles.tunein.com/s135290/images/logoq.png",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://stream.radio.co/s1cffd7347/listen"
-  },
-  {
-    "name": "Hot 108 JAMZ",
-    "url": "http://sc.hot108.com:4000/",
-    "country": "US",
-    "tags": [
-      "rap hiphop rnb"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://sc.hot108.com:4000/"
-  },
-  {
-    "name": "KKND \"Power 102.9\" Belle Chasse, LA",
-    "url": "http://14613.live.streamtheworld.com/KKNDFMAAC_SC",
-    "country": "US",
-    "tags": [
-      "belle chasse",
-      "hiphop",
-      "new orleans",
-      "rnb"
-    ],
-    "favicon": "",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "working_url": "http://14613.live.streamtheworld.com/KKNDFMAAC_SC"
-  },
-  {
-    "name": "Klassic Joints Radio",
-    "url": "http://hemnos.cdnstream.com/1674_128",
-    "country": "US",
-    "tags": [
-      "hiphop"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://hemnos.cdnstream.com/1674_128"
-  },
-  {
-    "name": "KUVO HD2: The DROP",
-    "url": "http://kuvo-ice.streamguys.org/kuvohd2-aac-128",
-    "country": "US",
-    "tags": [
-      "hip-hop",
-      "hiphop",
-      "independent artists",
-      "new vibe",
-      "old school hip-hop",
-      "r&b",
-      "urban alternative",
-      "urban contemporary"
-    ],
-    "favicon": "https://www.thedrop303.org/wp-content/uploads/2021/09/TheDROP-Vertical-Website-1.png",
-    "codec": "AAC",
-    "bitrate": 130,
-    "working_url": "http://kuvo-ice.streamguys.org/kuvohd2-aac-128"
-  },
-  {
-    "name": "LITT 1580",
-    "url": "https://das-sa39.cdnstream1.com/5556_128",
-    "country": "US",
-    "tags": [
-      "hiphop"
-    ],
-    "favicon": "https://littlive.com/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://das-sa39.cdnstream1.com/5556_128"
-  },
-  {
-    "name": "LITT Native Rhymes",
-    "url": "https://das-sa39.cdnstream1.com/5584_128",
-    "country": "US",
-    "tags": [
-      "hiphop"
-    ],
-    "favicon": "https://littlive.com/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://das-sa39.cdnstream1.com/5584_128"
-  },
-  {
-    "name": "NGEN Radio",
-    "url": "https://ais-sa8.cdnstream1.com/3334_64.aac",
-    "country": "US",
-    "tags": [
-      "christian",
-      "christian hip hop",
-      "christian rap",
-      "hiphop",
-      "rap"
-    ],
-    "favicon": "",
-    "codec": "AAC",
-    "bitrate": 64,
-    "working_url": "https://ais-sa8.cdnstream1.com/3334_64.aac"
-  },
-  {
-    "name": "Party 101.9 Radio",
-    "url": "http://c2409ic1.fast-serv.com/stream",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rap",
-      "top40"
-    ],
-    "favicon": "https://party1019.com/wp-content/uploads/2019/09/cropped-icon-180x180.png",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "working_url": "http://c2409ic1.fast-serv.com/stream"
-  },
-  {
-    "name": "PhoenixFireFM",
-    "url": "http://listen.jjhof.com:6969/stream",
-    "country": "US",
-    "tags": [
-      "comedy",
-      "country",
-      "hiphop",
-      "oldies",
-      "pop",
-      "r and b",
-      "rap",
-      "rock",
-      "various"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 192,
-    "working_url": "http://listen.jjhof.com:6969/stream"
-  },
-  {
-    "name": "Planet HipHop (MRG.fm)",
-    "url": "http://listen.mrg.fm:8100/stream",
-    "country": "US",
-    "tags": [
-      "hip hop",
-      "hip-hop",
-      "hip-hop and rap oldies",
-      "hiphop",
-      "old school",
-      "rap",
-      "rap hiphop rnb"
-    ],
-    "favicon": "https://mrg.fm/img/planethiphop125.jpg",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://listen.mrg.fm:8100/stream"
-  },
-  {
-    "name": "Purple Current",
-    "url": "https://purplecurrent.stream.publicradio.org/purplecurrent.mp3",
-    "country": "US",
-    "tags": [
-      "funk",
-      "hiphop",
-      "prince",
-      "public radio",
-      "r&b",
-      "rock",
-      "soul"
-    ],
-    "favicon": "https://www.thecurrent.org/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://purplecurrent.stream.publicradio.org/purplecurrent.mp3"
-  },
-  {
-    "name": "Rhythm98 WTHM-DB",
-    "url": "https://cast6.my-control-panel.com/proxy/rhythm98/stream",
-    "country": "US",
-    "tags": [
-      "80's",
-      "bass",
-      "freestyle",
-      "hiphop"
-    ],
-    "favicon": "https://rhythm98.miami/wp-content/uploads/2025/02/Rhythm-98-trans.png",
-    "codec": "AAC+",
-    "bitrate": 256,
-    "working_url": "https://cast6.my-control-panel.com/proxy/rhythm98/stream"
-  },
-  {
-    "name": "Sensimedia Hip-Hop Radio",
-    "url": "https://sensihiphop.radioca.st/;",
-    "country": "US",
-    "tags": [
-      "hip-hop",
-      "hiphop",
-      "rap"
-    ],
-    "favicon": "https://sensimedia.net/images/logo/favicon.png",
-    "codec": "MP3",
-    "bitrate": 192,
-    "working_url": "https://sensihiphop.radioca.st/;"
-  },
-  {
-    "name": "Skate.fm",
-    "url": "https://listen.skate.fm:8443/live",
-    "country": "US",
-    "tags": [
-      "disco",
-      "funk",
-      "hiphop",
-      "rap",
-      "skate"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://listen.skate.fm:8443/live"
-  },
-  {
-    "name": "SomaFM Fluid (128k MP3)",
-    "url": "https://ice4.somafm.com/fluid-128-mp3",
-    "country": "US",
-    "tags": [
-      "chilled trap",
-      "future soul",
-      "hiphop",
-      "woozy electronica"
-    ],
-    "favicon": "https://somafm.com/img3/fluid-400.jpg",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://ice4.somafm.com/fluid-128-mp3"
-  },
-  {
-    "name": "SPINS106.3",
-    "url": "https://streaming.live365.com/a27054",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "r&b",
-      "southern soul"
-    ],
-    "favicon": "https://ibb.co/bjqQwHyd",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "https://das-edge12-live365-dal02.cdnstream.com/a27054"
-  },
-  {
-    "name": "Super Throwback Party Radio",
-    "url": "http://hestia.cdnstream.com/1543_128?cb=618512.mp3",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "party",
-      "rnb"
-    ],
-    "favicon": "http://www.superthrowbackparty.net/favicon.ico",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://hestia.cdnstream.com/1543_128?cb=618512.mp3"
-  },
-  {
-    "name": "Thegooshradio R&B",
-    "url": "http://eu2.fastcast4u.com:3610/stream/1/",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb",
-      "trap",
-      "urban"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "working_url": "http://eu2.fastcast4u.com:3610/stream/1/"
-  },
-  {
-    "name": "Uptown Philly 100 Radio",
-    "url": "https://stream.radio.co/sc5a080f37/listen",
-    "country": "US",
-    "tags": [
-      "american comedy",
-      "rap hiphop rnb",
-      "soulful house"
-    ],
-    "favicon": "",
-    "codec": "AAC",
-    "bitrate": 192,
-    "working_url": "https://stream.radio.co/sc5a080f37/listen"
-  },
-  {
-    "name": "W.D.O.P.E. Dopetrackz Radio",
-    "url": "https://fr1-play.adtonos.com/8102/dopetrackz-radio-3",
-    "country": "US",
-    "tags": [
-      "beats",
-      "dopetrackz",
-      "hiphop",
-      "instrumental",
-      "rap",
-      "rap hiphop rnb",
-      "rnb",
-      "urban"
-    ],
-    "favicon": "https://dopetrackz.com/wp-content/uploads/2023/12/wdope_2k24_ProfilePic_A_opacity.png",
-    "codec": "MP3",
-    "bitrate": 0,
-    "working_url": "https://listen.adtonos.com/dopetrackz-radio-3"
-  },
-  {
-    "name": "WEAA 88.9 Morgan State University - Baltimore, MD",
-    "url": "http://amber.streamguys.com:4020/live",
-    "country": "US",
-    "tags": [
-      "baltimore",
-      "hiphop",
-      "jazz",
-      "npr",
-      "public radio",
-      "university radio"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 50,
-    "working_url": "http://amber.streamguys.com:4020/live"
-  },
-  {
-    "name": "WKNH Keene",
-    "url": "https://streams.radio.co/sa460c8a9d/listen",
-    "country": "US",
-    "tags": [
-      "alternative rock",
-      "bluegrass",
-      "college radio",
-      "hiphop",
-      "rhythm and blues"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 192,
-    "working_url": "https://streams.radio.co/sa460c8a9d/listen"
-  },
-  {
-    "name": "WSRB 106.3 FM Chicago's R&B - Lansing, IL",
-    "url": "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx",
-    "country": "US",
-    "tags": [
-      "rap hiphop rnb",
-      "soul",
-      "urban adult contemporary"
-    ],
-    "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1370/2020/03/19092432/wsrb-logo.png",
-    "codec": "AAC",
-    "bitrate": 64,
-    "working_url": "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx"
-  },
-  {
-    "name": "WWWQ-HD3 \"OG 979\" Atlanta, GA",
-    "url": "http://18153.live.streamtheworld.com/WWWQH3_SC",
-    "country": "US",
-    "tags": [
-      "atlanta",
-      "hiphop"
-    ],
-    "favicon": "",
-    "codec": "MP3",
-    "bitrate": 80,
-    "working_url": "http://18153.live.streamtheworld.com/WWWQH3_SC"
-  },
-  {
-    "name": "WZFX 99.1 \"Foxy 99\" Whiteville, NC",
-    "url": "http://19473.live.streamtheworld.com:3690/WZFXFMAAC_SC",
-    "country": "US",
-    "tags": [
-      "hiphop",
-      "rnb",
-      "whiteville"
-    ],
-    "favicon": "",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "working_url": "http://19473.live.streamtheworld.com:3690/WZFXFMAAC_SC"
-  }
+    {
+        "name": ".977 Jamz",
+        "url": "https://15113.live.streamtheworld.com/977_JAMZ_SC",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://15113.live.streamtheworld.com/977_JAMZ_SC"
+    },
+    {
+        "name": "181.FM - Old School HipHop/RnB",
+        "url": "https://listen.181fm.com/181-oldschool_128k.mp3",
+        "country": "US",
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.181fm.com/181-oldschool_128k.mp3"
+    },
+    {
+        "name": "181.FM - The Beat (HipHop/R&B)",
+        "url": "https://listen.181fm.com/181-beat_128k.mp3",
+        "country": "US",
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.181fm.com/181-beat_128k.mp3"
+    },
+    {
+        "name": "181.fm The Beat",
+        "url": "https://listen.livestreamingservice.com/181-beat_64k.aac",
+        "country": "US",
+        "favicon": "http://www.181.fm/favicon.ico",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://listen.livestreamingservice.com/181-beat_64k.aac"
+    },
+    {
+        "name": "2000 FM - RnB & Hip-Hop",
+        "url": "https://bigrradio.cdnstream1.com/5105_128",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://bigrradio.cdnstream1.com/5105_128"
+    },
+    {
+        "name": "88.5 WHHC HD1",
+        "url": "https://stream.zeno.fm/6bmg275cmf9uv",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-176.surfernetwork.com/6bmg275cmf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Ym1nMjc1Y21mOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZ1TU1jNkJvU0dLUHdSWUFvc2dDZkEiLCJpYXQiOjE3ODYzODY3NjcsImV4cCI6MTc4NjM4NjgyN30.-s__3IA7JgRPlejf4sWwDFVH-V_D73iycr0ROO3jfUY"
+    },
+    {
+        "name": "AshTunes EDM Club",
+        "url": "https://stream.zeno.fm/3rjpbrwutohvv",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-176.surfernetwork.com/3rjpbrwutohvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzcmpwYnJ3dXRvaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imp4bXVKZzl5U2YyZFNXRUUyRTZBSGciLCJpYXQiOjE3ODYzODY3NjYsImV4cCI6MTc4NjM4NjgyNn0.-A8HlV5fqDu3-b86_g0qjhi7pNB2_9g_VZ_wKLu9cFk"
+    },
+    {
+        "name": "Atl Paper Chasers Radio",
+        "url": "https://servidor27.brlogic.com:7004/live",
+        "country": "US",
+        "favicon": "https://www.atlpaperchasers.com",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://servidor27.brlogic.com:7004/live"
+    },
+    {
+        "name": "Best Music Radio",
+        "url": "https://stream.zeno.fm/n7e2mdt7sm0uv",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-177.surfernetwork.com/n7e2mdt7sm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuN2UybWR0N3NtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IklqNkFLSmJ1UmlTeGtoNFFzQ0lmWmciLCJpYXQiOjE3ODYzODY3NjYsImV4cCI6MTc4NjM4NjgyNn0.AgvU_YKG343GFiebqPH_jymebSU88VBRteEGQid_l84"
+    },
+    {
+        "name": "DSE Radio",
+        "url": "https://streaming.live365.com/a76080",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge15-live365-dal02.cdnstream.com/a76080"
+    },
+    {
+        "name": "Excitement Radio",
+        "url": "https://das-edge13-live365-dal02.cdnstream.com/a78236?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1786122414",
+        "country": "US",
+        "favicon": "https://excitementradio.com/wp-content/uploads/2013/11/excitement-radio-logo-website1-e1432581413884.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge13-live365-dal02.cdnstream.com/a78236?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1786122414"
+    },
+    {
+        "name": "Extreme Exposure Radio",
+        "url": "https://stream.zeno.fm/1tv2wfr01zquv",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://stream-289.surfernetwork.com/1tv2wfr01zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdHYyd2ZyMDF6cXV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhGLVFSYUc0VHVtNU8xRHhGLTlrMEEiLCJpYXQiOjE3ODYzODY3NjcsImV4cCI6MTc4NjM4NjgyN30.g58AmSPb3VhLlrzWVUTo3LTle7E2koCJEtZVKyI22mI"
+    },
+    {
+        "name": "Funk the Planet",
+        "url": "https://streaming.live365.com/a01484",
+        "country": "US",
+        "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_60653111.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://das-edge63-live365-dal03.cdnstream.com/a01484"
+    },
+    {
+        "name": "Gangstaville Radio",
+        "url": "https://stream.radio.co/s1cffd7347/listen",
+        "country": "US",
+        "favicon": "http://cdn-profiles.tunein.com/s135290/images/logoq.png",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://stream.radio.co/s1cffd7347/listen"
+    },
+    {
+        "name": "Hot 108 JAMZ",
+        "url": "https://sc.hot108.com:4000/",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://sc.hot108.com:4000/"
+    },
+    {
+        "name": "KKND \"Power 102.9\" Belle Chasse, LA",
+        "url": "https://14613.live.streamtheworld.com/KKNDFMAAC_SC",
+        "country": "US",
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://14613.live.streamtheworld.com/KKNDFMAAC_SC"
+    },
+    {
+        "name": "Klassic Joints Radio",
+        "url": "https://hemnos.cdnstream.com/1674_128",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://hemnos.cdnstream.com/1674_128"
+    },
+    {
+        "name": "KUVO HD2: The DROP",
+        "url": "https://kuvo-ice.streamguys.org/kuvohd2-aac-128",
+        "country": "US",
+        "favicon": "https://www.thedrop303.org/wp-content/uploads/2021/09/TheDROP-Vertical-Website-1.png",
+        "codec": "AAC",
+        "bitrate": 130,
+        "working_url": "https://kuvo-ice.streamguys.org/kuvohd2-aac-128"
+    },
+    {
+        "name": "LITT 1580",
+        "url": "https://das-sa39.cdnstream1.com/5556_128",
+        "country": "US",
+        "favicon": "https://littlive.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-sa39.cdnstream1.com/5556_128"
+    },
+    {
+        "name": "LITT Native Rhymes",
+        "url": "https://das-sa39.cdnstream1.com/5584_128",
+        "country": "US",
+        "favicon": "https://littlive.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-sa39.cdnstream1.com/5584_128"
+    },
+    {
+        "name": "NGEN Radio",
+        "url": "https://ais-sa8.cdnstream1.com/3334_64.aac",
+        "country": "US",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://ais-sa8.cdnstream1.com/3334_64.aac"
+    },
+    {
+        "name": "Party 101.9 Radio",
+        "url": "https://c2409ic1.fast-serv.com/stream",
+        "country": "US",
+        "favicon": "https://party1019.com/wp-content/uploads/2019/09/cropped-icon-180x180.png",
+        "codec": "AAC+",
+        "bitrate": 48,
+        "working_url": "https://c2409ic1.fast-serv.com/stream"
+    },
+    {
+        "name": "PhoenixFireFM",
+        "url": "https://listen.jjhof.com:6969/stream",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://listen.jjhof.com:6969/stream"
+    },
+    {
+        "name": "Planet HipHop (MRG.fm)",
+        "url": "https://listen.mrg.fm:8100/stream",
+        "country": "US",
+        "favicon": "https://mrg.fm/img/planethiphop125.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.mrg.fm:8100/stream"
+    },
+    {
+        "name": "Purple Current",
+        "url": "https://purplecurrent.stream.publicradio.org/purplecurrent.mp3",
+        "country": "US",
+        "favicon": "https://www.thecurrent.org/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://purplecurrent.stream.publicradio.org/purplecurrent.mp3"
+    },
+    {
+        "name": "Rhythm98 WTHM-DB",
+        "url": "https://cast6.my-control-panel.com/proxy/rhythm98/stream",
+        "country": "US",
+        "favicon": "https://rhythm98.miami/wp-content/uploads/2025/02/Rhythm-98-trans.png",
+        "codec": "AAC+",
+        "bitrate": 256,
+        "working_url": "https://cast6.my-control-panel.com/proxy/rhythm98/stream"
+    },
+    {
+        "name": "Sensimedia Hip-Hop Radio",
+        "url": "https://sensihiphop.radioca.st/;",
+        "country": "US",
+        "favicon": "https://sensimedia.net/images/logo/favicon.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://sensihiphop.radioca.st/;"
+    },
+    {
+        "name": "Skate.fm",
+        "url": "https://listen.skate.fm:8443/live",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://listen.skate.fm:8443/live"
+    },
+    {
+        "name": "SomaFM Fluid (128k MP3)",
+        "url": "https://ice4.somafm.com/fluid-128-mp3",
+        "country": "US",
+        "favicon": "https://somafm.com/img3/fluid-400.jpg",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://ice4.somafm.com/fluid-128-mp3"
+    },
+    {
+        "name": "SPINS106.3",
+        "url": "https://streaming.live365.com/a27054",
+        "country": "US",
+        "favicon": "https://ibb.co/bjqQwHyd",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://das-edge12-live365-dal02.cdnstream.com/a27054"
+    },
+    {
+        "name": "Super Throwback Party Radio",
+        "url": "https://hestia.cdnstream.com/1543_128?cb=618512.mp3",
+        "country": "US",
+        "favicon": "http://www.superthrowbackparty.net/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://hestia.cdnstream.com/1543_128?cb=618512.mp3"
+    },
+    {
+        "name": "Thegooshradio R&B",
+        "url": "https://eu2.fastcast4u.com:3610/stream/1/",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://eu2.fastcast4u.com:3610/stream/1/"
+    },
+    {
+        "name": "Uptown Philly 100 Radio",
+        "url": "https://stream.radio.co/sc5a080f37/listen",
+        "country": "US",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 192,
+        "working_url": "https://stream.radio.co/sc5a080f37/listen"
+    },
+    {
+        "name": "W.D.O.P.E. Dopetrackz Radio",
+        "url": "https://fr1-play.adtonos.com/8102/dopetrackz-radio-3",
+        "country": "US",
+        "favicon": "https://dopetrackz.com/wp-content/uploads/2023/12/wdope_2k24_ProfilePic_A_opacity.png",
+        "codec": "MP3",
+        "bitrate": 0,
+        "working_url": "https://listen.adtonos.com/dopetrackz-radio-3"
+    },
+    {
+        "name": "WEAA 88.9 Morgan State University - Baltimore, MD",
+        "url": "https://amber.streamguys.com:4020/live",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 50,
+        "working_url": "https://amber.streamguys.com:4020/live"
+    },
+    {
+        "name": "WKNH Keene",
+        "url": "https://streams.radio.co/sa460c8a9d/listen",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://streams.radio.co/sa460c8a9d/listen"
+    },
+    {
+        "name": "WSRB 106.3 FM Chicago's R&B - Lansing, IL",
+        "url": "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx",
+        "country": "US",
+        "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1370/2020/03/19092432/wsrb-logo.png",
+        "codec": "AAC",
+        "bitrate": 64,
+        "working_url": "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx"
+    },
+    {
+        "name": "WWWQ-HD3 \"OG 979\" Atlanta, GA",
+        "url": "https://18153.live.streamtheworld.com/WWWQH3_SC",
+        "country": "US",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 80,
+        "working_url": "https://18153.live.streamtheworld.com/WWWQH3_SC"
+    },
+    {
+        "name": "WZFX 99.1 \"Foxy 99\" Whiteville, NC",
+        "url": "https://19473.live.streamtheworld.com:3690/WZFXFMAAC_SC",
+        "country": "US",
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://19473.live.streamtheworld.com:3690/WZFXFMAAC_SC"
+    }
 ]
