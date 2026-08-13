@@ -1,0 +1,92 @@
+[
+    {
+        "name": "SomaFM: Groove Salad",
+        "url": "https://ice5.somafm.com/groovesalad-128-mp3",
+        "country": "US",
+        "favicon": "https://somafm.com/img3/groovesalad-400.jpg",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Radio Paradise (Main Mix)",
+        "url": "https://stream.radioparadise.com/mp3-192",
+        "country": "US",
+        "favicon": "https://radioparadise.com/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "KEXP 90.3 FM",
+        "url": "https://kexp.streamguys1.com/kexp160.aac",
+        "country": "US",
+        "favicon": "https://www.kexp.org/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 160
+    },
+    {
+        "name": "Radio Swiss Pop",
+        "url": "https://stream.srg-ssr.ch/m/rsp/aacp_96",
+        "country": "CH",
+        "favicon": "https://www.radioswisspop.ch/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "France inter - La musique Inter",
+        "url": "https://stream.radiofrance.fr/franceinterlamusiqueinter/franceinterlamusiqueinter_hifi.m3u8?id=radiofrance",
+        "country": "FR",
+        "favicon": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
+        "codec": "UNKNOWN",
+        "bitrate": 0,
+        "working_url": "https://stream.radiofrance.fr/franceinterlamusiqueinter/franceinterlamusiqueinter_hifi.m3u8?id=radiofrance"
+    },
+    {
+        "name": "France Musique",
+        "url": "https://direct.francemusique.fr/live/francemusique-midfi.mp3",
+        "country": "FR",
+        "favicon": "https://www.francemusique.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Radio Classique",
+        "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+        "country": "FR",
+        "favicon": "https://www.radioclassique.fr/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Deutschlandfunk",
+        "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
+        "country": "DE",
+        "favicon": "https://www.deutschlandfunk.de/favicon.ico",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Nativa",
+        "url": "https://centova17.ciclanohost.com.br:8085/stream.mp3",
+        "country": "BR",
+        "favicon": "",
+        "codec": "AAC+",
+        "bitrate": 64,
+        "working_url": "https://centova17.ciclanohost.com.br:8085/stream.mp3"
+    },
+    {
+        "name": "Radio Caroline",
+        "url": "https://sc8.radiocaroline.net:8010/",
+        "country": "UK",
+        "favicon": "https://www.radiocaroline.co.uk/favicon.ico",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "Alem FM",
+        "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+        "country": "TR",
+        "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+        "codec": "AAC",
+        "bitrate": 128
+    }
+]

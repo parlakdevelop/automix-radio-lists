@@ -10,12 +10,12 @@
     },
     {
         "name": "Radio  Cadena YSKL La Poderosa",
-        "url": "http://media.dominiocreativo.com:8000/radioyskl",
+        "url": "https://media.dominiocreativo.com:8000/radioyskl",
         "country": "SV",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://media.dominiocreativo.com:8000/radioyskl"
+        "working_url": "https://media.dominiocreativo.com:8000/radioyskl"
     },
     {
         "name": "Radio ABC Stereo 100.1 FM",
@@ -64,12 +64,12 @@
     },
     {
         "name": "Radio El Mundo - 93.7 FM",
-        "url": "http://streaming.mundoclasicaupa.com:8000/radioelmundo",
+        "url": "https://streaming.mundoclasicaupa.com:8000/radioelmundo",
         "country": "SV",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.mundoclasicaupa.com:8000/radioelmundo"
+        "working_url": "https://streaming.mundoclasicaupa.com:8000/radioelmundo"
     },
     {
         "name": "Radio Femenina | 102.5 FM",
@@ -91,12 +91,12 @@
     },
     {
         "name": "Radio La Caliente 90.1 FM",
-        "url": "http://streaming.rcs.com.sv:8014/stream",
+        "url": "https://streaming.rcs.com.sv:8014/stream",
         "country": "SV",
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.rcs.com.sv:8014/stream"
+        "working_url": "https://streaming.rcs.com.sv:8014/stream"
     },
     {
         "name": "Radio la Chvere 100.9",
@@ -145,12 +145,12 @@
     },
     {
         "name": "Radio María El Salvador 107.3 FM",
-        "url": "http://dreamsiteradiocp.com:8098/stream",
+        "url": "https://dreamsiteradiocp.com:8098/stream",
         "country": "SV",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://dreamsiteradiocp.com:8098/stream"
+        "working_url": "https://dreamsiteradiocp.com:8098/stream"
     },
     {
         "name": "Radio Mercado Metapan",
@@ -217,30 +217,30 @@
     },
     {
         "name": "Radio Salem 92.5",
-        "url": "http://streamingcontrol.com:8500/;",
+        "url": "https://streamingcontrol.com:8500/;",
         "country": "SV",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 80,
-        "working_url": "http://streamingcontrol.com:8500/;"
+        "working_url": "https://streamingcontrol.com:8500/;"
     },
     {
         "name": "Radio Soda Stereo 105.3 FM",
-        "url": "http://streaming.rcs.com.sv/proxy/soda/stream",
+        "url": "https://streaming.rcs.com.sv/proxy/soda/stream",
         "country": "SV",
         "favicon": "https://radiocorporacionelsalvador.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.rcs.com.sv/proxy/soda/stream"
+        "working_url": "https://streaming.rcs.com.sv/proxy/soda/stream"
     },
     {
         "name": "Radio Sonora 104.5 FM",
-        "url": "http://190.5.147.67:8000/radiosonora",
+        "url": "https://190.5.147.67:8000/radiosonora",
         "country": "SV",
         "favicon": "https://www.radiosonora.com.sv/img/logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://190.5.147.67:8000/radiosonora"
+        "working_url": "https://190.5.147.67:8000/radiosonora"
     },
     {
         "name": "Radio Supra 90.5 FM",
@@ -289,21 +289,21 @@
     },
     {
         "name": "Scan 96.1",
-        "url": "http://158.69.200.1:8022/stream",
+        "url": "https://158.69.200.1:8022/stream",
         "country": "SV",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://158.69.200.1:8022/stream"
+        "working_url": "https://158.69.200.1:8022/stream"
     },
     {
         "name": "Super Estrella 94.1 FM",
-        "url": "http://streaming.rcs.com.sv/proxy/super/stream",
+        "url": "https://streaming.rcs.com.sv/proxy/super/stream",
         "country": "SV",
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.rcs.com.sv/proxy/super/stream"
+        "working_url": "https://streaming.rcs.com.sv/proxy/super/stream"
     },
     {
         "name": "Taylor Swift Radio",
@@ -334,11 +334,11 @@
     },
     {
         "name": "YXY 105.7",
-        "url": "http://158.69.200.1:8020/stream",
+        "url": "https://158.69.200.1:8020/stream",
         "country": "SV",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://158.69.200.1:8020/stream"
+        "working_url": "https://158.69.200.1:8020/stream"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "name": "GİMSA RADYO",
-        "url": "http://yayin1.canliyayin.org:9482/stream",
+        "url": "https://yayin1.canliyayin.org:9482/stream",
         "country": "TR",
         "favicon": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
         "codec": "MP3",
@@ -9,7 +9,7 @@
     },
     {
         "name": "101.1Megasite",
-        "url": "http://37.247.98.8/stream/30/",
+        "url": "https://37.247.98.8/stream/30/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -25,7 +25,7 @@
     },
     {
         "name": "102.1 Arabeskin Merkezi Fm",
-        "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+        "url": "https://canli.arabeskinmerkezi.com:9180/stream",
         "country": "TR",
         "favicon": "https://images.keepone.net/1376-2022-10-17.png",
         "codec": "MP3",
@@ -49,7 +49,7 @@
     },
     {
         "name": "90lar turkey",
-        "url": "http://37.247.98.8/stream/166/",
+        "url": "https://37.247.98.8/stream/166/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Abuzer FM",
-        "url": "http://live.radyotvonline.com:9030/;stream.nsv",
+        "url": "https://live.radyotvonline.com:9030/;stream.nsv",
         "country": "TR",
         "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png",
         "codec": "MP3",
@@ -113,7 +113,7 @@
     },
     {
         "name": "AFN 360 Incirlik",
-        "url": "http://25503.live.streamtheworld.com:3690/AFNE_ICK_SC",
+        "url": "https://25503.live.streamtheworld.com:3690/AFNE_ICK_SC",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -146,7 +146,7 @@
     },
     {
         "name": "Ankara Havalari",
-        "url": "http://37.247.98.8/stream/30/;",
+        "url": "https://37.247.98.8/stream/30/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -162,7 +162,7 @@
     },
     {
         "name": "Apacik Radyo",
-        "url": "http://stream.34bit.net/ar.aac",
+        "url": "https://stream.34bit.net/ar.aac",
         "country": "TR",
         "favicon": "https://apacikradyo.com.tr/logo1024",
         "codec": "AAC+",
@@ -170,7 +170,7 @@
     },
     {
         "name": "Arabesk FM",
-        "url": "http://yayin.arabeskfm.biz:8042/",
+        "url": "https://yayin.arabeskfm.biz:8042/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -178,7 +178,7 @@
     },
     {
         "name": "Aşk FM",
-        "url": "http://yayin.asymedya.com:8020/;",
+        "url": "https://yayin.asymedya.com:8020/;",
         "country": "TR",
         "favicon": "https://www.radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
         "codec": "AAC+",
@@ -194,7 +194,7 @@
     },
     {
         "name": "Baba Radyo",
-        "url": "http://46.20.7.116/",
+        "url": "https://46.20.7.116/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -202,7 +202,7 @@
     },
     {
         "name": "Banko Fm 1",
-        "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
+        "url": "https://yayin.netradyom.com:9910/RADYOBANKO",
         "country": "TR",
         "favicon": "null",
         "codec": "AAC+",
@@ -322,7 +322,7 @@
     },
     {
         "name": "BİLECİK FM TURKEY",
-        "url": "http://bilecikfm.kesintisizyayin.com:9980/",
+        "url": "https://bilecikfm.kesintisizyayin.com:9980/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -354,7 +354,7 @@
     },
     {
         "name": "Borusan Klasik",
-        "url": "http://27783.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC",
+        "url": "https://27783.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -362,7 +362,7 @@
     },
     {
         "name": "BRTK",
-        "url": "http://sc.brtk.net:8000/",
+        "url": "https://sc.brtk.net:8000/",
         "country": "TR",
         "favicon": "https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d",
         "codec": "MP3",
@@ -378,7 +378,7 @@
     },
     {
         "name": "Can Radyo",
-        "url": "http://yayin1.yayindakiler.com:3124/;",
+        "url": "https://yayin1.yayindakiler.com:3124/;",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -458,7 +458,7 @@
     },
     {
         "name": "Denge Gundeme",
-        "url": "http://kesintisizyayin.com:1656/",
+        "url": "https://kesintisizyayin.com:1656/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -498,7 +498,7 @@
     },
     {
         "name": "Dost",
-        "url": "http://yayin1.yayindakiler.com:3156/",
+        "url": "https://yayin1.yayindakiler.com:3156/",
         "country": "TR",
         "favicon": "http://dostfm.com/favicon.ico",
         "codec": "AAC+",
@@ -506,7 +506,7 @@
     },
     {
         "name": "Dost FM",
-        "url": "http://yayin.dostfm.com:8920/;.mp3?no_dl",
+        "url": "https://yayin.dostfm.com:8920/;.mp3?no_dl",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -554,7 +554,7 @@
     },
     {
         "name": "EFSANE HOME",
-        "url": "http://37.247.98.8/stream/24/",
+        "url": "https://37.247.98.8/stream/24/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -578,7 +578,7 @@
     },
     {
         "name": "Emek radyo",
-        "url": "http://yayin1.radyohizmeti.com:8585/;",
+        "url": "https://yayin1.radyohizmeti.com:8585/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -594,7 +594,7 @@
     },
     {
         "name": "Ereğli FM",
-        "url": "http://radyo.yayindakiler.com:3000/stream",
+        "url": "https://radyo.yayindakiler.com:3000/stream",
         "country": "TR",
         "favicon": "https://ereglifm.com.tr/assets/imgs/logo.svg",
         "codec": "MP3",
@@ -786,7 +786,7 @@
     },
     {
         "name": "GELİŞİM RADYO",
-        "url": "http://radyo.yayindakiler.com:4008/stream",
+        "url": "https://radyo.yayindakiler.com:4008/stream",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -810,7 +810,7 @@
     },
     {
         "name": "Giresun FM",
-        "url": "http://yayin.canliyayin.org:9482/;",
+        "url": "https://yayin.canliyayin.org:9482/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -818,7 +818,7 @@
     },
     {
         "name": "GÖKKUŞAĞI RADYO TURKEY",
-        "url": "http://gokkusagiradyo.kesintisizyayin.com:8008/",
+        "url": "https://gokkusagiradyo.kesintisizyayin.com:8008/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -914,7 +914,7 @@
     },
     {
         "name": "HOŞ MiX",
-        "url": "http://178.32.4.127:8046/stream",
+        "url": "https://178.32.4.127:8046/stream",
         "country": "TR",
         "favicon": "https://www.hosmix.com/wp-content/uploads/2025/12/logoh200-200.png",
         "codec": "MP3",
@@ -962,7 +962,7 @@
     },
     {
         "name": "Joy Fm",
-        "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+        "url": "https://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -970,7 +970,7 @@
     },
     {
         "name": "JoyTürk Akustik",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -978,7 +978,7 @@
     },
     {
         "name": "JoyTürk Rock",
-        "url": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
+        "url": "https://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
         "country": "TR",
         "favicon": "https://api.karnaval.com/v1/stations/joyturk-rock/logos/square",
         "codec": "AAC+",
@@ -1042,7 +1042,7 @@
     },
     {
         "name": "KEYF STATION",
-        "url": "http://yayin.radyomadyo.com:8002/stream",
+        "url": "https://yayin.radyomadyo.com:8002/stream",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1098,7 +1098,7 @@
     },
     {
         "name": "KİSS TÜRK SLOW",
-        "url": "http://dijimedya.radyotvonline.net/turkslow",
+        "url": "https://dijimedya.radyotvonline.net/turkslow",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1106,7 +1106,7 @@
     },
     {
         "name": "Kıyı Caz",
-        "url": "http://caz.radioca.st/",
+        "url": "https://caz.radioca.st/",
         "country": "TR",
         "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbYAAABzCAMAAADDhdfxAAAAsVBMVEX///8Ai/8Ah/8Ajf8Aif Ux//q9f9zuf8Ahf/3/P azP 03f8smP Qzf8AjP Cwv9crP8AgP/m8/8Af/85pP9Hqf Cv/8hmv8AfP/y v8Akf/M6P 74P/k8v/e7/9ptf v2P84n//U7P l0f8AeP/H5P9Zsv9Pp/91wf GyP8mlf Y0P m1/ 93P9Cmf9Xs/9ErP99u/9Mov9nr/ iyv96t/9lrP9luf95xP8hoP/D5v9kzvXAAAAKDElEQVR4nO2dCXeiSBCAuUTwiKJGBBQVNInE3DubSf7/D1tMPKqguwt3Mm/DbH3zXt4bsEH9LOijutG070LLP5L17P/63TAVaehHjDlrqwsN86StydrqAmurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WsLaaglrqyWsrZawtlrC2moJa6slrK2WsLZawtpqCWurJaytlrC2WvLF2gIbEFQp4cIS/LupSAVtyaYHGHePNpLGaXP6sdVdXPdPNBP6/HYLFLhufR7bXYMTTr/iY/5p0NriFxNwYW6Pe9qdi8Nm/XLwsWmdWcfj6WaDPv96CQuknxvdlnU8YTj 9Q/550Fqm83B96pb5sI97mp3jrusvbagZ4AXX5LhFvTA0Y2X HOr2zodxex9yef8w6C02dhamJ6s5dqAoU9tWuSD11 k1OkjUbCxNhJCm910gDUdWRNqC8bAg3VNhFvQgMHZP7yatVGotdlj8LXm1lqocijSpk3PCbf4TXgrZG0USm3ozqPrWQNX6aG2x4M2uwlKGP2Z6uR51QME23N02s7a1Ki0FayFvUJDTBhtsKKSf kL1clnI/jS3vECzNooFNpcsIrC7vsbF4NRrM2ew3C7UrWgF CV1nJ9OjNrI5Brc1sh0vZUEiDWpi06oJR5Jz 3DYPtoglPzdrUSLW5rQxKcwTVTIk2 wWFm1sqd2ABr8EZ6A1hbRRSbSmMGd2ZCzoYJdq0LRRurssF91xCbVAva6OQaStYexTdomTagmsUbrJTT6E1sw32sDYKibaFT1uTatNuTVDYikRltUKwXcI9rI1CrK0N28y6g5yckGoLljDcHsRnjlCv2RbuYm0UQm3TDvpKJdbk2rQujFVD3MN1BZvab2gXa6MQaVujWNOl/fhybQE8gvUqKhzB5oVxi/axNgqBtmiJOiKvZfcmhTbtFh4iFHmHfWCWj uprI2irK1oTV6BV2gL4HCp3iyXjWBN1ejinayNoqQtGiFrz4qcAIU2bQOP4pfDrQcqm1ZW6HBmbRRFbQm2tlRlcqi0DVCHcumrT57hqPamsBdp46QEAQVt8TW0ZvltVVmVNg1mJ jL4v2xASskWTEYobYL1iYAaQviPqr5Z4p YI3QFvuKZKDkGux0xsVuS442CqhtnMAxl7wGuFCXVWpzeyCdoZidkKJgK1V6WBsF0Kb3H2GnVKl V0KpTUtgh3LYgrviF3hnK48tsDYKqA1J2yUaEGXV2oIxDLd DHYtYLCF5Ssxa6NoFFyhcCvW8AqoteVNMxBTIUgGms1BdcWYl0uyNgqVNt18V5YltAUw7csA4XZHBBtrI1Fq00fKuRSENm2Nwm1x2Gw3UXJkXC7I2ijU2i5KdXMIpc1 Qpnih66QNaqriDIpWRuFWpuVLRRlKW3aHQq3/dWwQt4ya6NQa9N1VTo41DYSaRug3Lv9k49QTcVsiMKZe0koRNpgjcEcyycXktpw7l340b/p9sSZyBDWRiHQNoepdlYmT OntQ1Q7l1z9wvAnV7i7n3WRlHSZl3Z O4zqjRMKtampaj6sTvSBh7bFw/msTaKojZjl6SVoHEA6ZTuCtrsPjz2q6vZviQTGcLaKArajLcPRws0lzeVtAIqaNNQRnqYaF34g8gko3msjQJrM/zPyHLHYKPlC1rEO6pos9F46I2Gsov6kjfF2iiQNuvt0CSO4YCYIc5uraRN68ITdG5gsJmyQVjWRoG0LU NtDasujst4WWykrbBEoUz/JFcSoqwNhKgDc4wwzk6eiis8VXShlNdITgTGcLaKKQzbmawDmiNRI3uatpsnCwLfiXS/k7WRiGflrhGl0lRuxhpk0/S3qDFFk6nu5WWYG0UiknAXTSRSVBXr6jNxrNSDyV8ea8Za6NQaAse4bjYc7kVUFGb9lMUbqqhc9ZGoVopIUFh0izdiqpqi0XhlklvhqyNRrkuSYq6NEp9ylW1aTflcBPeLA wNgr1cjJX0FtpkKWytqQcbpmk5 UD1kahXrwJjbLoxWn3lbUFqHPkI9gUw3isjYZYKg0u FLIUT1DG56D HEo6WjQDtZGQWjDQ2 F TfVtQV4yTVqfV/WRkGtJxnDlXqsOZJTXRvO1pJ1lh1hbRTk6q146K0lW0 S0IZy74r6S7A2ClJbgOZ9 jCH AxtboqCbaF U6yNgl7iOkF5BTCJ AxtA7h2rzATGcLaKCosKL9Aq5T04BLXlbXhtP W8rVYm/507kf6P1BBm4uH3k5D0tW12c1zVlBmbSRVnroxuwTarCVYp7Wqtgjl3ZGPB2BtFJUeljKF3/ppUZ/K2lz0dIDS/Pvy61kbQc9wDnhzaRt4YzmAw/jmIjxtk2V3fRCjBSbpOobb8E5H/nHmJ/pfEHVPTOVZArfgZZtDDkgMtm5VfYxwbRmro25ql9/VeR I SpstJLT/L9 O0w1unDuvSwTmfn9BJUezbbHPY3 GHr48tveFKPZSSI3E9w9jdeq2cGY7THYjPvxbYVnujH/juDux3I5ln3BwdjzvDCtHHCHNZEtR7VcHvOrDHphXgEfimd6asHTxLAMTzYPJ7hbYKHTfcvQcF4SzV2k8voq8yskL4bnOfk/4aqEwdgxPCt0vGwh/P4XoY6fqrJfE9kxn2Za8MO0sr/Y229g uwNs3E67nhep1W6EiY/cqfNu3UjHApXUVh3ht7xqYc73ndNbctw/NTWZi/5j8FTP66I TfYm3DozKNAC5Ke5 l/t1FoDFpLa2jeBbsBtHBolqd159Yy33HuT/3Nc8uyHKfTi1wtunY83c jmOzdYs4i3twbE vwPN6pNTHM5020/ 9g2rzXndV BV23pXtWcbWZbbjK2rOroae/7i UkW9ZnYc0zl94mxkTPx6kjidfNZs5lyDqjnRvtQLrx8ejVV430bPlw8PDo28aeT1ldXXsMx7n 9AqyIMHZ7XrunI33tDJPh/0HMziQbCT 37t5Nbsne Jp4snzDHVuX29 Xlz9RY6k9VqaL2iQHC3HW Y28n/fP69hLWUvHLiDC/fP6y49vvDcOXtgyzyJ95Qf30/3BoH26XnWJPl58O5G3nIEuPbDMXtKK8W5lYussub93IQRDejUDcMw9Kzx25hdGYb7uLP8UeXb508Tp3RaUW8rp5bnjjL15vX16vOcOLlodo8WIx 8lXyCwjiJEkG0uuW/T5tt6eJYP/s5zKzcul5RFr3V6i9YG/uL/JK52QynOR7DcPsc1v7  Am281Nc7y5fS 1FYJ28/o C00zzJ7/7nF81Qc3nm7TdDud5ZE6UCYiM98He7YPwSCO0maF4VHmG2A3 k tNKf11F SyZHMN2HdcYwLM fCcAxBlwrzHUFPW dgqwvxEi65S2UiM98DtwHXkyczkZnvwewx6xzx/4hg wfBk7e iXC8NQAAAABJRU5ErkJggg==",
         "codec": "MP3",
@@ -1146,7 +1146,7 @@
     },
     {
         "name": "KLASİK HOME",
-        "url": "http://37.247.98.8/stream/32/",
+        "url": "https://37.247.98.8/stream/32/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1210,7 +1210,7 @@
     },
     {
         "name": "KUZEY FM TURKEY",
-        "url": "http://yayin.yayindakiler.com:3028/",
+        "url": "https://yayin.yayindakiler.com:3028/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1226,7 +1226,7 @@
     },
     {
         "name": "lokum fm",
-        "url": "http://37.247.98.9/stream/493/?/;stream.mp3",
+        "url": "https://37.247.98.9/stream/493/?/;stream.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1282,7 +1282,7 @@
     },
     {
         "name": "Magic FM",
-        "url": "http://yayin1.yayindakiler.com:3032/",
+        "url": "https://yayin1.yayindakiler.com:3032/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1298,7 +1298,7 @@
     },
     {
         "name": "Max FM",
-        "url": "http://live2.radyotvonline.com:8025/",
+        "url": "https://live2.radyotvonline.com:8025/",
         "country": "TR",
         "favicon": "https://maxfm.com.tr/favicon.ico",
         "codec": "AAC+",
@@ -1314,7 +1314,7 @@
     },
     {
         "name": "MAZİDEN BİR DEMET",
-        "url": "http://37.247.98.8/stream/25/",
+        "url": "https://37.247.98.8/stream/25/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1338,7 +1338,7 @@
     },
     {
         "name": "MEGA SİTE",
-        "url": "http://yayin.netradyom.com:7900/;stream.mp3",
+        "url": "https://yayin.netradyom.com:7900/;stream.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1354,7 +1354,7 @@
     },
     {
         "name": "MELANKOLİK HOME",
-        "url": "http://37.247.98.8/stream/20/",
+        "url": "https://37.247.98.8/stream/20/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1370,7 +1370,7 @@
     },
     {
         "name": "MERKEZ FM SAMSUN TURKEY",
-        "url": "http://uydu.radyotvyayini.com:8016/",
+        "url": "https://uydu.radyotvyayini.com:8016/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1378,7 +1378,7 @@
     },
     {
         "name": "meteorolojinin sesi",
-        "url": "http://radyomgm.canliyayinda.com/;stream.mp3",
+        "url": "https://radyomgm.canliyayinda.com/;stream.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1386,7 +1386,7 @@
     },
     {
         "name": "Metro FM",
-        "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+        "url": "https://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
         "country": "TR",
         "favicon": "https://metrofm.com.tr/favicon.ico",
         "codec": "AAC+",
@@ -1434,7 +1434,7 @@
     },
     {
         "name": "NTV Radyo",
-        "url": "http://ntvrdwmp.radyotvonline.com/",
+        "url": "https://ntvrdwmp.radyotvonline.com/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1466,7 +1466,7 @@
     },
     {
         "name": "Onur Radyo",
-        "url": "http://anadolu.liderhost.com.tr:8094/",
+        "url": "https://anadolu.liderhost.com.tr:8094/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1506,7 +1506,7 @@
     },
     {
         "name": "Pal Doğa",
-        "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
+        "url": "https://shoutcast.radyogrup.com:1040/;*.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1530,7 +1530,7 @@
     },
     {
         "name": "Pal station",
-        "url": "http://shoutcast.radyogrup.com:1020/",
+        "url": "https://shoutcast.radyogrup.com:1020/",
         "country": "TR",
         "favicon": "https://palstation106.com/img/logo/pal-station.ico",
         "codec": "AAC+",
@@ -1538,7 +1538,7 @@
     },
     {
         "name": "Park Fm",
-        "url": "http://yayin.netradyom.com:8050/PARKFM/",
+        "url": "https://yayin.netradyom.com:8050/PARKFM/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1554,7 +1554,7 @@
     },
     {
         "name": "Pazarcık",
-        "url": "http://yayin.pazarcikfm.com:9090/",
+        "url": "https://yayin.pazarcikfm.com:9090/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1570,7 +1570,7 @@
     },
     {
         "name": "pop 90 turkey",
-        "url": "http://23623.live.streamtheworld.com:3690/POP90AAC_SC",
+        "url": "https://23623.live.streamtheworld.com:3690/POP90AAC_SC",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1722,7 +1722,7 @@
     },
     {
         "name": "Radio Ava Turkiye",
-        "url": "http://play.markaradyo.com:8002/stream",
+        "url": "https://play.markaradyo.com:8002/stream",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1754,7 +1754,7 @@
     },
     {
         "name": "Radio Light",
-        "url": "http://yayin.radiolight.net:8005/live",
+        "url": "https://yayin.radiolight.net:8005/live",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1770,7 +1770,7 @@
     },
     {
         "name": "Radio Wanderlust",
-        "url": "http://radyo.yayin.com.tr:5898/",
+        "url": "https://radyo.yayin.com.tr:5898/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1850,7 +1850,7 @@
     },
     {
         "name": "Radyo 45'lik",
-        "url": "http://stream.radyo45lik.com:4545/",
+        "url": "https://stream.radyo45lik.com:4545/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -1866,7 +1866,7 @@
     },
     {
         "name": "Radyo 7",
-        "url": "http://46.20.3.250/;stream",
+        "url": "https://46.20.3.250/;stream",
         "country": "TR",
         "favicon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
         "codec": "MP3",
@@ -1914,7 +1914,7 @@
     },
     {
         "name": "Radyo A (Radyo Anadolu Üniversitesi)",
-        "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+        "url": "https://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -1994,7 +1994,7 @@
     },
     {
         "name": "Radyo Banko Fm",
-        "url": "http://yayin.netradyom.com:8050/RADYOBANKO",
+        "url": "https://yayin.netradyom.com:8050/RADYOBANKO",
         "country": "TR",
         "favicon": "null",
         "codec": "AAC+",
@@ -2034,7 +2034,7 @@
     },
     {
         "name": "Radyo Can",
-        "url": "http://yayin2.yayindakiler.com:4174/;stream.mp3",
+        "url": "https://yayin2.yayindakiler.com:4174/;stream.mp3",
         "country": "TR",
         "favicon": "http://www.radyocan.net/favicon.ico",
         "codec": "MP3",
@@ -2130,7 +2130,7 @@
     },
     {
         "name": "RADYO EGE HAVALARI",
-        "url": "http://37.247.98.8/stream/29/",
+        "url": "https://37.247.98.8/stream/29/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2146,7 +2146,7 @@
     },
     {
         "name": "Radyo Eksen 96.2",
-        "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+        "url": "https://eksenwmp.radyotvonline.com/;stream.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2234,7 +2234,7 @@
     },
     {
         "name": "Radyo Fıtrat",
-        "url": "http://radyofitrat.radyotvonline.net/",
+        "url": "https://radyofitrat.radyotvonline.net/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2274,7 +2274,7 @@
     },
     {
         "name": "Radyo Gül",
-        "url": "http://yayin2.canliyayin.org:8866/;*.mp3",
+        "url": "https://yayin2.canliyayin.org:8866/;*.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2290,7 +2290,7 @@
     },
     {
         "name": "Radyo Hayat",
-        "url": "http://live4.radyotvonline.com:9450/",
+        "url": "https://live4.radyotvonline.com:9450/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2306,7 +2306,7 @@
     },
     {
         "name": "Radyo ILEF Ankara",
-        "url": "http://radyo.cc.ankara.edu.tr:8089/;",
+        "url": "https://radyo.cc.ankara.edu.tr:8089/;",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2402,7 +2402,7 @@
     },
     {
         "name": "Radyo Maranata",
-        "url": "http://medya.radyomaranata.com:8005/live",
+        "url": "https://medya.radyomaranata.com:8005/live",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2434,7 +2434,7 @@
     },
     {
         "name": "Radyo MODyAn",
-        "url": "http://stream.radio.co/s55d598f42/listen",
+        "url": "https://stream.radio.co/s55d598f42/listen",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2506,7 +2506,7 @@
     },
     {
         "name": "Radyo Nostaljinin Sesi",
-        "url": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
+        "url": "https://eu8.fastcast4u.com/proxy/eskininadami/stream",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2514,7 +2514,7 @@
     },
     {
         "name": "Radyo ODTU",
-        "url": "http://stream.radyoodtu.com.tr/;",
+        "url": "https://stream.radyoodtu.com.tr/;",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2522,7 +2522,7 @@
     },
     {
         "name": "Radyo ODTU - Rock",
-        "url": "http://stream.radyoodtu.com.tr/rock",
+        "url": "https://stream.radyoodtu.com.tr/rock",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2546,7 +2546,7 @@
     },
     {
         "name": "Radyo S",
-        "url": "http://icecast.netmedya.net/radyos",
+        "url": "https://icecast.netmedya.net/radyos",
         "country": "TR",
         "favicon": "http://radyos.com.tr/apple-touch-icon.png",
         "codec": "MP3",
@@ -2570,7 +2570,7 @@
     },
     {
         "name": "RADYO SARI TRAMVAY",
-        "url": "http://37.247.98.8/stream/27/",
+        "url": "https://37.247.98.8/stream/27/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2610,7 +2610,7 @@
     },
     {
         "name": "Radyo Slow Time",
-        "url": "http://46.20.7.103:8040/;",
+        "url": "https://46.20.7.103:8040/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2650,7 +2650,7 @@
     },
     {
         "name": "Radyo Trafik İstanbul",
-        "url": "http://37.247.100.118/stream/157/",
+        "url": "https://37.247.100.118/stream/157/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2658,7 +2658,7 @@
     },
     {
         "name": "Radyo Trio",
-        "url": "http://radyotrio.radyotvonline.net/radyotrio",
+        "url": "https://radyotrio.radyotvonline.net/radyotrio",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2706,7 +2706,7 @@
     },
     {
         "name": "RADYO VOYAGE",
-        "url": "http://voyagewmp.radyotvonline.com/;",
+        "url": "https://voyagewmp.radyotvonline.com/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2762,7 +2762,7 @@
     },
     {
         "name": "RadyoVoyage",
-        "url": "http://voyagesc.radyotvonline.com/",
+        "url": "https://voyagesc.radyotvonline.com/",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2770,7 +2770,7 @@
     },
     {
         "name": "RAP HOME",
-        "url": "http://37.247.98.8/stream/606/",
+        "url": "https://37.247.98.8/stream/606/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2794,7 +2794,7 @@
     },
     {
         "name": "retro turk",
-        "url": "http://27783.live.streamtheworld.com:3690/RETROTURKAAC_SC",
+        "url": "https://27783.live.streamtheworld.com:3690/RETROTURKAAC_SC",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2802,7 +2802,7 @@
     },
     {
         "name": "Ribat FM",
-        "url": "http://yayin1.canliyayin.org:7010/;*.mp3",
+        "url": "https://yayin1.canliyayin.org:7010/;*.mp3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2842,7 +2842,7 @@
     },
     {
         "name": "RS FM",
-        "url": "http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3",
+        "url": "https://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -2850,7 +2850,7 @@
     },
     {
         "name": "rtste",
-        "url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
+        "url": "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
         "country": "TR",
         "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
         "codec": "AAC",
@@ -2898,7 +2898,7 @@
     },
     {
         "name": "Serhat FM",
-        "url": "http://yayin.serhatfm.com:9150/stream",
+        "url": "https://yayin.serhatfm.com:9150/stream",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -2922,7 +2922,7 @@
     },
     {
         "name": "Sezen Radyo",
-        "url": "http://radyo1.radyo-dinle.tc:8038/",
+        "url": "https://radyo1.radyo-dinle.tc:8038/",
         "country": "TR",
         "favicon": "https://www.sezenradyo.com/favicon",
         "codec": "MP3",
@@ -2930,7 +2930,7 @@
     },
     {
         "name": "Show Radyo",
-        "url": "http://showradyo.radyotvonline.net/showradyoaac/",
+        "url": "https://showradyo.radyotvonline.net/showradyoaac/",
         "country": "TR",
         "favicon": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
         "codec": "AAC",
@@ -2938,7 +2938,7 @@
     },
     {
         "name": "SIZIR FM",
-        "url": "http://stream.radiojar.com/tamm1f7kk48uv",
+        "url": "https://stream.radiojar.com/tamm1f7kk48uv",
         "country": "TR",
         "favicon": "https://sizirfm.com/assets/favicon.ico",
         "codec": "MP3",
@@ -2970,7 +2970,7 @@
     },
     {
         "name": "Süper FM",
-        "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
+        "url": "https://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
         "country": "TR",
         "favicon": "",
         "codec": "AAC+",
@@ -3010,7 +3010,7 @@
     },
     {
         "name": "Tezene",
-        "url": "http://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream",
+        "url": "https://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -3162,7 +3162,7 @@
     },
     {
         "name": "TRT3",
-        "url": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+        "url": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
         "country": "TR",
         "favicon": "https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg",
         "codec": "AAC",
@@ -3186,7 +3186,7 @@
     },
     {
         "name": "Turku Radyo",
-        "url": "http://radyo.turkuradyo.net:4591/turkuradyo",
+        "url": "https://radyo.turkuradyo.net:4591/turkuradyo",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -3210,7 +3210,7 @@
     },
     {
         "name": "Türkülerle Türkiye",
-        "url": "http://37.247.98.8/stream/22/;",
+        "url": "https://37.247.98.8/stream/22/;",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -3226,7 +3226,7 @@
     },
     {
         "name": "Turkuvaz Anadolu",
-        "url": "http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8",
+        "url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8",
         "country": "TR",
         "favicon": "",
         "codec": "AAC",
@@ -3306,7 +3306,7 @@
     },
     {
         "name": "Virgin Radio Türkiye",
-        "url": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
+        "url": "https://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
         "country": "TR",
         "favicon": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
         "codec": "MP3",
@@ -3322,7 +3322,7 @@
     },
     {
         "name": "WORLD HİTS",
-        "url": "http://37.247.98.8/stream/34/",
+        "url": "https://37.247.98.8/stream/34/",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",
@@ -3330,7 +3330,7 @@
     },
     {
         "name": "X Radio",
-        "url": "http://yayin.radyomadyo.com:8770/",
+        "url": "https://yayin.radyomadyo.com:8770/",
         "country": "TR",
         "favicon": "https://xradio.com.tr/favicon.ico",
         "codec": "AAC+",
@@ -3354,7 +3354,7 @@
     },
     {
         "name": "Yeni Radyo Nostaljinin Sesi",
-        "url": "http://51.255.235.165:26113/stream",
+        "url": "https://51.255.235.165:26113/stream",
         "country": "TR",
         "favicon": "",
         "codec": "MP3",

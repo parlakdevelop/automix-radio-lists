@@ -64,12 +64,12 @@
     },
     {
         "name": "Antena Caro",
-        "url": "http://streaming.enantena.com:8000/antenacaro128.mp3",
+        "url": "https://streaming.enantena.com:8000/antenacaro128.mp3",
         "country": "ES",
         "favicon": "https://antenacaro.cat/wp-content/uploads/2021/02/cropped-favicon-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/antenacaro128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/antenacaro128.mp3"
     },
     {
         "name": "Antena CEMU",
@@ -82,21 +82,21 @@
     },
     {
         "name": "Antena Cemu Radio 89.2 FM",
-        "url": "http://str1.mediatelekom.net:8110/;",
+        "url": "https://str1.mediatelekom.net:8110/;",
         "country": "ES",
         "favicon": "https://antenacemu.com/wp-content/uploads/2017/05/logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://str1.mediatelekom.net:8110/;"
+        "working_url": "https://str1.mediatelekom.net:8110/;"
     },
     {
         "name": "Antena Huelva 97.3 FM",
-        "url": "http://stm1.emiteonline.com:8024/antenahuelva",
+        "url": "https://stm1.emiteonline.com:8024/antenahuelva",
         "country": "ES",
         "favicon": "https://antenahuelva.com/data/images_cus/logo.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stm1.emiteonline.com:8024/antenahuelva"
+        "working_url": "https://stm1.emiteonline.com:8024/antenahuelva"
     },
     {
         "name": "ANTENITA",
@@ -145,48 +145,48 @@
     },
     {
         "name": "Armonia Duero",
-        "url": "http://s5.myradiostream.com:42840/stream",
+        "url": "https://s5.myradiostream.com:42840/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s5.myradiostream.com:42840/stream"
+        "working_url": "https://s5.myradiostream.com:42840/stream"
     },
     {
         "name": "Armonía Duero 107.7 FM",
-        "url": "http://s5.myradiostream.com:42840/listen.mp3",
+        "url": "https://s5.myradiostream.com:42840/listen.mp3",
         "country": "ES",
         "favicon": "https://myradiostream.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s5.myradiostream.com:42840/listen.mp3"
+        "working_url": "https://s5.myradiostream.com:42840/listen.mp3"
     },
     {
         "name": "Arraio Irratia",
-        "url": "http://irratia.arraio.eus:9001/irratia.ogg",
+        "url": "https://irratia.arraio.eus:9001/irratia.ogg",
         "country": "ES",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 48,
-        "working_url": "http://irratia.arraio.eus:9001/irratia.ogg"
+        "working_url": "https://irratia.arraio.eus:9001/irratia.ogg"
     },
     {
         "name": "ARRATE-TX",
-        "url": "http://online.arrateirratia.eus/zuzenean",
+        "url": "https://online.arrateirratia.eus/zuzenean",
         "country": "ES",
         "favicon": "https://arrateirratia.eus/wp-content/uploads/2025/07/logo-ARRATE-IRRATIA-2-110x110.png",
         "codec": "AAC+",
         "bitrate": 30,
-        "working_url": "http://online.arrateirratia.eus/zuzenean"
+        "working_url": "https://online.arrateirratia.eus/zuzenean"
     },
     {
         "name": "Asón FM 96.4",
-        "url": "http://ns100.emisionlocal.com:8064/stream",
+        "url": "https://ns100.emisionlocal.com:8064/stream",
         "country": "ES",
         "favicon": "http://www.asonfm.com/wp-content/uploads/2018/06/OOR_ASONFM_Logo1.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ns100.emisionlocal.com:8064/stream"
+        "working_url": "https://ns100.emisionlocal.com:8064/stream"
     },
     {
         "name": "Astra FM",
@@ -334,12 +334,12 @@
     },
     {
         "name": "Boom FM Granada 103.8",
-        "url": "http://streaming.elitecomunicacion.es:8086/;",
+        "url": "https://streaming.elitecomunicacion.es:8086/;",
         "country": "ES",
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/dxfd6gkkklvm.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.elitecomunicacion.es:8086/;"
+        "working_url": "https://streaming.elitecomunicacion.es:8086/;"
     },
     {
         "name": "BSide",
@@ -388,12 +388,12 @@
     },
     {
         "name": "Cadena Dial",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
         "country": "ES",
         "favicon": "https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://29073.live.streamtheworld.com/CADENADIAL.mp3"
+        "working_url": "https://29073.live.streamtheworld.com/CADENADIAL.mp3"
     },
     {
         "name": "Cadena Dial - Arahal",
@@ -406,12 +406,12 @@
     },
     {
         "name": "Cadena Digital 97.8 FM",
-        "url": "http://185.23.192.118:8006/;",
+        "url": "https://185.23.192.118:8006/;",
         "country": "ES",
         "favicon": "http://www.cadenadigital.com/wp-content/uploads/2019/11/cropped-cabecera3-1.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.23.192.118:8006/;"
+        "working_url": "https://185.23.192.118:8006/;"
     },
     {
         "name": "Cadena Élite",
@@ -424,12 +424,12 @@
     },
     {
         "name": "Cadena Energía ÁGUILAS 99.1 - CARAVACA DE LA CRUZ 90.0 - LORCA 93.1 - MURCIA 89.3",
-        "url": "http://streaming.elitecomunicacion.es:8122/aguilas",
+        "url": "https://streaming.elitecomunicacion.es:8122/aguilas",
         "country": "ES",
         "favicon": "http://cadenaenergia.es/imagenes/logo.png ",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.elitecomunicacion.es:8122/aguilas"
+        "working_url": "https://streaming.elitecomunicacion.es:8122/aguilas"
     },
     {
         "name": "CADENA JOVEN RADIO 107.3 FM",
@@ -451,12 +451,12 @@
     },
     {
         "name": "cadena ser",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://25693.live.streamtheworld.com/CADENASER.mp3"
+        "working_url": "https://25693.live.streamtheworld.com/CADENASER.mp3"
     },
     {
         "name": "Cadena Ser - Las Palmas",
@@ -496,21 +496,21 @@
     },
     {
         "name": "Cadena SER - Radio Bierzo",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3",
         "country": "ES",
         "favicon": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.wikipedia.org/wiki/Archivo:Logo-cadena-ser--300x128.png&ved=2ahUKEwinrbG7wfiVAxVwVqQEHWZlHpwQFnoECCIQAQ&usg=AOvVaw2OaTyLWGbSihj1QiGbWUdn",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://20043.live.streamtheworld.com/SER_ASO_BIERZO.mp3"
+        "working_url": "https://20043.live.streamtheworld.com/SER_ASO_BIERZO.mp3"
     },
     {
         "name": "Cadena Ser - Radio León",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3",
         "country": "ES",
         "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://20043.live.streamtheworld.com/SER_ASO_LEON.mp3"
+        "working_url": "https://20043.live.streamtheworld.com/SER_ASO_LEON.mp3"
     },
     {
         "name": "Cadena SER - Radio Morón",
@@ -532,12 +532,12 @@
     },
     {
         "name": "Cadena SER - Radio Valencia",
-        "url": "http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC",
+        "url": "https://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC",
         "country": "ES",
         "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC"
+        "working_url": "https://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC"
     },
     {
         "name": "Cadena SER - Radio Vigo",
@@ -928,12 +928,12 @@
     },
     {
         "name": "Cadena Ser Haro Rioja Alta Radio Haro",
-        "url": "http://streaming.capsulaimposible.com:8000/radioharo.mp3",
+        "url": "https://streaming.capsulaimposible.com:8000/radioharo.mp3",
         "country": "ES",
         "favicon": "https://www.radioharo.com/wp-content/uploads/2016/12/cropped-logo2-180x180.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://streaming.capsulaimposible.com:8000/radioharo.mp3"
+        "working_url": "https://streaming.capsulaimposible.com:8000/radioharo.mp3"
     },
     {
         "name": "Cadena Ser Madrid Sur",
@@ -946,21 +946,21 @@
     },
     {
         "name": "Cadena SER Málaga",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3",
         "country": "ES",
         "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=86",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://25483.live.streamtheworld.com/SER_MALAGA.mp3"
+        "working_url": "https://25483.live.streamtheworld.com/SER_MALAGA.mp3"
     },
     {
         "name": "Cadena Ser Mallorca",
-        "url": "http://25483.live.streamtheworld.com/SER_MALLORCA_SC",
+        "url": "https://25483.live.streamtheworld.com/SER_MALLORCA_SC",
         "country": "ES",
         "favicon": "http://cadenaser.com/pf/resources/img/favicon.png?d=946",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://25483.live.streamtheworld.com/SER_MALLORCA_SC"
+        "working_url": "https://25483.live.streamtheworld.com/SER_MALLORCA_SC"
     },
     {
         "name": "Cadena SER Palencia",
@@ -991,39 +991,39 @@
     },
     {
         "name": "Cadena Ser Radio Galicia",
-        "url": "http://25543.live.streamtheworld.com/SER_GALICIA_SC",
+        "url": "https://25543.live.streamtheworld.com/SER_GALICIA_SC",
         "country": "ES",
         "favicon": "http://3.bp.blogspot.com/-6HQBwesyGkA/UsijZaOkLtI/AAAAAAAAJH8/N6qv-1OYkwA/s1600/Radio+Galicia.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://25543.live.streamtheworld.com/SER_GALICIA_SC"
+        "working_url": "https://25543.live.streamtheworld.com/SER_GALICIA_SC"
     },
     {
         "name": "Cadena SER Radio MADRID",
-        "url": "http://server7.20comunicacion.com:8040/",
+        "url": "https://server7.20comunicacion.com:8040/",
         "country": "ES",
         "favicon": "https://cadenaser00.epimg.net/favicon.png",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://server7.20comunicacion.com:8040/"
+        "working_url": "https://server7.20comunicacion.com:8040/"
     },
     {
         "name": "Cadena SER Radio Menorca",
-        "url": "http://server10.emitironline.com:8040/",
+        "url": "https://server10.emitironline.com:8040/",
         "country": "ES",
         "favicon": "https://cadenaser05.epimg.net/favicon.png",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://server10.emitironline.com:8040/"
+        "working_url": "https://server10.emitironline.com:8040/"
     },
     {
         "name": "Cadena SER Radio Murcia",
-        "url": "http://25433.live.streamtheworld.com/SER_MURCIA_SC",
+        "url": "https://25433.live.streamtheworld.com/SER_MURCIA_SC",
         "country": "ES",
         "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_ser.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://25433.live.streamtheworld.com/SER_MURCIA_SC"
+        "working_url": "https://25433.live.streamtheworld.com/SER_MURCIA_SC"
     },
     {
         "name": "Cadena Ser Radio Nordes",
@@ -1090,30 +1090,30 @@
     },
     {
         "name": "Cafe Mambo Ibiza Radio",
-        "url": "http://streamer.radio.co/sd7b28e5f3/listen",
+        "url": "https://streamer.radio.co/sd7b28e5f3/listen",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://streamer.radio.co/sd7b28e5f3/listen"
+        "working_url": "https://streamer.radio.co/sd7b28e5f3/listen"
     },
     {
         "name": "Calafell Ràdio",
-        "url": "http://streaming.enantena.com:8000/calafellradio128.mp3?_=1",
+        "url": "https://streaming.enantena.com:8000/calafellradio128.mp3?_=1",
         "country": "ES",
         "favicon": "http://calafell.tv/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/calafellradio128.mp3?_=1"
+        "working_url": "https://streaming.enantena.com:8000/calafellradio128.mp3?_=1"
     },
     {
         "name": "CalamarRradio",
-        "url": "http://www.calamarrradio.org:8000/stream",
+        "url": "https://www.calamarrradio.org:8000/stream",
         "country": "ES",
         "favicon": "https://www.calamarrradio.org/wp-content/uploads/2020/05/icons8-tentaculos-50-e1588315296706.png",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://www.calamarrradio.org:8000/stream"
+        "working_url": "https://www.calamarrradio.org:8000/stream"
     },
     {
         "name": "Calimbre Radio",
@@ -1144,12 +1144,12 @@
     },
     {
         "name": "Canal Axarquía 89.6 FM",
-        "url": "http://radioserver11.profesionalhosting.com:9177/live",
+        "url": "https://radioserver11.profesionalhosting.com:9177/live",
         "country": "ES",
         "favicon": "https://canalaxarquia.com/wp-content/uploads/2021/04/640x400-e1695239086132.jpg ",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://radioserver11.profesionalhosting.com:9177/live"
+        "working_url": "https://radioserver11.profesionalhosting.com:9177/live"
     },
     {
         "name": "Canal Blau",
@@ -1162,12 +1162,12 @@
     },
     {
         "name": "Canal Ebro Radio",
-        "url": "http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3",
+        "url": "https://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3",
         "country": "ES",
         "favicon": "https://www.canalebro.com/wp-content/uploads/2016/11/Canal-Ebro-Radio-logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3"
+        "working_url": "https://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3"
     },
     {
         "name": "Canal Extremadura Radio",
@@ -1252,12 +1252,12 @@
     },
     {
         "name": "Cantabria FM 89.9",
-        "url": "http://stream.zeno.fm/jndgdm0esn9vv",
+        "url": "https://stream.zeno.fm/jndgdm0esn9vv",
         "country": "ES",
         "favicon": "https://cantabriafm.com/____impro/1/onewebmedia/logonegrorgojo.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-175.surfernetwork.com/jndgdm0esn9vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqbmRnZG0wZXNuOXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ4cHBGZ181aFQ2MnNCYksyT3RSNWFRIiwiaWF0IjoxNzg2NDcwMTIyLCJleHAiOjE3ODY0NzAxODJ9.lhPL4BTAaym7jNAq8FQlUAp0AKhBWzuHouCS9ciNHns"
+        "working_url": "https://stream-175.surfernetwork.com/jndgdm0esn9vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqbmRnZG0wZXNuOXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ4cHBGZ181aFQ2MnNCYksyT3RSNWFRIiwiaWF0IjoxNzg2NDcwMTIyLCJleHAiOjE3ODY0NzAxODJ9.lhPL4BTAaym7jNAq8FQlUAp0AKhBWzuHouCS9ciNHns"
     },
     {
         "name": "Capital Radio Madrid",
@@ -1279,12 +1279,12 @@
     },
     {
         "name": "Carrusel FM",
-        "url": "http://server6.20comunicacion.com:8921/;",
+        "url": "https://server6.20comunicacion.com:8921/;",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://server6.20comunicacion.com:8921/;"
+        "working_url": "https://server6.20comunicacion.com:8921/;"
     },
     {
         "name": "Castro Punto Radio 88.2 FM",
@@ -1351,30 +1351,30 @@
     },
     {
         "name": "Chanquete Costa del Sol 105.2 FM",
-        "url": "http://185.23.192.118:8012/;",
+        "url": "https://185.23.192.118:8012/;",
         "country": "ES",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://185.23.192.118:8012/;"
+        "working_url": "https://185.23.192.118:8012/;"
     },
     {
         "name": "Chanquete FM 102.5",
-        "url": "http://185.23.192.118:8014/;",
+        "url": "https://185.23.192.118:8014/;",
         "country": "ES",
         "favicon": "http://www.chanquetefm.com/imagenes/para-escuchar-online.png ",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.23.192.118:8014/;"
+        "working_url": "https://185.23.192.118:8014/;"
     },
     {
         "name": "Chanquete FM 99.5",
-        "url": "http://185.23.192.118:8008/;",
+        "url": "https://185.23.192.118:8008/;",
         "country": "ES",
         "favicon": "http://www.chanquetefm.com/imagenes/para-escuchar-online.png ",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://185.23.192.118:8008/;"
+        "working_url": "https://185.23.192.118:8008/;"
     },
     {
         "name": "Chocolate FM",
@@ -1387,21 +1387,21 @@
     },
     {
         "name": "Chocolate FM [calidad móvil-low bandwidth]",
-        "url": "http://streaming5.elitecomunicacion.es:8082/live32.aac",
+        "url": "https://streaming5.elitecomunicacion.es:8082/live32.aac",
         "country": "ES",
         "favicon": "https://chocolatefm.com/radio-browser.png",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://streaming5.elitecomunicacion.es:8082/live32.aac"
+        "working_url": "https://streaming5.elitecomunicacion.es:8082/live32.aac"
     },
     {
         "name": "Chocolate FM HD",
-        "url": "http://streaming5.elitecomunicacion.es:8030/live.mp3",
+        "url": "https://streaming5.elitecomunicacion.es:8030/live.mp3",
         "country": "ES",
         "favicon": "https://www.chocolatefm.com/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://streaming5.elitecomunicacion.es:8030/live.mp3"
+        "working_url": "https://streaming5.elitecomunicacion.es:8030/live.mp3"
     },
     {
         "name": "Cinema radio",
@@ -1432,12 +1432,12 @@
     },
     {
         "name": "Closta Blanca Radio",
-        "url": "http://stream.costablancaradio.nl/costablancaradio",
+        "url": "https://stream.costablancaradio.nl/costablancaradio",
         "country": "ES",
         "favicon": "https://costablancaradio.nl/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://stream.costablancaradio.nl/costablancaradio"
+        "working_url": "https://stream.costablancaradio.nl/costablancaradio"
     },
     {
         "name": "Coast FM Tenerife Spain",
@@ -1486,12 +1486,12 @@
     },
     {
         "name": "Contrabanda FM",
-        "url": "http://www.contrabanda.org:8000/contrabanda",
+        "url": "https://www.contrabanda.org:8000/contrabanda",
         "country": "ES",
         "favicon": "https://www.contrabanda.org/wp-content/uploads/2021/01/cropped-miniatura_CBFM_2-180x180.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://www.contrabanda.org:8000/contrabanda"
+        "working_url": "https://www.contrabanda.org:8000/contrabanda"
     },
     {
         "name": "Cool Coffee",
@@ -1504,12 +1504,12 @@
     },
     {
         "name": "COPE + Sevilla",
-        "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
+        "url": "https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
+        "working_url": "https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
     },
     {
         "name": "COPE A CORUÑA",
@@ -1522,21 +1522,21 @@
     },
     {
         "name": "Cope Carballiño",
-        "url": "http://radio.copecarballino.es:8000/directo.mp3",
+        "url": "https://radio.copecarballino.es:8000/directo.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.copecarballino.es:8000/directo.mp3"
+        "working_url": "https://radio.copecarballino.es:8000/directo.mp3"
     },
     {
         "name": "COPE Cartagena",
-        "url": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3",
+        "url": "https://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3",
         "country": "ES",
         "favicon": "https://www.cope.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3"
+        "working_url": "https://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3"
     },
     {
         "name": "Cope Castellón",
@@ -1558,30 +1558,30 @@
     },
     {
         "name": "Cope Granada",
-        "url": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3",
+        "url": "https://flucast13-h-cloud.flumotion.com/cope/net1.mp3",
         "country": "ES",
         "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
+        "working_url": "https://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
     },
     {
         "name": "COPE Málaga",
-        "url": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
+        "url": "https://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
         "country": "ES",
         "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3"
+        "working_url": "https://flucast28-h-cloud.flumotion.com/cope/net1.mp3"
     },
     {
         "name": "COPE Santander",
-        "url": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3",
+        "url": "https://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3",
         "country": "ES",
         "favicon": "http://static-1.ivooxcdn.com/radios/0/4/0/3/6371460973040_XXL.jpg",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3"
+        "working_url": "https://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3"
     },
     {
         "name": "COPE Tenerife",
@@ -1630,12 +1630,12 @@
     },
     {
         "name": "COSTA DEL MAR",
-        "url": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill",
+        "url": "https://stream.cdm-chillout.com:8020/stream-AAC-Chill",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill"
+        "working_url": "https://stream.cdm-chillout.com:8020/stream-AAC-Chill"
     },
     {
         "name": "Costa del Mar - Chillout",
@@ -1684,12 +1684,12 @@
     },
     {
         "name": "Cugat Ràdio",
-        "url": "http://directe.cugat.cat/directeHQ.mp3",
+        "url": "https://directe.cugat.cat/directeHQ.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://directe.cugat.cat/directeHQ.mp3"
+        "working_url": "https://directe.cugat.cat/directeHQ.mp3"
     },
     {
         "name": "Dance Wave Retro!",
@@ -1698,16 +1698,16 @@
         "favicon": "https://dancewave.online/dwr_logo.png",
         "codec": "OGG",
         "bitrate": 0,
-        "working_url": "http://stream1.dancewave.online:8080/retrodance.flac.ogg"
+        "working_url": "https://stream1.dancewave.online:8080/retrodance.flac.ogg"
     },
     {
         "name": "Das Inselradio Mallorca",
-        "url": "http://addrad.io/445fxk9",
+        "url": "https://addrad.io/445fxk9",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://inselradiomallorca.stream06.radiohost.de/inselradiomallorca-live_mp3-128?ar-distributor=f0d1&upd-meta=1&upd-scheme=http&ref=f0d1&amsparams=f0d1&_art=dD0xNzg2NDcwNDI1JmQ9ODVjOWYwN2RlMDMyOTBiMmE0YjY"
+        "working_url": "https://inselradiomallorca.stream06.radiohost.de/inselradiomallorca-live_mp3-128?ar-distributor=f0d1&upd-meta=1&upd-scheme=http&ref=f0d1&amsparams=f0d1&_art=dD0xNzg2NDcwNDI1JmQ9ODVjOWYwN2RlMDMyOTBiMmE0YjY"
     },
     {
         "name": "Das Inselradio Malorca",
@@ -1738,12 +1738,12 @@
     },
     {
         "name": "Decada FM 100.1",
-        "url": "http://streaming5.elitecomunicacion.es:8230/;",
+        "url": "https://streaming5.elitecomunicacion.es:8230/;",
         "country": "ES",
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/B53XD4NWpt.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming5.elitecomunicacion.es:8230/;"
+        "working_url": "https://streaming5.elitecomunicacion.es:8230/;"
     },
     {
         "name": "DEEP NU HOUSE Radio by SO&SO",
@@ -1810,12 +1810,12 @@
     },
     {
         "name": "Distinta FM SANTANDER - CANTABRIA89.6LLUCMAJOR - MALLORCA107.9",
-        "url": "http://ns100.emisionlocal.com:8050/;stream.mp3",
+        "url": "https://ns100.emisionlocal.com:8050/;stream.mp3",
         "country": "ES",
         "favicon": "http://distintafm.es/wp-content/uploads/2015/01/logo-negro-pq1.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ns100.emisionlocal.com:8050/;stream.mp3"
+        "working_url": "https://ns100.emisionlocal.com:8050/;stream.mp3"
     },
     {
         "name": "Diversia Radio Activa",
@@ -1828,12 +1828,12 @@
     },
     {
         "name": "dj mapache",
-        "url": "http://stream.zeno.fm/tr9qda8tz7zuv",
+        "url": "https://stream.zeno.fm/tr9qda8tz7zuv",
         "country": "ES",
         "favicon": "https://zeno.fm/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-175.surfernetwork.com/tr9qda8tz7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cjlxZGE4dHo3enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJJUEJVdXo2d1I5TzBOdnptR3ZlTE5nIiwiaWF0IjoxNzg2NDcwMTI1LCJleHAiOjE3ODY0NzAxODV9.8nROaXu19rhxzOcmVBPktnZNQCRhFze4itS64smwMpg"
+        "working_url": "https://stream-175.surfernetwork.com/tr9qda8tz7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cjlxZGE4dHo3enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJJUEJVdXo2d1I5TzBOdnptR3ZlTE5nIiwiaWF0IjoxNzg2NDcwMTI1LCJleHAiOjE3ODY0NzAxODV9.8nROaXu19rhxzOcmVBPktnZNQCRhFze4itS64smwMpg"
     },
     {
         "name": "DMT-FM - EU Server 320k",
@@ -1909,21 +1909,21 @@
     },
     {
         "name": "Ecuashyri Radio 103.7 FM",
-        "url": "http://streaming.hdserver.biz:9336/;/stream",
+        "url": "https://streaming.hdserver.biz:9336/;/stream",
         "country": "ES",
         "favicon": "https://i.postimg.cc/sfSgY1W0/logo-ecuashyri.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://streaming.hdserver.biz:9336/;/stream"
+        "working_url": "https://streaming.hdserver.biz:9336/;/stream"
     },
     {
         "name": "EDENEX",
-        "url": "http://164.138.210.62:13121/stream",
+        "url": "https://164.138.210.62:13121/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://164.138.210.62:13121/stream"
+        "working_url": "https://164.138.210.62:13121/stream"
     },
     {
         "name": "EDM Festival - Online Radio",
@@ -1945,12 +1945,12 @@
     },
     {
         "name": "Efecto FM 89.0Mhz",
-        "url": "http://directo.efectofm.es:19000/;",
+        "url": "https://directo.efectofm.es:19000/;",
         "country": "ES",
         "favicon": "https://efectofm.es/EfectoFMMix.jpeg",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://directo.efectofm.es:19000/;"
+        "working_url": "https://directo.efectofm.es:19000/;"
     },
     {
         "name": "Eguzki Irratia",
@@ -1963,30 +1963,30 @@
     },
     {
         "name": "EITB Irratia",
-        "url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3",
+        "url": "https://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3",
         "country": "ES",
         "favicon": "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
         "codec": "MP3",
         "bitrate": 125,
-        "working_url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
+        "working_url": "https://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
     },
     {
         "name": "EITB Radio Euskadi",
-        "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
+        "url": "https://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
         "country": "ES",
         "favicon": "https://static.mytuner.mobi/media/radios-150px/101/eitb-radio-euskadi.319d7d06.png",
         "codec": "MP3",
         "bitrate": 125,
-        "working_url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
+        "working_url": "https://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
     },
     {
         "name": "El 9 FM",
-        "url": "http://radio.el9fm.cat:8000/stream",
+        "url": "https://radio.el9fm.cat:8000/stream",
         "country": "ES",
         "favicon": "http://el9nou.cat/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.el9fm.cat:8000/stream"
+        "working_url": "https://radio.el9fm.cat:8000/stream"
     },
     {
         "name": "El Toro TV",
@@ -1999,30 +1999,30 @@
     },
     {
         "name": "ElectroDanceWorld Radio",
-        "url": "http://stream.zeno.fm/s70bvdgqks8uv",
+        "url": "https://stream.zeno.fm/s70bvdgqks8uv",
         "country": "ES",
         "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://stream-178.surfernetwork.com/s70bvdgqks8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNzBidmRncWtzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJGd1RPWFd5MVJiS0pWbFRjQ0VTeTdnIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.8n9wgTkXwygsM6wRSJVx2wgNutz-xadvD43anBhGL3A"
+        "working_url": "https://stream-178.surfernetwork.com/s70bvdgqks8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNzBidmRncWtzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJGd1RPWFd5MVJiS0pWbFRjQ0VTeTdnIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.8n9wgTkXwygsM6wRSJVx2wgNutz-xadvD43anBhGL3A"
     },
     {
         "name": "Elite Fm",
-        "url": "http://stream.zeno.fm/atsvz45arm0uv",
+        "url": "https://stream.zeno.fm/atsvz45arm0uv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-178.surfernetwork.com/atsvz45arm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhdHN2ejQ1YXJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJKdWd5cl9hQlFtV2cycGNHOE03bFlRIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.RNd3TnomXeEVRRQsIiQaf1wVW5ta1aI5HSyCH27ayKM"
+        "working_url": "https://stream-178.surfernetwork.com/atsvz45arm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhdHN2ejQ1YXJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJKdWd5cl9hQlFtV2cycGNHOE03bFlRIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.RNd3TnomXeEVRRQsIiQaf1wVW5ta1aI5HSyCH27ayKM"
     },
     {
         "name": "Elite Radio Guadix",
-        "url": "http://streaming2.elitecomunicacion.es:8606/stream",
+        "url": "https://streaming2.elitecomunicacion.es:8606/stream",
         "country": "ES",
         "favicon": "https://www.eliteradio.es/images/ELITE%20RADIO_2016.jpg",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://streaming2.elitecomunicacion.es:8606/stream"
+        "working_url": "https://streaming2.elitecomunicacion.es:8606/stream"
     },
     {
         "name": "Eme Radio",
@@ -2044,12 +2044,12 @@
     },
     {
         "name": "Emoción Radio",
-        "url": "http://topradio.one:8057/autodj",
+        "url": "https://topradio.one:8057/autodj",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://topradio.one:8057/autodj"
+        "working_url": "https://topradio.one:8057/autodj"
     },
     {
         "name": "Eñe Radio",
@@ -2071,12 +2071,12 @@
     },
     {
         "name": "ENERGIA FM - CARAVACA DE LA CRUZ 90.0",
-        "url": "http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3",
+        "url": "https://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3"
+        "working_url": "https://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3"
     },
     {
         "name": "Energia Fm Valencia",
@@ -2107,30 +2107,30 @@
     },
     {
         "name": "ES RADIO LAS PALMAS 91.1",
-        "url": "http://uk1.streamingpulse.com:7039/stream",
+        "url": "https://uk1.streamingpulse.com:7039/stream",
         "country": "ES",
         "favicon": "https://esradiolaspalmas.es/cmsAdmin/uploads/o_1dgv04pkjuvm16laugg1bp41ieea.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://uk1.streamingpulse.com:7039/stream"
+        "working_url": "https://uk1.streamingpulse.com:7039/stream"
     },
     {
         "name": "Esencia Radio",
-        "url": "http://stream.zenolive.com/qaxnuxap0rquv",
+        "url": "https://stream.zenolive.com/qaxnuxap0rquv",
         "country": "ES",
         "favicon": "http://www.esenciaradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-285.surfernetwork.com/qaxnuxap0rquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYXhudXhhcDBycXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMZzFxcGd5Z1RFYWZmdTVpbkJneHpBIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.IY-1ReQaTw6omSXMWA7-EdWRg36WAjdb6r_uDcCWbiM"
+        "working_url": "https://stream-285.surfernetwork.com/qaxnuxap0rquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYXhudXhhcDBycXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMZzFxcGd5Z1RFYWZmdTVpbkJneHpBIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.IY-1ReQaTw6omSXMWA7-EdWRg36WAjdb6r_uDcCWbiM"
     },
     {
         "name": "Esencia Radio Tres Cantos",
-        "url": "http://stream.zenolive.com/51nrp77pbsquv",
+        "url": "https://stream.zenolive.com/51nrp77pbsquv",
         "country": "ES",
         "favicon": "https://www.esenciaradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-288.surfernetwork.com/51nrp77pbsquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MW5ycDc3cGJzcXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJDaHpPNVlVaFFSQ3Y2QjY3SXVQem9BIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.YaQFzKhIOY9ZKjvC1MBWwz-GPpzDMHGgJbZCreYR-Rg"
+        "working_url": "https://stream-288.surfernetwork.com/51nrp77pbsquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MW5ycDc3cGJzcXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJDaHpPNVlVaFFSQ3Y2QjY3SXVQem9BIiwiaWF0IjoxNzg2NDcwMTI2LCJleHAiOjE3ODY0NzAxODZ9.YaQFzKhIOY9ZKjvC1MBWwz-GPpzDMHGgJbZCreYR-Rg"
     },
     {
         "name": "Espana Network",
@@ -2170,12 +2170,12 @@
     },
     {
         "name": "EsRadio Asturias",
-        "url": "http://server9.emitironline.com:8822/radio",
+        "url": "https://server9.emitironline.com:8822/radio",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 48,
-        "working_url": "http://server9.emitironline.com:8822/radio"
+        "working_url": "https://server9.emitironline.com:8822/radio"
     },
     {
         "name": "esRadio Castilla y León",
@@ -2233,21 +2233,21 @@
     },
     {
         "name": "esRadio_AAC",
-        "url": "http://livestreaming9.esradio.fm/aaclive32",
+        "url": "https://livestreaming9.esradio.fm/aaclive32",
         "country": "ES",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 56,
-        "working_url": "http://livestreaming9.esradio.fm/aaclive32"
+        "working_url": "https://livestreaming9.esradio.fm/aaclive32"
     },
     {
         "name": "Estéreo Latino 103.8 FM",
-        "url": "http://server3.20comunicacion.com:8028/;",
+        "url": "https://server3.20comunicacion.com:8028/;",
         "country": "ES",
         "favicon": "https://cdn.onlineradiobox.com/img/l/9/5359.v3.png",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://server3.20comunicacion.com:8028/;"
+        "working_url": "https://server3.20comunicacion.com:8028/;"
     },
     {
         "name": "Estudio Radio",
@@ -2269,21 +2269,21 @@
     },
     {
         "name": "Euskadi irratia",
-        "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
+        "url": "https://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 125,
-        "working_url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
+        "working_url": "https://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
     },
     {
         "name": "Euskalerria Irratia",
-        "url": "http://server4.beatproducciones.com:8014/",
+        "url": "https://server4.beatproducciones.com:8014/",
         "country": "ES",
         "favicon": "https://euskalerriairratia.eus/static/img/favicons/fav128.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://server4.beatproducciones.com:8014/"
+        "working_url": "https://server4.beatproducciones.com:8014/"
     },
     {
         "name": "Exa FM",
@@ -2296,12 +2296,12 @@
     },
     {
         "name": "Exito Radio",
-        "url": "http://5.135.183.124:9252/stream",
+        "url": "https://5.135.183.124:9252/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://5.135.183.124:9252/stream"
+        "working_url": "https://5.135.183.124:9252/stream"
     },
     {
         "name": "Fedi Drama Radio",
@@ -2314,12 +2314,12 @@
     },
     {
         "name": "FeLove Biblia en Español",
-        "url": "http://radio.produccionescasaverde.com:8696/autodj",
+        "url": "https://radio.produccionescasaverde.com:8696/autodj",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.produccionescasaverde.com:8696/autodj"
+        "working_url": "https://radio.produccionescasaverde.com:8696/autodj"
     },
     {
         "name": "Fibwi Radio",
@@ -2368,12 +2368,12 @@
     },
     {
         "name": "FIESTA FM LEVANTE - ALICANTE 88,4 / ELCHE 95.2",
-        "url": "http://cdn4.onstream.audio:9181/stream",
+        "url": "https://cdn4.onstream.audio:9181/stream",
         "country": "ES",
         "favicon": "https://cdn-radiotime-logos.tunein.com/s152831d.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://cdn4.onstream.audio:9181/stream"
+        "working_url": "https://cdn4.onstream.audio:9181/stream"
     },
     {
         "name": "Flaix FM",
@@ -2404,12 +2404,12 @@
     },
     {
         "name": "Flamenco Radio Art",
-        "url": "http://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
+        "url": "https://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
+        "working_url": "https://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
     },
     {
         "name": "Flash Radio",
@@ -2440,21 +2440,21 @@
     },
     {
         "name": "Forever The Beatles (MP3)",
-        "url": "http://stream.zeno.fm/bucptksk6ebtv",
+        "url": "https://stream.zeno.fm/bucptksk6ebtv",
         "country": "ES",
         "favicon": "https://i.ibb.co/gMsNVsvK/image.webp",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-179.surfernetwork.com/bucptksk6ebtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidWNwdGtzazZlYnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJTWGZ6MEFFaVJLbXdnR2RHUmtvLURBIiwiaWF0IjoxNzg2NDcwMTI4LCJleHAiOjE3ODY0NzAxODh9.H0gZfBsUGM2aONKMCwgbW7VXZPGjRuxagQy5c8wzPEc"
+        "working_url": "https://stream-179.surfernetwork.com/bucptksk6ebtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidWNwdGtzazZlYnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJTWGZ6MEFFaVJLbXdnR2RHUmtvLURBIiwiaWF0IjoxNzg2NDcwMTI4LCJleHAiOjE3ODY0NzAxODh9.H0gZfBsUGM2aONKMCwgbW7VXZPGjRuxagQy5c8wzPEc"
     },
     {
         "name": "Formula 30",
-        "url": "http://stm1.emiteonline.com:8001/formula30",
+        "url": "https://stm1.emiteonline.com:8001/formula30",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm1.emiteonline.com:8001/formula30"
+        "working_url": "https://stm1.emiteonline.com:8001/formula30"
     },
     {
         "name": "FÓRMULA FUN",
@@ -2539,7 +2539,7 @@
     },
     {
         "name": "Free FM Love",
-        "url": "http://stream.zeno.fm/umsptm6rvy8uv",
+        "url": "https://stream.zeno.fm/umsptm6rvy8uv",
         "country": "ES",
         "favicon": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
         "codec": "AAC",
@@ -2566,7 +2566,7 @@
     },
     {
         "name": "Free FM Top 100",
-        "url": "http://stream.zeno.fm/a5h7vfret68uv",
+        "url": "https://stream.zeno.fm/a5h7vfret68uv",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
@@ -2575,7 +2575,7 @@
     },
     {
         "name": "Free FM X-Mas",
-        "url": "http://stream.zeno.fm/h60er015v68uv",
+        "url": "https://stream.zeno.fm/h60er015v68uv",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
@@ -2584,7 +2584,7 @@
     },
     {
         "name": "Free Techno",
-        "url": "http://audio.apps.dj/freetechno",
+        "url": "https://audio.apps.dj/freetechno",
         "country": "ES",
         "favicon": "",
         "codec": "OGG",
@@ -2593,12 +2593,12 @@
     },
     {
         "name": "Fresh Radio",
-        "url": "http://stream.zeno.fm/gzaf75yevceuv",
+        "url": "https://stream.zeno.fm/gzaf75yevceuv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-179.surfernetwork.com/gzaf75yevceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnemFmNzV5ZXZjZXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI0LXJNQWNMTFJPS1pfRlJPeGVvT2RRIiwiaWF0IjoxNzg2NDcwMTI5LCJleHAiOjE3ODY0NzAxODl9.pjefDK95McONh3WewJwAnPlNO2nYvi1UrLVbDHNFG7Y"
+        "working_url": "https://stream-179.surfernetwork.com/gzaf75yevceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnemFmNzV5ZXZjZXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI0LXJNQWNMTFJPS1pfRlJPeGVvT2RRIiwiaWF0IjoxNzg2NDcwMTI5LCJleHAiOjE3ODY0NzAxODl9.pjefDK95McONh3WewJwAnPlNO2nYvi1UrLVbDHNFG7Y"
     },
     {
         "name": "GameOver Music Radio",
@@ -2611,12 +2611,12 @@
     },
     {
         "name": "Gaztea Irratia",
-        "url": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
+        "url": "https://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
         "country": "ES",
         "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gaztea_Spain.svg",
         "codec": "MP3",
         "bitrate": 125,
-        "working_url": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
+        "working_url": "https://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
     },
     {
         "name": "Gente Radio",
@@ -2629,12 +2629,12 @@
     },
     {
         "name": "Gladys Palmera Coleccion",
-        "url": "http://streams.radio.co/s496c4d2e8/listen",
+        "url": "https://streams.radio.co/s496c4d2e8/listen",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.radio.co/s496c4d2e8/listen"
+        "working_url": "https://streams.radio.co/s496c4d2e8/listen"
     },
     {
         "name": "Gladys Palmera Latin Fresh",
@@ -2647,21 +2647,21 @@
     },
     {
         "name": "Gladys Palmera Radio Online",
-        "url": "http://streamer.radio.co/sb28a7fb81/listen",
+        "url": "https://streamer.radio.co/sb28a7fb81/listen",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streamer.radio.co/sb28a7fb81/listen"
+        "working_url": "https://streamer.radio.co/sb28a7fb81/listen"
     },
     {
         "name": "Globo FM",
-        "url": "http://sonic.sistemahost.es:8200/",
+        "url": "https://sonic.sistemahost.es:8200/",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://sonic.sistemahost.es:8200/"
+        "working_url": "https://sonic.sistemahost.es:8200/"
     },
     {
         "name": "Gran Via Radio Barcelona",
@@ -2719,12 +2719,12 @@
     },
     {
         "name": "Hit radio",
-        "url": "http://stm1.emiteonline.com:8004/hitelgrado",
+        "url": "https://stm1.emiteonline.com:8004/hitelgrado",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://stm1.emiteonline.com:8004/hitelgrado"
+        "working_url": "https://stm1.emiteonline.com:8004/hitelgrado"
     },
     {
         "name": "Hits 1 Ibiza",
@@ -2791,12 +2791,12 @@
     },
     {
         "name": "Hitz Latino FM",
-        "url": "http://stream.zeno.fm/aq899a53rs8uv",
+        "url": "https://stream.zeno.fm/aq899a53rs8uv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-178.surfernetwork.com/aq899a53rs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcTg5OWE1M3JzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrazZhTnI5R1FUaTd1NW5udjJVOWRnIiwiaWF0IjoxNzg2NDcwMTMwLCJleHAiOjE3ODY0NzAxOTB9.jZGCwpBiKr68XGCy9hGcYxyBnw4TN7K1rLtDpOjapZg"
+        "working_url": "https://stream-178.surfernetwork.com/aq899a53rs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcTg5OWE1M3JzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrazZhTnI5R1FUaTd1NW5udjJVOWRnIiwiaWF0IjoxNzg2NDcwMTMwLCJleHAiOjE3ODY0NzAxOTB9.jZGCwpBiKr68XGCy9hGcYxyBnw4TN7K1rLtDpOjapZg"
     },
     {
         "name": "HKM radio",
@@ -2809,21 +2809,21 @@
     },
     {
         "name": "Hola 95.7 FM 1 Costa Calma",
-        "url": "http://5.135.183.124:8207/stream",
+        "url": "https://5.135.183.124:8207/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://5.135.183.124:8207/stream"
+        "working_url": "https://5.135.183.124:8207/stream"
     },
     {
         "name": "Holiday Gym FM",
-        "url": "http://holidaygym.emitironline.com/",
+        "url": "https://holidaygym.emitironline.com/",
         "country": "ES",
         "favicon": "http://holidaygym.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://holidaygym.emitironline.com/"
+        "working_url": "https://holidaygym.emitironline.com/"
     },
     {
         "name": "Holland FM Gran Canaria",
@@ -2836,21 +2836,21 @@
     },
     {
         "name": "HOUSE Radio Spain",
-        "url": "http://house.urbanrevolution.es:8446/houseaac?ver=970478",
+        "url": "https://house.urbanrevolution.es:8446/houseaac?ver=970478",
         "country": "ES",
         "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://house.urbanrevolution.es:8446/houseaac?ver=970478"
+        "working_url": "https://house.urbanrevolution.es:8446/houseaac?ver=970478"
     },
     {
         "name": "http://str3.openstream.co/273",
-        "url": "http://str3.openstream.co/273",
+        "url": "https://str3.openstream.co/273",
         "country": "ES",
         "favicon": "https://www.radiodancefm.es/wp-content/uploads/2023/09/cropped-PLAYFM-192x192.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://str3.openstream.co/273"
+        "working_url": "https://str3.openstream.co/273"
     },
     {
         "name": "IBI RADIO by Xopo",
@@ -2872,12 +2872,12 @@
     },
     {
         "name": "Ibiza Global Radio",
-        "url": "http://ibizaglobalradio.streaming-pro.com:8024/",
+        "url": "https://ibizaglobalradio.streaming-pro.com:8024/",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://cdn-peer011.streaming-pro.com:8024/ibizaglobalradio.mp3"
+        "working_url": "https://cdn-peer011.streaming-pro.com:8024/ibizaglobalradio.mp3"
     },
     {
         "name": "Ibiza Live Radio",
@@ -2917,12 +2917,12 @@
     },
     {
         "name": "Ibiza Radios Deep House",
-        "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
+        "url": "https://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
         "country": "ES",
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj"
+        "working_url": "https://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj"
     },
     {
         "name": "Ibiza Radios Hits",
@@ -2935,12 +2935,12 @@
     },
     {
         "name": "Ibiza Radios Relax",
-        "url": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
+        "url": "https://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax"
+        "working_url": "https://54.38.43.201:8036/stream-128kmp3-IbizaRelax"
     },
     {
         "name": "Ibiza Sonica",
@@ -2967,7 +2967,7 @@
         "favicon": "https://d2zc6zei1a4ice.cloudfront.net/media/cover-image/8c300ce3e1054fccb270c3156f715d60.600x600_q85_crop.jpg?Expires=1788912000&Signature=NN4~~0dkElqOZYCq~YfkKn73HqS4D6~oc3sdtGpHzeMNaekH2poA9ZoAYky9a2h9WUbXI6jrLWMABsMpJ4pe2DmcVhBit0VtwsxS5G34c-D8QpgZwdEn9YnxrnusFBPBGqDt~zndJqek7ufyE7HMFSDQXfs7JPvcqP-1hgtZlHmwlavR~-lJOLEjLWL5Am1Ywki0igjBlNRy18CSIS-3x2JpuS1HLPOd7aIu2jjQswt8U4q8JvjUwyPmiP2SVZXDa6VEq5NnVcKkA9mWste797BR0rInL~oeoc0lWWb1sEyr368JNDJP8GvVou7P3aXDiVPdmMz~aFSn8l-9iPSpyg__&Key-Pair-Id=KWDD4JQ4TPZC8",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n04.radiojar.com/vt992kyru72vv?rj-ttl=5&rj-tok=AAABn_H0D4MAxdDsBnw0V7H2hA"
+        "working_url": "https://n04.radiojar.com/vt992kyru72vv?rj-ttl=5&rj-tok=AAABn_H0D4MAxdDsBnw0V7H2hA"
     },
     {
         "name": "Ibiza Sonica Club",
@@ -3088,21 +3088,21 @@
     },
     {
         "name": "INOLVIDABLE FM   95.8FM",
-        "url": "http://uk1.streamingpulse.com:7115/stream",
+        "url": "https://uk1.streamingpulse.com:7115/stream",
         "country": "ES",
         "favicon": "https://inolvidablefm.es/cmsAdmin/uploads/o_1cip71di11qji1q9jcsoai11pgoa.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://uk1.streamingpulse.com:7115/stream"
+        "working_url": "https://uk1.streamingpulse.com:7115/stream"
     },
     {
         "name": "Inthemix FM 96.2",
-        "url": "http://streaming.enantena.com:8000/radiosentmenat96.mp3",
+        "url": "https://streaming.enantena.com:8000/radiosentmenat96.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://streaming.enantena.com:8000/radiosentmenat96.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiosentmenat96.mp3"
     },
     {
         "name": "Intimidad Radio",
@@ -3151,12 +3151,12 @@
     },
     {
         "name": "Jazler FM",
-        "url": "http://solid48.streamupsolutions.com:8091/stream",
+        "url": "https://solid48.streamupsolutions.com:8091/stream",
         "country": "ES",
         "favicon": "https://jazler.com/wp-content/themes/jazlersoftware-child/img/favicon/apple-touch-icon.png?v=1",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://solid48.streamupsolutions.com:8091/stream"
+        "working_url": "https://solid48.streamupsolutions.com:8091/stream"
     },
     {
         "name": "Jazz FM Spain",
@@ -3169,12 +3169,12 @@
     },
     {
         "name": "Jazz Radio Bcn",
-        "url": "http://stream.zeno.fm/u40kkya8hg8uv",
+        "url": "https://stream.zeno.fm/u40kkya8hg8uv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-284.surfernetwork.com/u40kkya8hg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NDBra3lhOGhnOHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIwMURKVTdDRVJfNlNfdnYxelNUVGxRIiwiaWF0IjoxNzg2NDcwMTMyLCJleHAiOjE3ODY0NzAxOTJ9.6-RGPcQOYqUVBwz7abVpOaSxr74eSl9_67LZ1KUqhKo"
+        "working_url": "https://stream-284.surfernetwork.com/u40kkya8hg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NDBra3lhOGhnOHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIwMURKVTdDRVJfNlNfdnYxelNUVGxRIiwiaWF0IjoxNzg2NDcwMTMyLCJleHAiOjE3ODY0NzAxOTJ9.6-RGPcQOYqUVBwz7abVpOaSxr74eSl9_67LZ1KUqhKo"
     },
     {
         "name": "Jazz Radio Spain",
@@ -3214,12 +3214,12 @@
     },
     {
         "name": "K-Rock Europe",
-        "url": "http://tv.radiohosting.online:8982/stream",
+        "url": "https://tv.radiohosting.online:8982/stream",
         "country": "ES",
         "favicon": "https://www.k-rock.eu/cms/wp-content/uploads/2000x1200-1-copy-1-1536x922.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://tv.radiohosting.online:8982/stream"
+        "working_url": "https://tv.radiohosting.online:8982/stream"
     },
     {
         "name": "KAIBO RADIO",
@@ -3232,12 +3232,12 @@
     },
     {
         "name": "Kairos FM",
-        "url": "http://c7.radioboss.fm:8255/autodj",
+        "url": "https://c7.radioboss.fm:8255/autodj",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://c7.radioboss.fm:8255/autodj"
+        "working_url": "https://c7.radioboss.fm:8255/autodj"
     },
     {
         "name": "Khaos FM",
@@ -3295,21 +3295,21 @@
     },
     {
         "name": "Kora",
-        "url": "http://myradio24.org/koraradio",
+        "url": "https://myradio24.org/koraradio",
         "country": "ES",
         "favicon": "https://cdn-profiles.tunein.com/s357156/images/logod.png?t=639158363160000000",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://listen2.myradio24.com/koraradio"
+        "working_url": "https://listen2.myradio24.com/koraradio"
     },
     {
         "name": "L'OM PICASSENT RADIO by Xopo",
-        "url": "http://radiolom.es:8800/;&type=mp3",
+        "url": "https://radiolom.es:8800/;&type=mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiolom.es:8800/;&type=mp3"
+        "working_url": "https://radiolom.es:8800/;&type=mp3"
     },
     {
         "name": "La Clave Stereo 93.6",
@@ -3322,12 +3322,12 @@
     },
     {
         "name": "La Cuarta FM",
-        "url": "http://radio.amgroupmkt.com:1050/stream",
+        "url": "https://radio.amgroupmkt.com:1050/stream",
         "country": "ES",
         "favicon": "https://lacuarta.com/pf/resources/la-cuarta//images/icons/favicon.ico?d=752",
         "codec": "AAC+",
         "bitrate": 16,
-        "working_url": "http://radio.amgroupmkt.com:1050/stream"
+        "working_url": "https://radio.amgroupmkt.com:1050/stream"
     },
     {
         "name": "La Diez Capital Radio",
@@ -3421,12 +3421,12 @@
     },
     {
         "name": "La Mega Radio",
-        "url": "http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3",
+        "url": "https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3",
         "country": "ES",
         "favicon": "https://www.lamegamalaga.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3"
+        "working_url": "https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3"
     },
     {
         "name": "La MIX Radio",
@@ -3520,12 +3520,12 @@
     },
     {
         "name": "Loca Ambient",
-        "url": "http://s02.fjperezdj.com:8036/live",
+        "url": "https://s02.fjperezdj.com:8036/live",
         "country": "ES",
         "favicon": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8036/live"
+        "working_url": "https://s02.fjperezdj.com:8036/live"
     },
     {
         "name": "Loca FM",
@@ -3538,102 +3538,102 @@
     },
     {
         "name": "LOCA FM 80s",
-        "url": "http://s02.fjperezdj.com:8075/live",
+        "url": "https://s02.fjperezdj.com:8075/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8075/live"
+        "working_url": "https://s02.fjperezdj.com:8075/live"
     },
     {
         "name": "LOCA FM Child Out",
-        "url": "http://s02.fjperezdj.com:8006/live",
+        "url": "https://s02.fjperezdj.com:8006/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8006/live"
+        "working_url": "https://s02.fjperezdj.com:8006/live"
     },
     {
         "name": "LOCA FM DANCE",
-        "url": "http://s02.fjperezdj.com:8025/live",
+        "url": "https://s02.fjperezdj.com:8025/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8025/live"
+        "working_url": "https://s02.fjperezdj.com:8025/live"
     },
     {
         "name": "Loca FM Deep Techno",
-        "url": "http://s02.fjperezdj.com:8066/live",
+        "url": "https://s02.fjperezdj.com:8066/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8066/live"
+        "working_url": "https://s02.fjperezdj.com:8066/live"
     },
     {
         "name": "LOCA FM House",
-        "url": "http://s02.fjperezdj.com:8026/live",
+        "url": "https://s02.fjperezdj.com:8026/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8026/live"
+        "working_url": "https://s02.fjperezdj.com:8026/live"
     },
     {
         "name": "Loca FM Industrial",
-        "url": "http://s02.fjperezdj.com:8076/live",
+        "url": "https://s02.fjperezdj.com:8076/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8076/live"
+        "working_url": "https://s02.fjperezdj.com:8076/live"
     },
     {
         "name": "Loca FM live",
-        "url": "http://s3.we4stream.com:8045/liv",
+        "url": "https://s3.we4stream.com:8045/liv",
         "country": "ES",
         "favicon": "http://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://s3.we4stream.com:8045/liv"
+        "working_url": "https://s3.we4stream.com:8045/liv"
     },
     {
         "name": "LOCA FM TechHouse",
-        "url": "http://s02.fjperezdj.com:8046/live",
+        "url": "https://s02.fjperezdj.com:8046/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8046/live"
+        "working_url": "https://s02.fjperezdj.com:8046/live"
     },
     {
         "name": "LOCA FM Techno",
-        "url": "http://s02.fjperezdj.com:8050/live",
+        "url": "https://s02.fjperezdj.com:8050/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8050/live"
+        "working_url": "https://s02.fjperezdj.com:8050/live"
     },
     {
         "name": "LOCA FM Trance",
-        "url": "http://s02.fjperezdj.com:8055/live",
+        "url": "https://s02.fjperezdj.com:8055/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8055/live"
+        "working_url": "https://s02.fjperezdj.com:8055/live"
     },
     {
         "name": "Loca FM Urban",
-        "url": "http://locafm02.we4stream.com:8015/live",
+        "url": "https://locafm02.we4stream.com:8015/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://locafm02.we4stream.com:8015/live"
+        "working_url": "https://locafm02.we4stream.com:8015/live"
     },
     {
         "name": "Loca Progressive House",
@@ -3655,21 +3655,21 @@
     },
     {
         "name": "LocaFM Melodic Deep",
-        "url": "http://s02.fjperezdj.com:8056/live",
+        "url": "https://s02.fjperezdj.com:8056/live",
         "country": "ES",
         "favicon": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8056/live"
+        "working_url": "https://s02.fjperezdj.com:8056/live"
     },
     {
         "name": "LOCAFM REMEMBER",
-        "url": "http://s02.fjperezdj.com:8035/live",
+        "url": "https://s02.fjperezdj.com:8035/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s02.fjperezdj.com:8035/live"
+        "working_url": "https://s02.fjperezdj.com:8035/live"
     },
     {
         "name": "Lola Fm",
@@ -3709,12 +3709,12 @@
     },
     {
         "name": "Los 40 Catalunya",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC",
         "country": "ES",
         "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://25533.live.streamtheworld.com/LOS40_CAT_SC"
+        "working_url": "https://25533.live.streamtheworld.com/LOS40_CAT_SC"
     },
     {
         "name": "Los 40 classic",
@@ -3934,12 +3934,12 @@
     },
     {
         "name": "MDT Radio",
-        "url": "http://streams1.mdtradio.com:8020/mdtweb",
+        "url": "https://streams1.mdtradio.com:8020/mdtweb",
         "country": "ES",
         "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logowebok.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams1.mdtradio.com:8020/mdtweb"
+        "working_url": "https://streams1.mdtradio.com:8020/mdtweb"
     },
     {
         "name": "MDT RADIO Alicante 90.4 FM",
@@ -4006,12 +4006,12 @@
     },
     {
         "name": "Mega St☆r Spain",
-        "url": "http://stream-151.zeno.fm/04uk5f3aqs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNHVrNWYzYXFzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVNrdWFuM3ZRbC1Ra2lIa1RzdHd1QSIsImlhdCI6MTc2ODQ1MDA0OSwiZXhwIjoxNzY4NDUwMTA5fQ.dA6SBbqbcubN0xMAHSmEpIFCDudKp8MRQS1YHy-ycE0",
+        "url": "https://stream-151.zeno.fm/04uk5f3aqs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNHVrNWYzYXFzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVNrdWFuM3ZRbC1Ra2lIa1RzdHd1QSIsImlhdCI6MTc2ODQ1MDA0OSwiZXhwIjoxNzY4NDUwMTA5fQ.dA6SBbqbcubN0xMAHSmEpIFCDudKp8MRQS1YHy-ycE0",
         "country": "ES",
         "favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-280.surfernetwork.com/04uk5f3aqs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNHVrNWYzYXFzOHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiJCMHIwcWFEc1FBbVpoZVh0MlpCM0x3IiwiaWF0IjoxNzg2NDcwMTM3LCJleHAiOjE3ODY0NzAxOTd9.5LJ8QI2po4TQ0PPnmIFfIhC1OcJWV1CfcZirwu_4aic"
+        "working_url": "https://stream-280.surfernetwork.com/04uk5f3aqs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNHVrNWYzYXFzOHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiJCMHIwcWFEc1FBbVpoZVh0MlpCM0x3IiwiaWF0IjoxNzg2NDcwMTM3LCJleHAiOjE3ODY0NzAxOTd9.5LJ8QI2po4TQ0PPnmIFfIhC1OcJWV1CfcZirwu_4aic"
     },
     {
         "name": "MegaStar FM",
@@ -4024,12 +4024,12 @@
     },
     {
         "name": "MegaStarFM",
-        "url": "http://flucast-bl05.flumotion.com/cope/megastar.mp3",
+        "url": "https://flucast-bl05.flumotion.com/cope/megastar.mp3",
         "country": "ES",
         "favicon": "https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://flucast-bl05.flumotion.com/cope/megastar.mp3"
+        "working_url": "https://flucast-bl05.flumotion.com/cope/megastar.mp3"
     },
     {
         "name": "Melodia Para Dos",
@@ -4096,12 +4096,12 @@
     },
     {
         "name": "Mixadance Fm",
-        "url": "http://stream.mixadance.fm:8000/mixadance",
+        "url": "https://stream.mixadance.fm:8000/mixadance",
         "country": "ES",
         "favicon": "https://radiosamui.online/album/logo_mxd.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://stream.mixadance.fm:8000/mixadance"
+        "working_url": "https://stream.mixadance.fm:8000/mixadance"
     },
     {
         "name": "Montserrat Ràdio",
@@ -4123,12 +4123,12 @@
     },
     {
         "name": "MortalFM",
-        "url": "http://server6.20comunicacion.com:8044/;",
+        "url": "https://server6.20comunicacion.com:8044/;",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://server6.20comunicacion.com:8044/;"
+        "working_url": "https://server6.20comunicacion.com:8044/;"
     },
     {
         "name": "motiva DANCE",
@@ -4177,12 +4177,12 @@
     },
     {
         "name": "musicBox",
-        "url": "http://stm1.emiteonline.com:8025/musicbox",
+        "url": "https://stm1.emiteonline.com:8025/musicbox",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm1.emiteonline.com:8025/musicbox"
+        "working_url": "https://stm1.emiteonline.com:8025/musicbox"
     },
     {
         "name": "Muy buena",
@@ -4249,12 +4249,12 @@
     },
     {
         "name": "Olimpica",
-        "url": "http://eu1.lhdserver.es:3080/stream",
+        "url": "https://eu1.lhdserver.es:3080/stream",
         "country": "ES",
         "favicon": "https://olimpicastereo.es/assets/images/logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://eu1.lhdserver.es:3080/stream"
+        "working_url": "https://eu1.lhdserver.es:3080/stream"
     },
     {
         "name": "Olimpica Stereo - Burgos",
@@ -4321,12 +4321,12 @@
     },
     {
         "name": "Ona Malgrat",
-        "url": "http://streaming.enantena.com:8000/onamalgrat128.mp3",
+        "url": "https://streaming.enantena.com:8000/onamalgrat128.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/onamalgrat128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/onamalgrat128.mp3"
     },
     {
         "name": "Ona Mediterrània",
@@ -4366,21 +4366,21 @@
     },
     {
         "name": "Onda Aragonesa",
-        "url": "http://eu1.lhdserver.es:9046/stream",
+        "url": "https://eu1.lhdserver.es:9046/stream",
         "country": "ES",
         "favicon": "https://cdn.onlineradiobox.com/img/logo/4/92484.v2.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://eu1.lhdserver.es:9046/stream"
+        "working_url": "https://eu1.lhdserver.es:9046/stream"
     },
     {
         "name": "Onda Aranjuez",
-        "url": "http://server8.emitironline.com:18544/stream",
+        "url": "https://server8.emitironline.com:18544/stream",
         "country": "ES",
         "favicon": "https://www.aranjuez.es/wp-content/uploads/2016/10/cropped-aranjuezlogo_sintexto-192x192.png",
         "codec": "MP3",
         "bitrate": 48,
-        "working_url": "http://server8.emitironline.com:18544/stream"
+        "working_url": "https://server8.emitironline.com:18544/stream"
     },
     {
         "name": "Onda Bierzo",
@@ -4699,12 +4699,12 @@
     },
     {
         "name": "Onda Torrente Radio",
-        "url": "http://5.135.183.124:8073/stream",
+        "url": "https://5.135.183.124:8073/stream",
         "country": "ES",
         "favicon": "https://www.ondatorrentradio.com",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://5.135.183.124:8073/stream"
+        "working_url": "https://5.135.183.124:8073/stream"
     },
     {
         "name": "Onda Valencia Radio",
@@ -4717,21 +4717,21 @@
     },
     {
         "name": "Onda Vasca",
-        "url": "http://www.ondavasca.com:8000/bizkaia",
+        "url": "https://www.ondavasca.com:8000/bizkaia",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 48,
-        "working_url": "http://ondavascaplayer.com:8000/bizkaia"
+        "working_url": "https://ondavascaplayer.com:8000/bizkaia"
     },
     {
         "name": "Onda Vasca Gipuzkoa",
-        "url": "http://www.ondavasca.com:8000/gipuzkoa",
+        "url": "https://www.ondavasca.com:8000/gipuzkoa",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ondavascaplayer.com:8000/gipuzkoa"
+        "working_url": "https://ondavascaplayer.com:8000/gipuzkoa"
     },
     {
         "name": "Onda Wantuki",
@@ -4834,21 +4834,21 @@
     },
     {
         "name": "Oro",
-        "url": "http://185.23.192.118:8002/;",
+        "url": "https://185.23.192.118:8002/;",
         "country": "ES",
         "favicon": "http://radiooromalaga.radio.es/assets/fav/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.23.192.118:8002/;"
+        "working_url": "https://185.23.192.118:8002/;"
     },
     {
         "name": "Otaku MusicRadio",
-        "url": "http://kathy.torontocast.com:2880/;",
+        "url": "https://kathy.torontocast.com:2880/;",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://kathy.torontocast.com:2880/;"
+        "working_url": "https://kathy.torontocast.com:2880/;"
     },
     {
         "name": "Our Music Hub Spain",
@@ -4870,12 +4870,12 @@
     },
     {
         "name": "Pepe Radio",
-        "url": "http://server10.emitironline.com:8032/",
+        "url": "https://server10.emitironline.com:8032/",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://server10.emitironline.com:8032/"
+        "working_url": "https://server10.emitironline.com:8032/"
     },
     {
         "name": "Perfect Chillout live",
@@ -4924,12 +4924,12 @@
     },
     {
         "name": "Più 39 FM",
-        "url": "http://sr7.inmystream.it/proxy/antonio?mp=/stream",
+        "url": "https://sr7.inmystream.it/proxy/antonio?mp=/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://sr7.inmystream.it/proxy/antonio?mp=/stream"
+        "working_url": "https://sr7.inmystream.it/proxy/antonio?mp=/stream"
     },
     {
         "name": "PLAY FM",
@@ -4969,12 +4969,12 @@
     },
     {
         "name": "PlayFM",
-        "url": "http://radioplaneta.emitironline.com:8000/",
+        "url": "https://radioplaneta.emitironline.com:8000/",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://radioplaneta.emitironline.com:8000/"
+        "working_url": "https://radioplaneta.emitironline.com:8000/"
     },
     {
         "name": "PlayTrance Radio - Main Channel",
@@ -5059,12 +5059,12 @@
     },
     {
         "name": "Qfm",
-        "url": "http://51.255.235.165:5092/;",
+        "url": "https://51.255.235.165:5092/;",
         "country": "ES",
         "favicon": "http://cdn-radiotime-logos.tunein.com/s48765q.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://51.255.235.165:5092/;"
+        "working_url": "https://51.255.235.165:5092/;"
     },
     {
         "name": "Queer Uno",
@@ -5113,12 +5113,12 @@
     },
     {
         "name": "Radio 1 Hits 90s",
-        "url": "http://c4.auracast.net:8050/stream",
+        "url": "https://c4.auracast.net:8050/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://c4.auracast.net:8050/stream"
+        "working_url": "https://c4.auracast.net:8050/stream"
     },
     {
         "name": "radio 65",
@@ -5131,12 +5131,12 @@
     },
     {
         "name": "Radio 7 Barakaldo",
-        "url": "http://radio7.streaming-pro.com:6146/radio7.mp3",
+        "url": "https://radio7.streaming-pro.com:6146/radio7.mp3",
         "country": "ES",
         "favicon": "https://tele7.tv/wp-content/uploads/cropped-logo_tele7.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://radio7.streaming-pro.com:6146/radio7.mp3"
+        "working_url": "https://radio7.streaming-pro.com:6146/radio7.mp3"
     },
     {
         "name": "Radio 90",
@@ -5167,16 +5167,16 @@
     },
     {
         "name": "Ràdio Abrera",
-        "url": "http://streaming.enantena.com:8000/radioabrera128.mp3",
+        "url": "https://streaming.enantena.com:8000/radioabrera128.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://streaming.enantena.com:8000/radioabrera128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radioabrera128.mp3"
     },
     {
         "name": "Radio Agalaria",
-        "url": "http://stream-177.zeno.fm/u7u1gx32608uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1N3UxZ3gzMjYwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVm5TdmVGQktULXFQNjlCTEtoQnFhUSIsImlhdCI6MTc2ODQzNzIxNCwiZXhwIjoxNzY4NDM3Mjc0fQ.v-TUN978EdeFc2s9OaEIGNYwszZWaa7Mz9XJ3ou5Uic",
+        "url": "https://stream-177.zeno.fm/u7u1gx32608uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1N3UxZ3gzMjYwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVm5TdmVGQktULXFQNjlCTEtoQnFhUSIsImlhdCI6MTc2ODQzNzIxNCwiZXhwIjoxNzY4NDM3Mjc0fQ.v-TUN978EdeFc2s9OaEIGNYwszZWaa7Mz9XJ3ou5Uic",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
@@ -5185,12 +5185,12 @@
     },
     {
         "name": "Radio Agueda",
-        "url": "http://str1.mediatelekom.net:8736/live",
+        "url": "https://str1.mediatelekom.net:8736/live",
         "country": "ES",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://str1.mediatelekom.net:8736/live"
+        "working_url": "https://str1.mediatelekom.net:8736/live"
     },
     {
         "name": "Radio Aguilar",
@@ -5239,12 +5239,12 @@
     },
     {
         "name": "Radio Almendralejo",
-        "url": "http://srv0510.lcinternet.com:8004/stream",
+        "url": "https://srv0510.lcinternet.com:8004/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://srv0510.lcinternet.com:8004/stream"
+        "working_url": "https://srv0510.lcinternet.com:8004/stream"
     },
     {
         "name": "Ràdio Altea",
@@ -5266,12 +5266,12 @@
     },
     {
         "name": "Ràdio Arenys",
-        "url": "http://streaming.enantena.com:8000/radioarenysdemar128.mp3",
+        "url": "https://streaming.enantena.com:8000/radioarenysdemar128.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radioarenysdemar128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radioarenysdemar128.mp3"
     },
     {
         "name": "Ràdio Arenys de Munt",
@@ -5293,12 +5293,12 @@
     },
     {
         "name": "Ràdio Arrels",
-        "url": "http://stream.radios-arra.fr:8000/radioarrels",
+        "url": "https://stream.radios-arra.fr:8000/radioarrels",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.radios-arra.fr:8000/radioarrels"
+        "working_url": "https://stream.radios-arra.fr:8000/radioarrels"
     },
     {
         "name": "Radio Arte 107.7 FM",
@@ -5311,12 +5311,12 @@
     },
     {
         "name": "Radio Aspe",
-        "url": "http://streaming.enantena.com:8000/radioaspe128.mp3",
+        "url": "https://streaming.enantena.com:8000/radioaspe128.mp3",
         "country": "ES",
         "favicon": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs111994g.png&f=1&nofb=1&ipt=3231544952a85d980ee0b548784045ae105a843f489ddd973da34fdd2fe83449&ipo=images",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radioaspe128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radioaspe128.mp3"
     },
     {
         "name": "Radio Ateos de Barcelona",
@@ -5347,21 +5347,21 @@
     },
     {
         "name": "Ràdio Balaguer",
-        "url": "http://79.148.125.91:8020/;stream.nsv",
+        "url": "https://79.148.125.91:8020/;stream.nsv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://79.148.125.91:8020/;stream.nsv"
+        "working_url": "https://79.148.125.91:8020/;stream.nsv"
     },
     {
         "name": "Radio Balear 99.9 Palma de Mallorca",
-        "url": "http://server6.20comunicacion.com:8076/",
+        "url": "https://server6.20comunicacion.com:8076/",
         "country": "ES",
         "favicon": "https://radiobalear.net/wp-content/uploads/2025/01/cropped-icono-rb2-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://server6.20comunicacion.com:8076/"
+        "working_url": "https://server6.20comunicacion.com:8076/"
     },
     {
         "name": "Radio Begur",
@@ -5419,7 +5419,7 @@
     },
     {
         "name": "Radio Cadena Stereo España",
-        "url": "http://stream-179.zeno.fm/kpe30u471mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcGUzMHU0NzFtcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjFlamJMTVJSMXlrYURWRXZYampOdyIsImlhdCI6MTc2ODQ0OTU5NiwiZXhwIjoxNzY4NDQ5NjU2fQ.uvtvUUkwol4JWAUTOZVefJE64iDxlDcsQUoMSl2wiTQ",
+        "url": "https://stream-179.zeno.fm/kpe30u471mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcGUzMHU0NzFtcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjFlamJMTVJSMXlrYURWRXZYampOdyIsImlhdCI6MTc2ODQ0OTU5NiwiZXhwIjoxNzY4NDQ5NjU2fQ.uvtvUUkwol4JWAUTOZVefJE64iDxlDcsQUoMSl2wiTQ",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
@@ -5464,12 +5464,12 @@
     },
     {
         "name": "Ràdio Capital",
-        "url": "http://streaming.martiproduccions.com:8000/capitalhd",
+        "url": "https://streaming.martiproduccions.com:8000/capitalhd",
         "country": "ES",
         "favicon": "https://www.radiocapital.cat/wp-content/uploads/2014/09/logo_tune_in-85x85.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://streaming.martiproduccions.com:8000/capitalhd"
+        "working_url": "https://streaming.martiproduccions.com:8000/capitalhd"
     },
     {
         "name": "Ràdio Capital de l'Empordà",
@@ -5482,21 +5482,21 @@
     },
     {
         "name": "Radio Carrizal",
-        "url": "http://streaming.enantena.com:8000/radiocarrizal128.mp3",
+        "url": "https://streaming.enantena.com:8000/radiocarrizal128.mp3",
         "country": "ES",
         "favicon": "http://carrizal.radio.es/assets/fav/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiocarrizal128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiocarrizal128.mp3"
     },
     {
         "name": "Radio Casares",
-        "url": "http://srv0435.lcinternet.com:9507/stream",
+        "url": "https://srv0435.lcinternet.com:9507/stream",
         "country": "ES",
         "favicon": "https://casaresradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://srv0435.lcinternet.com:9507/stream"
+        "working_url": "https://srv0435.lcinternet.com:9507/stream"
     },
     {
         "name": "Radio Castelldefels",
@@ -5509,12 +5509,12 @@
     },
     {
         "name": "Radio Cehel Albuñol",
-        "url": "http://topradio.one:8054/stream",
+        "url": "https://topradio.one:8054/stream",
         "country": "ES",
         "favicon": "https://www.albunol.es/images/Ayto/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://topradio.one:8054/stream"
+        "working_url": "https://topradio.one:8054/stream"
     },
     {
         "name": "Ràdio Ciutat Barcelona",
@@ -5563,30 +5563,30 @@
     },
     {
         "name": "Radio Cret 1080 AM",
-        "url": "http://radiocret.net:8000/live",
+        "url": "https://radiocret.net:8000/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiocret.net:8000/live"
+        "working_url": "https://radiocret.net:8000/live"
     },
     {
         "name": "Radio Crónicas Folk",
-        "url": "http://antares.dribbcast.com/proxy/rcfm?mp=/stream",
+        "url": "https://antares.dribbcast.com/proxy/rcfm?mp=/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://antares.dribbcast.com/proxy/rcfm?mp=/stream"
+        "working_url": "https://antares.dribbcast.com/proxy/rcfm?mp=/stream"
     },
     {
         "name": "Radio del Hogar de la Brisa",
-        "url": "http://stream.zeno.fm/4vwgvyq82k8uv",
+        "url": "https://stream.zeno.fm/4vwgvyq82k8uv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-179.surfernetwork.com/4vwgvyq82k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dndndnlxODJrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ3VTZUUzNoX1J1U2k0YlRGenlLcUV3IiwiaWF0IjoxNzg2NDcwMTQ4LCJleHAiOjE3ODY0NzAyMDh9.kqms0patVpalXiGrJymOdVVqKhGQcQ9JumSjGgquN3k"
+        "working_url": "https://stream-179.surfernetwork.com/4vwgvyq82k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dndndnlxODJrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ3VTZUUzNoX1J1U2k0YlRGenlLcUV3IiwiaWF0IjoxNzg2NDcwMTQ4LCJleHAiOjE3ODY0NzAyMDh9.kqms0patVpalXiGrJymOdVVqKhGQcQ9JumSjGgquN3k"
     },
     {
         "name": "Radio Despi",
@@ -5617,30 +5617,30 @@
     },
     {
         "name": "Radio DOS 84",
-        "url": "http://188.93.73.7:8064/",
+        "url": "https://188.93.73.7:8064/",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://188.93.73.7:8064/"
+        "working_url": "https://188.93.73.7:8064/"
     },
     {
         "name": "Radio Ebro",
-        "url": "http://s2.prositel.net:7010/ebrofm",
+        "url": "https://s2.prositel.net:7010/ebrofm",
         "country": "ES",
         "favicon": "https://cdn.onlineradiobox.com/img/l/1/5271.v12.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s2.prositel.net:7010/ebrofm"
+        "working_url": "https://s2.prositel.net:7010/ebrofm"
     },
     {
         "name": "Radio El Palmar",
-        "url": "http://topradio.one:8027/autodj",
+        "url": "https://topradio.one:8027/autodj",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://topradio.one:8027/autodj"
+        "working_url": "https://topradio.one:8027/autodj"
     },
     {
         "name": "Ràdio el Vendrell",
@@ -5653,12 +5653,12 @@
     },
     {
         "name": "Radio Encuentro",
-        "url": "http://www.rkmradio.com:8000/stream/4/",
+        "url": "https://www.rkmradio.com:8000/stream/4/",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://www.rkmradio.com:8000/stream/4/"
+        "working_url": "https://www.rkmradio.com:8000/stream/4/"
     },
     {
         "name": "Radio Espacio",
@@ -5680,12 +5680,12 @@
     },
     {
         "name": "Radio España - Directo",
-        "url": "http://stream-156.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDc4X1N2bFRRamFDc2drbWI4MEtUZyIsImlhdCI6MTc2ODQ1OTA4NCwiZXhwIjoxNzY4NDU5MTQ0fQ.CCTHpaSX8NRfLXGtKsTxDD41V-88RgRrjItVaTtyAgU",
+        "url": "https://stream-156.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDc4X1N2bFRRamFDc2drbWI4MEtUZyIsImlhdCI6MTc2ODQ1OTA4NCwiZXhwIjoxNzY4NDU5MTQ0fQ.CCTHpaSX8NRfLXGtKsTxDD41V-88RgRrjItVaTtyAgU",
         "country": "ES",
         "favicon": "https://myradioonline.es/public/uploads/radio_img/radio-espana/fb_cover.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-175.surfernetwork.com/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiI3WGNJMUVnZVNFaUQydzhrZTJfLXR3IiwiaWF0IjoxNzg2NDcwMTQ4LCJleHAiOjE3ODY0NzAyMDh9.tT0ZyCNrzFSuYotMQZZpR4LCqu4rplq2S4vD5hxD64o"
+        "working_url": "https://stream-175.surfernetwork.com/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiI3WGNJMUVnZVNFaUQydzhrZTJfLXR3IiwiaWF0IjoxNzg2NDcwMTQ4LCJleHAiOjE3ODY0NzAyMDh9.tT0ZyCNrzFSuYotMQZZpR4LCqu4rplq2S4vD5hxD64o"
     },
     {
         "name": "Radio Esperantia",
@@ -5716,12 +5716,12 @@
     },
     {
         "name": "Radio Esport 94.1",
-        "url": "http://streaming.radioesport914.com:8000/stream",
+        "url": "https://streaming.radioesport914.com:8000/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.radioesport914.com:8000/stream"
+        "working_url": "https://streaming.radioesport914.com:8000/stream"
     },
     {
         "name": "Radio Esport Valencia",
@@ -5734,12 +5734,12 @@
     },
     {
         "name": "Radio Esquina",
-        "url": "http://argentina.republicahosting.com:8138/stream",
+        "url": "https://argentina.republicahosting.com:8138/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://argentina.republicahosting.com:8138/stream"
+        "working_url": "https://argentina.republicahosting.com:8138/stream"
     },
     {
         "name": "Radio Estepona-Costa del Sol",
@@ -5824,12 +5824,12 @@
     },
     {
         "name": "Radio Gáldar",
-        "url": "http://195.77.177.94:8000/stream",
+        "url": "https://195.77.177.94:8000/stream",
         "country": "ES",
         "favicon": "https://www.galdar.es/wp-content/uploads/2018/02/LOGO-RADIO-GALDAR.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://195.77.177.94:8000/stream"
+        "working_url": "https://195.77.177.94:8000/stream"
     },
     {
         "name": "Radio Galega",
@@ -5869,21 +5869,21 @@
     },
     {
         "name": "Radio Guadalix",
-        "url": "http://topradio.uno:8054/autodj",
+        "url": "https://topradio.uno:8054/autodj",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://topradio.uno:8054/autodj"
+        "working_url": "https://topradio.uno:8054/autodj"
     },
     {
         "name": "Radio Guardo",
-        "url": "http://server10.emitironline.com:10654/radi",
+        "url": "https://server10.emitironline.com:10654/radi",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://server10.emitironline.com:10654/radi"
+        "working_url": "https://server10.emitironline.com:10654/radi"
     },
     {
         "name": "Radio Guateque FM",
@@ -5896,12 +5896,12 @@
     },
     {
         "name": "Radio Guijuelo",
-        "url": "http://radio.guijuelo.es/emision/directo.ogg",
+        "url": "https://radio.guijuelo.es/emision/directo.ogg",
         "country": "ES",
         "favicon": "http://radio.guijuelo.es/wp-content/uploads/2021/01/cropped-Cabecera-radio-guijuelo.jpg",
         "codec": "OGG",
         "bitrate": 96,
-        "working_url": "http://radio.guijuelo.es/emision/directo.ogg"
+        "working_url": "https://radio.guijuelo.es/emision/directo.ogg"
     },
     {
         "name": "Radio Hallo",
@@ -5914,12 +5914,12 @@
     },
     {
         "name": "Radio Hogar de la Brisa",
-        "url": "http://stream.zeno.fm/ra4a8ebe0rhvv",
+        "url": "https://stream.zeno.fm/ra4a8ebe0rhvv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-175.surfernetwork.com/ra4a8ebe0rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyYTRhOGViZTByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI4aTNUYWNpN1JJaTJLUFFnRVFfSGlBIiwiaWF0IjoxNzg2NDcwMTQ5LCJleHAiOjE3ODY0NzAyMDl9.D7JXTFZ7jnrPw42W1az2OdKo-iUtacOLgozThiEfb08"
+        "working_url": "https://stream-175.surfernetwork.com/ra4a8ebe0rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyYTRhOGViZTByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI4aTNUYWNpN1JJaTJLUFFnRVFfSGlBIiwiaWF0IjoxNzg2NDcwMTQ5LCJleHAiOjE3ODY0NzAyMDl9.D7JXTFZ7jnrPw42W1az2OdKo-iUtacOLgozThiEfb08"
     },
     {
         "name": "Radio Hora",
@@ -6013,12 +6013,12 @@
     },
     {
         "name": "Radio Jesus Internacional",
-        "url": "http://s7.voscast.com:7618/;stream1699883723182/1",
+        "url": "https://s7.voscast.com:7618/;stream1699883723182/1",
         "country": "ES",
         "favicon": "http://nebula.wsimg.com/d3deb5f2be5141b6e76786284cf42400?AccessKeyId=CA93F0A97982B3FC6E1C&disposition=0&alloworigin=1",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://s7.voscast.com:7618/;stream1699883723182/1"
+        "working_url": "https://s7.voscast.com:7618/;stream1699883723182/1"
     },
     {
         "name": "Radio KaseMaster",
@@ -6031,12 +6031,12 @@
     },
     {
         "name": "Radio Kras",
-        "url": "http://www.giss.tv:8000/RadioKras.mp3",
+        "url": "https://www.giss.tv:8000/RadioKras.mp3",
         "country": "ES",
         "favicon": "http://radiokras.blogspot.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://www.giss.tv:8000/RadioKras.mp3"
+        "working_url": "https://www.giss.tv:8000/RadioKras.mp3"
     },
     {
         "name": "Radio Kvrruf",
@@ -6058,12 +6058,12 @@
     },
     {
         "name": "Ràdio l'Om",
-        "url": "http://radiolom.es:8800/;stream.mp3",
+        "url": "https://radiolom.es:8800/;stream.mp3",
         "country": "ES",
         "favicon": "https://radiolom.es/wp-content/uploads/2013/09/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiolom.es:8800/;stream.mp3"
+        "working_url": "https://radiolom.es:8800/;stream.mp3"
     },
     {
         "name": "Radio La Botica",
@@ -6085,12 +6085,12 @@
     },
     {
         "name": "Radio La Roda",
-        "url": "http://94.76.165.97:9830/;stream.mp3",
+        "url": "https://94.76.165.97:9830/;stream.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://94.76.165.97:9830/;stream.mp3"
+        "working_url": "https://94.76.165.97:9830/;stream.mp3"
     },
     {
         "name": "Ràdio la Selva",
@@ -6121,12 +6121,12 @@
     },
     {
         "name": "RADIO LAS PALMAS 97.3FM",
-        "url": "http://uk1.streamingpulse.com:7066/stream",
+        "url": "https://uk1.streamingpulse.com:7066/stream",
         "country": "ES",
         "favicon": "https://www.radiolaspalmas.com/cmsAdmin/uploads/logorlplow.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://uk1.streamingpulse.com:7066/stream"
+        "working_url": "https://uk1.streamingpulse.com:7066/stream"
     },
     {
         "name": "Radio Libertad",
@@ -6139,12 +6139,12 @@
     },
     {
         "name": "Radio Líder",
-        "url": "http://server9.emitironline.com:8200/stream",
+        "url": "https://server9.emitironline.com:8200/stream",
         "country": "ES",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://server9.emitironline.com:8200/stream"
+        "working_url": "https://server9.emitironline.com:8200/stream"
     },
     {
         "name": "Radio Líder Santiago",
@@ -6193,21 +6193,21 @@
     },
     {
         "name": "Radio Mai",
-        "url": "http://radio.indaloweb.es:8001/live",
+        "url": "https://radio.indaloweb.es:8001/live",
         "country": "ES",
         "favicon": "https://radiomai.com/online/logoradiomai.gif",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.indaloweb.es:8001/live"
+        "working_url": "https://radio.indaloweb.es:8001/live"
     },
     {
         "name": "Radio Maktub NJ",
-        "url": "http://str1.mediatelekom.net:8077/live",
+        "url": "https://str1.mediatelekom.net:8077/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://str1.mediatelekom.net:8077/live"
+        "working_url": "https://str1.mediatelekom.net:8077/live"
     },
     {
         "name": "Ràdio Manlleu",
@@ -6238,12 +6238,12 @@
     },
     {
         "name": "Radio Marca Barcelona",
-        "url": "http://radioweb.radiomarcabarcelona.com:9000/stream",
+        "url": "https://radioweb.radiomarcabarcelona.com:9000/stream",
         "country": "ES",
         "favicon": "http://e00-marca.uecdn.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://radioweb.radiomarcabarcelona.com:9000/stream"
+        "working_url": "https://radioweb.radiomarcabarcelona.com:9000/stream"
     },
     {
         "name": "Radio Marca Coruña",
@@ -6283,12 +6283,12 @@
     },
     {
         "name": "Radio Marca Málaga",
-        "url": "http://malagafm.streaming-pro.com:8130/malagafmmobile",
+        "url": "https://malagafm.streaming-pro.com:8130/malagafmmobile",
         "country": "ES",
         "favicon": "http://radiomarcamalaga.com/wp-content/themes/dmq/assets/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 170,
-        "working_url": "http://cdn-peer031.streaming-pro.com:8130/malagafmmobile"
+        "working_url": "https://cdn-peer031.streaming-pro.com:8130/malagafmmobile"
     },
     {
         "name": "Radio Marca Malaga",
@@ -6319,21 +6319,21 @@
     },
     {
         "name": "Radio Maria Spain Espana",
-        "url": "http://dreamsiteradiocp.com:8060/;stream.mp3",
+        "url": "https://dreamsiteradiocp.com:8060/;stream.mp3",
         "country": "ES",
         "favicon": "http://www.radiomaria.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 48,
-        "working_url": "http://dreamsiteradiocp.com:8060/;stream.mp3"
+        "working_url": "https://dreamsiteradiocp.com:8060/;stream.mp3"
     },
     {
         "name": "Ràdio Marina",
-        "url": "http://streaming.enantena.com:8000/radiomarina128.mp3",
+        "url": "https://streaming.enantena.com:8000/radiomarina128.mp3",
         "country": "ES",
         "favicon": "http://www.radiomarina.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiomarina128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiomarina128.mp3"
     },
     {
         "name": "Radio Marina Blanes",
@@ -6364,12 +6364,12 @@
     },
     {
         "name": "Radio Mi Amigo International",
-        "url": "http://142.4.219.8:8350/stream",
+        "url": "https://142.4.219.8:8350/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://142.4.219.8:8350/stream"
+        "working_url": "https://142.4.219.8:8350/stream"
     },
     {
         "name": "Radio Mistelera",
@@ -6391,21 +6391,21 @@
     },
     {
         "name": "Ràdio Molins de Rei",
-        "url": "http://streaming.enantena.com:8000/radiomolins.mp3",
+        "url": "https://streaming.enantena.com:8000/radiomolins.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiomolins.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiomolins.mp3"
     },
     {
         "name": "Ràdio Mollet",
-        "url": "http://streaming.enantena.com:8000/radiomollet56.mp3",
+        "url": "https://streaming.enantena.com:8000/radiomollet56.mp3",
         "country": "ES",
         "favicon": "http://www.radiomollet.com/radiomollet/favicon-96.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://streaming.enantena.com:8000/radiomollet56.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiomollet56.mp3"
     },
     {
         "name": "Radio Moscatel 107.1 FM Axarquía - España",
@@ -6463,39 +6463,39 @@
     },
     {
         "name": "Ràdio Olot",
-        "url": "http://chrome.frilab.com:8000/radiolot",
+        "url": "https://chrome.frilab.com:8000/radiolot",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://chrome.frilab.com:8000/radiolot"
+        "working_url": "https://chrome.frilab.com:8000/radiolot"
     },
     {
         "name": "Radio Oro",
-        "url": "http://185.23.192.118:8002/;stream.mp3",
+        "url": "https://185.23.192.118:8002/;stream.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.23.192.118:8002/;stream.mp3"
+        "working_url": "https://185.23.192.118:8002/;stream.mp3"
     },
     {
         "name": "Radio Oro Marbella",
-        "url": "http://185.23.192.118:8004/;stream.mp3",
+        "url": "https://185.23.192.118:8004/;stream.mp3",
         "country": "ES",
         "favicon": "https://pbs.twimg.com/profile_images/514804647828017152/ac9cYpha_400x400.jpeg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.23.192.118:8004/;stream.mp3"
+        "working_url": "https://185.23.192.118:8004/;stream.mp3"
     },
     {
         "name": "Radio Palafolls",
-        "url": "http://streaming.enantena.com:8000/radiopalafolls128.mp3",
+        "url": "https://streaming.enantena.com:8000/radiopalafolls128.mp3",
         "country": "ES",
         "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/12/31/19233/c300.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiopalafolls128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiopalafolls128.mp3"
     },
     {
         "name": "Ràdio Palafrugell",
@@ -6508,12 +6508,12 @@
     },
     {
         "name": "Ràdio Pego 107.8",
-        "url": "http://www.radiopego.com:8000/stream",
+        "url": "https://www.radiopego.com:8000/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://www.radiopego.com:8000/stream"
+        "working_url": "https://www.radiopego.com:8000/stream"
     },
     {
         "name": "Radio Pimienta",
@@ -6526,12 +6526,12 @@
     },
     {
         "name": "Ràdio Pineda",
-        "url": "http://streaming.enantena.com:8000/radiopineda56.mp3",
+        "url": "https://streaming.enantena.com:8000/radiopineda56.mp3",
         "country": "ES",
         "favicon": "http://www.radiopineda.cat/sites/default/files/favicon.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://streaming.enantena.com:8000/radiopineda56.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiopineda56.mp3"
     },
     {
         "name": "Radio Pineda 94.6",
@@ -6544,12 +6544,12 @@
     },
     {
         "name": "Radio Planeta",
-        "url": "http://radioplaneta.emitironline.com/radio",
+        "url": "https://radioplaneta.emitironline.com/radio",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://radioplaneta.emitironline.com/radio"
+        "working_url": "https://radioplaneta.emitironline.com/radio"
     },
     {
         "name": "Radio Planeta Costa del Sol",
@@ -6562,21 +6562,21 @@
     },
     {
         "name": "Ràdio Platja d'Aro",
-        "url": "http://stream.internetgirona.com:8008/onair",
+        "url": "https://stream.internetgirona.com:8008/onair",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.internetgirona.com:8008/onair"
+        "working_url": "https://stream.internetgirona.com:8008/onair"
     },
     {
         "name": "Radio Poniente",
-        "url": "http://broadcast.radioponiente.org:8036/;",
+        "url": "https://broadcast.radioponiente.org:8036/;",
         "country": "ES",
         "favicon": "https://www.radioponiente.com/imagenes/apple-icono-web.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://broadcast.radioponiente.org:8036/;"
+        "working_url": "https://broadcast.radioponiente.org:8036/;"
     },
     {
         "name": "Ràdio Ponts",
@@ -6598,21 +6598,21 @@
     },
     {
         "name": "Radio Popular Herri Irratia - Bilbao",
-        "url": "http://79.137.33.224/radiopopular2",
+        "url": "https://79.137.33.224/radiopopular2",
         "country": "ES",
         "favicon": "https://www.facebook.com/188963650252/photos/10163088074660253/",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://79.137.33.224/radiopopular2"
+        "working_url": "https://79.137.33.224/radiopopular2"
     },
     {
         "name": "Ràdio Premià de Mar",
-        "url": "http://streaming.enantena.com:8000/radiopremiademar128.mp3",
+        "url": "https://streaming.enantena.com:8000/radiopremiademar128.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiopremiademar128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiopremiademar128.mp3"
     },
     {
         "name": "Radio Primavera GC 107.3 FM",
@@ -6634,12 +6634,12 @@
     },
     {
         "name": "Radio QK 107.2FM",
-        "url": "http://212.231.231.169:8000/radioqk_master.mp3",
+        "url": "https://212.231.231.169:8000/radioqk_master.mp3",
         "country": "ES",
         "favicon": "https://www.radioqk.org/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://212.231.231.169:8000/radioqk_master.mp3"
+        "working_url": "https://212.231.231.169:8000/radioqk_master.mp3"
     },
     {
         "name": "RADIO QK 107.2fm UVIÉU",
@@ -6679,12 +6679,12 @@
     },
     {
         "name": "Radio Radio Network Spain",
-        "url": "http://radioradio.es:8000/stream",
+        "url": "https://radioradio.es:8000/stream",
         "country": "ES",
         "favicon": "https://cdn.instant.audio/images/logos/emisora-org-es/network.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radioradio.es:8000/stream"
+        "working_url": "https://radioradio.es:8000/stream"
     },
     {
         "name": "Ràdio Ràpita",
@@ -6751,21 +6751,21 @@
     },
     {
         "name": "Radio Ribagorza",
-        "url": "http://85.25.217.22:8210/stream",
+        "url": "https://85.25.217.22:8210/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 120,
-        "working_url": "http://85.25.217.22:8210/stream"
+        "working_url": "https://85.25.217.22:8210/stream"
     },
     {
         "name": "Ràdio Rubí",
-        "url": "http://streaming.enantena.com:8000/radiorubi128.mp3",
+        "url": "https://streaming.enantena.com:8000/radiorubi128.mp3",
         "country": "ES",
         "favicon": "http://www.radiorubi.fm/radiorubi/favicon-128.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enantena.com:8000/radiorubi128.mp3"
+        "working_url": "https://streaming.enantena.com:8000/radiorubi128.mp3"
     },
     {
         "name": "Radio Rytmica",
@@ -6841,12 +6841,12 @@
     },
     {
         "name": "Radio Sevillanas",
-        "url": "http://radio.wesped.com:8000/stream",
+        "url": "https://radio.wesped.com:8000/stream",
         "country": "ES",
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRavP3o9NomPQlOwQeAFy2hJlFVhNAULQuBzg&usqp=CAU",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.wesped.com:8000/stream"
+        "working_url": "https://radio.wesped.com:8000/stream"
     },
     {
         "name": "Radio Sierra FM",
@@ -6868,12 +6868,12 @@
     },
     {
         "name": "Ràdio Silenci",
-        "url": "http://streaming.enacast.com:8000/radiosilenci56.mp3",
+        "url": "https://streaming.enacast.com:8000/radiosilenci56.mp3",
         "country": "ES",
         "favicon": "http://www.radiosilenci.cat/radiosilenci/favicon-128.png",
         "codec": "MP3",
         "bitrate": 56,
-        "working_url": "http://streaming.enacast.com:8000/radiosilenci56.mp3"
+        "working_url": "https://streaming.enacast.com:8000/radiosilenci56.mp3"
     },
     {
         "name": "Radio sin barreras",
@@ -6895,12 +6895,12 @@
     },
     {
         "name": "Radio Sol LP-35100",
-        "url": "http://solactualidad.com:8000/;",
+        "url": "https://solactualidad.com:8000/;",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 24,
-        "working_url": "http://solactualidad.com:8000/;"
+        "working_url": "https://solactualidad.com:8000/;"
     },
     {
         "name": "radio sonaos stereo",
@@ -6913,12 +6913,12 @@
     },
     {
         "name": "Radio Star Terrassa",
-        "url": "http://streaming2.elitecomunicacion.es:8202/;",
+        "url": "https://streaming2.elitecomunicacion.es:8202/;",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://streaming2.elitecomunicacion.es:8202/;"
+        "working_url": "https://streaming2.elitecomunicacion.es:8202/;"
     },
     {
         "name": "Radio Studio Più - Ibiza",
@@ -6940,12 +6940,12 @@
     },
     {
         "name": "Radio Taberna",
-        "url": "http://stream.zeno.fm/7h0bc4fb5tqvv",
+        "url": "https://stream.zeno.fm/7h0bc4fb5tqvv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-176.surfernetwork.com/7h0bc4fb5tqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3aDBiYzRmYjV0cXZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJLZU5aZWJHQlNocXhaa2Q4c1FINDh3IiwiaWF0IjoxNzg2NDcwMTU0LCJleHAiOjE3ODY0NzAyMTR9.3LcqqAtBqgc3f-jxLoqlwC4MSTp6AgE8CWnmES6vWi0"
+        "working_url": "https://stream-176.surfernetwork.com/7h0bc4fb5tqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3aDBiYzRmYjV0cXZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJLZU5aZWJHQlNocXhaa2Q4c1FINDh3IiwiaWF0IjoxNzg2NDcwMTU0LCJleHAiOjE3ODY0NzAyMTR9.3LcqqAtBqgc3f-jxLoqlwC4MSTp6AgE8CWnmES6vWi0"
     },
     {
         "name": "Ràdio Tàrrega",
@@ -7003,21 +7003,21 @@
     },
     {
         "name": "Radio Todo Exitos",
-        "url": "http://cervera.eldialdigital.com:7999/autodj",
+        "url": "https://cervera.eldialdigital.com:7999/autodj",
         "country": "ES",
         "favicon": "https://todoexitos.com/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cervera.eldialdigital.com:7999/autodj"
+        "working_url": "https://cervera.eldialdigital.com:7999/autodj"
     },
     {
         "name": "Radio Tomares",
-        "url": "http://stream1.aljamir.com:8174/stream.mp3",
+        "url": "https://stream1.aljamir.com:8174/stream.mp3",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream1.aljamir.com:8174/stream.mp3"
+        "working_url": "https://stream1.aljamir.com:8174/stream.mp3"
     },
     {
         "name": "Radio Topo",
@@ -7057,12 +7057,12 @@
     },
     {
         "name": "Radio Unión Catalunya",
-        "url": "http://srv0435.lcinternet.com:9522/stream",
+        "url": "https://srv0435.lcinternet.com:9522/stream",
         "country": "ES",
         "favicon": "https://cdn.onlineradiobox.com/img/l/3/4253.v2.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://srv0435.lcinternet.com:9522/stream"
+        "working_url": "https://srv0435.lcinternet.com:9522/stream"
     },
     {
         "name": "Radio Universidad de Navarra 98.3 FM",
@@ -7075,21 +7075,21 @@
     },
     {
         "name": "Radio Universitaria León",
-        "url": "http://radio.unileon.es:8000/radio-unileon-320",
+        "url": "https://radio.unileon.es:8000/radio-unileon-320",
         "country": "ES",
         "favicon": "https://cdn.onlineradiobox.com/img/fblogo/8/5448.v5.png",
         "codec": "OGG",
         "bitrate": 320,
-        "working_url": "http://radio.unileon.es:8000/radio-unileon-320"
+        "working_url": "https://radio.unileon.es:8000/radio-unileon-320"
     },
     {
         "name": "Radio Utopía",
-        "url": "http://streaming.radioutopia.org.es:8000/radio-utopia.mp3",
+        "url": "https://streaming.radioutopia.org.es:8000/radio-utopia.mp3",
         "country": "ES",
         "favicon": "http://www.radioutopia.org.es/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://streaming.radioutopia.org.es:8000/radio-utopia.mp3"
+        "working_url": "https://streaming.radioutopia.org.es:8000/radio-utopia.mp3"
     },
     {
         "name": "Radio Valencia",
@@ -7156,12 +7156,12 @@
     },
     {
         "name": "Radio Villafranca",
-        "url": "http://emisoras.dip-badajoz.es:8072/stream",
+        "url": "https://emisoras.dip-badajoz.es:8072/stream",
         "country": "ES",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 80,
-        "working_url": "http://emisoras.dip-badajoz.es:8072/stream"
+        "working_url": "https://emisoras.dip-badajoz.es:8072/stream"
     },
     {
         "name": "Radio Vitoria",
@@ -7219,12 +7219,12 @@
     },
     {
         "name": "RadioBoss",
-        "url": "http://178.32.146.187:5001/live",
+        "url": "https://178.32.146.187:5001/live",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://178.32.146.187:5001/live"
+        "working_url": "https://178.32.146.187:5001/live"
     },
     {
         "name": "Radiocable",
@@ -7287,7 +7287,7 @@
         "favicon": "https://radiomv.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://dfw1.radiomv.live/spanish.mp3"
+        "working_url": "https://dfw1.radiomv.live/spanish.mp3"
     },
     {
         "name": "RADIOPERMU",
@@ -7327,30 +7327,30 @@
     },
     {
         "name": "RadioVoz Lugo",
-        "url": "http://live.radiovoz.es/mp3/stream_lugo.mp3",
+        "url": "https://live.radiovoz.es/mp3/stream_lugo.mp3",
         "country": "ES",
         "favicon": "https://www.radiovoz.com/img/uploads/html/microfono.jpg",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://live.radiovoz.es/mp3/stream_lugo.mp3"
+        "working_url": "https://live.radiovoz.es/mp3/stream_lugo.mp3"
     },
     {
         "name": "RadioVoz Ourense",
-        "url": "http://live.radiovoz.es/mp3/stream_orense.mp3",
+        "url": "https://live.radiovoz.es/mp3/stream_orense.mp3",
         "country": "ES",
         "favicon": "https://www.radiovoz.com/img/uploads/html/microfono.jpg",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://live.radiovoz.es/mp3/stream_orense.mp3"
+        "working_url": "https://live.radiovoz.es/mp3/stream_orense.mp3"
     },
     {
         "name": "RadioVoz Pontevedra",
-        "url": "http://live.radiovoz.es/mp3/stream_vigo.mp3",
+        "url": "https://live.radiovoz.es/mp3/stream_vigo.mp3",
         "country": "ES",
         "favicon": "https://www.radiovoz.com/img/uploads/html/microfono.jpg",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://live.radiovoz.es/mp3/stream_vigo.mp3"
+        "working_url": "https://live.radiovoz.es/mp3/stream_vigo.mp3"
     },
     {
         "name": "Remember Radio",
@@ -7381,12 +7381,12 @@
     },
     {
         "name": "Remember VIP Radio",
-        "url": "http://node-19.zeno.fm/471az1pu2nhvv?rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie%3Ae618ff5c-77ba-49f3-ac6e-b9c6b093d00f&zs=l4i70_8iS4m6nNOBdKq6LA&an-uid=4758170041402249417",
+        "url": "https://node-19.zeno.fm/471az1pu2nhvv?rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie%3Ae618ff5c-77ba-49f3-ac6e-b9c6b093d00f&zs=l4i70_8iS4m6nNOBdKq6LA&an-uid=4758170041402249417",
         "country": "ES",
         "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://stream-288.surfernetwork.com/471az1pu2nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzFhejFwdTJuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItZG41RkRHWFJYNmtQYWdwUkUyM05RIiwiaWF0IjoxNzg2NDcwMTU3LCJleHAiOjE3ODY0NzAyMTd9.zt3XL9MHti73HrzytNcclIdw6-x6RN0JLPJ1Mbfk4lE&rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie:e618ff5c-77ba-49f3-ac6e-b9c6b093d00f&an-uid=4758170041402249417"
+        "working_url": "https://stream-288.surfernetwork.com/471az1pu2nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzFhejFwdTJuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItZG41RkRHWFJYNmtQYWdwUkUyM05RIiwiaWF0IjoxNzg2NDcwMTU3LCJleHAiOjE3ODY0NzAyMTd9.zt3XL9MHti73HrzytNcclIdw6-x6RN0JLPJ1Mbfk4lE&rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie:e618ff5c-77ba-49f3-ac6e-b9c6b093d00f&an-uid=4758170041402249417"
     },
     {
         "name": "Remember Vip Techno",
@@ -7426,12 +7426,12 @@
     },
     {
         "name": "RFC Radio",
-        "url": "http://lyra.shoutca.st:8151/rfcmp3",
+        "url": "https://lyra.shoutca.st:8151/rfcmp3",
         "country": "ES",
         "favicon": "https://www.wix.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://lyra.shoutca.st:8151/rfcmp3"
+        "working_url": "https://lyra.shoutca.st:8151/rfcmp3"
     },
     {
         "name": "RIBA-ROJA RADIO by Xopo",
@@ -7507,12 +7507,12 @@
     },
     {
         "name": "ROCK FM (España)",
-        "url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
+        "url": "https://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
         "country": "ES",
         "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8"
+        "working_url": "https://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8"
     },
     {
         "name": "Rock Radioo",
@@ -7525,21 +7525,21 @@
     },
     {
         "name": "RockFM",
-        "url": "http://flucast-rb04-01.flumotion.com/cope/rockfm.aac",
+        "url": "https://flucast-rb04-01.flumotion.com/cope/rockfm.aac",
         "country": "ES",
         "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://flucast-rb04-01.flumotion.com/cope/rockfm.aac"
+        "working_url": "https://flucast-rb04-01.flumotion.com/cope/rockfm.aac"
     },
     {
         "name": "RockFM 101.7",
-        "url": "http://flucast21-h-cloud.flumotion.com/cope/rockfm.aac",
+        "url": "https://flucast21-h-cloud.flumotion.com/cope/rockfm.aac",
         "country": "ES",
         "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://flucast21-h-cloud.flumotion.com/cope/rockfm.aac"
+        "working_url": "https://flucast21-h-cloud.flumotion.com/cope/rockfm.aac"
     },
     {
         "name": "rockSateliteONE",
@@ -7579,21 +7579,21 @@
     },
     {
         "name": "RusRadio Marbella",
-        "url": "http://streaming.enacast.com:8000/rusradiomarbellaHD.mp3",
+        "url": "https://streaming.enacast.com:8000/rusradiomarbellaHD.mp3",
         "country": "ES",
         "favicon": "https://static.wixstatic.com/media/ab4b17_62e07d96e6714ca9ab99359660dd732c%7emv2_d_1500_1500_s_2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/ab4b17_62e07d96e6714ca9ab99359660dd732c%7emv2_d_1500_1500_s_2.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.enacast.com:8000/rusradiomarbellaHD.mp3"
+        "working_url": "https://streaming.enacast.com:8000/rusradiomarbellaHD.mp3"
     },
     {
         "name": "Salvaje FM",
-        "url": "http://164.138.208.21:8154/",
+        "url": "https://164.138.208.21:8154/",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://164.138.208.21:8154/"
+        "working_url": "https://164.138.208.21:8154/"
     },
     {
         "name": "Sangeet Fm",
@@ -7624,12 +7624,12 @@
     },
     {
         "name": "Segenswelle Espanol",
-        "url": "http://segenswelle.de:8000/espanol",
+        "url": "https://segenswelle.de:8000/espanol",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://segenswelle.de:8000/espanol"
+        "working_url": "https://segenswelle.de:8000/espanol"
     },
     {
         "name": "Segura irratia",
@@ -7678,21 +7678,21 @@
     },
     {
         "name": "SER - Segovia (20241023)",
-        "url": "http://20073.live.streamtheworld.com/SER_ASO_SEGOVIA_SC",
+        "url": "https://20073.live.streamtheworld.com/SER_ASO_SEGOVIA_SC",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://20073.live.streamtheworld.com/SER_ASO_SEGOVIA_SC"
+        "working_url": "https://20073.live.streamtheworld.com/SER_ASO_SEGOVIA_SC"
     },
     {
         "name": "Ser - Segovia 20241023",
-        "url": "http://20073.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC",
+        "url": "https://20073.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://20073.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC"
+        "working_url": "https://20073.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC"
     },
     {
         "name": "SER -- CUELLAR",
@@ -7714,12 +7714,12 @@
     },
     {
         "name": "Ser Gandia",
-        "url": "http://stream.radiogandia.com:8080/ser_high",
+        "url": "https://stream.radiogandia.com:8080/ser_high",
         "country": "ES",
         "favicon": "https://cadenaser00.epimg.net/favicon.png",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://stream.radiogandia.com:8080/ser_high"
+        "working_url": "https://stream.radiogandia.com:8080/ser_high"
     },
     {
         "name": "SER Gijón",
@@ -7768,21 +7768,21 @@
     },
     {
         "name": "SI RADIO DE GALICIA CONDADO",
-        "url": "http://82.223.29.65:8080/vcbm_siradio",
+        "url": "https://82.223.29.65:8080/vcbm_siradio",
         "country": "ES",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://82.223.29.65:8080/vcbm_siradio"
+        "working_url": "https://82.223.29.65:8080/vcbm_siradio"
     },
     {
         "name": "Sie7e Spain",
-        "url": "http://stream.sieteradio.com:8020/stream",
+        "url": "https://stream.sieteradio.com:8020/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.sieteradio.com:8020/stream"
+        "working_url": "https://stream.sieteradio.com:8020/stream"
     },
     {
         "name": "Sifm Almeria",
@@ -7867,12 +7867,12 @@
     },
     {
         "name": "SoundDigital",
-        "url": "http://radio.hostlagarto.com:9770/;",
+        "url": "https://radio.hostlagarto.com:9770/;",
         "country": "ES",
         "favicon": "https://sonidoclave.net/logo1.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://radio.hostlagarto.com:9770/;"
+        "working_url": "https://radio.hostlagarto.com:9770/;"
     },
     {
         "name": "Spectrum FM Costa Almeria",
@@ -7885,21 +7885,21 @@
     },
     {
         "name": "Spektra FM Valencia",
-        "url": "http://stm1.emiteonline.com:8008/spektrafm",
+        "url": "https://stm1.emiteonline.com:8008/spektrafm",
         "country": "ES",
         "favicon": "https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/20/3_1342035043_SPEKTRA-LOGO.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm1.emiteonline.com:8008/spektrafm"
+        "working_url": "https://stm1.emiteonline.com:8008/spektrafm"
     },
     {
         "name": "Star People",
-        "url": "http://2.139.144.101:8020/2?1508151505",
+        "url": "https://2.139.144.101:8020/2?1508151505",
         "country": "ES",
         "favicon": "https://cdn-radiotime-logos.tunein.com/s287505g.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://2.139.144.101:8020/2?1508151505"
+        "working_url": "https://2.139.144.101:8020/2?1508151505"
     },
     {
         "name": "staronlineradio",
@@ -7993,21 +7993,21 @@
     },
     {
         "name": "TKO Radio Costa Blanca",
-        "url": "http://centauri.shoutca.st:8300/stream",
+        "url": "https://centauri.shoutca.st:8300/stream",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centauri.shoutca.st:8300/stream"
+        "working_url": "https://centauri.shoutca.st:8300/stream"
     },
     {
         "name": "Toma Radio",
-        "url": "http://stvt.dynu.net:7008/directo",
+        "url": "https://stvt.dynu.net:7008/directo",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stvt.dynu.net:7008/directo"
+        "working_url": "https://stvt.dynu.net:7008/directo"
     },
     {
         "name": "Tormes FM",
@@ -8020,12 +8020,12 @@
     },
     {
         "name": "TotRàdio",
-        "url": "http://www.totradio.com:8000/128kbps",
+        "url": "https://www.totradio.com:8000/128kbps",
         "country": "ES",
         "favicon": "http://www.totradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://www.totradio.com:8000/128kbps"
+        "working_url": "https://www.totradio.com:8000/128kbps"
     },
     {
         "name": "Trespatines Radio",
@@ -8083,12 +8083,12 @@
     },
     {
         "name": "Vaughan",
-        "url": "http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv",
+        "url": "https://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv",
         "country": "ES",
         "favicon": "https://grupovaughan.com/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cdn-peer032.streaming-pro.com:8057/vaughanradio.mp3"
+        "working_url": "https://cdn-peer032.streaming-pro.com:8057/vaughanradio.mp3"
     },
     {
         "name": "Vaughan Radio",
@@ -8209,21 +8209,21 @@
     },
     {
         "name": "Xtra FM",
-        "url": "http://stream.internetgirona.com:8000/;",
+        "url": "https://stream.internetgirona.com:8000/;",
         "country": "ES",
         "favicon": "https://www.xtrafm.cat/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://stream.internetgirona.com:8000/;"
+        "working_url": "https://stream.internetgirona.com:8000/;"
     },
     {
         "name": "YouTube Radio",
-        "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
+        "url": "https://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
         "country": "ES",
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836"
+        "working_url": "https://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836"
     },
     {
         "name": "Yuh FM",
@@ -8245,12 +8245,12 @@
     },
     {
         "name": "Zeno FM Dire Straits Radio",
-        "url": "http://stream.zeno.fm/bvgq21uu1zhvv",
+        "url": "https://stream.zeno.fm/bvgq21uu1zhvv",
         "country": "ES",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-176.surfernetwork.com/bvgq21uu1zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidmdxMjF1dTF6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI4alFTdjRucFQwMkFJczRuVWVXbHRBIiwiaWF0IjoxNzg2NDcwMTYyLCJleHAiOjE3ODY0NzAyMjJ9.O6J3eVukfXUItCneKDLKglihGj9d51cF7fWLATD8G7Q"
+        "working_url": "https://stream-176.surfernetwork.com/bvgq21uu1zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidmdxMjF1dTF6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI4alFTdjRucFQwMkFJczRuVWVXbHRBIiwiaWF0IjoxNzg2NDcwMTYyLCJleHAiOjE3ODY0NzAyMjJ9.O6J3eVukfXUItCneKDLKglihGj9d51cF7fWLATD8G7Q"
     },
     {
         "name": "Zintzilik Irratia",
@@ -8272,12 +8272,12 @@
     },
     {
         "name": "Русское радио Тенерифе",
-        "url": "http://fra-pioneer08.dedicateware.com:3170/stream",
+        "url": "https://fra-pioneer08.dedicateware.com:3170/stream",
         "country": "ES",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://fra-pioneer08.dedicateware.com:3170/stream"
+        "working_url": "https://fra-pioneer08.dedicateware.com:3170/stream"
     },
     {
         "name": "华夏之声China FM·西班牙马德里FM92.9",

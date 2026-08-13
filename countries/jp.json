@@ -1,12 +1,12 @@
 [
     {
         "name": "City Hunter OST 24/7",
-        "url": "http://5.178.106.47:8000/cityhunter.mp3",
+        "url": "https://5.178.106.47:8000/cityhunter.mp3",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://5.178.106.47:8000/cityhunter.mp3"
+        "working_url": "https://5.178.106.47:8000/cityhunter.mp3"
     },
     {
         "name": "Fred Film Radio(日本語)",
@@ -37,12 +37,12 @@
     },
     {
         "name": "Hitsujikai Radio",
-        "url": "http://streaming.radio.co/se4a8e6a93/listen",
+        "url": "https://streaming.radio.co/se4a8e6a93/listen",
         "country": "JP",
         "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.radio.co/se4a8e6a93/listen"
+        "working_url": "https://streaming.radio.co/se4a8e6a93/listen"
     },
     {
         "name": "J-Club Powerplay HipHop",
@@ -73,12 +73,12 @@
     },
     {
         "name": "J-Pop Sakura",
-        "url": "http://quincy.torontocast.com:2070/stream.mp3",
+        "url": "https://quincy.torontocast.com:2070/stream.mp3",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://quincy.torontocast.com:2070/stream.mp3"
+        "working_url": "https://quincy.torontocast.com:2070/stream.mp3"
     },
     {
         "name": "J-Pop Sakura (asia DREAM radio)",
@@ -109,12 +109,12 @@
     },
     {
         "name": "J1 Gold (HTTP)",
-        "url": "http://jenny.torontocast.com:8062/",
+        "url": "https://jenny.torontocast.com:8062/",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jenny.torontocast.com:8062/"
+        "working_url": "https://jenny.torontocast.com:8062/"
     },
     {
         "name": "J1 HITS",
@@ -127,21 +127,21 @@
     },
     {
         "name": "J1 Hits (HTTP)",
-        "url": "http://jenny.torontocast.com:8056/",
+        "url": "https://jenny.torontocast.com:8056/",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jenny.torontocast.com:8056/"
+        "working_url": "https://jenny.torontocast.com:8056/"
     },
     {
         "name": "Japan Hits - asia DREAM radio",
-        "url": "http://quincy.torontocast.com:2020/stream.mp3",
+        "url": "https://quincy.torontocast.com:2020/stream.mp3",
         "country": "JP",
         "favicon": "https://moremalc.com/japanhits188.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://quincy.torontocast.com:2020/stream.mp3"
+        "working_url": "https://quincy.torontocast.com:2020/stream.mp3"
     },
     {
         "name": "Jazz Sakura",
@@ -154,30 +154,30 @@
     },
     {
         "name": "Jazz Sakura (asia dream radio)",
-        "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+        "url": "https://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3"
+        "working_url": "https://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3"
     },
     {
         "name": "JPopsuki Radio",
-        "url": "http://65.21.170.149:8000/stream",
+        "url": "https://65.21.170.149:8000/stream",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://65.21.170.149:8000/stream"
+        "working_url": "https://65.21.170.149:8000/stream"
     },
     {
         "name": "Kawaii Anime Radio",
-        "url": "http://158.69.227.214:8137/stream",
+        "url": "https://158.69.227.214:8137/stream",
         "country": "JP",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://158.69.227.214:8137/stream"
+        "working_url": "https://158.69.227.214:8137/stream"
     },
     {
         "name": "Listen.moe J-Pop (MP3)",
@@ -208,12 +208,12 @@
     },
     {
         "name": "Moon Mission Recordings",
-        "url": "http://uk5.internet-radio.com:8306/",
+        "url": "https://uk5.internet-radio.com:8306/",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://uk5.internet-radio.com:8306/"
+        "working_url": "https://uk5.internet-radio.com:8306/"
     },
     {
         "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
@@ -226,12 +226,12 @@
     },
     {
         "name": "Neko-Network Radio: Anime/Japanese",
-        "url": "http://listen.nekonetwork.moe:8400/anime.mp3",
+        "url": "https://listen.nekonetwork.moe:8400/anime.mp3",
         "country": "JP",
         "favicon": "http://anime-radio.neko-network.net/images/logo.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://listen.nekonetwork.moe:8400/anime.mp3"
+        "working_url": "https://listen.nekonetwork.moe:8400/anime.mp3"
     },
     {
         "name": "NFRS Radio",
@@ -280,39 +280,39 @@
     },
     {
         "name": "NHK WORLD RADIO 3",
-        "url": "http://shoutcast.wrn.org:8025/nhk41left",
+        "url": "https://shoutcast.wrn.org:8025/nhk41left",
         "country": "JP",
         "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://shoutcast.wrn.org:8025/nhk41left"
+        "working_url": "https://shoutcast.wrn.org:8025/nhk41left"
     },
     {
         "name": "NHK WORLD RADIO 4",
-        "url": "http://streaming.edmradio.online:8025/nhk41left",
+        "url": "https://streaming.edmradio.online:8025/nhk41left",
         "country": "JP",
         "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://streaming.edmradio.online:8025/nhk41left"
+        "working_url": "https://streaming.edmradio.online:8025/nhk41left"
     },
     {
         "name": "NHK WORLD RADIO 5",
-        "url": "http://shoutcast.wrn.org:8025/nhk41right",
+        "url": "https://shoutcast.wrn.org:8025/nhk41right",
         "country": "JP",
         "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://shoutcast.wrn.org:8025/nhk41right"
+        "working_url": "https://shoutcast.wrn.org:8025/nhk41right"
     },
     {
         "name": "NHK WORLD RADIO 6",
-        "url": "http://streaming.edmradio.online:8025/nhk41right",
+        "url": "https://streaming.edmradio.online:8025/nhk41right",
         "country": "JP",
         "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://streaming.edmradio.online:8025/nhk41right"
+        "working_url": "https://streaming.edmradio.online:8025/nhk41right"
     },
     {
         "name": "NHK WORLD RADIO 7",
@@ -352,30 +352,30 @@
     },
     {
         "name": "Nightwave Plaza (Opus 64)",
-        "url": "http://radio.plaza.one/ogg_low",
+        "url": "https://radio.plaza.one/ogg_low",
         "country": "JP",
         "favicon": "https://plaza.one/icons/apple-touch-icon.png",
         "codec": "OGG",
         "bitrate": 96,
-        "working_url": "http://radio.plaza.one/ogg_low"
+        "working_url": "https://radio.plaza.one/ogg_low"
     },
     {
         "name": "Nightwave Plaza MP3 182",
-        "url": "http://radio.plaza.one/mp3",
+        "url": "https://radio.plaza.one/mp3",
         "country": "JP",
         "favicon": "https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.plaza.one/mp3"
+        "working_url": "https://radio.plaza.one/mp3"
     },
     {
         "name": "Nightwave Plaza OPUS 96",
-        "url": "http://radio.plaza.one/opus",
+        "url": "https://radio.plaza.one/opus",
         "country": "JP",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://radio.plaza.one/opus"
+        "working_url": "https://radio.plaza.one/opus"
     },
     {
         "name": "Nonstop Casiopea",
@@ -397,12 +397,12 @@
     },
     {
         "name": "Opening Radio",
-        "url": "http://stream.zeno.fm/tza2ayy47qruv",
+        "url": "https://stream.zeno.fm/tza2ayy47qruv",
         "country": "JP",
         "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-176.surfernetwork.com/tza2ayy47qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0emEyYXl5NDdxcnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJkRGktNHlfYVMxbXNXUDhZUE1wNnRnIiwiaWF0IjoxNzg2NDcwMjUwLCJleHAiOjE3ODY0NzAzMTB9.uWclkRbK0iN7BOGw1syT-4MhsDsYx7vkbCcl-NjkPeU"
+        "working_url": "https://stream-176.surfernetwork.com/tza2ayy47qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0emEyYXl5NDdxcnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJkRGktNHlfYVMxbXNXUDhZUE1wNnRnIiwiaWF0IjoxNzg2NDcwMjUwLCJleHAiOjE3ODY0NzAzMTB9.uWclkRbK0iN7BOGw1syT-4MhsDsYx7vkbCcl-NjkPeU"
     },
     {
         "name": "Otaku Music Radio",
@@ -415,21 +415,21 @@
     },
     {
         "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
-        "url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+        "url": "https://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
         "country": "JP",
         "favicon": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg",
         "codec": "MP3",
         "bitrate": 185,
-        "working_url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3"
+        "working_url": "https://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3"
     },
     {
         "name": "Ottava",
-        "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+        "url": "https://ottava2.out.airtime.pro:8000/ottava2_a",
         "country": "JP",
         "favicon": "https://ottava.jp/img/common/touch_icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ottava2.out.airtime.pro:8000/ottava2_a"
+        "working_url": "https://ottava2.out.airtime.pro:8000/ottava2_a"
     },
     {
         "name": "Patchwork Archive - VTuber Songs and Covers",
@@ -505,21 +505,21 @@
     },
     {
         "name": "Retro PC GAME MUSIC Streaming Radio",
-        "url": "http://gyusyabu.ddo.jp:8000/",
+        "url": "https://gyusyabu.ddo.jp:8000/",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://gyusyabu.ddo.jp:8000/"
+        "working_url": "https://gyusyabu.ddo.jp:8000/"
     },
     {
         "name": "Retro PC Game Music Streaming Radio for Gyusyabu",
-        "url": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
+        "url": "https://gyusyabu.ddo.jp:8000/;stream.mp3",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://gyusyabu.ddo.jp:8000/;stream.mp3"
+        "working_url": "https://gyusyabu.ddo.jp:8000/;stream.mp3"
     },
     {
         "name": "SHMUPRADIO",
@@ -532,12 +532,12 @@
     },
     {
         "name": "Shonan Beach FM 78.9",
-        "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+        "url": "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
         "country": "JP",
         "favicon": "https://www.beachfm.co.jp/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
+        "working_url": "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
     },
     {
         "name": "SOUND UP STATION NFRS",
@@ -577,12 +577,12 @@
     },
     {
         "name": "Vaporwave",
-        "url": "http://radio.plaza.one/ogg",
+        "url": "https://radio.plaza.one/ogg",
         "country": "JP",
         "favicon": "https://plaza.one/icons/circle.png",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://radio.plaza.one/ogg"
+        "working_url": "https://radio.plaza.one/ogg"
     },
     {
         "name": "VRC放送局",
@@ -595,12 +595,12 @@
     },
     {
         "name": "WREP",
-        "url": "http://c13.radioboss.fm:8200/stream",
+        "url": "https://c13.radioboss.fm:8200/stream",
         "country": "JP",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://c13.radioboss.fm:8200/stream"
+        "working_url": "https://c13.radioboss.fm:8200/stream"
     },
     {
         "name": "WVVV V96.9",
@@ -613,21 +613,21 @@
     },
     {
         "name": "XWave Radio",
-        "url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
+        "url": "https://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
         "country": "JP",
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3"
+        "working_url": "https://vps-260b74e9.vps.ovh.net:8000/;stream.mp3"
     },
     {
         "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
-        "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+        "url": "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
         "country": "JP",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 185,
-        "working_url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
+        "working_url": "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
     },
     {
         "name": "大富ラジオ",

@@ -26,24 +26,32 @@
         "bitrate": 64,
         "working_url": "https://stm20.srvstm.com:7264/;?type=https&nocache=1"
     },
-  
     {
-        "name": "012 Rock News",
-        "url": "http://9881.brasilstream.com.br/stream",
-        "country": "BR",
-        "favicon": "https://www.012news.com.br/wp-content/uploads/2022/07/novo-logo1.png",
-        "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "http://9881.brasilstream.com.br/stream"
-    },
-    {
-        "name": "101.9 Radio Educativa - Campinas",
-        "url": "http://streaming.ima.sp.gov.br:8000/educativa.mp3",
+        "name": ".Quran",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.ima.sp.gov.br:8000/educativa.mp3"
+        "working_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+    },
+    {
+        "name": "012 Rock News",
+        "url": "https://9881.brasilstream.com.br/stream",
+        "country": "BR",
+        "favicon": "https://www.012news.com.br/wp-content/uploads/2022/07/novo-logo1.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://9881.brasilstream.com.br/stream"
+    },
+    {
+        "name": "101.9 Radio Educativa - Campinas",
+        "url": "https://streaming.ima.sp.gov.br:8000/educativa.mp3",
+        "country": "BR",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://streaming.ima.sp.gov.br:8000/educativa.mp3"
     },
     {
         "name": "102 FM Itaperuna",
@@ -56,12 +64,12 @@
     },
     {
         "name": "104 (Porto Alegre)",
-        "url": "http://cast4.audiostream.com.br:8651/mp3",
+        "url": "https://cast4.audiostream.com.br:8651/mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://cast4.audiostream.com.br:8651/mp3"
+        "working_url": "https://cast4.audiostream.com.br:8651/mp3"
     },
     {
         "name": "104 FM Natal",
@@ -92,12 +100,12 @@
     },
     {
         "name": "105 FM - SP",
-        "url": "http://www.appradio.app:8010//live",
+        "url": "https://www.appradio.app:8010//live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://www.appradio.app:8010//live"
+        "working_url": "https://www.appradio.app:8010//live"
     },
     {
         "name": "105.7 FM Anápolis",
@@ -182,21 +190,21 @@
     },
     {
         "name": "91 Rock - Curitiba (web)",
-        "url": "http://servidor40.brlogic.com:8044/live",
+        "url": "https://servidor40.brlogic.com:8044/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor40.brlogic.com:8044/live"
+        "working_url": "https://servidor40.brlogic.com:8044/live"
     },
     {
         "name": "92FM Sao Joao",
-        "url": "http://45.58.126.58:10060/stream",
+        "url": "https://45.58.126.58:10060/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 112,
-        "working_url": "http://45.58.126.58:10060/stream"
+        "working_url": "https://45.58.126.58:10060/stream"
     },
     {
         "name": "93,3 FM (Barbacena MG)",
@@ -218,12 +226,12 @@
     },
     {
         "name": "94 FM CORDEIRO-RJ",
-        "url": "http://s17.hstbr.net:8040/live?1601949995965",
+        "url": "https://s17.hstbr.net:8040/live?1601949995965",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s17.hstbr.net:8040/live?1601949995965"
+        "working_url": "https://s17.hstbr.net:8040/live?1601949995965"
     },
     {
         "name": "94 FM Natal | Rádio Cidade",
@@ -290,12 +298,12 @@
     },
     {
         "name": "97 Rock Web Radio",
-        "url": "http://euroticast5.euroti.com.br:8094/stream?1696889015855",
+        "url": "https://euroticast5.euroti.com.br:8094/stream?1696889015855",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://euroticast5.euroti.com.br:8094/stream?1696889015855"
+        "working_url": "https://euroticast5.euroti.com.br:8094/stream?1696889015855"
     },
     {
         "name": "98 Rock",
@@ -362,12 +370,12 @@
     },
     {
         "name": "ADOLFO LARANJEIRA NASCIMENTO",
-        "url": "http://stm26.srvaudio.com.br:9732/",
+        "url": "https://stm26.srvaudio.com.br:9732/",
         "country": "BR",
         "favicon": "https://www.google.com/search?q=logo+sintonia+fm&client=ms-android-xiaomi-terr1-rso2&hs=u3cV&sca_esv=38042b1a3801c004&sxsrf=APpeQns2TNlVMW0NeW7M4934JhH9akJr_Q:1784591351714&udm=2&sa=X&ved=2ahUKEwiw8tnsuOKVAxUxrpUCHbxTFgEQ7Al6BAgQEAM&biw=343&bih=623&dpr=2.1#sv=CAMSVxoyKhBlLWZ5UjY5Q2plRWlvLUpNMg5meVI2OUNqZUVpby1KTToOTHVCZzk1YkdYODJHSE0gBCoXCgFzEhBlLWZ5UjY5Q2plRWlvLUpNGAEwAUoECAEQAhgHIJTxhP4GSggQAhgBIAIoAQ",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm26.srvaudio.com.br:9732/"
+        "working_url": "https://stm26.srvaudio.com.br:9732/"
     },
     {
         "name": "Adoro Flashback",
@@ -407,12 +415,12 @@
     },
     {
         "name": "Alerta Penedo",
-        "url": "http://stm28.srvaudio.com.br:11706/stream",
+        "url": "https://stm28.srvaudio.com.br:11706/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm28.srvaudio.com.br:11706/stream"
+        "working_url": "https://stm28.srvaudio.com.br:11706/stream"
     },
     {
         "name": "Aliança Fm",
@@ -479,12 +487,12 @@
     },
     {
         "name": "Amazon Gospel",
-        "url": "http://directradios.net:8197/;",
+        "url": "https://directradios.net:8197/;",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://directradios.net:8197/;"
+        "working_url": "https://directradios.net:8197/;"
     },
     {
         "name": "Amiga FM 101.3",
@@ -533,7 +541,7 @@
     },
     {
         "name": "Antena 1 FM 103.7 Rio de Janeiro",
-        "url": "http://a1rj.streams.com.br:7801/stream",
+        "url": "https://a1rj.streams.com.br:7801/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
@@ -551,16 +559,16 @@
     },
     {
         "name": "Antena 1 FM 94.7 São Paulo",
-        "url": "http://antena1.newradio.it/stream",
+        "url": "https://antena1.newradio.it/stream",
         "country": "BR",
         "favicon": "https://www.antena1.com.br/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://antena1.newradio.it/stream"
+        "working_url": "https://antena1.newradio.it/stream"
     },
     {
         "name": "Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)",
-        "url": "http://a1rj.streams.com.br:7801/sm",
+        "url": "https://a1rj.streams.com.br:7801/sm",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
@@ -569,12 +577,12 @@
     },
     {
         "name": "Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]",
-        "url": "http://antena1.newradio.it/stream?ext=.mp3",
+        "url": "https://antena1.newradio.it/stream?ext=.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://antena1.newradio.it/stream?ext=.mp3"
+        "working_url": "https://antena1.newradio.it/stream?ext=.mp3"
     },
     {
         "name": "antena1",
@@ -614,12 +622,12 @@
     },
     {
         "name": "Aranas FM",
-        "url": "http://www.appradio.app:8137/live",
+        "url": "https://www.appradio.app:8137/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://www.appradio.app:8137/live"
+        "working_url": "https://www.appradio.app:8137/live"
     },
     {
         "name": "Arara azul FM",
@@ -884,12 +892,12 @@
     },
     {
         "name": "Caiçara (Porto Alegre)",
-        "url": "http://cast4.audiostream.com.br:8654/mp3",
+        "url": "https://cast4.audiostream.com.br:8654/mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://cast4.audiostream.com.br:8654/mp3"
+        "working_url": "https://cast4.audiostream.com.br:8654/mp3"
     },
     {
         "name": "CAMARA MUNICIPAL DE SAO PAULO",
@@ -902,30 +910,30 @@
     },
     {
         "name": "Campina FM",
-        "url": "http://cast61.sitehosting.com.br:9962/live?1583625618600",
+        "url": "https://cast61.sitehosting.com.br:9962/live?1583625618600",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cast61.sitehosting.com.br:9962/live?1583625618600"
+        "working_url": "https://cast61.sitehosting.com.br:9962/live?1583625618600"
     },
     {
         "name": "Canaã FM",
-        "url": "http://stream1.svrdedicado.org/8006/stream",
+        "url": "https://stream1.svrdedicado.org/8006/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream1.svrdedicado.org/8006/stream"
+        "working_url": "https://stream1.svrdedicado.org/8006/stream"
     },
     {
         "name": "Canal Um FM",
-        "url": "http://audio.canalum.fm.br:8000/canal1.mp3",
+        "url": "https://audio.canalum.fm.br:8000/canal1.mp3",
         "country": "BR",
         "favicon": "https://www.canalum.fm.br/sistema/arquivos/imagens/LogoCanalUmFm-Icone-[09-03-21][17-05-37].png",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://audio.canalum.fm.br:8000/canal1.mp3"
+        "working_url": "https://audio.canalum.fm.br:8000/canal1.mp3"
     },
     {
         "name": "Canarinho FM 102.3 Mhz (Divinésia - MG) (ZYE339)",
@@ -1001,21 +1009,21 @@
     },
     {
         "name": "CBN 104,5 FM Maceió",
-        "url": "http://v3.directradios.com:8229/stream",
+        "url": "https://v3.directradios.com:8229/stream",
         "country": "BR",
         "favicon": "http://play.radios.com.br/22234",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://v3.directradios.com:8229/stream"
+        "working_url": "https://v3.directradios.com:8229/stream"
     },
     {
         "name": "CBN Grandes Lagos",
-        "url": "http://stm10.conectastm.com:8276/stream",
+        "url": "https://stm10.conectastm.com:8276/stream",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio28672_1573683042.jpg",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm10.conectastm.com:8276/stream"
+        "working_url": "https://stm10.conectastm.com:8276/stream"
     },
     {
         "name": "CBN Rio de Janeiro 92.5 FM",
@@ -1055,12 +1063,12 @@
     },
     {
         "name": "Central DJ",
-        "url": "http://streaming.inweb.com.br/centraldj",
+        "url": "https://streaming.inweb.com.br/centraldj",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://streaming.inweb.com.br/centraldj"
+        "working_url": "https://streaming.inweb.com.br/centraldj"
     },
     {
         "name": "Charles Pitta dos Santos",
@@ -1100,12 +1108,12 @@
     },
     {
         "name": "Cidade Canção FM",
-        "url": "http://148.72.158.239:8012/live",
+        "url": "https://148.72.158.239:8012/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://148.72.158.239:8012/live"
+        "working_url": "https://148.72.158.239:8012/live"
     },
     {
         "name": "Cidade FM de Matão",
@@ -1262,39 +1270,39 @@
     },
     {
         "name": "Conselheiro 87.7 FM",
-        "url": "http://stm1.streamproarte.com.br:7204/stream?1685285676227",
+        "url": "https://stm1.streamproarte.com.br:7204/stream?1685285676227",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm1.streamproarte.com.br:7204/stream?1685285676227"
+        "working_url": "https://stm1.streamproarte.com.br:7204/stream?1685285676227"
     },
     {
         "name": "Continental AM 1120 Porto Alegre",
-        "url": "http://streaming10.hstbr.net:8042/live",
+        "url": "https://streaming10.hstbr.net:8042/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming10.hstbr.net:8042/live"
+        "working_url": "https://streaming10.hstbr.net:8042/live"
     },
     {
         "name": "Continental FM",
-        "url": "http://cast4.audiostream.com.br:8650/mp3",
+        "url": "https://cast4.audiostream.com.br:8650/mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://cast4.audiostream.com.br:8650/mp3"
+        "working_url": "https://cast4.audiostream.com.br:8650/mp3"
     },
     {
         "name": "Cooee Phoenix",
-        "url": "http://cast.hoost.com.br:9141/stream",
+        "url": "https://cast.hoost.com.br:9141/stream",
         "country": "BR",
         "favicon": "https://i.imgur.com/17zH3JQ.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cast.hoost.com.br:9141/stream"
+        "working_url": "https://cast.hoost.com.br:9141/stream"
     },
     {
         "name": "CRUZEIRO FM",
@@ -1388,21 +1396,21 @@
     },
     {
         "name": "Difusora Jundiaí",
-        "url": "http://shout35.crossradio.com.br:8112/stream?1653871122262",
+        "url": "https://shout35.crossradio.com.br:8112/stream?1653871122262",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://shout35.crossradio.com.br:8112/stream?1653871122262"
+        "working_url": "https://shout35.crossradio.com.br:8112/stream?1653871122262"
     },
     {
         "name": "Difusora Manaus 96,9",
-        "url": "http://69.16.236.247:9300/;mp3",
+        "url": "https://69.16.236.247:9300/;mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://69.16.236.247:9300/;mp3"
+        "working_url": "https://69.16.236.247:9300/;mp3"
     },
     {
         "name": "Digital FM",
@@ -1415,12 +1423,12 @@
     },
     {
         "name": "Digital Jazz",
-        "url": "http://stm01.virtualcast.com.br:8190/live",
+        "url": "https://stm01.virtualcast.com.br:8190/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://stm01.virtualcast.com.br:8190/live"
+        "working_url": "https://stm01.virtualcast.com.br:8190/live"
     },
     {
         "name": "DinamicoFM",
@@ -1451,12 +1459,12 @@
     },
     {
         "name": "Dj Guu Ofc - (QBY-N1L) - Sigam no Instagram @guu_duvak @familia_duvak_ofc",
-        "url": "http://jpdofunk3.com.br:8262/stream",
+        "url": "https://jpdofunk3.com.br:8262/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jpdofunk3.com.br:8262/stream"
+        "working_url": "https://jpdofunk3.com.br:8262/stream"
     },
     {
         "name": "DJ Troia | @dj.troia",
@@ -1496,12 +1504,12 @@
     },
     {
         "name": "Educadora AM 1060 Piracicaba",
-        "url": "http://streaming.ntelecom.com.br:8518/",
+        "url": "https://streaming.ntelecom.com.br:8518/",
         "country": "BR",
         "favicon": "https://educadora1060.com.br/wp-content/themes/educadora1060/assets/logo.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://streaming.ntelecom.com.br:8518/"
+        "working_url": "https://streaming.ntelecom.com.br:8518/"
     },
     {
         "name": "Educadora FM Campinas 91.7",
@@ -1541,12 +1549,12 @@
     },
     {
         "name": "EldoPop FM",
-        "url": "http://stm10.srvstm.com:34794/stream",
+        "url": "https://stm10.srvstm.com:34794/stream",
         "country": "BR",
         "favicon": "http://eldopopfm.com/admin/assets/img/favicon.jpg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm10.srvstm.com:34794/stream"
+        "working_url": "https://stm10.srvstm.com:34794/stream"
     },
     {
         "name": "Eldorado FM",
@@ -1586,12 +1594,12 @@
     },
     {
         "name": "Emilio Prime",
-        "url": "http://sv13.hdradios.net:7194/",
+        "url": "https://sv13.hdradios.net:7194/",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://sv13.hdradios.net:7194/"
+        "working_url": "https://sv13.hdradios.net:7194/"
     },
     {
         "name": "Energia FM",
@@ -1622,12 +1630,12 @@
     },
     {
         "name": "Escuta FM",
-        "url": "http://stm3.srvif.com:8054/stream",
+        "url": "https://stm3.srvif.com:8054/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://stm3.srvif.com:8054/stream"
+        "working_url": "https://stm3.srvif.com:8054/stream"
     },
     {
         "name": "Esmeralda",
@@ -1640,21 +1648,21 @@
     },
     {
         "name": "Espacial FM - Pará de Minas 105.5 FM",
-        "url": "http://paineldj4.com.br:8300/stream.mp3?type=.mp3",
+        "url": "https://paineldj4.com.br:8300/stream.mp3?type=.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://paineldj4.com.br:8300/stream.mp3?type=.mp3"
+        "working_url": "https://paineldj4.com.br:8300/stream.mp3?type=.mp3"
     },
     {
         "name": "Espiritismo BH",
-        "url": "http://paineldj4.com.br:8047/stream",
+        "url": "https://paineldj4.com.br:8047/stream",
         "country": "BR",
         "favicon": "https://espiritismobh.audiobras.net/imagens/logo.pnghttps://img.radios.com.br/radio/lg/radio26019_1439401628.jpg",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://paineldj4.com.br:8047/stream"
+        "working_url": "https://paineldj4.com.br:8047/stream"
     },
     {
         "name": "Esportes Total",
@@ -1676,12 +1684,12 @@
     },
     {
         "name": "Estância FM",
-        "url": "http://paineldj4.com.br:8290/stream?type=.mp3",
+        "url": "https://paineldj4.com.br:8290/stream?type=.mp3",
         "country": "BR",
         "favicon": "http://www.estancia.fm.br/imagens/estanciafm.webp",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://paineldj4.com.br:8290/stream?type=.mp3"
+        "working_url": "https://paineldj4.com.br:8290/stream?type=.mp3"
     },
     {
         "name": "Estção FM 89.5",
@@ -1721,12 +1729,12 @@
     },
     {
         "name": "Fan FM Aracaju",
-        "url": "http://08.stmip.net:7114/",
+        "url": "https://08.stmip.net:7114/",
         "country": "BR",
         "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://08.stmip.net:7114/"
+        "working_url": "https://08.stmip.net:7114/"
     },
     {
         "name": "Fay Só Forró das Antigas",
@@ -1775,7 +1783,7 @@
     },
     {
         "name": "FM DOM BOSCO 96.1",
-        "url": "http://stream.zeno.fm/wb1ptm05dkhvv",
+        "url": "https://stream.zeno.fm/wb1ptm05dkhvv",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
@@ -1793,21 +1801,21 @@
     },
     {
         "name": "FM O DIA 100.5",
-        "url": "http://streaming.livespanel.com:20000/live",
+        "url": "https://streaming.livespanel.com:20000/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.livespanel.com:20000/live"
+        "working_url": "https://streaming.livespanel.com:20000/live"
     },
     {
         "name": "FM PREMIUM",
-        "url": "http://cast4.audiostream.com.br:8663/mp3",
+        "url": "https://cast4.audiostream.com.br:8663/mp3",
         "country": "BR",
         "favicon": "http://www.redepampa.com.br/favicon.ico",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://cast4.audiostream.com.br:8663/mp3"
+        "working_url": "https://cast4.audiostream.com.br:8663/mp3"
     },
     {
         "name": "FM Rio Jaguaribe 104.5",
@@ -1829,21 +1837,21 @@
     },
     {
         "name": "FM93 Fortaleza",
-        "url": "http://zoeweb.net:8176/stream",
+        "url": "https://zoeweb.net:8176/stream",
         "country": "BR",
         "favicon": "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/70053ab5-8b25-4592-b9da-7b5a985886e1/disclaimer/8e31de85-38a2-4eca-8842-f1ddfc838820/domain/89790bdf-6c3b-4fb3-ba57-9cc5c9964fb4/controllerIcon/01H2YM2NP3CY56GQEKC8QP486B.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://zoeweb.net:8176/stream"
+        "working_url": "https://zoeweb.net:8176/stream"
     },
     {
         "name": "Fofinho Rock Club",
-        "url": "http://foreverinrock.radioca.st:9560/stream",
+        "url": "https://foreverinrock.radioca.st:9560/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 224,
-        "working_url": "http://foreverinrock.radioca.st:9560/stream"
+        "working_url": "https://foreverinrock.radioca.st:9560/stream"
     },
     {
         "name": "Forró em Milão",
@@ -2198,12 +2206,12 @@
     },
     {
         "name": "Indie 98",
-        "url": "http://indie.dyndns.tv:34100/indie98",
+        "url": "https://indie.dyndns.tv:34100/indie98",
         "country": "BR",
         "favicon": "http://indie98.mine.nu/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://indie.dyndns.tv:34100/indie98"
+        "working_url": "https://indie.dyndns.tv:34100/indie98"
     },
     {
         "name": "Inspira FM",
@@ -2234,12 +2242,12 @@
     },
     {
         "name": "Irecê Líder FM 103.7 Irecê - BA",
-        "url": "http://192.99.14.210:8223/stream?1716384253550=",
+        "url": "https://192.99.14.210:8223/stream?1716384253550=",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio13469_1512044898.jpg",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://192.99.14.210:8223/stream?1716384253550="
+        "working_url": "https://192.99.14.210:8223/stream?1716384253550="
     },
     {
         "name": "Itapema 102.3 FM",
@@ -2279,12 +2287,12 @@
     },
     {
         "name": "Jaguaribe FM",
-        "url": "http://stream.zeno.fm/3mydb487f0hvv",
+        "url": "https://stream.zeno.fm/3mydb487f0hvv",
         "country": "BR",
         "favicon": "http://kodishteam.space/images/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-179.surfernetwork.com/3mydb487f0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbXlkYjQ4N2YwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ0ZFlmUFVnNlNFU3ZKY1B2TzNqTHdRIiwiaWF0IjoxNzg2NDY5OTc1LCJleHAiOjE3ODY0NzAwMzV9.OQ5ZsNi0P12c4l8mNWQawBylVa-2bSTTGQI4RE-Y_HA"
+        "working_url": "https://stream-179.surfernetwork.com/3mydb487f0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbXlkYjQ4N2YwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ0ZFlmUFVnNlNFU3ZKY1B2TzNqTHdRIiwiaWF0IjoxNzg2NDY5OTc1LCJleHAiOjE3ODY0NzAwMzV9.OQ5ZsNi0P12c4l8mNWQawBylVa-2bSTTGQI4RE-Y_HA"
     },
     {
         "name": "JAMBEIRO FM 104.9",
@@ -2306,30 +2314,30 @@
     },
     {
         "name": "Jaraguá FM 101.3",
-        "url": "http://cast.hoost.com.br:9701/stream",
+        "url": "https://cast.hoost.com.br:9701/stream",
         "country": "BR",
         "favicon": "https://www.diariodajaragua.com.br/application/themes/diariodajaragua.com.br/gfx/favicon-v2/apple-icon-120x120.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://cast.hoost.com.br:9701/stream"
+        "working_url": "https://cast.hoost.com.br:9701/stream"
     },
     {
         "name": "Jazz Medley Webradio",
-        "url": "http://server01.ouvir.radio.br:8006/stream",
+        "url": "https://server01.ouvir.radio.br:8006/stream",
         "country": "BR",
         "favicon": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://server01.ouvir.radio.br:8006/stream"
+        "working_url": "https://server01.ouvir.radio.br:8006/stream"
     },
     {
         "name": "Jean Majolo Player",
-        "url": "http://jeanmajolo.com.br:8000/radio",
+        "url": "https://jeanmajolo.com.br:8000/radio",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jeanmajolo.com.br:8000/radio"
+        "working_url": "https://jeanmajolo.com.br:8000/radio"
     },
     {
         "name": "Jornal da Manhã (Ijuí)",
@@ -2342,12 +2350,12 @@
     },
     {
         "name": "Jovem Pan (Porto Alegre)",
-        "url": "http://centova6.ciclanohost.com.br:9256/;",
+        "url": "https://centova6.ciclanohost.com.br:9256/;",
         "country": "BR",
         "favicon": "https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://centova6.ciclanohost.com.br:9256/;"
+        "working_url": "https://centova6.ciclanohost.com.br:9256/;"
     },
     {
         "name": "Jovem pan 100,7 FM Maceió",
@@ -2414,12 +2422,12 @@
     },
     {
         "name": "Jovem Pan 98.3 - Taubaté, SP",
-        "url": "http://shout35.crossradio.com.br:8012/",
+        "url": "https://shout35.crossradio.com.br:8012/",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://shout35.crossradio.com.br:8012/"
+        "working_url": "https://shout35.crossradio.com.br:8012/"
     },
     {
         "name": "Jovem Pan BH",
@@ -2504,12 +2512,12 @@
     },
     {
         "name": "Jovem Pan Natal",
-        "url": "http://pannatal.jmvstream.com:8522/stream/",
+        "url": "https://pannatal.jmvstream.com:8522/stream/",
         "country": "BR",
         "favicon": "https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://pannatal.jmvstream.com:8522/stream/"
+        "working_url": "https://pannatal.jmvstream.com:8522/stream/"
     },
     {
         "name": "Jovem Pan News",
@@ -2531,12 +2539,12 @@
     },
     {
         "name": "Jovem Pan Porto Alegre",
-        "url": "http://centova6.ciclanohost.com.br:9256/",
+        "url": "https://centova6.ciclanohost.com.br:9256/",
         "country": "BR",
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230202_185333193.jpg?alt=media&token=15a4fdd0-fd97-4507-b2f2-584233d1f324",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://centova6.ciclanohost.com.br:9256/"
+        "working_url": "https://centova6.ciclanohost.com.br:9256/"
     },
     {
         "name": "Jovem pan são jose dos campos",
@@ -2594,12 +2602,12 @@
     },
     {
         "name": "LEMIXX - BEST FUNK & GROOVE CLASSICS & RARE DISCO, R&B, 80s OLD SCHOOL DANCE",
-        "url": "http://centova6.ciclanohost.com.br:9428/stream2",
+        "url": "https://centova6.ciclanohost.com.br:9428/stream2",
         "country": "BR",
         "favicon": "https://www.facebook.com/photo/?fbid=212694897771018&set=a.212694874437687",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centova6.ciclanohost.com.br:9428/stream2"
+        "working_url": "https://centova6.ciclanohost.com.br:9428/stream2"
     },
     {
         "name": "Liberal FM 92.7",
@@ -2612,21 +2620,21 @@
     },
     {
         "name": "Liberal FM 97.5MHz",
-        "url": "http://177.105.192.70:9750/liberalfm.mp3",
+        "url": "https://177.105.192.70:9750/liberalfm.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://177.105.192.70:9750/liberalfm.mp3"
+        "working_url": "https://177.105.192.70:9750/liberalfm.mp3"
     },
     {
         "name": "Liberdade (Porto Alegre)",
-        "url": "http://cast4.audiostream.com.br:8655/mp3",
+        "url": "https://cast4.audiostream.com.br:8655/mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://cast4.audiostream.com.br:8655/mp3"
+        "working_url": "https://cast4.audiostream.com.br:8655/mp3"
     },
     {
         "name": "Líder FM miraguai",
@@ -2639,12 +2647,12 @@
     },
     {
         "name": "LIGA SAMBA WEB RÁDIO",
-        "url": "http://srv1.braudio.com.br:7308/;stream",
+        "url": "https://srv1.braudio.com.br:7308/;stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://srv1.braudio.com.br:7308/;stream"
+        "working_url": "https://srv1.braudio.com.br:7308/;stream"
     },
     {
         "name": "Light FM 103.9 MHz ZYC699 (Belo Horizonte - MG)",
@@ -2684,12 +2692,12 @@
     },
     {
         "name": "Lobo web rádio Penedo",
-        "url": "http://stm21.srvaudio.com.br:9358/stream",
+        "url": "https://stm21.srvaudio.com.br:9358/stream",
         "country": "BR",
         "favicon": "http://play.radios.com.br/228029",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm21.srvaudio.com.br:9358/stream"
+        "working_url": "https://stm21.srvaudio.com.br:9358/stream"
     },
     {
         "name": "Maior Amor",
@@ -2738,30 +2746,30 @@
     },
     {
         "name": "Máquina do Tempo (Internacional)",
-        "url": "http://servidor28.brlogic.com:8212/live",
+        "url": "https://servidor28.brlogic.com:8212/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor28.brlogic.com:8212/live"
+        "working_url": "https://servidor28.brlogic.com:8212/live"
     },
     {
         "name": "Máquina do Tempo (MPB Brasil)",
-        "url": "http://servidor28.brlogic.com:8032/live",
+        "url": "https://servidor28.brlogic.com:8032/live",
         "country": "BR",
         "favicon": "https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://servidor28.brlogic.com:8032/live"
+        "working_url": "https://servidor28.brlogic.com:8032/live"
     },
     {
         "name": "Mar azul 104,9 FM Maceió",
-        "url": "http://stm25.xcast.com.br:7666/stream",
+        "url": "https://stm25.xcast.com.br:7666/stream",
         "country": "BR",
         "favicon": "https://www.radios.com.br/aovivo/radio-mar-azul-1049-fm/59465",
         "codec": "AAC+",
         "bitrate": 104,
-        "working_url": "http://stm25.xcast.com.br:7666/stream"
+        "working_url": "https://stm25.xcast.com.br:7666/stream"
     },
     {
         "name": "Maragogi Fm 97.3",
@@ -2936,12 +2944,12 @@
     },
     {
         "name": "MIX80",
-        "url": "http://mix80.duckdns.org:8000/live",
+        "url": "https://mix80.duckdns.org:8000/live",
         "country": "BR",
         "favicon": "https://static.wixstatic.com/media/641931_5e735e339f714bad9794f5a3221e0150.jpg/v1/fill/w_412,h_101,al_c,lg_1,q_80,enc_avif,quality_auto/641931_5e735e339f714bad9794f5a3221e0150.jpg",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://mix80.duckdns.org:8000/live"
+        "working_url": "https://mix80.duckdns.org:8000/live"
     },
     {
         "name": "MixFM-feat-LC",
@@ -2954,12 +2962,12 @@
     },
     {
         "name": "MNS FM - WebRadio From S",
-        "url": "http://lyra.shoutca.st:8206/autodj",
+        "url": "https://lyra.shoutca.st:8206/autodj",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://lyra.shoutca.st:8206/autodj"
+        "working_url": "https://lyra.shoutca.st:8206/autodj"
     },
     {
         "name": "Morada FM 98.1 Araraquara",
@@ -2990,12 +2998,12 @@
     },
     {
         "name": "Morena FM 107,1 FM - Campo Grande",
-        "url": "http://centova.svdns.com.br:25518/stream",
+        "url": "https://centova.svdns.com.br:25518/stream",
         "country": "BR",
         "favicon": "https://www.morenafm.com.br/imagens/logo.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://centova.svdns.com.br:25518/stream"
+        "working_url": "https://centova.svdns.com.br:25518/stream"
     },
     {
         "name": "Morena FM 98",
@@ -3008,12 +3016,12 @@
     },
     {
         "name": "MPBdoVinilAoDigital",
-        "url": "http://192.99.14.210:8339/stream",
+        "url": "https://192.99.14.210:8339/stream",
         "country": "BR",
         "favicon": "https://mpbdovinilaodigital.blogspot.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://192.99.14.210:8339/stream"
+        "working_url": "https://192.99.14.210:8339/stream"
     },
     {
         "name": "MPX Web Rádio 1",
@@ -3107,12 +3115,12 @@
     },
     {
         "name": "Music FM 88.7",
-        "url": "http://cast4.audiostream.com.br:8006/live",
+        "url": "https://cast4.audiostream.com.br:8006/live",
         "country": "BR",
         "favicon": "https://static.radios.com.br/img/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://cast4.audiostream.com.br:8006/live"
+        "working_url": "https://cast4.audiostream.com.br:8006/live"
     },
     {
         "name": "Music FM Recife 88.7",
@@ -3161,21 +3169,21 @@
     },
     {
         "name": "Nativa",
-        "url": "http://centova17.ciclanohost.com.br:8085/stream.mp3",
+        "url": "https://centova17.ciclanohost.com.br:8085/stream.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://centova17.ciclanohost.com.br:8085/stream.mp3"
+        "working_url": "https://centova17.ciclanohost.com.br:8085/stream.mp3"
     },
     {
         "name": "Nigthwave plaza",
-        "url": "http://radio.plaza.one/mp3",
+        "url": "https://radio.plaza.one/mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.plaza.one/mp3"
+        "working_url": "https://radio.plaza.one/mp3"
     },
     {
         "name": "Nilton Vanin",
@@ -3233,21 +3241,21 @@
     },
     {
         "name": "Nossa Rádio MEPB",
-        "url": "http://s01.painelstream.net:8548/;",
+        "url": "https://s01.painelstream.net:8548/;",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://s01.painelstream.net:8548/;"
+        "working_url": "https://s01.painelstream.net:8548/;"
     },
     {
         "name": "Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)",
-        "url": "http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC",
+        "url": "https://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC",
         "country": "BR",
         "favicon": "http://recife.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC"
+        "working_url": "https://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC"
     },
     {
         "name": "Nova Brasil FM Salvador",
@@ -3287,12 +3295,12 @@
     },
     {
         "name": "Nova FM",
-        "url": "http://hd3.matutos.com.br:8394/stream?1561472887177",
+        "url": "https://hd3.matutos.com.br:8394/stream?1561472887177",
         "country": "BR",
         "favicon": "https://fmnova.radio12345.com/banner_images/3324693/274/091/09982442182filebaner.gif",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://hd3.matutos.com.br:8394/stream?1561472887177"
+        "working_url": "https://hd3.matutos.com.br:8394/stream?1561472887177"
     },
     {
         "name": "Nova FM Tapejara",
@@ -3359,12 +3367,12 @@
     },
     {
         "name": "Odisséia FM",
-        "url": "http://apps01.star10.com.br:10012/radioodisseia",
+        "url": "https://apps01.star10.com.br:10012/radioodisseia",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://apps01.star10.com.br:10012/radioodisseia"
+        "working_url": "https://apps01.star10.com.br:10012/radioodisseia"
     },
     {
         "name": "Omega FM",
@@ -3395,21 +3403,21 @@
     },
     {
         "name": "Ouvindo a Biblia",
-        "url": "http://v3.directradios.com:8235/stream",
+        "url": "https://v3.directradios.com:8235/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://v3.directradios.com:8235/stream"
+        "working_url": "https://v3.directradios.com:8235/stream"
     },
     {
         "name": "OverRock Radio",
-        "url": "http://streaming06.hstbr.net:8008/live",
+        "url": "https://streaming06.hstbr.net:8008/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://streaming06.hstbr.net:8008/live"
+        "working_url": "https://streaming06.hstbr.net:8008/live"
     },
     {
         "name": "Pajuçara FM 103,7 Maceió",
@@ -3431,12 +3439,12 @@
     },
     {
         "name": "Pão Diário",
-        "url": "http://servidor24.brlogic.com:8808/live?1662557159610",
+        "url": "https://servidor24.brlogic.com:8808/live?1662557159610",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor24.brlogic.com:8808/live?1662557159610"
+        "working_url": "https://servidor24.brlogic.com:8808/live?1662557159610"
     },
     {
         "name": "Parati FM Araquari",
@@ -3512,12 +3520,12 @@
     },
     {
         "name": "PLUS FM SOBRAL 105.1MHz",
-        "url": "http://webradio.amsolution.com.br/radio/8030/sobral",
+        "url": "https://webradio.amsolution.com.br/radio/8030/sobral",
         "country": "BR",
         "favicon": "https://plusfm.com.br/wp-content/uploads/2022/04/cropped-faviconplus-180x180.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://webradio.amsolution.com.br/radio/8030/sobral"
+        "working_url": "https://webradio.amsolution.com.br/radio/8030/sobral"
     },
     {
         "name": "Pool FM",
@@ -3593,12 +3601,12 @@
     },
     {
         "name": "Progressive Earth Radio",
-        "url": "http://sv10.hdradios.net:6674/;",
+        "url": "https://sv10.hdradios.net:6674/;",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio170330_1608747125.jpg",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://sv10.hdradios.net:6674/;"
+        "working_url": "https://sv10.hdradios.net:6674/;"
     },
     {
         "name": "Progsky",
@@ -3620,12 +3628,12 @@
     },
     {
         "name": "Radi Ouro Negro FM 100,7",
-        "url": "http://stm50.conectastm.com:24964/stream?1773415212921",
+        "url": "https://stm50.conectastm.com:24964/stream?1773415212921",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio26110_1439401629.jpg",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm50.conectastm.com:24964/stream?1773415212921"
+        "working_url": "https://stm50.conectastm.com:24964/stream?1773415212921"
     },
     {
         "name": "Rádio 100 FM",
@@ -3692,12 +3700,12 @@
     },
     {
         "name": "Rádio 80FM",
-        "url": "http://104.247.221.130:9020/stream1",
+        "url": "https://104.247.221.130:9020/stream1",
         "country": "BR",
         "favicon": "https://www.radio80fm.com.br/favicon.ico",
         "codec": "AAC+",
         "bitrate": 104,
-        "working_url": "http://104.247.221.130:9020/stream1"
+        "working_url": "https://104.247.221.130:9020/stream1"
     },
     {
         "name": "Rádio 89 FM",
@@ -3737,12 +3745,12 @@
     },
     {
         "name": "Rádio 94 FM 94.7 MHz (Lavras - MG)",
-        "url": "http://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8",
+        "url": "https://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8",
         "country": "BR",
         "favicon": "",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8"
+        "working_url": "https://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8"
     },
     {
         "name": "Rádio 95 FM 95.7 Alagoinhas",
@@ -3791,12 +3799,12 @@
     },
     {
         "name": "Radio ABR Music",
-        "url": "http://r11.ciclano.io:9191/stream",
+        "url": "https://r11.ciclano.io:9191/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r11.ciclano.io:9191/stream"
+        "working_url": "https://r11.ciclano.io:9191/stream"
     },
     {
         "name": "Rádio AD Perus Capivari",
@@ -3809,12 +3817,12 @@
     },
     {
         "name": "Rádio Advento",
-        "url": "http://paineldj6.com.br:11430/live",
+        "url": "https://paineldj6.com.br:11430/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://paineldj6.com.br:11430/live"
+        "working_url": "https://paineldj6.com.br:11430/live"
     },
     {
         "name": "Radio Advento - Londrina",
@@ -3908,12 +3916,12 @@
     },
     {
         "name": "Radio Alto Piranhas",
-        "url": "http://40.160.24.87:10070/stream",
+        "url": "https://40.160.24.87:10070/stream",
         "country": "BR",
         "favicon": "http://www.radioaltopiranhas.com.br/wp-content/themes/rap/favicon.ico",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://40.160.24.87:10070/stream"
+        "working_url": "https://40.160.24.87:10070/stream"
     },
     {
         "name": "Rádio Alvorada (MP3)",
@@ -3944,12 +3952,12 @@
     },
     {
         "name": "Radio Amigos da MPB",
-        "url": "http://stm4.voxhd.com.br:7086/",
+        "url": "https://stm4.voxhd.com.br:7086/",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm4.voxhd.com.br:7086/"
+        "working_url": "https://stm4.voxhd.com.br:7086/"
     },
     {
         "name": "Radio Amigos do Flashback",
@@ -3980,12 +3988,12 @@
     },
     {
         "name": "Radio Amigos do Rock",
-        "url": "http://stm25.srvaudio.com.br:11358/",
+        "url": "https://stm25.srvaudio.com.br:11358/",
         "country": "BR",
         "favicon": "https://www.wix.com/favicon.ico",
         "codec": "AAC+",
         "bitrate": 72,
-        "working_url": "http://stm25.srvaudio.com.br:11358/"
+        "working_url": "https://stm25.srvaudio.com.br:11358/"
     },
     {
         "name": "Radio Amigos do Rock Nacional",
@@ -4016,12 +4024,12 @@
     },
     {
         "name": "Rádio Amorim 104.1 FM",
-        "url": "http://streaming05.maxcast.com.br:8080/live",
+        "url": "https://streaming05.maxcast.com.br:8080/live",
         "country": "BR",
         "favicon": "https://ligana104.com.br/2021/wp-content/uploads/2016/05/logoNova.png",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://streaming05.maxcast.com.br:8080/live"
+        "working_url": "https://streaming05.maxcast.com.br:8080/live"
     },
     {
         "name": "Radio Animu [MP3 192Kbps]",
@@ -4043,12 +4051,12 @@
     },
     {
         "name": "Rádio Anos 80",
-        "url": "http://live2.livemus.com.br:27400/live",
+        "url": "https://live2.livemus.com.br:27400/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://live2.livemus.com.br:27400/live"
+        "working_url": "https://live2.livemus.com.br:27400/live"
     },
     {
         "name": "Rádio Antena 1 88.3 FM",
@@ -4093,7 +4101,7 @@
         "favicon": "https://radioararangua.com.br/wp-content/themes/radio-ararangua/android-chrome-384x384.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm01.virtualcast.com.br:8332/ararangua"
+        "working_url": "https://stm01.virtualcast.com.br:8332/ararangua"
     },
     {
         "name": "Rádio Aratus FM",
@@ -4111,7 +4119,7 @@
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm10.virtualcast.com.br:8282/arautoveracruz"
+        "working_url": "https://stm10.virtualcast.com.br:8282/arautoveracruz"
     },
     {
         "name": "Rádio Assunção AM620",
@@ -4124,12 +4132,12 @@
     },
     {
         "name": "Radio Ativa Bom Despacho",
-        "url": "http://148.72.158.239:8036/live",
+        "url": "https://148.72.158.239:8036/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://148.72.158.239:8036/live"
+        "working_url": "https://148.72.158.239:8036/live"
     },
     {
         "name": "RADIO ATLÂNTICA FM 98.5",
@@ -4250,21 +4258,21 @@
     },
     {
         "name": "Rádio Batuta Clássicos",
-        "url": "http://classicoims.out.airtime.pro:8000/classicoims_a",
+        "url": "https://classicoims.out.airtime.pro:8000/classicoims_a",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://classicoims.out.airtime.pro:8000/classicoims_a"
+        "working_url": "https://classicoims.out.airtime.pro:8000/classicoims_a"
     },
     {
         "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
-        "url": "http://radioims.out.airtime.pro:8000/radioims_a",
+        "url": "https://radioims.out.airtime.pro:8000/radioims_a",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radioims.out.airtime.pro:8000/radioims_a"
+        "working_url": "https://radioims.out.airtime.pro:8000/radioims_a"
     },
     {
         "name": "Rádio BBN 92.3 FM",
@@ -4277,12 +4285,12 @@
     },
     {
         "name": "Rádio Beach Park FM",
-        "url": "http://www.radioideal.net:8026/;stream/1",
+        "url": "https://www.radioideal.net:8026/;stream/1",
         "country": "BR",
         "favicon": "http://radio.beachpark.com.br/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://www.radioideal.net:8026/;stream/1"
+        "working_url": "https://www.radioideal.net:8026/;stream/1"
     },
     {
         "name": "Rádio Betim Web",
@@ -4358,30 +4366,30 @@
     },
     {
         "name": "Rádio Bom Sucesso 95.5 FM",
-        "url": "http://euroticast5.euroti.com.br:8110/stream",
+        "url": "https://euroticast5.euroti.com.br:8110/stream",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio10473_1574106832.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://euroticast5.euroti.com.br:8110/stream"
+        "working_url": "https://euroticast5.euroti.com.br:8110/stream"
     },
     {
         "name": "Rádio Bons Tempos FM",
-        "url": "http://stm7.xradios.com.br:6888/",
+        "url": "https://stm7.xradios.com.br:6888/",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm7.xradios.com.br:6888/"
+        "working_url": "https://stm7.xradios.com.br:6888/"
     },
     {
         "name": "Rádio Bossa Nova Brazil",
-        "url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
+        "url": "https://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
         "country": "BR",
         "favicon": "http://www.vip-radios.fm/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil"
+        "working_url": "https://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil"
     },
     {
         "name": "Rádio Brasil 2000",
@@ -4430,12 +4438,12 @@
     },
     {
         "name": "Rádio Cachoeira 94.7 FM",
-        "url": "http://s01.transmissaodigital.com:7120/stream",
+        "url": "https://s01.transmissaodigital.com:7120/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://s01.transmissaodigital.com:7120/stream"
+        "working_url": "https://s01.transmissaodigital.com:7120/stream"
     },
     {
         "name": "Rádio Café Modão",
@@ -4529,12 +4537,12 @@
     },
     {
         "name": "Rádio Caturité",
-        "url": "http://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643",
+        "url": "https://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643",
         "country": "BR",
         "favicon": "https://www.radiocaturite.com.br/img/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643"
+        "working_url": "https://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643"
     },
     {
         "name": "Rádio Caverá FM 87.9",
@@ -4574,12 +4582,12 @@
     },
     {
         "name": "Radio CGB",
-        "url": "http://paineldj6.com.br:8103/stream",
+        "url": "https://paineldj6.com.br:8103/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://paineldj6.com.br:8103/stream"
+        "working_url": "https://paineldj6.com.br:8103/stream"
     },
     {
         "name": "Rádio Charme",
@@ -4601,39 +4609,39 @@
     },
     {
         "name": "Rádio Cidade",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
         "country": "BR",
         "favicon": "https://radiocidade.fm/favicon.ico",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://27343.live.streamtheworld.com/RADIOCIDADEAAC.aac"
+        "working_url": "https://27343.live.streamtheworld.com/RADIOCIDADEAAC.aac"
     },
     {
         "name": "Rádio Cidade - Classic Rock",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICROCK_S01AAC_64.aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICROCK_S01AAC_64.aac",
         "country": "BR",
         "favicon": "https://radiocidade.fm/player/img/classic-rock.svg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://27353.live.streamtheworld.com/CLASSICROCK_S01AAC_64.aac"
+        "working_url": "https://27353.live.streamtheworld.com/CLASSICROCK_S01AAC_64.aac"
     },
     {
         "name": "Rádio Cidade - drop80",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac",
         "country": "BR",
         "favicon": "https://radiocidade.fm/player/img/drop-80.svg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://26573.live.streamtheworld.com/DROP80_S01AAC.aac"
+        "working_url": "https://26573.live.streamtheworld.com/DROP80_S01AAC.aac"
     },
     {
         "name": "Rádio Cidade - Jundiaí",
-        "url": "http://r18.ciclano.io:9693/stream?1653871323495",
+        "url": "https://r18.ciclano.io:9693/stream?1653871323495",
         "country": "BR",
         "favicon": "https://www.facebook.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r18.ciclano.io:9693/stream?1653871323495"
+        "working_url": "https://r18.ciclano.io:9693/stream?1653871323495"
     },
     {
         "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
@@ -4646,21 +4654,21 @@
     },
     {
         "name": "Rádio Cidade - Stereo Zero",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/STEREOZERO_S01AAC.aac",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOZERO_S01AAC.aac",
         "country": "BR",
         "favicon": "https://radiocidade.fm/player/img/stereo-zero.svg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://14073.live.streamtheworld.com/STEREOZERO_S01AAC.aac"
+        "working_url": "https://14073.live.streamtheworld.com/STEREOZERO_S01AAC.aac"
     },
     {
         "name": "RADIO CIDADE 100.1",
-        "url": "http://sl.dnip.com.br:10376/stream",
+        "url": "https://sl.dnip.com.br:10376/stream",
         "country": "BR",
         "favicon": "https://www.radiocidadejf.com.br/wp-content/uploads/2017/07/cropped-logo.png",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://sl.dnip.com.br:10376/stream"
+        "working_url": "https://sl.dnip.com.br:10376/stream"
     },
     {
         "name": "Rádio Cidade 101",
@@ -4673,12 +4681,12 @@
     },
     {
         "name": "Rádio Cidade 670 AM",
-        "url": "http://cast.youngtech.radio.br:8550/radio",
+        "url": "https://cast.youngtech.radio.br:8550/radio",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio13214_1552052858.jpg",
         "codec": "AAC",
         "bitrate": 32,
-        "working_url": "http://cast.youngtech.radio.br:8550/radio"
+        "working_url": "https://cast.youngtech.radio.br:8550/radio"
     },
     {
         "name": "Radio Cidade 87.5 FM",
@@ -4925,12 +4933,12 @@
     },
     {
         "name": "Rádio da UFRGS",
-        "url": "http://radioaovivo.ufrgs.br:8000/stream.mp3",
+        "url": "https://radioaovivo.ufrgs.br:8000/stream.mp3",
         "country": "BR",
         "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_UFRGS_formato_SVG-01.svg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radioaovivo.ufrgs.br:8000/stream.mp3"
+        "working_url": "https://radioaovivo.ufrgs.br:8000/stream.mp3"
     },
     {
         "name": "Rádio Dance Music Anos 2000",
@@ -4952,12 +4960,12 @@
     },
     {
         "name": "Radio Dence",
-        "url": "http://servidor32.brlogic.com:8198/live",
+        "url": "https://servidor32.brlogic.com:8198/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor32.brlogic.com:8198/live"
+        "working_url": "https://servidor32.brlogic.com:8198/live"
     },
     {
         "name": "Rádio Difusora 960",
@@ -4979,21 +4987,21 @@
     },
     {
         "name": "Rádio Difusora Batatais",
-        "url": "http://sd.dnip.com.br:9036/stream",
+        "url": "https://sd.dnip.com.br:9036/stream",
         "country": "BR",
         "favicon": "http://www.batatais.sp.gov.br",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://sd.dnip.com.br:9036/stream"
+        "working_url": "https://sd.dnip.com.br:9036/stream"
     },
     {
         "name": "Rádio Difusora de Imbituba 100.3 FM",
-        "url": "http://r13.ciclano.io:8927/stream",
+        "url": "https://r13.ciclano.io:8927/stream",
         "country": "BR",
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZM5fH4HgyCjkpqDmHx-okcdRH_YvHi56Asg&s",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r13.ciclano.io:8927/stream"
+        "working_url": "https://r13.ciclano.io:8927/stream"
     },
     {
         "name": "Radio difusora de Mossoró",
@@ -5015,21 +5023,21 @@
     },
     {
         "name": "rádio Digital",
-        "url": "http://stm1.tcmcast.com.br:7050/",
+        "url": "https://stm1.tcmcast.com.br:7050/",
         "country": "BR",
         "favicon": "https://webradiodigitalfm.com.br/admin/assets/img/favicon.jpg",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm1.tcmcast.com.br:7050/"
+        "working_url": "https://stm1.tcmcast.com.br:7050/"
     },
     {
         "name": "Rádio Disco Funk BR",
-        "url": "http://streaming12.hstbr.net:8084/live",
+        "url": "https://streaming12.hstbr.net:8084/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://streaming12.hstbr.net:8084/live"
+        "working_url": "https://streaming12.hstbr.net:8084/live"
     },
     {
         "name": "Rádio Disney - Brasil FM 91.3",
@@ -5060,12 +5068,12 @@
     },
     {
         "name": "Radio Dorminhoca",
-        "url": "http://stream.zeno.fm/dkyrn1814k0uv",
+        "url": "https://stream.zeno.fm/dkyrn1814k0uv",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-176.surfernetwork.com/dkyrn1814k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJka3lybjE4MTRrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJNbnFqdVhqWlItcTVCY0tzekkzY29BIiwiaWF0IjoxNzg2NDcwMDA0LCJleHAiOjE3ODY0NzAwNjR9.DQxQTOpqqQZSlyTsfx-lNgc7ob6jgnyzYUCx5OzOavI"
+        "working_url": "https://stream-176.surfernetwork.com/dkyrn1814k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJka3lybjE4MTRrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJNbnFqdVhqWlItcTVCY0tzekkzY29BIiwiaWF0IjoxNzg2NDcwMDA0LCJleHAiOjE3ODY0NzAwNjR9.DQxQTOpqqQZSlyTsfx-lNgc7ob6jgnyzYUCx5OzOavI"
     },
     {
         "name": "Rádio Ecológica FM 98,7 Mhz (São João Del Rei - MG)",
@@ -5096,12 +5104,12 @@
     },
     {
         "name": "Rádio Elétrica",
-        "url": "http://servidor26.brlogic.com:8040/live",
+        "url": "https://servidor26.brlogic.com:8040/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor26.brlogic.com:8040/live"
+        "working_url": "https://servidor26.brlogic.com:8040/live"
     },
     {
         "name": "Rádio Elohim",
@@ -5213,12 +5221,12 @@
     },
     {
         "name": "Radio Estilo Leblon",
-        "url": "http://198.58.98.83:8193/stream",
+        "url": "https://198.58.98.83:8193/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 80,
-        "working_url": "http://198.58.98.83:8193/stream"
+        "working_url": "https://198.58.98.83:8193/stream"
     },
     {
         "name": "Rádio Estoica",
@@ -5276,21 +5284,21 @@
     },
     {
         "name": "Rádio Federal Fm 101,3 Mhz UNIFAL",
-        "url": "http://cast61.sitehosting.com.br:8443/live",
+        "url": "https://cast61.sitehosting.com.br:8443/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cast61.sitehosting.com.br:8443/live"
+        "working_url": "https://cast61.sitehosting.com.br:8443/live"
     },
     {
         "name": "Rádio Flashback Fm",
-        "url": "http://hd.matutos.com.br:8008/;stream.mp3",
+        "url": "https://hd.matutos.com.br:8008/;stream.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://hd.matutos.com.br:8008/;stream.mp3"
+        "working_url": "https://hd.matutos.com.br:8008/;stream.mp3"
     },
     {
         "name": "Rádio FM Music Brasil",
@@ -5312,12 +5320,12 @@
     },
     {
         "name": "Rádio Fox Rock",
-        "url": "http://09.stmip.net:8422/stream",
+        "url": "https://09.stmip.net:8422/stream",
         "country": "BR",
         "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/lmlCSC2fKUDUkNiK/logo-fox-87-7-fm-p5eve2j6xeu8b7ou3adhud11qrj8spjjyqnznyr600-YrD14kKjvxTVOVP3.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://09.stmip.net:8422/stream"
+        "working_url": "https://09.stmip.net:8422/stream"
     },
     {
         "name": "Rádio Fronteira 102.3 FM",
@@ -5357,12 +5365,12 @@
     },
     {
         "name": "Rádio Galera",
-        "url": "http://stream.zeno.fm/hwuwmm0dvp8uv",
+        "url": "https://stream.zeno.fm/hwuwmm0dvp8uv",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://stream-177.surfernetwork.com/hwuwmm0dvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJod3V3bW0wZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMYmlwNEhiVVRvV3BJUnFlUUdiRnp3IiwiaWF0IjoxNzg2NDcwMDA2LCJleHAiOjE3ODY0NzAwNjZ9.rwgd7hADY7xd0JivNeAoMgp9oEkcO-FPsk_YmDAT6YA"
+        "working_url": "https://stream-177.surfernetwork.com/hwuwmm0dvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJod3V3bW0wZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMYmlwNEhiVVRvV3BJUnFlUUdiRnp3IiwiaWF0IjoxNzg2NDcwMDA2LCJleHAiOjE3ODY0NzAwNjZ9.rwgd7hADY7xd0JivNeAoMgp9oEkcO-FPsk_YmDAT6YA"
     },
     {
         "name": "Rádio Gaudéria das Missões",
@@ -5429,12 +5437,12 @@
     },
     {
         "name": "Rádio Gospel",
-        "url": "http://148.72.158.239:8120/live",
+        "url": "https://148.72.158.239:8120/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://148.72.158.239:8120/live"
+        "working_url": "https://148.72.158.239:8120/live"
     },
     {
         "name": "Rádio Gospel Hits",
@@ -5501,12 +5509,12 @@
     },
     {
         "name": "Rádio Graviola",
-        "url": "http://servidor30.brlogic.com:8262/live",
+        "url": "https://servidor30.brlogic.com:8262/live",
         "country": "BR",
         "favicon": "https://radiograviola.com/wp-content/themes/radio-graviola/dist/assets/img/favicon/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor30.brlogic.com:8262/live"
+        "working_url": "https://servidor30.brlogic.com:8262/live"
     },
     {
         "name": "Rádio Grenal",
@@ -5600,12 +5608,12 @@
     },
     {
         "name": "Radio Hot 97.7",
-        "url": "http://servidor23.brlogic.com:7782/autodj",
+        "url": "https://servidor23.brlogic.com:7782/autodj",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://servidor23.brlogic.com:7782/autodj"
+        "working_url": "https://servidor23.brlogic.com:7782/autodj"
     },
     {
         "name": "Rádio HT",
@@ -5699,21 +5707,21 @@
     },
     {
         "name": "Radio Instrumental Gospel",
-        "url": "http://live8.livemus.com.br:27142/stream",
+        "url": "https://live8.livemus.com.br:27142/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://live8.livemus.com.br:27142/stream"
+        "working_url": "https://live8.livemus.com.br:27142/stream"
     },
     {
         "name": "Rádio Integração 87.5 FM",
-        "url": "http://stm27.xcast.com.br:9246/stream",
+        "url": "https://stm27.xcast.com.br:9246/stream",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio19379_1546881026.jpg",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://stm27.xcast.com.br:9246/stream"
+        "working_url": "https://stm27.xcast.com.br:9246/stream"
     },
     {
         "name": "Rádio Interação Music",
@@ -5726,30 +5734,30 @@
     },
     {
         "name": "Rádio Interativa FM 94.9",
-        "url": "http://suaradio1.dyndns.ws:13551/stream",
+        "url": "https://suaradio1.dyndns.ws:13551/stream",
         "country": "BR",
         "favicon": "https://interativafm.net/wp-content/uploads/2024/11/7-150x150.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://suaradio1.dyndns.ws:13551/stream"
+        "working_url": "https://suaradio1.dyndns.ws:13551/stream"
     },
     {
         "name": "Radio Ipiranga",
-        "url": "http://r11.ciclano.io:9173/stream",
+        "url": "https://r11.ciclano.io:9173/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://r11.ciclano.io:9173/stream"
+        "working_url": "https://r11.ciclano.io:9173/stream"
     },
     {
         "name": "Rádio Itapoan 97.5 FM",
-        "url": "http://cast.radiu.live:9300/stream",
+        "url": "https://cast.radiu.live:9300/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://cast.radiu.live:9300/stream"
+        "working_url": "https://cast.radiu.live:9300/stream"
     },
     {
         "name": "Rádio Itapoan FM 97.5",
@@ -6023,12 +6031,12 @@
     },
     {
         "name": "Radio Lider FM",
-        "url": "http://r11.ciclano.io:9047/stream",
+        "url": "https://r11.ciclano.io:9047/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://r11.ciclano.io:9047/stream"
+        "working_url": "https://r11.ciclano.io:9047/stream"
     },
     {
         "name": "RADIO LIDERANCA",
@@ -6041,12 +6049,12 @@
     },
     {
         "name": "RÁDIO LIGA SAMBA",
-        "url": "http://srv1.braudio.com.br:7308/;stream.nsv",
+        "url": "https://srv1.braudio.com.br:7308/;stream.nsv",
         "country": "BR",
         "favicon": "https://www.radio-ao-vivo.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://srv1.braudio.com.br:7308/;stream.nsv"
+        "working_url": "https://srv1.braudio.com.br:7308/;stream.nsv"
     },
     {
         "name": "Rádio Like Brazil",
@@ -6068,12 +6076,12 @@
     },
     {
         "name": "Radio Livre 95",
-        "url": "http://aovivo.radiolivre95.com:8000/aovivo",
+        "url": "https://aovivo.radiolivre95.com:8000/aovivo",
         "country": "BR",
         "favicon": "https://radiolivre95.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://aovivo.radiolivre95.com:8000/aovivo"
+        "working_url": "https://aovivo.radiolivre95.com:8000/aovivo"
     },
     {
         "name": "Rádio Livre som",
@@ -6122,12 +6130,12 @@
     },
     {
         "name": "Rádio Manawa",
-        "url": "http://161.97.82.133:8000/radio.mp3",
+        "url": "https://161.97.82.133:8000/radio.mp3",
         "country": "BR",
         "favicon": "https://manawa.com.br/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://161.97.82.133:8000/radio.mp3"
+        "working_url": "https://161.97.82.133:8000/radio.mp3"
     },
     {
         "name": "Rádio Manga 87.9 FM",
@@ -6230,12 +6238,12 @@
     },
     {
         "name": "Radio Maria Brazil",
-        "url": "http://dreamsiteradiocp.com:8064/stream",
+        "url": "https://dreamsiteradiocp.com:8064/stream",
         "country": "BR",
         "favicon": "https://www.radiomaria.org.br/favicon.ico",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://dreamsiteradiocp.com:8064/stream"
+        "working_url": "https://dreamsiteradiocp.com:8064/stream"
     },
     {
         "name": "Radio Marinha (Manaus)",
@@ -6257,30 +6265,30 @@
     },
     {
         "name": "Radio MAX Correio FM 99.1 Souza - PB",
-        "url": "http://stm22.xcast.com.br:9166/stream",
+        "url": "https://stm22.xcast.com.br:9166/stream",
         "country": "BR",
         "favicon": "https://www.correiosat.com.br/img/logo_correiosat.svg",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm22.xcast.com.br:9166/stream"
+        "working_url": "https://stm22.xcast.com.br:9166/stream"
     },
     {
         "name": "Rádio Maxima FM",
-        "url": "http://stream03.dghost.com.br/radio/8210/stream",
+        "url": "https://stream03.dghost.com.br/radio/8210/stream",
         "country": "BR",
         "favicon": "https://www.maxima.fm.br/images/logoicon.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://stream03.dghost.com.br/radio/8210/stream"
+        "working_url": "https://stream03.dghost.com.br/radio/8210/stream"
     },
     {
         "name": "Rádio Máxima Goiânia",
-        "url": "http://sv12.hdradios.net:7696/",
+        "url": "https://sv12.hdradios.net:7696/",
         "country": "BR",
         "favicon": "https://www.radiomaximagoiania.com.br/favicon.ico",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://sv12.hdradios.net:7696/"
+        "working_url": "https://sv12.hdradios.net:7696/"
     },
     {
         "name": "Rádio MB FM",
@@ -6302,21 +6310,21 @@
     },
     {
         "name": "Rádio Medianeira FM 100.9",
-        "url": "http://65.19.178.74:7092/stream",
+        "url": "https://65.19.178.74:7092/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://65.19.178.74:7092/stream"
+        "working_url": "https://65.19.178.74:7092/stream"
     },
     {
         "name": "Rádio Medianeira FM 102.7",
-        "url": "http://65.19.178.74:7094/stream",
+        "url": "https://65.19.178.74:7094/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://65.19.178.74:7094/stream"
+        "working_url": "https://65.19.178.74:7094/stream"
     },
     {
         "name": "Rádio Mega 87.9 FM",
@@ -6347,12 +6355,12 @@
     },
     {
         "name": "Rádio Meio Norte 91.1 FM",
-        "url": "http://webradio.amsolution.com.br:8300/live?1782849020576",
+        "url": "https://webradio.amsolution.com.br:8300/live?1782849020576",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://webradio.amsolution.com.br:8300/live?1782849020576"
+        "working_url": "https://webradio.amsolution.com.br:8300/live?1782849020576"
     },
     {
         "name": "Rádio Melodia 97.5 FM",
@@ -6419,12 +6427,12 @@
     },
     {
         "name": "Rádio Minas 99.3 FM",
-        "url": "http://centova.jmvstream.com:9816/stream?1771878727642",
+        "url": "https://centova.jmvstream.com:9816/stream?1771878727642",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio13695_1762186156.png",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://centova.jmvstream.com:9816/stream?1771878727642"
+        "working_url": "https://centova.jmvstream.com:9816/stream?1771878727642"
     },
     {
         "name": "Rádio Ministério Cristo Pleno",
@@ -6464,12 +6472,12 @@
     },
     {
         "name": "Rádio Modão MT",
-        "url": "http://stm1.matutos.com.br:11356/stream",
+        "url": "https://stm1.matutos.com.br:11356/stream",
         "country": "BR",
         "favicon": "https://pbr-str.srvsite.com/arquivos/9501/favicon-9501-20240102123716.ico",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm1.matutos.com.br:11356/stream"
+        "working_url": "https://stm1.matutos.com.br:11356/stream"
     },
     {
         "name": "Rádio Montense Flash Minas 102.9 FM",
@@ -6500,21 +6508,21 @@
     },
     {
         "name": "Rádio Music Hall",
-        "url": "http://server02.ouvir.radio.br:8050/stream",
+        "url": "https://server02.ouvir.radio.br:8050/stream",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio34072_1446728798.jpg",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://server02.ouvir.radio.br:8050/stream"
+        "working_url": "https://server02.ouvir.radio.br:8050/stream"
     },
     {
         "name": "Rádio Musical",
-        "url": "http://stm21.conectastm.com:6892/stream",
+        "url": "https://stm21.conectastm.com:6892/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 104,
-        "working_url": "http://stm21.conectastm.com:6892/stream"
+        "working_url": "https://stm21.conectastm.com:6892/stream"
     },
     {
         "name": "Rádio Nação 95.7 FM",
@@ -6527,7 +6535,7 @@
     },
     {
         "name": "Rádio Nação Vitoriosa",
-        "url": "http://stream-179.zeno.fm/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWxCVFAwUGVSNENsakhkdWxXNnRjdyIsImlhdCI6MTc2ODQzNDkxMywiZXhwIjoxNzY4NDM0OTczfQ.NEihsqcry0CKjNdEBR1rxan3ODPWGqZwmeATSiXtU6I",
+        "url": "https://stream-179.zeno.fm/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWxCVFAwUGVSNENsakhkdWxXNnRjdyIsImlhdCI6MTc2ODQzNDkxMywiZXhwIjoxNzY4NDM0OTczfQ.NEihsqcry0CKjNdEBR1rxan3ODPWGqZwmeATSiXtU6I",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
@@ -6554,12 +6562,12 @@
     },
     {
         "name": "Rádio Nativa 93.7 FM Irecê - BA",
-        "url": "http://stm3.srvif.com:7128/stream?1716397382938=",
+        "url": "https://stm3.srvif.com:7128/stream?1716397382938=",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio18023_1574676599.png",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://stm3.srvif.com:7128/stream?1716397382938="
+        "working_url": "https://stm3.srvif.com:7128/stream?1716397382938="
     },
     {
         "name": "Radio New Black SP",
@@ -6590,12 +6598,12 @@
     },
     {
         "name": "Rádio Noroeste Fm Santa Rosa RS",
-        "url": "http://paineldj5.com.br:12222//listen.pls?sid=1",
+        "url": "https://paineldj5.com.br:12222//listen.pls?sid=1",
         "country": "BR",
         "favicon": "https://jornalnoroeste.com.br/files/images/static/radio-noroeste-fm.png",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://paineldj5.com.br:12222//listen.pls?sid=1"
+        "working_url": "https://paineldj5.com.br:12222//listen.pls?sid=1"
     },
     {
         "name": "Rádio Notícia 88,9 FM Americana SP",
@@ -6617,12 +6625,12 @@
     },
     {
         "name": "Radio Nova Brasil",
-        "url": "http://r11.ciclano.io:9134/stream",
+        "url": "https://r11.ciclano.io:9134/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r11.ciclano.io:9134/stream"
+        "working_url": "https://r11.ciclano.io:9134/stream"
     },
     {
         "name": "Rádio Nova FM Anápolis",
@@ -6635,12 +6643,12 @@
     },
     {
         "name": "Radio Nova FM Nova Canaã",
-        "url": "http://stream.splug.com.br:8000/Radio136",
+        "url": "https://stream.splug.com.br:8000/Radio136",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.splug.com.br:8000/Radio136"
+        "working_url": "https://stream.splug.com.br:8000/Radio136"
     },
     {
         "name": "Rádio Nova Geração FM",
@@ -6707,12 +6715,12 @@
     },
     {
         "name": "Radio Oeste FM 94,5",
-        "url": "http://radio.viaflux.com:5599/live",
+        "url": "https://radio.viaflux.com:5599/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 80,
-        "working_url": "http://radio.viaflux.com:5599/live"
+        "working_url": "https://radio.viaflux.com:5599/live"
     },
     {
         "name": "Rádio Olavo de Carvalho",
@@ -6797,12 +6805,12 @@
     },
     {
         "name": "Radio Pampa FM 97,5 - Porto Alegre",
-        "url": "http://cast4.audiostream.com.br:8653/aac",
+        "url": "https://cast4.audiostream.com.br:8653/aac",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://cast4.audiostream.com.br:8653/aac"
+        "working_url": "https://cast4.audiostream.com.br:8653/aac"
     },
     {
         "name": "Rádio Pão Diário",
@@ -6860,21 +6868,21 @@
     },
     {
         "name": "Rádio Petrolina FM (ZYX802, 98,3 MHz FM, Petronila, PE)",
-        "url": "http://hd4.matutos.com.br:8324/;stream.mp3",
+        "url": "https://hd4.matutos.com.br:8324/;stream.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://hd4.matutos.com.br:8324/;stream.mp3"
+        "working_url": "https://hd4.matutos.com.br:8324/;stream.mp3"
     },
     {
         "name": "Rádio Pirafm",
-        "url": "http://stream.zeno.fm/zyvh88ftvxhvv",
+        "url": "https://stream.zeno.fm/zyvh88ftvxhvv",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-176.surfernetwork.com/zyvh88ftvxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eXZoODhmdHZ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRTjluamZwbVRwQ1VSNWVQZWdKb2tBIiwiaWF0IjoxNzg2NDcwMDE5LCJleHAiOjE3ODY0NzAwNzl9.fqdUcVWGDnFtsrAo8Iexk0vX4KDOh-AcOQmQrfk3XhA"
+        "working_url": "https://stream-176.surfernetwork.com/zyvh88ftvxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eXZoODhmdHZ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRTjluamZwbVRwQ1VSNWVQZWdKb2tBIiwiaWF0IjoxNzg2NDcwMDE5LCJleHAiOjE3ODY0NzAwNzl9.fqdUcVWGDnFtsrAo8Iexk0vX4KDOh-AcOQmQrfk3XhA"
     },
     {
         "name": "Radio Piratininga 1070 Jau",
@@ -6896,12 +6904,12 @@
     },
     {
         "name": "Radio Planetario FM",
-        "url": "http://r11.ciclano.io:9038/stream",
+        "url": "https://r11.ciclano.io:9038/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://r11.ciclano.io:9038/stream"
+        "working_url": "https://r11.ciclano.io:9038/stream"
     },
     {
         "name": "Rádio Play Mix FM",
@@ -7085,12 +7093,12 @@
     },
     {
         "name": "Rádio Rede Sucesso 98.3 FM",
-        "url": "http://cast61.sitehosting.com.br:8446/live",
+        "url": "https://cast61.sitehosting.com.br:8446/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://cast61.sitehosting.com.br:8446/live"
+        "working_url": "https://cast61.sitehosting.com.br:8446/live"
     },
     {
         "name": "Radio Reggae Brasil",
@@ -7130,12 +7138,12 @@
     },
     {
         "name": "Radio Retrô Brasil",
-        "url": "http://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;",
+        "url": "https://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;",
         "country": "BR",
         "favicon": "https://www.radioretro.com.br/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;"
+        "working_url": "https://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;"
     },
     {
         "name": "Rádio RNP",
@@ -7175,12 +7183,12 @@
     },
     {
         "name": "Rádio Sabiá FM 92.1 Coité",
-        "url": "http://stm18.xcast.com.br:11414/stream",
+        "url": "https://stm18.xcast.com.br:11414/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://stm18.xcast.com.br:11414/stream"
+        "working_url": "https://stm18.xcast.com.br:11414/stream"
     },
     {
         "name": "Rádio Santa Cruz 550 AM",
@@ -7274,12 +7282,12 @@
     },
     {
         "name": "Rádio Sergipe 95.9 FM - Aracaju Sergipe",
-        "url": "http://08.stmip.net:8012/stream",
+        "url": "https://08.stmip.net:8012/stream",
         "country": "BR",
         "favicon": "http://www.fmsergipe.com.br/wp-content/themes/fm-sergipe/imgs/marca-topo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://08.stmip.net:8012/stream"
+        "working_url": "https://08.stmip.net:8012/stream"
     },
     {
         "name": "Rádio Serra da Capivara 550 AM",
@@ -7310,12 +7318,12 @@
     },
     {
         "name": "Rádio Sertaneja Raiz",
-        "url": "http://station.radionanet.com:8330/stream?1713376151781",
+        "url": "https://station.radionanet.com:8330/stream?1713376151781",
         "country": "BR",
         "favicon": "https://i.ibb.co/t3yXF8R/R-dio-Sertaneja-Ra-z.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://station.radionanet.com:8330/stream?1713376151781"
+        "working_url": "https://station.radionanet.com:8330/stream?1713376151781"
     },
     {
         "name": "Rádio Sertanejo Play",
@@ -7355,12 +7363,12 @@
     },
     {
         "name": "RÁDIO SÓ MPB SOROCABA",
-        "url": "http://srv1.braudio.com.br:7008/stream",
+        "url": "https://srv1.braudio.com.br:7008/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://srv1.braudio.com.br:7008/stream"
+        "working_url": "https://srv1.braudio.com.br:7008/stream"
     },
     {
         "name": "Radio Soft Tribuna FM",
@@ -7373,12 +7381,12 @@
     },
     {
         "name": "Rádio Som do Céu",
-        "url": "http://stream.zeno.fm/t5y50e2ekbruv",
+        "url": "https://stream.zeno.fm/t5y50e2ekbruv",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://stream-286.surfernetwork.com/t5y50e2ekbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NXk1MGUyZWticnV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMdTlzTEV3VVRUVzJpSHEwQzhqMkFBIiwiaWF0IjoxNzg2NDcwMDIyLCJleHAiOjE3ODY0NzAwODJ9.PTqUFgkLBD8W43IbjXSKXHyVpARJ3VF3i0UzVv3jco4"
+        "working_url": "https://stream-286.surfernetwork.com/t5y50e2ekbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NXk1MGUyZWticnV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMdTlzTEV3VVRUVzJpSHEwQzhqMkFBIiwiaWF0IjoxNzg2NDcwMDIyLCJleHAiOjE3ODY0NzAwODJ9.PTqUFgkLBD8W43IbjXSKXHyVpARJ3VF3i0UzVv3jco4"
     },
     {
         "name": "Radio Soul One",
@@ -7436,12 +7444,12 @@
     },
     {
         "name": "Rádio Sucesso FM 101,7 Mhz (Barbacena MG)",
-        "url": "http://s01.onradio.biz:7666/stream",
+        "url": "https://s01.onradio.biz:7666/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://s01.onradio.biz:7666/stream"
+        "working_url": "https://s01.onradio.biz:7666/stream"
     },
     {
         "name": "Rádio Super",
@@ -7463,21 +7471,21 @@
     },
     {
         "name": "Radio Supermarket",
-        "url": "http://r11.ciclano.io:9069/stream",
+        "url": "https://r11.ciclano.io:9069/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r11.ciclano.io:9069/stream"
+        "working_url": "https://r11.ciclano.io:9069/stream"
     },
     {
         "name": "RADIO TAMANDARE \"100% JESUS\"",
-        "url": "http://streaming09.hstbr.net:8058/live",
+        "url": "https://streaming09.hstbr.net:8058/live",
         "country": "BR",
         "favicon": "http://radiorelogio1120am.com.br/favicon.png",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://streaming09.hstbr.net:8058/live"
+        "working_url": "https://streaming09.hstbr.net:8058/live"
     },
     {
         "name": "Rádio Tapejara",
@@ -7490,21 +7498,21 @@
     },
     {
         "name": "Radio Taquara",
-        "url": "http://r13.ciclano.io:8165/stream",
+        "url": "https://r13.ciclano.io:8165/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r13.ciclano.io:8165/stream"
+        "working_url": "https://r13.ciclano.io:8165/stream"
     },
     {
         "name": "Radio Teciplast",
-        "url": "http://r11.ciclano.io:9128/stream",
+        "url": "https://r11.ciclano.io:9128/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r11.ciclano.io:9128/stream"
+        "working_url": "https://r11.ciclano.io:9128/stream"
     },
     {
         "name": "Rádio Teomidia",
@@ -7535,12 +7543,12 @@
     },
     {
         "name": "Rádio Teresópolis Rio de Janeiro",
-        "url": "http://cast3.hoost.com.br:8096/stream",
+        "url": "https://cast3.hoost.com.br:8096/stream",
         "country": "BR",
         "favicon": "http://portalgrpcom.com.br/cgi-sys/images/favicons/favicon-128.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cast3.hoost.com.br:8096/stream"
+        "working_url": "https://cast3.hoost.com.br:8096/stream"
     },
     {
         "name": "Radio Terra 105.1",
@@ -7571,12 +7579,12 @@
     },
     {
         "name": "Rádio Terra FM 100.3",
-        "url": "http://servidor30.brlogic.com:8622/live?1561450793452",
+        "url": "https://servidor30.brlogic.com:8622/live?1561450793452",
         "country": "BR",
         "favicon": "https://fmterra.com.br/wp-content/uploads/2022/05/logo-150x150.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://servidor30.brlogic.com:8622/live?1561450793452"
+        "working_url": "https://servidor30.brlogic.com:8622/live?1561450793452"
     },
     {
         "name": "Rádio Terra FM 99.9",
@@ -7589,12 +7597,12 @@
     },
     {
         "name": "Rádio The Beatles (MP3)",
-        "url": "http://stream-155.zeno.fm/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiajRZamxVVnVScmlXQUdhWGhqTTd6ZyIsImlhdCI6MTc2ODQ0ODYyMywiZXhwIjoxNzY4NDQ4NjgzfQ.k9lfUID-D8ORbPyQsGnUY3MLV94AHq3JCz1UGdoo5uA",
+        "url": "https://stream-155.zeno.fm/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiajRZamxVVnVScmlXQUdhWGhqTTd6ZyIsImlhdCI6MTc2ODQ0ODYyMywiZXhwIjoxNzY4NDQ4NjgzfQ.k9lfUID-D8ORbPyQsGnUY3MLV94AHq3JCz1UGdoo5uA",
         "country": "BR",
         "favicon": "https://i.ibb.co/zhyZZTxB/image.webp",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-284.surfernetwork.com/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiJPTlBsS04tYlR5YWJWNlhBSnBFUWhRIiwiaWF0IjoxNzg2NDcwMDI0LCJleHAiOjE3ODY0NzAwODR9.nZzEBwEfyFtXrT_2-97MD6rFk0WmTx6BECYFK6pZ3nA"
+        "working_url": "https://stream-284.surfernetwork.com/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z25yNXlxNjhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo0LCJqdGkiOiJPTlBsS04tYlR5YWJWNlhBSnBFUWhRIiwiaWF0IjoxNzg2NDcwMDI0LCJleHAiOjE3ODY0NzAwODR9.nZzEBwEfyFtXrT_2-97MD6rFk0WmTx6BECYFK6pZ3nA"
     },
     {
         "name": "Rádio TMC 100.1 FM",
@@ -7616,12 +7624,12 @@
     },
     {
         "name": "Rádio Top 104.9 FM",
-        "url": "http://audio01.viaflux.com.br:5500/live",
+        "url": "https://audio01.viaflux.com.br:5500/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://audio01.viaflux.com.br:5500/live"
+        "working_url": "https://audio01.viaflux.com.br:5500/live"
     },
     {
         "name": "Rádio Torre",
@@ -7670,21 +7678,21 @@
     },
     {
         "name": "Rádio Transamérica Hits (Barreiras)",
-        "url": "http://servidor39.brlogic.com:8146/live",
+        "url": "https://servidor39.brlogic.com:8146/live",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://servidor39.brlogic.com:8146/live"
+        "working_url": "https://servidor39.brlogic.com:8146/live"
     },
     {
         "name": "Rádio Transvale FM",
-        "url": "http://hts02.brascast.com:8382/live",
+        "url": "https://hts02.brascast.com:8382/live",
         "country": "BR",
         "favicon": "https://spaceks.net/sites/transvalefm.com.br/images/icone/user_633977004.ico",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://hts02.brascast.com:8382/live"
+        "working_url": "https://hts02.brascast.com:8382/live"
     },
     {
         "name": "RADIO TRI FM 105.5 SANTOS SP",
@@ -7724,21 +7732,21 @@
     },
     {
         "name": "Radio Tropical Fm 98,7",
-        "url": "http://centova2.svdns.com.br:8315/",
+        "url": "https://centova2.svdns.com.br:8315/",
         "country": "BR",
         "favicon": "https://radiotropicalfm.az.net.br/public/08692-2026-04-21.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centova2.svdns.com.br:8315/"
+        "working_url": "https://centova2.svdns.com.br:8315/"
     },
     {
         "name": "Radio Tropical Fm 98,7 Fortaleza",
-        "url": "http://centova2.svdns.com.br:8315/live",
+        "url": "https://centova2.svdns.com.br:8315/live",
         "country": "BR",
         "favicon": "https://radiotropicalfm.az.net.br/public/08692-2026-04-21.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centova2.svdns.com.br:8315/live"
+        "working_url": "https://centova2.svdns.com.br:8315/live"
     },
     {
         "name": "Rádio Tropical Vale 96.1 FM",
@@ -7832,12 +7840,12 @@
     },
     {
         "name": "Radio Uniara",
-        "url": "http://radio.uniara.com.br:88/broadwavehigh.mp3",
+        "url": "https://radio.uniara.com.br:88/broadwavehigh.mp3",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.uniara.com.br:88/broadwavehigh.mp3"
+        "working_url": "https://radio.uniara.com.br:88/broadwavehigh.mp3"
     },
     {
         "name": "Rádio Unifev",
@@ -7859,30 +7867,30 @@
     },
     {
         "name": "Radio Unitau 107.7 FM",
-        "url": "http://wz4.dnip.com.br/fmunitau/fmunitau.stream/chunklist_w798344957.m3u8",
+        "url": "https://wz4.dnip.com.br/fmunitau/fmunitau.stream/chunklist_w798344957.m3u8",
         "country": "BR",
         "favicon": "https://1.bp.blogspot.com/-jyj_TBlaEYU/XdVx8BF82aI/AAAAAAAAADg/mKgP_q-DTbghnB2DNgC34ZApOxJnPouRgCKgBGAsYHg/w320-h151/ban_fmunitau2.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://wz4.dnip.com.br/fmunitau/fmunitau.stream/chunklist_w798344957.m3u8"
+        "working_url": "https://wz4.dnip.com.br/fmunitau/fmunitau.stream/chunklist_w798344957.m3u8"
     },
     {
         "name": "Rádio Universidade (1.160 KHz - Pelotas)",
-        "url": "http://suaradio2.dyndns.ws:8098/stream",
+        "url": "https://suaradio2.dyndns.ws:8098/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
-        "working_url": "http://suaradio2.dyndns.ws:8098/stream"
+        "working_url": "https://suaradio2.dyndns.ws:8098/stream"
     },
     {
         "name": "Rádio universitária FM 107.9",
-        "url": "http://200.129.35.230:8081/ouvir",
+        "url": "https://200.129.35.230:8081/ouvir",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://200.129.35.230:8081/ouvir"
+        "working_url": "https://200.129.35.230:8081/ouvir"
     },
     {
         "name": "Rádio Universitária Uberlândia 107.5 FM",
@@ -7949,12 +7957,12 @@
     },
     {
         "name": "Radio Venceslau FM",
-        "url": "http://servidor27-3.brlogic.com:8040/live?source=website",
+        "url": "https://servidor27-3.brlogic.com:8040/live?source=website",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://servidor27-3.brlogic.com:8040/live?source=website"
+        "working_url": "https://servidor27-3.brlogic.com:8040/live?source=website"
     },
     {
         "name": "Rádio Verde Oliva - Resende",
@@ -8030,12 +8038,12 @@
     },
     {
         "name": "Rádio Vinha FM 91,9",
-        "url": "http://streaming.vinhafm.com.br/stream",
+        "url": "https://streaming.vinhafm.com.br/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming.vinhafm.com.br/stream"
+        "working_url": "https://streaming.vinhafm.com.br/stream"
     },
     {
         "name": "RÁDIO VIRG0 NET",
@@ -8048,12 +8056,12 @@
     },
     {
         "name": "Rádio Viva 106.7 FM",
-        "url": "http://stm51.conectastm.com:11314/stream",
+        "url": "https://stm51.conectastm.com:11314/stream",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio11337_1656340351.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stm51.conectastm.com:11314/stream"
+        "working_url": "https://stm51.conectastm.com:11314/stream"
     },
     {
         "name": "Rádio Viva a MPB",
@@ -8147,12 +8155,12 @@
     },
     {
         "name": "Rádio Wording  76.3 FM",
-        "url": "http://radio02.zas.media:8156/stream",
+        "url": "https://radio02.zas.media:8156/stream",
         "country": "BR",
         "favicon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radios.com.br%2Faovivo%2Fradio-wording%2F279837&psig=AOvVaw3eo8KG-bTGwSEd0RPGv0Ou&ust=1769005823855000&source=images&cd=vfe&opi=89978449&ved=0CBoQ3YkBahcKEwi42PmsqpqSAxUAAAAAHQAAAAAQBA",
         "codec": "AAC+",
         "bitrate": 109,
-        "working_url": "http://radio02.zas.media:8156/stream"
+        "working_url": "https://radio02.zas.media:8156/stream"
     },
     {
         "name": "Rádio Xibé",
@@ -8165,12 +8173,12 @@
     },
     {
         "name": "Rádio Xodó 89.9 FM -  Aracaju Sergipe",
-        "url": "http://09.stmip.net:8824/stream",
+        "url": "https://09.stmip.net:8824/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://09.stmip.net:8824/stream"
+        "working_url": "https://09.stmip.net:8824/stream"
     },
     {
         "name": "Rádio yeshua 103.5 FM WEB",
@@ -8183,57 +8191,57 @@
     },
     {
         "name": "Rádio Ziggy - Blues Rock (MP3)",
-        "url": "http://stream.zeno.fm/apph08p9hqzuv",
+        "url": "https://stream.zeno.fm/apph08p9hqzuv",
         "country": "BR",
         "favicon": "https://i.ibb.co/KxjnmpNy/85131-v4.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-283.surfernetwork.com/apph08p9hqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcHBoMDhwOWhxenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJiTWR2SHg3OFRLbTBBX1BKWDE1WUdBIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.RDHa3yYSB_7G2XCqHpGBuld7zK2-H1qsjgPi89xhnsw"
+        "working_url": "https://stream-283.surfernetwork.com/apph08p9hqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcHBoMDhwOWhxenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJiTWR2SHg3OFRLbTBBX1BKWDE1WUdBIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.RDHa3yYSB_7G2XCqHpGBuld7zK2-H1qsjgPi89xhnsw"
     },
     {
         "name": "Rádio Ziggy - MIX (MP3)",
-        "url": "http://stream.zeno.fm/h0bbyx9fzs8uv",
+        "url": "https://stream.zeno.fm/h0bbyx9fzs8uv",
         "country": "BR",
         "favicon": "https://i.ibb.co/xK4z5ZLr/80505-v11.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-282.surfernetwork.com/h0bbyx9fzs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMGJieXg5ZnpzOHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJPYkVKLWNBX1RwaXljOTFaa3BuTmtnIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.ojjRZ4-QyluVX7j6JaABIWSaKqUUP88xQO6u99yjpwE"
+        "working_url": "https://stream-282.surfernetwork.com/h0bbyx9fzs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMGJieXg5ZnpzOHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJPYkVKLWNBX1RwaXljOTFaa3BuTmtnIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.ojjRZ4-QyluVX7j6JaABIWSaKqUUP88xQO6u99yjpwE"
     },
     {
         "name": "Rádio Ziggy - MPB (MP3)",
-        "url": "http://stream.zeno.fm/g5xt330zkd0uv",
+        "url": "https://stream.zeno.fm/g5xt330zkd0uv",
         "country": "BR",
         "favicon": "https://i.ibb.co/yFSBcW2p/85253-v3.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-284.surfernetwork.com/g5xt330zkd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnNXh0MzMwemtkMHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJQcGxrbUI3SVRMMnRZVUcwbXZiSGl3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.6-Ir3NpS9v8EfxGSJxWuuIaSoQ-kPykwfTtIik61w4I"
+        "working_url": "https://stream-284.surfernetwork.com/g5xt330zkd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnNXh0MzMwemtkMHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJQcGxrbUI3SVRMMnRZVUcwbXZiSGl3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.6-Ir3NpS9v8EfxGSJxWuuIaSoQ-kPykwfTtIik61w4I"
     },
     {
         "name": "Rádio Ziggy - Raiz (MP3)",
-        "url": "http://stream.zeno.fm/pyt8f8z5gd0uv",
+        "url": "https://stream.zeno.fm/pyt8f8z5gd0uv",
         "country": "BR",
         "favicon": "https://i.ibb.co/4w0gZ5sT/85352-v4.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-283.surfernetwork.com/pyt8f8z5gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweXQ4Zjh6NWdkMHV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ1NGNQNEQ2T1FfeXFMeEpYaTM5ZFpBIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.AG4YixXIH4ha5Bezy_6iBW8aXU4FrhE_oi_7XJ0yeK8"
+        "working_url": "https://stream-283.surfernetwork.com/pyt8f8z5gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweXQ4Zjh6NWdkMHV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ1NGNQNEQ2T1FfeXFMeEpYaTM5ZFpBIiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.AG4YixXIH4ha5Bezy_6iBW8aXU4FrhE_oi_7XJ0yeK8"
     },
     {
         "name": "Rádio Ziggy - Rock Brasil (MP3)",
-        "url": "http://stream.zeno.fm/0y68rshdreruv",
+        "url": "https://stream.zeno.fm/0y68rshdreruv",
         "country": "BR",
         "favicon": "https://i.ibb.co/fYN5mfBr/94405-v2.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-286.surfernetwork.com/0y68rshdreruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIweTY4cnNoZHJlcnV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItOE9nektsYlN6ZWFXT2JtMGUyWUJ3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.n8l0qf4Z0jb7iuI9BNJWS4mAXz4lefYvtFiBGrgh14U"
+        "working_url": "https://stream-286.surfernetwork.com/0y68rshdreruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIweTY4cnNoZHJlcnV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItOE9nektsYlN6ZWFXT2JtMGUyWUJ3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.n8l0qf4Z0jb7iuI9BNJWS4mAXz4lefYvtFiBGrgh14U"
     },
     {
         "name": "Rádio Ziggy - The Beatles (MP3)",
-        "url": "http://stream.zeno.fm/18sv42teknzuv",
+        "url": "https://stream.zeno.fm/18sv42teknzuv",
         "country": "BR",
         "favicon": "https://i.ibb.co/Y7XQnynd/85123-v7.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-283.surfernetwork.com/18sv42teknzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxOHN2NDJ0ZWtuenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJvRWJucGJEeFNLNmExaWxvOVg3d2V3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.8t-l2XLIx2nBYddQZqojf_eF2HrDt0h2QrubWKRPzZo"
+        "working_url": "https://stream-283.surfernetwork.com/18sv42teknzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxOHN2NDJ0ZWtuenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJvRWJucGJEeFNLNmExaWxvOVg3d2V3IiwiaWF0IjoxNzg2NDcwMDI5LCJleHAiOjE3ODY0NzAwODl9.8t-l2XLIx2nBYddQZqojf_eF2HrDt0h2QrubWKRPzZo"
     },
     {
         "name": "Radio ZTOP",
@@ -8273,12 +8281,12 @@
     },
     {
         "name": "RECIFE FM",
-        "url": "http://zoeweb.net:8046/;",
+        "url": "https://zoeweb.net:8046/;",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://zoeweb.net:8046/;"
+        "working_url": "https://zoeweb.net:8046/;"
     },
     {
         "name": "Rede 3.16",
@@ -8318,12 +8326,12 @@
     },
     {
         "name": "Rede Boa Nova",
-        "url": "http://srv39.brasilstream.com.br:8592/stream",
+        "url": "https://srv39.brasilstream.com.br:8592/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://srv39.brasilstream.com.br:8592/stream"
+        "working_url": "https://srv39.brasilstream.com.br:8592/stream"
     },
     {
         "name": "Rede Resgate Fm",
@@ -8354,21 +8362,21 @@
     },
     {
         "name": "Rock Classic Bits",
-        "url": "http://stm25.xcast.com.br:6862/",
+        "url": "https://stm25.xcast.com.br:6862/",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 256,
-        "working_url": "http://stm25.xcast.com.br:6862/"
+        "working_url": "https://stm25.xcast.com.br:6862/"
     },
     {
         "name": "Rock na Teia",
-        "url": "http://s19.maxcast.com.br:8182/live",
+        "url": "https://s19.maxcast.com.br:8182/live",
         "country": "BR",
         "favicon": "https://static.wixstatic.com/media/1cf649_94d7175b59cc43d4ba0c0c9b9a025dac%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/1cf649_94d7175b59cc43d4ba0c0c9b9a025dac%7emv2.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s19.maxcast.com.br:8182/live"
+        "working_url": "https://s19.maxcast.com.br:8182/live"
     },
     {
         "name": "Rockett 97,7",
@@ -8390,12 +8398,12 @@
     },
     {
         "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
-        "url": "http://jpdofunk3.com.br:8242/stream",
+        "url": "https://jpdofunk3.com.br:8242/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jpdofunk3.com.br:8242/stream"
+        "working_url": "https://jpdofunk3.com.br:8242/stream"
     },
     {
         "name": "Samba FM",
@@ -8444,12 +8452,12 @@
     },
     {
         "name": "Serra Verde FM",
-        "url": "http://40.160.24.87:10650/stream",
+        "url": "https://40.160.24.87:10650/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://40.160.24.87:10650/stream"
+        "working_url": "https://40.160.24.87:10650/stream"
     },
     {
         "name": "Sertaneja 106.7",
@@ -8489,7 +8497,7 @@
     },
     {
         "name": "SM Brasil",
-        "url": "http://stream-179.zeno.fm/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib29CbXNJTk1SOU9fX3BxejNmUzZKQSIsImlhdCI6MTc2ODQzMzU4OCwiZXhwIjoxNzY4NDMzNjQ4fQ.UjKH0pUeBwvNl2iGhKlW0bb_C_X1HY00nxTuBKFXUNo",
+        "url": "https://stream-179.zeno.fm/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib29CbXNJTk1SOU9fX3BxejNmUzZKQSIsImlhdCI6MTc2ODQzMzU4OCwiZXhwIjoxNzY4NDMzNjQ4fQ.UjKH0pUeBwvNl2iGhKlW0bb_C_X1HY00nxTuBKFXUNo",
         "country": "BR",
         "favicon": "https://static.wixstatic.com/media/af7c44_c3f09027f809407ea5af0ff4e7acdc03~mv2.png/v1/fill/w_197,h_201,al_c,usm_0.66_1.00_0.01/1569425153841.png",
         "codec": "MP3",
@@ -8516,12 +8524,12 @@
     },
     {
         "name": "Só Brega",
-        "url": "http://stm18.xcast.com.br:8290/;",
+        "url": "https://stm18.xcast.com.br:8290/;",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm18.xcast.com.br:8290/;"
+        "working_url": "https://stm18.xcast.com.br:8290/;"
     },
     {
         "name": "So Musica Boa",
@@ -8597,21 +8605,21 @@
     },
     {
         "name": "Studio Web Radio",
-        "url": "http://euroticast5.euroti.com.br:8004/",
+        "url": "https://euroticast5.euroti.com.br:8004/",
         "country": "BR",
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230517_105725665.jpg?alt=media&token=c03ca698-65e1-415b-8792-23c0e398e6c6",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://euroticast5.euroti.com.br:8004/"
+        "working_url": "https://euroticast5.euroti.com.br:8004/"
     },
     {
         "name": "sucesso fm 101,5",
-        "url": "http://stm11.voxtreamhd.com.br:9358/;",
+        "url": "https://stm11.voxtreamhd.com.br:9358/;",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/lg/radio18220_1690219533.jpg",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://stm11.voxtreamhd.com.br:9358/;"
+        "working_url": "https://stm11.voxtreamhd.com.br:9358/;"
     },
     {
         "name": "Sucesso FM 88,3",
@@ -8669,12 +8677,12 @@
     },
     {
         "name": "Super Rádio Paraibuna 105.9 FM",
-        "url": "http://09.stmip.net:9122/stream",
+        "url": "https://09.stmip.net:9122/stream",
         "country": "BR",
         "favicon": "https://lh3.googleusercontent.com/sitesv/AA5AbUDrdD6Odn2FI1tW38q1gfQ4O1n2l7qp1kYdLMEOmh08Iayu_sUfGFZMzdcWTl2TFQbjX9fDEgW8j_-8cQY9htN4WiHFoxT42DMYX3gmSefjHLt8Ns02F7RkNZf1Ea5iEGAOEhzMAr5EISYBSxRptxVQTbUVw6_V4Ccuh-dNh2s8ypu61rSP3ugG0Y8=w16383",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://09.stmip.net:9122/stream"
+        "working_url": "https://09.stmip.net:9122/stream"
     },
     {
         "name": "Super Radiopatos FM",
@@ -8813,12 +8821,12 @@
     },
     {
         "name": "TOP POP WEB RÁDIO - A Estação Das Melhores Músicas",
-        "url": "http://usa3.fastcast4u.com:1932/stream?type=http&nocache=4",
+        "url": "https://usa3.fastcast4u.com:1932/stream?type=http&nocache=4",
         "country": "BR",
         "favicon": "https://img.radios.com.br/radio/xl/radio289132_1782481286.png",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://usa3.fastcast4u.com:1932/stream?type=http&nocache=4"
+        "working_url": "https://usa3.fastcast4u.com:1932/stream?type=http&nocache=4"
     },
     {
         "name": "TOP-POP WEB RÁDIO - JD33 ONE PRODUTION",
@@ -8840,12 +8848,12 @@
     },
     {
         "name": "Transamérica FM",
-        "url": "http://9595.brasilstream.com.br/stream",
+        "url": "https://9595.brasilstream.com.br/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://9595.brasilstream.com.br/stream"
+        "working_url": "https://9595.brasilstream.com.br/stream"
     },
     {
         "name": "Tropical fm 95.7",
@@ -8876,12 +8884,12 @@
     },
     {
         "name": "Tucano FM",
-        "url": "http://centova13.ciclanohost.com.br:8056/stream",
+        "url": "https://centova13.ciclanohost.com.br:8056/stream",
         "country": "BR",
         "favicon": "http://www.tucanofm.com.br/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centova13.ciclanohost.com.br:8056/stream"
+        "working_url": "https://centova13.ciclanohost.com.br:8056/stream"
     },
     {
         "name": "Tupancy AM Pelotas",
@@ -8899,16 +8907,16 @@
         "favicon": "https://www.udesc.br/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://stm01.virtualcast.com.br:8378/udescjoinville"
+        "working_url": "https://stm01.virtualcast.com.br:8378/udescjoinville"
     },
     {
         "name": "UESB FM",
-        "url": "http://200.128.67.125:8001/stream",
+        "url": "https://200.128.67.125:8001/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://200.128.67.125:8001/stream"
+        "working_url": "https://200.128.67.125:8001/stream"
     },
     {
         "name": "Underplay",
@@ -8921,12 +8929,12 @@
     },
     {
         "name": "Unijuí FM",
-        "url": "http://fm.unijui.edu.br:8000/stream",
+        "url": "https://fm.unijui.edu.br:8000/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://fm.unijui.edu.br:8000/stream"
+        "working_url": "https://fm.unijui.edu.br:8000/stream"
     },
     {
         "name": "Unitins FM",
@@ -8939,12 +8947,12 @@
     },
     {
         "name": "Universidade FM 106,9",
-        "url": "http://s26.maxcast.com.br:8280/live",
+        "url": "https://s26.maxcast.com.br:8280/live",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s26.maxcast.com.br:8280/live"
+        "working_url": "https://s26.maxcast.com.br:8280/live"
     },
     {
         "name": "Universitária FM 102.1",
@@ -9074,21 +9082,21 @@
     },
     {
         "name": "Voz News FM 100.9 MHz ZYN317 (Januária - MG)",
-        "url": "http://s01.transmissaodigital.com:7390/stream",
+        "url": "https://s01.transmissaodigital.com:7390/stream",
         "country": "BR",
         "favicon": "https://i.postimg.cc/1zXSgCqx/50414159195.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s01.transmissaodigital.com:7390/stream"
+        "working_url": "https://s01.transmissaodigital.com:7390/stream"
     },
     {
         "name": "Web Ijuí (Ijuí)",
-        "url": "http://stm22.srvaudio.com.br:10282/;",
+        "url": "https://stm22.srvaudio.com.br:10282/;",
         "country": "BR",
         "favicon": "https://pa-str.srvsite.com/arquivos/3696/favicon.ico",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://stm22.srvaudio.com.br:10282/;"
+        "working_url": "https://stm22.srvaudio.com.br:10282/;"
     },
     {
         "name": "Web Rádio Arauto da Imaculada",
@@ -9101,21 +9109,21 @@
     },
     {
         "name": "Web Radio Balanço",
-        "url": "http://64.71.152.170:10193/stream",
+        "url": "https://64.71.152.170:10193/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://64.71.152.170:10193/stream"
+        "working_url": "https://64.71.152.170:10193/stream"
     },
     {
         "name": "Web Rádio CCB",
-        "url": "http://stm1.hoststreaming.com.br:7088/;",
+        "url": "https://stm1.hoststreaming.com.br:7088/;",
         "country": "BR",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://stm1.hoststreaming.com.br:7088/;"
+        "working_url": "https://stm1.hoststreaming.com.br:7088/;"
     },
     {
         "name": "Web Rádio Doval",
@@ -9128,12 +9136,12 @@
     },
     {
         "name": "Web Rádio E5",
-        "url": "http://paineldj6.com.br:8496/stream",
+        "url": "https://paineldj6.com.br:8496/stream",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://paineldj6.com.br:8496/stream"
+        "working_url": "https://paineldj6.com.br:8496/stream"
     },
     {
         "name": "Web Rádio Fraternidade",
@@ -9191,12 +9199,12 @@
     },
     {
         "name": "WEB RADIO REIS FM",
-        "url": "http://stream.zeno.fm/8w14fzzztchvv",
+        "url": "https://stream.zeno.fm/8w14fzzztchvv",
         "country": "BR",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://stream-175.surfernetwork.com/8w14fzzztchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4dzE0Znp6enRjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrMENka21LS1FYLXVNQ0RBdzI2R0VRIiwiaWF0IjoxNzg2NDcwMDM2LCJleHAiOjE3ODY0NzAwOTZ9.2GzW1PdGopU6NyawCg3QWLUKiKlf7CtpDQ1lCCfkhf4"
+        "working_url": "https://stream-175.surfernetwork.com/8w14fzzztchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4dzE0Znp6enRjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrMENka21LS1FYLXVNQ0RBdzI2R0VRIiwiaWF0IjoxNzg2NDcwMDM2LCJleHAiOjE3ODY0NzAwOTZ9.2GzW1PdGopU6NyawCg3QWLUKiKlf7CtpDQ1lCCfkhf4"
     },
     {
         "name": "Web Radio Semear, Toritama-PE(WRSTPE)",
@@ -9218,21 +9226,21 @@
     },
     {
         "name": "Web Soul Radio",
-        "url": "http://ic142561.radioca.st:8136/stream",
+        "url": "https://ic142561.radioca.st:8136/stream",
         "country": "BR",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ic142561.radioca.st:8136/stream"
+        "working_url": "https://ic142561.radioca.st:8136/stream"
     },
     {
         "name": "WEBGIO",
-        "url": "http://servidor34.brlogic.com:8080/live?1583625685800",
+        "url": "https://servidor34.brlogic.com:8080/live?1583625685800",
         "country": "BR",
         "favicon": "https://public-rf-upload.minhawebradio.net/2098/mobileicon/f9f8e72d2a71bf699a29336f5a191932x192.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://servidor34.brlogic.com:8080/live?1583625685800"
+        "working_url": "https://servidor34.brlogic.com:8080/live?1583625685800"
     },
     {
         "name": "WebRadio Rama",
