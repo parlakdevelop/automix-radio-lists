@@ -1,27 +1,17 @@
 [
     {
         "name": "1940sRadio",
-        "url": "http://uk3.internet-radio.com:8082/live",
+        "url": "https://uk3.internet-radio.com:8082/live",
         "country": "GB",
-        "tags": [
-            "big band",
-            "crooners",
-            "jazz",
-            "music from the 1940s"
-        ],
         "favicon": "https://1940sradio.com/images/logos/1940s-Radio-Logo-Blue.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://uk3.internet-radio.com:8082/live"
+        "working_url": "https://uk3.internet-radio.com:8082/live"
     },
     {
         "name": "24/7 Bossa Nova Radio",
         "url": "https://ec6.yesstreaming.net:1605/stream",
         "country": "GB",
-        "tags": [
-            "bossa nova",
-            "smooth jazz"
-        ],
         "favicon": "https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Bossa-Nova-Radio.jpg",
         "codec": "MP3",
         "bitrate": 64,
@@ -31,12 +21,6 @@
         "name": "24/7 Cool Radio",
         "url": "https://ec3.yesstreaming.net:3665/stream",
         "country": "GB",
-        "tags": [
-            "blues",
-            "chillout",
-            "jazz",
-            "lounge"
-        ],
         "favicon": "https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Cool-Radio.jpg",
         "codec": "MP3",
         "bitrate": 64,
@@ -46,9 +30,6 @@
         "name": "24/7 Jazz Radio",
         "url": "https://ec3.yesstreaming.net:3455/stream",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.247onlineradio.com/wp-content/uploads/2020/02/247-Jazz-Radio.jpg",
         "codec": "MP3",
         "bitrate": 64,
@@ -58,10 +39,6 @@
         "name": "4TunesFM",
         "url": "https://c30.radioboss.fm:18274/stream",
         "country": "GB",
-        "tags": [
-            "jazz",
-            "reggae"
-        ],
         "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -71,15 +48,6 @@
         "name": "AryStation - Beyond Reality",
         "url": "https://a11.asurahosting.com:8740/radio.mp3",
         "country": "GB",
-        "tags": [
-            "all genres",
-            "country",
-            "hardstyle",
-            "hiphop",
-            "jazz",
-            "podcasts",
-            "storytelling"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -87,81 +55,35 @@
     },
     {
         "name": "BBC Radio 3",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "arts",
-            "classical",
-            "culture",
-            "drama",
-            "jazz",
-            "opera",
-            "world music"
-        ],
         "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_three/colour_default.svg",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8"
     },
     {
         "name": "BBC Radio 6 Music",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "blues",
-            "dance",
-            "eclectic",
-            "electronic",
-            "experimental",
-            "funk",
-            "grime",
-            "hip hop",
-            "house",
-            "indie",
-            "jazz",
-            "metal",
-            "pop",
-            "punk",
-            "r&b",
-            "reggae",
-            "rock",
-            "ska",
-            "soul",
-            "techno",
-            "world"
-        ],
         "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8"
     },
     {
         "name": "Cambridge Radio",
-        "url": "http://stream.cambridge105.co.uk:443/105-128s-mp3",
+        "url": "https://stream.cambridge105.co.uk:443/105-128s-mp3",
         "country": "GB",
-        "tags": [
-            "jazz",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://cambridge105.co.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.cambridge105.co.uk:443/105-128s-mp3"
+        "working_url": "https://stream.cambridge105.co.uk:443/105-128s-mp3"
     },
     {
         "name": "chocolate-radio.com",
         "url": "https://stream.radio.co/sa7336b687/listen",
         "country": "GB",
-        "tags": [
-            "classic",
-            "funk",
-            "jazz",
-            "modern soul",
-            "northern",
-            "soul"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 192,
@@ -171,12 +93,6 @@
         "name": "Colourful Radio",
         "url": "https://listen-colourful.sharp-stream.com/colourfulmid.mp3",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "black",
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://media.slman.com/ASIzrNBRgprDxWXWwA69MaMYwB8=/800x0/smart/https%3A%2F%2Fslman.com%2Fsites%2Fslman%2Ffiles%2Farticles%2F2020%2F06%2Fcolourful-radio-r.jpg",
         "codec": "MP3",
         "bitrate": 0,
@@ -186,11 +102,6 @@
         "name": "Crackers Radio",
         "url": "https://crackersfresh.radioca.st/;",
         "country": "GB",
-        "tags": [
-            "disco & jazz",
-            "funk",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -200,9 +111,6 @@
         "name": "Expansions - Infinite Mixtapes | NTS",
         "url": "https://stream-mixtape-geo.ntslive.net/mixtape3",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -212,13 +120,6 @@
         "name": "Foundation FM",
         "url": "https://streamer.radio.co/s0628bdd53/listen",
         "country": "GB",
-        "tags": [
-            "community radio",
-            "electronic",
-            "hip-hop",
-            "indie",
-            "jazz"
-        ],
         "favicon": "https://foundation.fm/images/favicon/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -228,15 +129,6 @@
         "name": "FunkURadio",
         "url": "https://furfmcou.radioca.st/stream",
         "country": "GB",
-        "tags": [
-            "70s",
-            "80s",
-            "disco",
-            "funk",
-            "jazz",
-            "rare groove",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -246,12 +138,6 @@
         "name": "GeminiDX",
         "url": "https://s4.radio.co/s5907ff6bd/listen",
         "country": "GB",
-        "tags": [
-            "acid",
-            "ham",
-            "ham radio news",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -259,32 +145,17 @@
     },
     {
         "name": "Giants of Jazz Radio",
-        "url": "http://streaming.radio.co/s297e618a7/listen",
+        "url": "https://streaming.radio.co/s297e618a7/listen",
         "country": "GB",
-        "tags": [
-            "classic jazz",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://streaming.radio.co/s297e618a7/listen"
+        "working_url": "https://streaming.radio.co/s297e618a7/listen"
     },
     {
         "name": "International Rare Groove",
         "url": "https://s131.radiolize.com/radio/8110/radio.mp3",
         "country": "GB",
-        "tags": [
-            "afrobeat",
-            "boogaloo",
-            "disco",
-            "funk",
-            "jazz",
-            "latin",
-            "reggae",
-            "soul",
-            "world music"
-        ],
         "favicon": "https://static-media.streema.com/media/cache/0a/36/0a36cd6eaed6a91be60d1aa3046225c6.jpg",
         "codec": "AAC",
         "bitrate": 64,
@@ -294,9 +165,6 @@
         "name": "Jazz London radio",
         "url": "https://radio.canstream.co.uk:8075/live.aac",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.jazzlondonradio.com/images/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
@@ -306,9 +174,6 @@
         "name": "JAZZ RADIO INTERNATIONAL",
         "url": "https://ec3.yesstreaming.net:1815/stream",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.247onlineradio.com/wp-content/uploads/2015/07/JIR-logo.jpg",
         "codec": "MP3",
         "bitrate": 64,
@@ -318,9 +183,6 @@
         "name": "JAZZ.FM91",
         "url": "https://jazzfm91.streamb.live/SB00009",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 131,
@@ -330,11 +192,6 @@
         "name": "JFSR - Jazz Funk Soul Radio",
         "url": "https://s2.radio.co/s22ae5a8a6/listen",
         "country": "GB",
-        "tags": [
-            "funk",
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png",
         "codec": "AAC",
         "bitrate": 320,
@@ -342,42 +199,17 @@
     },
     {
         "name": "Kane FM",
-        "url": "http://stream.kanefm.com:1037/;stream",
+        "url": "https://stream.kanefm.com:1037/;stream",
         "country": "GB",
-        "tags": [
-            "bass",
-            "breaks",
-            "community radio",
-            "dance",
-            "drum & bass",
-            "drum and bass",
-            "electronic",
-            "funk",
-            "hiphop",
-            "house",
-            "jazz",
-            "live",
-            "oldies",
-            "reggae",
-            "soul",
-            "techno",
-            "trance",
-            "urban"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream.kanefm.com:1037/;stream"
+        "working_url": "https://stream.kanefm.com:1037/;stream"
     },
     {
         "name": "Late Night Jazz",
         "url": "https://radio.hearme.fm:8710/stream",
         "country": "GB",
-        "tags": [
-            "ballads",
-            "jazz",
-            "relaxing"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -385,62 +217,35 @@
     },
     {
         "name": "Linn Jazz",
-        "url": "http://mscp3.live-streams.nl:8340/jazz-high.aac",
+        "url": "https://mscp3.live-streams.nl:8340/jazz-high.aac",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png",
         "codec": "AAC",
         "bitrate": 320,
-        "working_url": "http://mscp3.live-streams.nl:8340/jazz-high.aac"
+        "working_url": "https://mscp3.live-streams.nl:8340/jazz-high.aac"
     },
     {
         "name": "Linn Radio",
-        "url": "http://radio.linn.co.uk:8003/autodj",
+        "url": "https://radio.linn.co.uk:8003/autodj",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://radio.linn.co.uk:8003/autodj"
+        "working_url": "https://radio.linn.co.uk:8003/autodj"
     },
     {
         "name": "London Soul Radio",
-        "url": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+        "url": "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
         "country": "GB",
-        "tags": [
-            "boogie woogie",
-            "disco",
-            "funk",
-            "gospel",
-            "groove",
-            "jazz",
-            "rare groove",
-            "rnb",
-            "slow jams",
-            "slow jamz",
-            "smooth jazz",
-            "soul",
-            "soulful house"
-        ],
         "favicon": "https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a"
+        "working_url": "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a"
     },
     {
         "name": "Malvern Radio JRS - Pumpkin FM",
         "url": "https://cast2.asurahosting.com/proxy/malvernradiojrs/stream",
         "country": "GB",
-        "tags": [
-            "big band",
-            "jazz",
-            "ragtime",
-            "swing"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -450,17 +255,6 @@
         "name": "Music Galaxy Radio",
         "url": "https://eu10.fastcast4u.com/themusi2",
         "country": "GB",
-        "tags": [
-            "country",
-            "djs",
-            "funk",
-            "hip-hop",
-            "jazz",
-            "reggae",
-            "rnb",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5H_571Uc9TPjudUTSRXY6Kme_1deY38X0r8gWVmn1YclbOUPbBC3exlC4gEOZEs05r0&usqp=CAU",
         "codec": "MP3",
         "bitrate": 128,
@@ -468,60 +262,35 @@
     },
     {
         "name": "Naim Jazz",
-        "url": "http://mscp3.live-streams.nl:8340/jazz-flac.flac",
+        "url": "https://mscp3.live-streams.nl:8340/jazz-flac.flac",
         "country": "GB",
-        "tags": [
-            "jazz"
-        ],
         "favicon": "https://www.hiresaudio.online/wp-content/uploads/2020/12/Naim-Jazz.webp",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://mscp3.live-streams.nl:8340/jazz-flac.flac"
+        "working_url": "https://mscp3.live-streams.nl:8340/jazz-flac.flac"
     },
     {
         "name": "Naim Radio",
-        "url": "http://mscp3.live-streams.nl:8360/flac.flac",
+        "url": "https://mscp3.live-streams.nl:8360/flac.flac",
         "country": "GB",
-        "tags": [
-            "classical",
-            "electronica",
-            "folk",
-            "jazz",
-            "singer-songwriter"
-        ],
         "favicon": "https://www.hiresaudio.online/wp-content/uploads/2020/12/Naim-Radio.webp",
         "codec": "OGG",
         "bitrate": 160,
-        "working_url": "http://mscp3.live-streams.nl:8360/flac.flac"
+        "working_url": "https://mscp3.live-streams.nl:8360/flac.flac"
     },
     {
         "name": "Point Blank Radio",
-        "url": "http://pointblankradio.co.uk:9002/stream",
+        "url": "https://pointblankradio.co.uk:9002/stream",
         "country": "GB",
-        "tags": [
-            "deep techno",
-            "drum 'n' bass",
-            "house",
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://pointblankradio.com/pointdab/wp-content/uploads/2022/12/Player_logo.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://pointblankradio.co.uk:9002/stream"
+        "working_url": "https://pointblankradio.co.uk:9002/stream"
     },
     {
         "name": "Portobello Radio",
         "url": "https://uk1.internet-radio.com/proxy/portobelloradio?mp=/stream",
         "country": "GB",
-        "tags": [
-            "afrobeat",
-            "disco",
-            "dub",
-            "house",
-            "jazz-funk",
-            "reggae"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -531,15 +300,6 @@
         "name": "Power Ace Radio",
         "url": "https://music-station.live/radio/8030/radio.mp3",
         "country": "GB",
-        "tags": [
-            "afrobeats",
-            "easy listening",
-            "jazz",
-            "reggae",
-            "reggaetón",
-            "soul",
-            "world music"
-        ],
         "favicon": "https://www.poweraceradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -547,40 +307,17 @@
     },
     {
         "name": "Radio Six International",
-        "url": "http://www.radiosix.com/radiosix.mp3",
+        "url": "https://www.radiosix.com/radiosix.mp3",
         "country": "GB",
-        "tags": [
-            "easy listening",
-            "indie",
-            "jazz",
-            "oldies",
-            "talk",
-            "unsigned"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiosix.com:8000/radiosix.mp3"
+        "working_url": "https://radiosix.com:8000/radiosix.mp3"
     },
     {
         "name": "SD Radio",
         "url": "https://mystation.micast.media/radio/8020/radio.mp3",
         "country": "GB",
-        "tags": [
-            "dance",
-            "dnb",
-            "drum and bass",
-            "grime",
-            "hip hop",
-            "house",
-            "indie",
-            "jazz",
-            "metal",
-            "neo soul",
-            "pop",
-            "rnb",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -588,36 +325,17 @@
     },
     {
         "name": "Solar Radio 256",
-        "url": "http://listen-msmn.sharp-stream.com/solarhigh.mp3",
+        "url": "https://listen-msmn.sharp-stream.com/solarhigh.mp3",
         "country": "GB",
-        "tags": [
-            "256kbps",
-            "disco",
-            "funk",
-            "jazz",
-            "solar",
-            "soul",
-            "uk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://listen-msmn.sharp-stream.com/solarhigh.mp3"
+        "working_url": "https://listen-msmn.sharp-stream.com/solarhigh.mp3"
     },
     {
         "name": "Soul Connexion Radio",
         "url": "https://stream.soulconnexionradio.com/1045",
         "country": "GB",
-        "tags": [
-            "classic soul",
-            "disco",
-            "funk",
-            "jazz-funk",
-            "modern soul",
-            "nu disco",
-            "rnb",
-            "soulful house"
-        ],
         "favicon": "https://static.wixstatic.com/media/1cdeb2_d480bb8158f4469284f543e790063616%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1cdeb2_d480bb8158f4469284f543e790063616%7Emv2.jpg",
         "codec": "MP3",
         "bitrate": 320,
@@ -627,15 +345,6 @@
         "name": "Soul Rhythms Radio UK",
         "url": "https://a7.asurahosting.com:8230/radio.mp3",
         "country": "GB",
-        "tags": [
-            "dancehall",
-            "house",
-            "jazz",
-            "neo soul",
-            "reggae",
-            "rnb",
-            "soul  music"
-        ],
         "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
         "codec": "MP3",
         "bitrate": 320,
@@ -645,11 +354,6 @@
         "name": "SOULPOWER-RADIO.COM",
         "url": "https://s2.radio.co/sb0964023c/listen",
         "country": "GB",
-        "tags": [
-            "funk",
-            "jazz",
-            "soul"
-        ],
         "favicon": "https://www.enomcentral.com/favicon.ico?v=1731000855",
         "codec": "MP3",
         "bitrate": 192,
@@ -659,12 +363,6 @@
         "name": "Starpoint Radio",
         "url": "https://stream2.hippynet.co.uk:8084/stream.mp3",
         "country": "GB",
-        "tags": [
-            "funk",
-            "jazz",
-            "r&b",
-            "soul"
-        ],
         "favicon": "https://play-lh.googleusercontent.com/McvM92BB2Yb6yi3YOAp-BxLz9pAmpLE6U0pPSOiOklBy5bxKIwIZLzIf5HdCZ6cqmTPvfB3dA3mRyGCRMYuX9g",
         "codec": "MP3",
         "bitrate": 192,
@@ -674,20 +372,6 @@
         "name": "Street Sounds Radio",
         "url": "https://streaming.broadcastradio.com:10525/streetsd",
         "country": "GB",
-        "tags": [
-            "dance",
-            "disco",
-            "electro",
-            "funk",
-            "hip hop",
-            "house",
-            "jazz funk",
-            "oldskool",
-            "r'n'b",
-            "rare groove",
-            "reggae",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -695,83 +379,35 @@
     },
     {
         "name": "The Source FM",
-        "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+        "url": "https://live.canstream.co.uk:8000/sourcefm.mp3",
         "country": "GB",
-        "tags": [
-            "classical",
-            "community radio",
-            "country",
-            "drum & bass",
-            "electronic",
-            "folk",
-            "hiphop",
-            "jazz",
-            "local news",
-            "mashup",
-            "metal",
-            "pop",
-            "rap",
-            "rock",
-            "rock 'n' roll",
-            "spoken word"
-        ],
         "favicon": "https://www.thesourcefm.co.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 110,
-        "working_url": "http://live.canstream.co.uk:8000/sourcefm.mp3"
+        "working_url": "https://live.canstream.co.uk:8000/sourcefm.mp3"
     },
     {
         "name": "The UK 1940s Radio Station",
-        "url": "http://solid2.streamupsolutions.com:24929/stream",
+        "url": "https://solid2.streamupsolutions.com:24929/stream",
         "country": "GB",
-        "tags": [
-            "20s",
-            "30s",
-            "40s",
-            "50s",
-            "big band",
-            "blues",
-            "jazz",
-            "swing"
-        ],
         "favicon": "https://bhfr.co.uk/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://solid2.streamupsolutions.com:24929/stream"
+        "working_url": "https://solid2.streamupsolutions.com:24929/stream"
     },
     {
         "name": "Top Tunes Radio 2 (MP3)",
-        "url": "http://stream.zeno.fm/yxo8lp7kqoeuv",
+        "url": "https://stream.zeno.fm/yxo8lp7kqoeuv",
         "country": "GB",
-        "tags": [
-            "dance",
-            "disco",
-            "jazz",
-            "music",
-            "pop",
-            "rap",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://i.ibb.co/bgVvCJn/image-jpg-1.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-177.surfernetwork.com/yxo8lp7kqoeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eG84bHA3a3FvZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIyb3BJVXhYLVRKR253WlplNEhGdnFRIiwiaWF0IjoxNzg2MzgyMzY5LCJleHAiOjE3ODYzODI0Mjl9.N5fNQJbnej9jhHnPg_LcDeJ4rv1OUY9pawlHrSos8aU"
+        "working_url": "https://stream-177.surfernetwork.com/yxo8lp7kqoeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eG84bHA3a3FvZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIyb3BJVXhYLVRKR253WlplNEhGdnFRIiwiaWF0IjoxNzg2MzgyMzY5LCJleHAiOjE3ODYzODI0Mjl9.N5fNQJbnej9jhHnPg_LcDeJ4rv1OUY9pawlHrSos8aU"
     },
     {
         "name": "TripHop.Radio",
         "url": "https://live.triphop.radio/",
         "country": "GB",
-        "tags": [
-            "chill",
-            "chillout",
-            "downtempo",
-            "electronic",
-            "lounge",
-            "lounge downtempo chillout ambient easy listening",
-            "nu-jazz",
-            "trip-hop"
-        ],
         "favicon": "https://pages.register.radio/uploads/triphop-radio-69d395851f50d.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -781,11 +417,6 @@
         "name": "TTNS",
         "url": "https://listen.thethursdaynightshow.com/live",
         "country": "GB",
-        "tags": [
-            "eclectic",
-            "f",
-            "jazz"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -795,13 +426,6 @@
         "name": "Worldwide FM",
         "url": "https://worldwide-fm.radiocult.fm/stream",
         "country": "GB",
-        "tags": [
-            "electronica",
-            "jazz",
-            "progressive",
-            "underground music",
-            "world music"
-        ],
         "favicon": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-1/450237294_942043604601681_3306132891557988504_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Ur-AWGYdJIEQ7kNvwHfsWWi&_nc_oc=Adn31I1juFGVfOprAsE1UsSz-7_H0ISFLok1gNrhmWqzfmlI6AbPJgNZB15dkduTEq4&_nc_zt=24&_nc_ht=scontent-fra5-2.xx&_nc_gid=60spXN55S49um4k8ceAfcA&oh=00_AfrO3IOBFCxwn4Bqxc2mOFTcigubLSqRjTY1N2cfbWsvxg&oe=696ED4DC",
         "codec": "MP3",
         "bitrate": 320,

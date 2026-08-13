@@ -3,21 +3,15 @@
         "name": ".. Al quran radio",
         "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n08.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-y3edEAzBAJ0Gf10fQacw"
+        "working_url": "https://n08.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-y3edEAzBAJ0Gf10fQacw"
     },
     {
         "name": "Aah Classical Radio - Bach",
         "url": "https://radio.hearme.fm:9040/stream",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -25,69 +19,44 @@
     },
     {
         "name": "BBC Radio 3",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "arts",
-            "classical",
-            "culture",
-            "drama",
-            "jazz",
-            "opera",
-            "world music"
-        ],
         "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_three/colour_default.svg",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8"
     },
     {
         "name": "BBC Radio 3 (128k)",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=128000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=128000.norewind.m3u8"
     },
     {
         "name": "BBC Radio 3 Unwind (128k)",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "classical",
-            "relax",
-            "unwind"
-        ],
         "favicon": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio=128000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio=128000.norewind.m3u8"
     },
     {
         "name": "Classic FM",
-        "url": "http://media-ice.musicradio.com/ClassicFMMP3",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3",
         "country": "GB",
-        "tags": [
-            "classic fm",
-            "classical"
-        ],
         "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://media-ice.musicradio.com/ClassicFMMP3"
+        "working_url": "https://media-ice.musicradio.com/ClassicFMMP3"
     },
     {
         "name": "Classic FM Calm",
         "url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
         "country": "GB",
-        "tags": [
-            "classical",
-            "romantic"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -97,9 +66,6 @@
         "name": "Classic FM Essential Classical",
         "url": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://www.radio.de/images/broadcasts/a1/f8/126083/1/c300.png",
         "codec": "AAC",
         "bitrate": 48,
@@ -109,9 +75,6 @@
         "name": "Classic FM Hall of Fame",
         "url": "https://icecast.thisisdax.com/ClassicFM-M-HOF",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://www.radio.de/images/broadcasts/a1/f8/126083/1/c300.png",
         "codec": "AAC",
         "bitrate": 48,
@@ -121,9 +84,6 @@
         "name": "Classic FM HD",
         "url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp",
         "codec": "AAC",
         "bitrate": 192,
@@ -133,11 +93,6 @@
         "name": "Classic FM Movies",
         "url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
         "country": "GB",
-        "tags": [
-            "classical",
-            "film score",
-            "movies"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -145,23 +100,17 @@
     },
     {
         "name": "Classic FM UK",
-        "url": "http://media-the.musicradio.com/ClassicFM",
+        "url": "https://media-the.musicradio.com/ClassicFM",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://media-the.musicradio.com/ClassicFM"
+        "working_url": "https://media-the.musicradio.com/ClassicFM"
     },
     {
         "name": "Classic FM Video Game Music",
         "url": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
         "codec": "AAC",
         "bitrate": 48,
@@ -171,9 +120,6 @@
         "name": "CLASSICAL RADIO INTERNATIONAL",
         "url": "https://ec3.yesstreaming.net:3625/stream",
         "country": "GB",
-        "tags": [
-            "classical music"
-        ],
         "favicon": "https://www.247onlineradio.com/wp-content/uploads/2019/01/Classical-Radio-logo.png",
         "codec": "MP3",
         "bitrate": 64,
@@ -183,9 +129,6 @@
         "name": "Davide of MIMIC",
         "url": "https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -193,23 +136,17 @@
     },
     {
         "name": "Fallout 4 - Classical Radio",
-        "url": "http://fallout.fm:8000/falloutfm7.ogg",
+        "url": "https://fallout.fm:8000/falloutfm7.ogg",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://fallout.fandom.com/skins-ucp/mw139/common/favicon.ico",
         "codec": "OGG",
         "bitrate": 0,
-        "working_url": "http://fallout.fm:8000/falloutfm7.ogg"
+        "working_url": "https://fallout.fm:8000/falloutfm7.ogg"
     },
     {
         "name": "HearMe-Beethoven",
         "url": "https://radio.hearme.fm:9050/stream",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -219,21 +156,6 @@
         "name": "Hospital Radio Norwich",
         "url": "https://hospita1.radioca.st/;",
         "country": "GB",
-        "tags": [
-            "classical",
-            "comedy",
-            "country",
-            "eighties",
-            "fifties",
-            "folk",
-            "instrumental",
-            "oldies",
-            "pop",
-            "rock",
-            "seventies",
-            "showtunes",
-            "sixties"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
@@ -241,23 +163,17 @@
     },
     {
         "name": "Linn Classical",
-        "url": "http://radio.linn.co.uk:8004/autodj",
+        "url": "https://radio.linn.co.uk:8004/autodj",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://radio.linn.co.uk:8004/autodj"
+        "working_url": "https://radio.linn.co.uk:8004/autodj"
     },
     {
         "name": "Magic Classical",
         "url": "https://stream-mz.hellorayo.co.uk/scala.aac",
         "country": "GB",
-        "tags": [
-            "classical music"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
@@ -267,12 +183,6 @@
         "name": "Malvern Radio International - Pumpkin FM",
         "url": "https://cast2.asurahosting.com/proxy/radiomalvernint/stream",
         "country": "GB",
-        "tags": [
-            "classical baroque",
-            "classical music",
-            "opera",
-            "symphony"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -280,41 +190,26 @@
     },
     {
         "name": "Naim Classical",
-        "url": "http://mscp3.live-streams.nl:8250/class-flac.flac",
+        "url": "https://mscp3.live-streams.nl:8250/class-flac.flac",
         "country": "GB",
-        "tags": [
-            "classical",
-            "orchestral"
-        ],
         "favicon": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://mscp3.live-streams.nl:8250/class-flac.flac"
+        "working_url": "https://mscp3.live-streams.nl:8250/class-flac.flac"
     },
     {
         "name": "Naim Radio",
-        "url": "http://mscp3.live-streams.nl:8360/flac.flac",
+        "url": "https://mscp3.live-streams.nl:8360/flac.flac",
         "country": "GB",
-        "tags": [
-            "classical",
-            "electronica",
-            "folk",
-            "jazz",
-            "singer-songwriter"
-        ],
         "favicon": "https://www.hiresaudio.online/wp-content/uploads/2020/12/Naim-Radio.webp",
         "codec": "OGG",
         "bitrate": 160,
-        "working_url": "http://mscp3.live-streams.nl:8360/flac.flac"
+        "working_url": "https://mscp3.live-streams.nl:8360/flac.flac"
     },
     {
         "name": "NTS Radio Sheet Music",
         "url": "https://stream-mixtape-geo.ntslive.net/mixtape35",
         "country": "GB",
-        "tags": [
-            "classical",
-            "contemporary classical"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -322,66 +217,38 @@
     },
     {
         "name": "One Live",
-        "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+        "url": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "https://www.google.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://f141.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=3HjX6MS6sieLIOtCIx2OYwW3glo&token=l9_cLVdmshuBt5ie95eb97ZTeGoF1J1EvoPasmOZp-s&tvf=q29zNNyUyhhmMTQxLnJuZGZuay5jb20"
+        "working_url": "https://f141.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=3HjX6MS6sieLIOtCIx2OYwW3glo&token=l9_cLVdmshuBt5ie95eb97ZTeGoF1J1EvoPasmOZp-s&tvf=q29zNNyUyhhmMTQxLnJuZGZuay5jb20"
     },
     {
         "name": "Sonatica Classical Radio",
-        "url": "http://orion.shoutca.st:8742/160",
+        "url": "https://orion.shoutca.st:8742/160",
         "country": "GB",
-        "tags": [
-            "classical",
-            "classical music"
-        ],
         "favicon": "http://sonatica.fm/favicon.png",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://orion.shoutca.st:8742/160"
+        "working_url": "https://orion.shoutca.st:8742/160"
     },
     {
         "name": "The Source FM",
-        "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+        "url": "https://live.canstream.co.uk:8000/sourcefm.mp3",
         "country": "GB",
-        "tags": [
-            "classical",
-            "community radio",
-            "country",
-            "drum & bass",
-            "electronic",
-            "folk",
-            "hiphop",
-            "jazz",
-            "local news",
-            "mashup",
-            "metal",
-            "pop",
-            "rap",
-            "rock",
-            "rock 'n' roll",
-            "spoken word"
-        ],
         "favicon": "https://www.thesourcefm.co.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 110,
-        "working_url": "http://live.canstream.co.uk:8000/sourcefm.mp3"
+        "working_url": "https://live.canstream.co.uk:8000/sourcefm.mp3"
     },
     {
         "name": "WOTR Hymns",
-        "url": "http://wotrstream.com:8025/hymns",
+        "url": "https://wotrstream.com:8025/hymns",
         "country": "GB",
-        "tags": [
-            "classical"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://wotrstream.com:8025/hymns"
+        "working_url": "https://wotrstream.com:8025/hymns"
     }
 ]

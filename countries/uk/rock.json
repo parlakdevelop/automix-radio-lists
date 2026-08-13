@@ -1,76 +1,17 @@
 [
     {
         "name": "BBC RADIO 1 - The biggest new pop and all-day vibes",
-        "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
         "country": "GB",
-        "tags": [
-            "97.1 fm",
-            "99.7 fm",
-            "bbc",
-            "bbc radio 1",
-            "dab",
-            "england",
-            "entertainment",
-            "entretenimiento",
-            "estación",
-            "europa",
-            "europe",
-            "fm",
-            "inglaterra",
-            "juvenil",
-            "london",
-            "londres",
-            "moi merino",
-            "music",
-            "música",
-            "música en inglés",
-            "música pop",
-            "pop",
-            "pop en inglés",
-            "pop music",
-            "pop rock",
-            "radio",
-            "rock",
-            "rock music"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s24939/images/logod.png",
         "codec": "AAC+",
         "bitrate": 101,
-        "working_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+        "working_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
     },
     {
         "name": "BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now",
         "url": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "2000s",
-            "2010s",
-            "anthems",
-            "bbc",
-            "bbc radio 1",
-            "bbc radio 1 anthems",
-            "contemporary hits",
-            "contemporary hits radio",
-            "dab+",
-            "england",
-            "entertainment",
-            "europe",
-            "hits",
-            "london",
-            "moi merino",
-            "music",
-            "pop",
-            "pop music",
-            "pop rock",
-            "public",
-            "public radio",
-            "public service",
-            "radio",
-            "uk",
-            "united kingdom",
-            "youth",
-            "youth programming"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s347239/images/logod.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
@@ -80,23 +21,6 @@
         "name": "CAPITAL ANTHEMS: The Songs Capital Made Famous",
         "url": "https://media-ssl.musicradio.com/CapitalAnthemsMP3",
         "country": "GB",
-        "tags": [
-            "capital",
-            "dance",
-            "england",
-            "europe",
-            "global radio",
-            "london",
-            "moi merino",
-            "music",
-            "pop",
-            "pop music",
-            "pop rock",
-            "radio",
-            "uk",
-            "united kingdom",
-            "youth"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s333271/images/logod.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -106,25 +30,6 @@
         "name": "PLANET ROCK: Where Rock Lives",
         "url": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
         "country": "GB",
-        "tags": [
-            "bauer radio",
-            "classic rock",
-            "dab",
-            "digital radio",
-            "england",
-            "europe",
-            "hard rock",
-            "heavy rock",
-            "london",
-            "moi merino",
-            "music",
-            "planet rock",
-            "radio",
-            "rock",
-            "rock music",
-            "uk",
-            "united kingdom"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s2377/images/logod.png",
         "codec": "AAC+",
         "bitrate": 47,
@@ -134,23 +39,6 @@
         "name": "VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower",
         "url": "https://virgin.live.stream.broadcasting.news/stream",
         "country": "GB",
-        "tags": [
-            "dab",
-            "digital radio",
-            "england",
-            "english",
-            "europe",
-            "london",
-            "moi merino",
-            "music",
-            "radio",
-            "rock",
-            "rock music",
-            "rock'n'roll",
-            "united kingdom",
-            "virgin radio",
-            "virgin radio uk"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s266113/images/logod.png",
         "codec": "AAC",
         "bitrate": 128,
@@ -160,15 +48,6 @@
         "name": "107.8 Black Diamond FM",
         "url": "https://icecast-s.bdfm.radio/blackdiamondfm?icecast",
         "country": "GB",
-        "tags": [
-            "107.8",
-            "107.8 fm",
-            "country",
-            "music",
-            "regge",
-            "reggeton",
-            "rock"
-        ],
         "favicon": "https://www.blackdiamondfm.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -176,63 +55,44 @@
     },
     {
         "name": "24-7 Just Rock",
-        "url": "http://antares.dribbcast.com:4324/stream",
+        "url": "https://antares.dribbcast.com:4324/stream",
         "country": "GB",
-        "tags": [
-            "just rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://antares.dribbcast.com:4324/stream"
+        "working_url": "https://antares.dribbcast.com:4324/stream"
     },
     {
         "name": "24-7 Legends Classic Rock",
-        "url": "http://antares.dribbcast.com:4330/stream",
+        "url": "https://antares.dribbcast.com:4330/stream",
         "country": "GB",
-        "tags": [
-            "legends classic rock"
-        ],
         "favicon": "https://24-7nicheradio.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://antares.dribbcast.com:4330/stream"
+        "working_url": "https://antares.dribbcast.com:4330/stream"
     },
     {
         "name": "24-7 Psychedelic Rock",
-        "url": "http://antares.dribbcast.com:4289/stream",
+        "url": "https://antares.dribbcast.com:4289/stream",
         "country": "GB",
-        "tags": [
-            "psychedelic rock"
-        ],
         "favicon": "https://24-7nicheradio.com/wp-content/uploads/2017/04/psychedelic.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://antares.dribbcast.com:4289/stream"
+        "working_url": "https://antares.dribbcast.com:4289/stream"
     },
     {
         "name": "24-7 Rock ‘n’ Roll",
-        "url": "http://antares.dribbcast.com:4266/stream",
+        "url": "https://antares.dribbcast.com:4266/stream",
         "country": "GB",
-        "tags": [
-            "rock ‘n’ roll"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://antares.dribbcast.com:4266/stream"
+        "working_url": "https://antares.dribbcast.com:4266/stream"
     },
     {
         "name": "80s Rhythm",
         "url": "https://stream.mybroadbandradio.com/80srhythmhq/",
         "country": "GB",
-        "tags": [
-            "80s",
-            "dance",
-            "new wave",
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -242,34 +102,6 @@
         "name": "80s Zoom",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3",
         "country": "GB",
-        "tags": [
-            "128 kbit/s",
-            "192kbps",
-            "1980s",
-            "24/7",
-            "256 kbit/s",
-            "256 kbps",
-            "320 kbit/s",
-            "320kbps",
-            "80er",
-            "80s",
-            "album tracks",
-            "clasic rock",
-            "classic hits",
-            "decades",
-            "eighties",
-            "fm",
-            "goldies",
-            "livestream",
-            "non-stop",
-            "non-stop music",
-            "oldies",
-            "pop",
-            "progressive rock",
-            "retro",
-            "vintage",
-            "webradio"
-        ],
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUFC8MX_VPOLHcB32vggZZhwC928NeErEyQ&s.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -277,45 +109,26 @@
     },
     {
         "name": "Access Radio 64K",
-        "url": "http://uk1.streamingpulse.com:7034/128kmp3",
+        "url": "https://uk1.streamingpulse.com:7034/128kmp3",
         "country": "GB",
-        "tags": [
-            "music",
-            "pop",
-            "rock",
-            "top 40"
-        ],
         "favicon": "http://www.accessradio.biz/wp-content/uploads/2020/04/logostyl330x90.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://uk1.streamingpulse.com:7034/128kmp3"
+        "working_url": "https://uk1.streamingpulse.com:7034/128kmp3"
     },
     {
         "name": "Alive Radio 107.3",
-        "url": "http://stream2.hippynet.co.uk:8013/;",
+        "url": "https://stream2.hippynet.co.uk:8013/;",
         "country": "GB",
-        "tags": [
-            "dance",
-            "hits",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://aliveradio.net/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream2.hippynet.co.uk:8013/;"
+        "working_url": "https://stream2.hippynet.co.uk:8013/;"
     },
     {
         "name": "Archive Radio",
         "url": "https://stream2.hippynet.co.uk/stream/8228",
         "country": "GB",
-        "tags": [
-            "oldies",
-            "pop",
-            "rock",
-            "soul",
-            "talk"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
@@ -323,87 +136,44 @@
     },
     {
         "name": "ARfm",
-        "url": "http://108.163.245.230:9016/stream",
+        "url": "https://108.163.245.230:9016/stream",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "hard rock",
-            "heavy metal",
-            "melodic rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://108.163.245.230:9016/stream"
+        "working_url": "https://108.163.245.230:9016/stream"
     },
     {
         "name": "Arrowe Sound",
-        "url": "http://proxima.shoutca.st:8897/;",
+        "url": "https://proxima.shoutca.st:8897/;",
         "country": "GB",
-        "tags": [
-            "pop music",
-            "pop rock"
-        ],
         "favicon": "https://www.arrowesound.co.uk/wp-content/uploads/2021/10/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://proxima.shoutca.st:8897/;"
+        "working_url": "https://proxima.shoutca.st:8897/;"
     },
     {
         "name": "Aspen Waite Radio",
-        "url": "http://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3",
+        "url": "https://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3",
         "country": "GB",
-        "tags": [
-            "business",
-            "indie rock",
-            "speech"
-        ],
         "favicon": "https://mmo.aiircdn.com/429/60867c5b6d71c.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3"
+        "working_url": "https://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3"
     },
     {
         "name": "BBC Radio 6 Music",
-        "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+        "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "blues",
-            "dance",
-            "eclectic",
-            "electronic",
-            "experimental",
-            "funk",
-            "grime",
-            "hip hop",
-            "house",
-            "indie",
-            "jazz",
-            "metal",
-            "pop",
-            "punk",
-            "r&b",
-            "reggae",
-            "rock",
-            "ska",
-            "soul",
-            "techno",
-            "world"
-        ],
         "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8"
+        "working_url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8"
     },
     {
         "name": "BCfm 93.2",
         "url": "https://bcfmradiomain.radioca.st/live.mp3",
         "country": "GB",
-        "tags": [
-            "bristol",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -411,24 +181,17 @@
     },
     {
         "name": "Belfast 89 fm",
-        "url": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
+        "url": "https://mp3streaming.planetwideradio.com:9030/belfastfm",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://mp3streaming.planetwideradio.com:9030/belfastfm"
+        "working_url": "https://mp3streaming.planetwideradio.com:9030/belfastfm"
     },
     {
         "name": "Belters Radio",
         "url": "https://uk2.internet-radio.com/proxy/belters?mp=/live",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "indie rock"
-        ],
         "favicon": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/6Q7SW1I96IGwqBDhIm55oj/en",
         "codec": "MP3",
         "bitrate": 64,
@@ -436,32 +199,17 @@
     },
     {
         "name": "Blackpool Community Radio",
-        "url": "http://s10.citrus3.com:8596/stream",
+        "url": "https://s10.citrus3.com:8596/stream",
         "country": "GB",
-        "tags": [
-            "community radio",
-            "hot ac",
-            "hot adult contemporary",
-            "pop",
-            "rock",
-            "varied"
-        ],
         "favicon": "https://img1.wsimg.com/isteam/ip/bd31317d-6163-4347-8040-861d4f5e7094/blob-69d7ecc.png/:/rs=w:315,h:315,cg:true,m/cr=w:315,h:315/qt=q:95",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://s10.citrus3.com:8596/stream"
+        "working_url": "https://s10.citrus3.com:8596/stream"
     },
     {
         "name": "Boogaloo Radio",
         "url": "https://streams.radio.co/sb88c742f0/listen",
         "country": "GB",
-        "tags": [
-            "dance",
-            "electronic",
-            "indie",
-            "pub",
-            "rock n‘ roll"
-        ],
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6JArHY_jsEGh1jegVX536pFC_7H3YpoCbRZpLjcfcNUYJhHuKFWPq8DY&s=10",
         "codec": "MP3",
         "bitrate": 192,
@@ -469,43 +217,26 @@
     },
     {
         "name": "Box UK (danceradiouk.com) 128k MP3",
-        "url": "http://boxstream.danceradiouk.com/stream/",
+        "url": "https://boxstream.danceradiouk.com/stream/",
         "country": "GB",
-        "tags": [
-            "80s",
-            "90s",
-            "no ads",
-            "pop",
-            "rock",
-            "top 40"
-        ],
         "favicon": "https://danceradiouk.com/players/files/images/albumart/13040-BoxUK-300.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://boxstream.danceradiouk.com/stream/"
+        "working_url": "https://boxstream.danceradiouk.com/stream/"
     },
     {
         "name": "Cambridge Radio",
-        "url": "http://stream.cambridge105.co.uk:443/105-128s-mp3",
+        "url": "https://stream.cambridge105.co.uk:443/105-128s-mp3",
         "country": "GB",
-        "tags": [
-            "jazz",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://cambridge105.co.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.cambridge105.co.uk:443/105-128s-mp3"
+        "working_url": "https://stream.cambridge105.co.uk:443/105-128s-mp3"
     },
     {
         "name": "Caravan Radio",
         "url": "https://stream4.themediasite.co.uk:8044/stream?_=456752",
         "country": "GB",
-        "tags": [
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -513,44 +244,26 @@
     },
     {
         "name": "Caroline Flashback",
-        "url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
+        "url": "https://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
         "country": "GB",
-        "tags": [
-            "goldies",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242"
+        "working_url": "https://sc2.radiocaroline.net:10558/;?type=http&nocache=69242"
     },
     {
         "name": "Cross Rhythms City Radio",
-        "url": "http://stream.crossrhythms.co.uk/city/hq.mp3",
+        "url": "https://stream.crossrhythms.co.uk/city/hq.mp3",
         "country": "GB",
-        "tags": [
-            "christian contemporary",
-            "christian praise&worship",
-            "christian rock",
-            "community radio",
-            "contemporary christian"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://stream.crossrhythms.co.uk/city/hq.mp3"
+        "working_url": "https://stream.crossrhythms.co.uk/city/hq.mp3"
     },
     {
         "name": "CruiseOne Radio",
         "url": "https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps",
         "country": "GB",
-        "tags": [
-            "electronic",
-            "indie",
-            "indie rock",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg",
         "codec": "MP3",
         "bitrate": 256,
@@ -558,26 +271,17 @@
     },
     {
         "name": "Dandelion Radio",
-        "url": "http://stream.dandelionradio.com:9414/;",
+        "url": "https://stream.dandelionradio.com:9414/;",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "eclectic",
-            "john peel",
-            "rock"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream.dandelionradio.com:9414/;"
+        "working_url": "https://stream.dandelionradio.com:9414/;"
     },
     {
         "name": "Eirewave",
         "url": "https://stream.rcs.revma.com/z0mfskucweuvv",
         "country": "GB",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "https://eirewave.com/assets/img/original_logo_eirewave_2026.svg",
         "codec": "AAC",
         "bitrate": 0,
@@ -587,12 +291,6 @@
         "name": "EKR Retro Rock",
         "url": "https://streaming06.liveboxstream.uk/proxy/eastken4?mp=/stream",
         "country": "GB",
-        "tags": [
-            "70s",
-            "80s",
-            "retro",
-            "rock"
-        ],
         "favicon": "https://ekrdigital.com/wp-content/themes/ekr-digital-radio/img/icons/retro-rock_180.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -600,25 +298,17 @@
     },
     {
         "name": "England - Heart London Radio",
-        "url": "http://ice-the.musicradio.com/HeartLondonMP3",
+        "url": "https://ice-the.musicradio.com/HeartLondonMP3",
         "country": "GB",
-        "tags": [
-            "pop",
-            "public",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ice-the.musicradio.com/HeartLondonMP3"
+        "working_url": "https://ice-the.musicradio.com/HeartLondonMP3"
     },
     {
         "name": "Exclusively AC/DC",
         "url": "https://nl4.mystreaming.net/er/acdc/icecast.audio",
         "country": "GB",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -628,9 +318,6 @@
         "name": "Exclusively Dire Straits",
         "url": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -640,9 +327,6 @@
         "name": "Exclusively Supertramp",
         "url": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -652,13 +336,6 @@
         "name": "Flashback Radio",
         "url": "https://live.flashbackcentral.co.uk/radio/8000/apple",
         "country": "GB",
-        "tags": [
-            "00s",
-            "90s",
-            "dance",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://irp.cdn-website.com/d8990fde/site_favicon_16_1654769166393.ico",
         "codec": "AAC",
         "bitrate": 128,
@@ -668,13 +345,6 @@
         "name": "Fosse 107",
         "url": "https://icecast.maxxwave.co.uk/fossehinckleyhq",
         "country": "GB",
-        "tags": [
-            "80s",
-            "90s",
-            "local news",
-            "news",
-            "rock"
-        ],
         "favicon": "https://mm.aiircdn.com/375/59372c77cd002.png",
         "codec": "AAC",
         "bitrate": 80,
@@ -684,13 +354,6 @@
         "name": "Fresh Fm Radio London",
         "url": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
         "country": "GB",
-        "tags": [
-            "dub",
-            "lovers rock reggae",
-            "reggae",
-            "roots",
-            "uk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -698,55 +361,35 @@
     },
     {
         "name": "Greatest Hits Radio (Devon)",
-        "url": "http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850",
+        "url": "https://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850",
         "country": "GB",
-        "tags": [
-            "1980s hits",
-            "1990s hits",
-            "pop music",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 112,
-        "working_url": "http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850"
+        "working_url": "https://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850"
     },
     {
         "name": "Hard Rock Hell",
-        "url": "http://andromeda.shoutca.st:9254/stream",
+        "url": "https://andromeda.shoutca.st:9254/stream",
         "country": "GB",
-        "tags": [
-            "death metal",
-            "hard rock",
-            "heavy metal",
-            "nwobhm"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://andromeda.shoutca.st:9254/stream"
+        "working_url": "https://andromeda.shoutca.st:9254/stream"
     },
     {
         "name": "Hastings Rock Radio",
-        "url": "http://cloud.hastingsrock.co.uk:8000/mp3",
+        "url": "https://cloud.hastingsrock.co.uk:8000/mp3",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "rock"
-        ],
         "favicon": "https://hastingsrock.co.uk/images/HR%20Website%20Hero%20logo.png",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://cloud.hastingsrock.co.uk:8000/mp3"
+        "working_url": "https://cloud.hastingsrock.co.uk:8000/mp3"
     },
     {
         "name": "HearMe - 00s rock",
         "url": "https://radio.hearme.fm:8130/stream",
         "country": "GB",
-        "tags": [
-            "00s rock",
-            "00’s rock"
-        ],
         "favicon": "https://hearme.fm/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
@@ -756,10 +399,6 @@
         "name": "HearMe - 60s Rock",
         "url": "https://radio.hearme.fm:8230/stream",
         "country": "GB",
-        "tags": [
-            "60s rock",
-            "60’s rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -769,10 +408,6 @@
         "name": "HearMe - 70s Rock",
         "url": "https://radio.hearme.fm:8240/stream",
         "country": "GB",
-        "tags": [
-            "70s rock",
-            "70’s rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -782,10 +417,6 @@
         "name": "Hearme - 80s rock",
         "url": "https://radio.hearme.fm:8310/stream",
         "country": "GB",
-        "tags": [
-            "80d rock",
-            "80’s rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -795,9 +426,6 @@
         "name": "HearMe - Classic Hard Rock",
         "url": "https://radio.hearme.fm:8250/stream",
         "country": "GB",
-        "tags": [
-            "classic hard rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -807,9 +435,6 @@
         "name": "HearMe - Classic Rock",
         "url": "https://radio.hearme.fm:8270/stream",
         "country": "GB",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -817,39 +442,26 @@
     },
     {
         "name": "Heart London 106.2 [AAC]",
-        "url": "http://media-ice.musicradio.com/HeartLondon",
+        "url": "https://media-ice.musicradio.com/HeartLondon",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "pop rock"
-        ],
         "favicon": "http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://media-ice.musicradio.com/HeartLondon"
+        "working_url": "https://media-ice.musicradio.com/HeartLondon"
     },
     {
         "name": "Heart Peterborough",
-        "url": "http://media-ice.musicradio.com/HeartPeterboroughMP3",
+        "url": "https://media-ice.musicradio.com/HeartPeterboroughMP3",
         "country": "GB",
-        "tags": [
-            "charts",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://media-ice.musicradio.com/HeartPeterboroughMP3"
+        "working_url": "https://media-ice.musicradio.com/HeartPeterboroughMP3"
     },
     {
         "name": "Heart West Midlands",
         "url": "https://media-ice.musicradio.com/HeartWestMidsMP3",
         "country": "GB",
-        "tags": [
-            "pop",
-            "rock"
-        ],
         "favicon": "http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -859,13 +471,6 @@
         "name": "Homemade Radio",
         "url": "https://homemaderadio-brianager.radioca.st/;",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "blues",
-            "classic rock",
-            "indie",
-            "rock"
-        ],
         "favicon": "https://static.vecteezy.com/system/resources/thumbnails/001/933/723/small/radio-online-neon-signs-style-text-free-vector.jpg",
         "codec": "MP3",
         "bitrate": 320,
@@ -875,15 +480,6 @@
         "name": "Hoodoo Radio",
         "url": "https://s4.radio.co/s76f8b99fc/listen",
         "country": "GB",
-        "tags": [
-            "60s",
-            "disco",
-            "dub",
-            "funk",
-            "indie",
-            "punk",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -893,21 +489,6 @@
         "name": "Hospital Radio Norwich",
         "url": "https://hospita1.radioca.st/;",
         "country": "GB",
-        "tags": [
-            "classical",
-            "comedy",
-            "country",
-            "eighties",
-            "fifties",
-            "folk",
-            "instrumental",
-            "oldies",
-            "pop",
-            "rock",
-            "seventies",
-            "showtunes",
-            "sixties"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
@@ -915,27 +496,17 @@
     },
     {
         "name": "Islands FM",
-        "url": "http://radio.canstream.co.uk:8040/live.mp3",
+        "url": "https://radio.canstream.co.uk:8040/live.mp3",
         "country": "GB",
-        "tags": [
-            "community radio",
-            "country",
-            "pop",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://www.liveradio.uk/files/images/405648/resized/180x172c/islands_fm.jpg",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://radio.canstream.co.uk:8040/live.mp3"
+        "working_url": "https://radio.canstream.co.uk:8040/live.mp3"
     },
     {
         "name": "Kaos Sound",
         "url": "https://s3.myradiostream.com:59506/stream",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -945,10 +516,6 @@
         "name": "KAOS Sound  - Pink Floyd Radio",
         "url": "https://s3.myradiostream.com/:59506/stream/1/",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "rock"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s140303/images/logog.png?t=160685",
         "codec": "MP3",
         "bitrate": 128,
@@ -956,41 +523,17 @@
     },
     {
         "name": "LABR Love a Brother Radio",
-        "url": "http://23.81.33.82:24914/stream",
+        "url": "https://23.81.33.82:24914/stream",
         "country": "GB",
-        "tags": [
-            "80s",
-            "chillout",
-            "dance",
-            "deep house",
-            "dj sets",
-            "electronic",
-            "hiphop",
-            "house",
-            "house music",
-            "mixes",
-            "party",
-            "raggae",
-            "rock",
-            "soul",
-            "soulful house",
-            "tech house"
-        ],
         "favicon": "https://labr.online/labr.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://23.81.33.82:24914/stream"
+        "working_url": "https://23.81.33.82:24914/stream"
     },
     {
         "name": "Laser Hot Hits",
         "url": "https://stream.airwavebroadcast.com:8040/laserhq",
         "country": "GB",
-        "tags": [
-            "oldies",
-            "pop",
-            "recent hits",
-            "rock"
-        ],
         "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/225-high.png?enable-io=true&width=816",
         "codec": "MP3",
         "bitrate": 256,
@@ -1000,12 +543,6 @@
         "name": "Lifestyle Radio UK",
         "url": "https://a4.asurahosting.com:6560/radio.mp3",
         "country": "GB",
-        "tags": [
-            "country",
-            "pop",
-            "rock",
-            "swing"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1015,13 +552,6 @@
         "name": "London Tower Block Radio",
         "url": "https://stream.ltbr.fm/live",
         "country": "GB",
-        "tags": [
-            "amapiano",
-            "classic rock",
-            "dub reggae",
-            "rare groove",
-            "reggae"
-        ],
         "favicon": "https://www.ltbr.fm/icon-192.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1031,12 +561,6 @@
         "name": "Majestic Jukebox Radio",
         "url": "https://uk3.internet-radio.com/proxy/majesticjukebox/live",
         "country": "GB",
-        "tags": [
-            "60s",
-            "70s",
-            "oldies",
-            "rocknroll"
-        ],
         "favicon": "https://static.wixstatic.com/media/83e446_a77f5ab906b7455689b82789c523e616~mv2.jpg/v1/fit/w_2500,h_1330,al_c/83e446_a77f5ab906b7455689b82789c523e616~mv2.jpg",
         "codec": "AAC+",
         "bitrate": 16,
@@ -1046,12 +570,6 @@
         "name": "Memory Lane - Infinite Mixtapes | NTS",
         "url": "https://stream-mixtape-geo.ntslive.net/mixtape6",
         "country": "GB",
-        "tags": [
-            "folk",
-            "garage rock",
-            "psychedelia",
-            "soul"
-        ],
         "favicon": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
         "codec": "MP3",
         "bitrate": 0,
@@ -1059,42 +577,26 @@
     },
     {
         "name": "Merseyland Alternative Radio",
-        "url": "http://centova2.whsh4u.com:9209/stream",
+        "url": "https://centova2.whsh4u.com:9209/stream",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "eclectic programming",
-            "oldies"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://centova2.whsh4u.com:9209/stream"
+        "working_url": "https://centova2.whsh4u.com:9209/stream"
     },
     {
         "name": "Mighty Radio Southport",
-        "url": "http://streaming04.liveboxstream.uk:8014/;stream.mp3",
+        "url": "https://streaming04.liveboxstream.uk:8014/;stream.mp3",
         "country": "GB",
-        "tags": [
-            "dance",
-            "pop",
-            "rock",
-            "trance"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streaming04.liveboxstream.uk:8014/;stream.mp3"
+        "working_url": "https://streaming04.liveboxstream.uk:8014/;stream.mp3"
     },
     {
         "name": "Motorsport Radio",
         "url": "https://streaming.radio.co/sd88832e85/listen",
         "country": "GB",
-        "tags": [
-            "motorsport",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://motorsport.radio/wp-content/uploads/2020/05/iTunes-Cover-512px.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1104,17 +606,6 @@
         "name": "Music Galaxy Radio",
         "url": "https://eu10.fastcast4u.com/themusi2",
         "country": "GB",
-        "tags": [
-            "country",
-            "djs",
-            "funk",
-            "hip-hop",
-            "jazz",
-            "reggae",
-            "rnb",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5H_571Uc9TPjudUTSRXY6Kme_1deY38X0r8gWVmn1YclbOUPbBC3exlC4gEOZEs05r0&usqp=CAU",
         "codec": "MP3",
         "bitrate": 128,
@@ -1124,14 +615,6 @@
         "name": "Mystery Train Radio",
         "url": "https://streamer.radio.co/sf662f27c0/low",
         "country": "GB",
-        "tags": [
-            "americana",
-            "blues",
-            "eclectic",
-            "folk",
-            "indie",
-            "rock"
-        ],
         "favicon": "https://www.mysterytrainradio.com/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
@@ -1139,72 +622,44 @@
     },
     {
         "name": "Nation 90s",
-        "url": "http://listen-nation.sharp-stream.com/nationradio90s.aac",
+        "url": "https://listen-nation.sharp-stream.com/nationradio90s.aac",
         "country": "GB",
-        "tags": [
-            "90s",
-            "dance",
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 47,
-        "working_url": "http://listen-nation.sharp-stream.com/nationradio90s.aac"
+        "working_url": "https://listen-nation.sharp-stream.com/nationradio90s.aac"
     },
     {
         "name": "Nation Rocks",
-        "url": "http://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RFn",
+        "url": "https://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RFn",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "classic rock",
-            "pop rock"
-        ],
         "favicon": "https://player.nationplayer.com/img/stationlogos/NationRocks.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RFn"
+        "working_url": "https://listen-nation.sharp-stream.com/nationrocksdab.mp3?ref=RFn"
     },
     {
         "name": "NOTE.radio",
-        "url": "http://s5.citrus3.com:8028/stream",
+        "url": "https://s5.citrus3.com:8028/stream",
         "country": "GB",
-        "tags": [
-            "contemporary hits radio",
-            "dance music",
-            "electronic dance music",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s5.citrus3.com:8028/stream"
+        "working_url": "https://s5.citrus3.com:8028/stream"
     },
     {
         "name": "Offshore Music Radio",
-        "url": "http://bitsmitter.com:8000/",
+        "url": "https://bitsmitter.com:8000/",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "oldies"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://bitsmitter.com:8000/"
+        "working_url": "https://bitsmitter.com:8000/"
     },
     {
         "name": "OSTM Radio",
         "url": "https://stream.zeno.fm/1vx25xbdmzzuv",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "alternative rock",
-            "indie",
-            "indie rock",
-            "rock"
-        ],
         "favicon": "https://www.ostm.co.uk/img/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
@@ -1212,44 +667,17 @@
     },
     {
         "name": "Phoenix Radio",
-        "url": "http://listen.phoenixradio1208.com:8027/live",
+        "url": "https://listen.phoenixradio1208.com:8027/live",
         "country": "GB",
-        "tags": [
-            "2000s",
-            "2010s",
-            "2020s",
-            "60s",
-            "70s",
-            "80s",
-            "90s",
-            "adult contemporary",
-            "classic hits",
-            "contemporary hits",
-            "hits",
-            "hot adult contemporary",
-            "oldies",
-            "pop",
-            "pop music",
-            "radio",
-            "retro",
-            "singer-songwriter",
-            "soft rock",
-            "top hits",
-            "variety"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://listen.phoenixradio1208.com:8027/live"
+        "working_url": "https://listen.phoenixradio1208.com:8027/live"
     },
     {
         "name": "Primordial Radio",
         "url": "https://fr1-play.adtonos.com/8108/thisisprimordial",
         "country": "GB",
-        "tags": [
-            "metal",
-            "rock"
-        ],
         "favicon": "https://primordialradio.com/wp-content/themes/the-next-evolution/img/favicons/apple-icon-180x180.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1259,11 +687,6 @@
         "name": "Pure Radio",
         "url": "https://kathy.torontocast.com:4825/stream",
         "country": "GB",
-        "tags": [
-            "adult alternative",
-            "britpop",
-            "rock"
-        ],
         "favicon": "https://listentopure.uk/wp-content/uploads/2023/02/cropped-cropped-pure-logo-23-150.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1273,11 +696,6 @@
         "name": "Radio Bloodstream",
         "url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
         "country": "GB",
-        "tags": [
-            "hard rock",
-            "heavy metal",
-            "rock"
-        ],
         "favicon": "https://www.radiobloodstream.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
@@ -1285,104 +703,62 @@
     },
     {
         "name": "Radio Caroline",
-        "url": "http://sc6.radiocaroline.net:8040/",
+        "url": "https://sc6.radiocaroline.net:8040/",
         "country": "GB",
-        "tags": [
-            "classic rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://sc6.radiocaroline.net:8040/"
+        "working_url": "https://sc6.radiocaroline.net:8040/"
     },
     {
         "name": "Radio Caroline (48k AAC)",
-        "url": "http://sc5.radiocaroline.net:8010/",
+        "url": "https://sc5.radiocaroline.net:8010/",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 52,
-        "working_url": "http://sc5.radiocaroline.net:8010/"
+        "working_url": "https://sc5.radiocaroline.net:8010/"
     },
     {
         "name": "Radio Caroline [48k aac+]",
-        "url": "http://78.129.202.10:8010/;",
+        "url": "https://78.129.202.10:8010/;",
         "country": "GB",
-        "tags": [
-            "album",
-            "album tracks",
-            "community radio",
-            "oldies",
-            "rock"
-        ],
         "favicon": "https://www.radiocaroline.co.uk/favicon.ico",
         "codec": "AAC+",
         "bitrate": 52,
-        "working_url": "http://78.129.202.10:8010/;"
+        "working_url": "https://78.129.202.10:8010/;"
     },
     {
         "name": "Radio Caroline AAC 96 kbps",
-        "url": "http://78.129.202.200:8030/;",
+        "url": "https://78.129.202.200:8030/;",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://www.radiocaroline.co.uk/favicon.ico",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://78.129.202.200:8030/;"
+        "working_url": "https://78.129.202.200:8030/;"
     },
     {
         "name": "Radio Caroline Flashback",
-        "url": "http://sc2.radiocaroline.net:10558/;",
+        "url": "https://sc2.radiocaroline.net:10558/;",
         "country": "GB",
-        "tags": [
-            "60s",
-            "70s",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://sc2.radiocaroline.net:10558/;"
+        "working_url": "https://sc2.radiocaroline.net:10558/;"
     },
     {
         "name": "Radio Caroline North (Ross Revenge live broadcasts)",
-        "url": "http://sc2.radiocaroline.net:8100/;",
+        "url": "https://sc2.radiocaroline.net:8100/;",
         "country": "GB",
-        "tags": [
-            "60s",
-            "70s",
-            "80s",
-            "heritage",
-            "nostalgia",
-            "oldies",
-            "pop",
-            "rock",
-            "vintage"
-        ],
         "favicon": "https://radiocaroline.co.uk/images/logos/caroline_north_logo.svg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://sc2.radiocaroline.net:8100/;"
+        "working_url": "https://sc2.radiocaroline.net:8100/;"
     },
     {
         "name": "Radio ENRG",
         "url": "https://edge.mixlr.com/channel/xssdg",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "edinburgh",
-            "pop",
-            "rock",
-            "sport",
-            "student",
-            "talk"
-        ],
         "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1390,32 +766,17 @@
     },
     {
         "name": "Radio Jackie",
-        "url": "http://media.radiojackie.com:5873/",
+        "url": "https://media.radiojackie.com:5873/",
         "country": "GB",
-        "tags": [
-            "berkshire",
-            "community radio",
-            "hits",
-            "news",
-            "pop",
-            "rock",
-            "south west london",
-            "surrey"
-        ],
         "favicon": "https://radiojackie.com/wp-content/uploads/2023/07/logo-mike-artwork-flat.jpg",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://media.radiojackie.com:5873/"
+        "working_url": "https://media.radiojackie.com:5873/"
     },
     {
         "name": "Radio Jupiter",
         "url": "https://s10.myradiostream.com/:7946/listen.mp3?nocache=1686498616",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1425,9 +786,6 @@
         "name": "Radio Wigwam",
         "url": "https://streaming.broadcast.radio/radio-wigwam",
         "country": "GB",
-        "tags": [
-            "indie rock"
-        ],
         "favicon": "https://radiowigwam.co.uk/wp-content/uploads/2024/08/wiwamnewdark.jpg.webp",
         "codec": "MP3",
         "bitrate": 0,
@@ -1435,27 +793,17 @@
     },
     {
         "name": "Radio X",
-        "url": "http://icecast.thisisdax.com/RadioXUKMP3",
+        "url": "https://icecast.thisisdax.com/RadioXUKMP3",
         "country": "GB",
-        "tags": [
-            "alternative rock",
-            "britpop"
-        ],
         "favicon": "https://i.imgur.com/fbhlSLX.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.thisisdax.com/RadioXUKMP3"
+        "working_url": "https://icecast.thisisdax.com/RadioXUKMP3"
     },
     {
         "name": "Radio X 00s",
         "url": "https://media-ice.musicradio.com/RadioX00sMP3",
         "country": "GB",
-        "tags": [
-            "00s",
-            "2000s",
-            "alternative",
-            "indie rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1465,11 +813,6 @@
         "name": "Radio X 90s",
         "url": "https://media-ice.musicradio.com/RadioX90sMP3",
         "country": "GB",
-        "tags": [
-            "90s",
-            "alternative",
-            "indie rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1479,11 +822,6 @@
         "name": "Radio X Chilled",
         "url": "https://media-ice.musicradio.com/RadioXChilledMP3",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "chilled",
-            "indie rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1493,10 +831,6 @@
         "name": "Radio X Classic Rock",
         "url": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "rock"
-        ],
         "favicon": "https://i.imgur.com/eBIsjQw.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -1504,49 +838,26 @@
     },
     {
         "name": "Radio X London",
-        "url": "http://media-the.musicradio.com/RadioXLondon",
+        "url": "https://media-the.musicradio.com/RadioXLondon",
         "country": "GB",
-        "tags": [
-            "guitar rock",
-            "london"
-        ],
         "favicon": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://media-the.musicradio.com/RadioXLondon"
+        "working_url": "https://media-the.musicradio.com/RadioXLondon"
     },
     {
         "name": "Raidió Fáilte",
-        "url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
+        "url": "https://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
         "country": "GB",
-        "tags": [
-            "indie",
-            "rock",
-            "talk",
-            "traditional irish",
-            "world"
-        ],
         "favicon": "https://upload.wikimedia.org/wikipedia/en/8/89/Raidió_Fáilte.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1"
+        "working_url": "https://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1"
     },
     {
         "name": "Regal Radio",
         "url": "https://stream.regalradio.net/stream.mp3",
         "country": "GB",
-        "tags": [
-            "blues",
-            "community radio",
-            "interview",
-            "local music",
-            "local radio",
-            "music",
-            "pop",
-            "rock",
-            "scotland",
-            "west lothian"
-        ],
         "favicon": "https://www.regalradio.net/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1556,12 +867,6 @@
         "name": "Reiver FM – Scottish Borders Radio",
         "url": "https://s10.myradiostream.com/35820/listen.mp3",
         "country": "GB",
-        "tags": [
-            "oldies",
-            "pop music",
-            "rock",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1571,9 +876,6 @@
         "name": "Revolution Radio One",
         "url": "https://visual.shoutca.st/stream/revolutionone/stream",
         "country": "GB",
-        "tags": [
-            "rock"
-        ],
         "favicon": "https://static.wixstatic.com/media/a4f5c5_466d1b7b03424018be005a100fda1990%7emv2_d_1726_1562_s_2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/a4f5c5_466d1b7b03424018be005a100fda1990%7emv2_d_1726_1562_s_2.png",
         "codec": "AAC",
         "bitrate": 320,
@@ -1581,74 +883,44 @@
     },
     {
         "name": "Rockabilly-Radio.net",
-        "url": "http://lin3.ash.fast-serv.com:6026/stream_96",
+        "url": "https://lin3.ash.fast-serv.com:6026/stream_96",
         "country": "GB",
-        "tags": [
-            "50s",
-            "oldies",
-            "rockabilly"
-        ],
         "favicon": "https://i.imgur.com/4XLjE9o.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://lin3.ash.fast-serv.com:6026/stream_96"
+        "working_url": "https://lin3.ash.fast-serv.com:6026/stream_96"
     },
     {
         "name": "RocknationFm",
-        "url": "http://s8.myradiostream.com:56048/;listen.mp3",
+        "url": "https://s8.myradiostream.com:56048/;listen.mp3",
         "country": "GB",
-        "tags": [
-            "aor / slow rock / soft rock (adult-orientated rock e.g. the eagles.)",
-            "blues rock",
-            "heavy metal",
-            "nwobhm",
-            "progressive rock",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s8.myradiostream.com:56048/;listen.mp3"
+        "working_url": "https://s8.myradiostream.com:56048/;listen.mp3"
     },
     {
         "name": "RocknationFmuk",
-        "url": "http://s8.myradiostream.com:56048/listen.mp3",
+        "url": "https://s8.myradiostream.com:56048/listen.mp3",
         "country": "GB",
-        "tags": [
-            "blues",
-            "classic rock",
-            "heavy metal",
-            "nwobhm"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s8.myradiostream.com:56048/listen.mp3"
+        "working_url": "https://s8.myradiostream.com:56048/listen.mp3"
     },
     {
         "name": "RunnRadio",
-        "url": "http://stream.radiojar.com/h2czvm3wpg8uv",
+        "url": "https://stream.radiojar.com/h2czvm3wpg8uv",
         "country": "GB",
-        "tags": [
-            "80s",
-            "house",
-            "pop",
-            "rnb",
-            "rock",
-            "soul"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n01.radiojar.com/h2czvm3wpg8uv?rj-ttl=5&rj-tok=AAABn-y5zBYAVxgQjfDnF8cXCw"
+        "working_url": "https://n01.radiojar.com/h2czvm3wpg8uv?rj-ttl=5&rj-tok=AAABn-y5zBYAVxgQjfDnF8cXCw"
     },
     {
         "name": "Sabotage",
         "url": "https://listen.radioking.com/radio/634/stream/2282",
         "country": "GB",
-        "tags": [
-            "alternative indie rock"
-        ],
         "favicon": "https://t4.ftcdn.net/jpg/04/69/34/51/360_F_469345184_YlmdPahjiPXs133mjIZf98YgZ5g8ZFSN.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -1658,21 +930,6 @@
         "name": "SD Radio",
         "url": "https://mystation.micast.media/radio/8020/radio.mp3",
         "country": "GB",
-        "tags": [
-            "dance",
-            "dnb",
-            "drum and bass",
-            "grime",
-            "hip hop",
-            "house",
-            "indie",
-            "jazz",
-            "metal",
-            "neo soul",
-            "pop",
-            "rnb",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1680,69 +937,44 @@
     },
     {
         "name": "Solid Gold Gem AM",
-        "url": "http://4483.cloudrad.io:8130/;",
+        "url": "https://4483.cloudrad.io:8130/;",
         "country": "GB",
-        "tags": [
-            "classic rock",
-            "oldies"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://4483.cloudrad.io:8130/;"
+        "working_url": "https://4483.cloudrad.io:8130/;"
     },
     {
         "name": "Splinterwood Rock'n Roll Radio",
-        "url": "http://31.3.245.162:8000/",
+        "url": "https://31.3.245.162:8000/",
         "country": "GB",
-        "tags": [
-            "1950s",
-            "50's",
-            "oldies 50's/60's",
-            "rocknroll"
-        ],
         "favicon": "https://www.splinterwoodradio.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://31.3.245.162:8000/"
+        "working_url": "https://31.3.245.162:8000/"
     },
     {
         "name": "Surf Rock Radio",
-        "url": "http://139.162.89.191:8020/radio.mp3",
+        "url": "https://139.162.89.191:8020/radio.mp3",
         "country": "GB",
-        "tags": [
-            "surf",
-            "surf rock"
-        ],
         "favicon": "http://cdn-radiotime-logos.tunein.com/s228037d.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://139.162.89.191:8020/radio.mp3"
+        "working_url": "https://139.162.89.191:8020/radio.mp3"
     },
     {
         "name": "The Amp",
-        "url": "http://likeradiostream.com/likealtaac?ref=RF",
+        "url": "https://likeradiostream.com/likealtaac?ref=RF",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "indie",
-            "modern rock"
-        ],
         "favicon": "https://like.radio/wp-content/uploads/2025/12/The-Amp-no-background.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://likeradiostream.com/likealtaac?ref=RF"
+        "working_url": "https://likeradiostream.com/likealtaac?ref=RF"
     },
     {
         "name": "The Buzz",
         "url": "https://streaming05.liveboxstream.uk/proxy/kookyinc/stream",
         "country": "GB",
-        "tags": [
-            "80s",
-            "90s",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://media.licdn.com/dms/image/D5622AQGpwL9LyKlbdg/feedshare-shrink_800/0/1697466642566?e=2147483647&v=beta&t=aYyFGOmG4uUzv7nHS5wNnENGiObuOXs9dZ6gzAG6zrM",
         "codec": "MP3",
         "bitrate": 320,
@@ -1752,15 +984,6 @@
         "name": "The Mix Radio 80s",
         "url": "https://tmr80s.radioca.st/stream",
         "country": "GB",
-        "tags": [
-            "1980s",
-            "80s",
-            "classic rock",
-            "pop",
-            "pop music",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/390/the-mix-radio-80s.dd4413ea.png",
         "codec": "MP3",
         "bitrate": 256,
@@ -1768,60 +991,26 @@
     },
     {
         "name": "The Source FM",
-        "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+        "url": "https://live.canstream.co.uk:8000/sourcefm.mp3",
         "country": "GB",
-        "tags": [
-            "classical",
-            "community radio",
-            "country",
-            "drum & bass",
-            "electronic",
-            "folk",
-            "hiphop",
-            "jazz",
-            "local news",
-            "mashup",
-            "metal",
-            "pop",
-            "rap",
-            "rock",
-            "rock 'n' roll",
-            "spoken word"
-        ],
         "favicon": "https://www.thesourcefm.co.uk/favicon.ico",
         "codec": "MP3",
         "bitrate": 110,
-        "working_url": "http://live.canstream.co.uk:8000/sourcefm.mp3"
+        "working_url": "https://live.canstream.co.uk:8000/sourcefm.mp3"
     },
     {
         "name": "TMCR FM",
-        "url": "http://ec5.yesstreaming.net:2470/stream",
+        "url": "https://ec5.yesstreaming.net:2470/stream",
         "country": "GB",
-        "tags": [
-            "adult contemporary",
-            "community radio",
-            "pop",
-            "rock",
-            "varied"
-        ],
         "favicon": "https://tmcrfm.org/wp-content/uploads/2024/08/TMCR-LOGO-953-AND-107.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ec5.yesstreaming.net:2470/stream"
+        "working_url": "https://ec5.yesstreaming.net:2470/stream"
     },
     {
         "name": "TMM 1",
         "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "alternative rock",
-            "garage",
-            "indie",
-            "indie pop",
-            "indie rock",
-            "left-field dance"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1831,15 +1020,6 @@
         "name": "TMM 1 (HQ)",
         "url": "https://listen-msmn.sharp-stream.com/nme1high.mp3",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "alternative rock",
-            "garage",
-            "indie",
-            "indie pop",
-            "indie rock",
-            "left-field dance"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
         "codec": "MP3",
         "bitrate": 256,
@@ -1847,32 +1027,17 @@
     },
     {
         "name": "Top Tunes Radio 2 (MP3)",
-        "url": "http://stream.zeno.fm/yxo8lp7kqoeuv",
+        "url": "https://stream.zeno.fm/yxo8lp7kqoeuv",
         "country": "GB",
-        "tags": [
-            "dance",
-            "disco",
-            "jazz",
-            "music",
-            "pop",
-            "rap",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://i.ibb.co/bgVvCJn/image-jpg-1.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://stream-177.surfernetwork.com/yxo8lp7kqoeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eG84bHA3a3FvZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJvZmJyTHh5Y1JIYTNQaFFvTEZvOWN3IiwiaWF0IjoxNzg2MzgyNDI3LCJleHAiOjE3ODYzODI0ODd9.gC9AeUAZe4CDtXYvZresKDxqd1oq3p4sfk-YXYLF3HY"
+        "working_url": "https://stream-177.surfernetwork.com/yxo8lp7kqoeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eG84bHA3a3FvZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJvZmJyTHh5Y1JIYTNQaFFvTEZvOWN3IiwiaWF0IjoxNzg2MzgyNDI3LCJleHAiOjE3ODYzODI0ODd9.gC9AeUAZe4CDtXYvZresKDxqd1oq3p4sfk-YXYLF3HY"
     },
     {
         "name": "TOTALROCK",
         "url": "https://s3.citrus3.com:8056/stream",
         "country": "GB",
-        "tags": [
-            "metal",
-            "music",
-            "rock"
-        ],
         "favicon": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.18169-9/11400985_1602513246663466_6035298720034077887_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=108&ccb=1-7&_nc_sid=7aed08&efg=eyJpIjoiYiJ9&_nc_eui2=AeEETQvQCq6lHutRRfK171iMKMnkfCxBQUgoyeR8LEFBSC8L74DpSPHz7DvwVuHvpZkIi6qJ0_1acvrVbfekHQL9&_nc_ohc=Oo7DzNH7oTMAX_ZluE8&tn=I4UqcoMHerbAkKms&_nc_ht=scontent.fcgk8-1.fna&oh=00_AfBCXINd2TGpeja3jEiHkpvCmVAH0sxg6_Q39XWj5iRvUA&oe=6407F56B",
         "codec": "MP3",
         "bitrate": 128,
@@ -1880,29 +1045,17 @@
     },
     {
         "name": "Trash Can Radio",
-        "url": "http://orion.shoutca.st:8031/live",
+        "url": "https://orion.shoutca.st:8031/live",
         "country": "GB",
-        "tags": [
-            "pure rock and roll and trash; ska; trash; blue beat; r&b; blues; rock; garage; doo-wop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://orion.shoutca.st:8031/live"
+        "working_url": "https://orion.shoutca.st:8031/live"
     },
     {
         "name": "Virgin Radio UK",
         "url": "https://radio.virginradio.co.uk/stream",
         "country": "GB",
-        "tags": [
-            "00s",
-            "80s",
-            "90s",
-            "information",
-            "news",
-            "pop",
-            "pop rock"
-        ],
         "favicon": "https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg",
         "codec": "AAC",
         "bitrate": 128,
@@ -1910,54 +1063,26 @@
     },
     {
         "name": "Weymouth Rocks (Medium Bitrate)",
-        "url": "http://cast1.asurahosting.com:8621/med",
+        "url": "https://cast1.asurahosting.com:8621/med",
         "country": "GB",
-        "tags": [
-            "punk",
-            "rock",
-            "ska"
-        ],
         "favicon": "https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://cast1.asurahosting.com:8621/med"
+        "working_url": "https://cast1.asurahosting.com:8621/med"
     },
     {
         "name": "Xenon Radio",
-        "url": "http://uksoutha.streaming.broadcast.radio:21491/xenon-radio",
+        "url": "https://uksoutha.streaming.broadcast.radio:21491/xenon-radio",
         "country": "GB",
-        "tags": [
-            "alternative",
-            "indie",
-            "indie rock",
-            "rock"
-        ],
         "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://uksoutha.streaming.broadcast.radio:21491/xenon-radio"
+        "working_url": "https://uksoutha.streaming.broadcast.radio:21491/xenon-radio"
     },
     {
         "name": "Xtra Hot",
         "url": "https://stream1.hippynet.co.uk/stream/xtrahot/live",
         "country": "GB",
-        "tags": [
-            "bournemouth",
-            "community",
-            "community radio",
-            "dorset",
-            "funk",
-            "garage",
-            "house",
-            "local",
-            "local info",
-            "music",
-            "non-profit",
-            "poole",
-            "reggae",
-            "rock",
-            "soul"
-        ],
         "favicon": "https://mmo.aiircdn.com/406/63e29f650517e.png",
         "codec": "MP3",
         "bitrate": 160,
@@ -1967,10 +1092,6 @@
         "name": "zappa streams",
         "url": "https://streams.norbert.de/zappa.flac",
         "country": "GB",
-        "tags": [
-            "music",
-            "rock..."
-        ],
         "favicon": "null",
         "codec": "OGG",
         "bitrate": 0,
@@ -1978,50 +1099,26 @@
     },
     {
         "name": "Zenith Classic Rock",
-        "url": "http://91.189.64.188:3644/zenith128mp3",
+        "url": "https://91.189.64.188:3644/zenith128mp3",
         "country": "GB",
-        "tags": [
-            "art rock",
-            "classic rock"
-        ],
         "favicon": "https://pea.fm/uploads/posts/2020-08/1597928797_zenith-classic-rock.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://91.189.64.188:3644/zenith128mp3"
+        "working_url": "https://91.189.64.188:3644/zenith128mp3"
     },
     {
         "name": "Zonkers Radio",
-        "url": "http://128.199.35.208:8000/radio.mp3?",
+        "url": "https://128.199.35.208:8000/radio.mp3?",
         "country": "GB",
-        "tags": [
-            "00s",
-            "10s",
-            "80s",
-            "90s",
-            "charts",
-            "classic rock",
-            "pop",
-            "rock",
-            "soul",
-            "top 100"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://128.199.35.208:8000/radio.mp3"
+        "working_url": "https://128.199.35.208:8000/radio.mp3"
     },
     {
         "name": "Радио Сева (Radio Seva Novgorodsev)",
         "url": "https://seva.ru/radio/stream",
         "country": "GB",
-        "tags": [
-            "music",
-            "rock",
-            "talk",
-            "музыка",
-            "разговорное",
-            "рок"
-        ],
         "favicon": "https://seva.ru/radio/radio.png",
         "codec": "MP3",
         "bitrate": 128,
