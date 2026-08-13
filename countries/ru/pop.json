@@ -3,10 +3,6 @@
         "name": "Radio Record - Russian Gold",
         "url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian"
-        ],
         "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -16,24 +12,6 @@
         "name": "Nightwave Plaza",
         "url": "https://radio.plaza.one/ogg",
         "country": "RU",
-        "tags": [
-            "ambient",
-            "chillwave",
-            "citypop",
-            "disco",
-            "electronic",
-            "elevatormusic",
-            "futurefunk",
-            "japanesedisco",
-            "lofi",
-            "mallsoft",
-            "plunderphonics",
-            "retrowave",
-            "signalwave",
-            "slowed",
-            "synthwave",
-            "vaporwave"
-        ],
         "favicon": "",
         "codec": "OGG",
         "bitrate": 128,
@@ -43,15 +21,6 @@
         "name": "1000 HITS RADIO",
         "url": "https://stream.1000hit.ru:8000/stream128",
         "country": "RU",
-        "tags": [
-            "classic rock",
-            "eurodance",
-            "pop",
-            "pop dance",
-            "pop music",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://1000hit.ru/wp-content/uploads/elementor/thumbs/1000logo-qpueqzy2e63fp60e4sr3sfn0ao6habtfhem41brnr4.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -59,42 +28,26 @@
     },
     {
         "name": "101.ru - Boney M.",
-        "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/114",
+        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/114",
         "country": "RU",
-        "tags": [
-            "euro disco",
-            "pop",
-            "pop music"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://pub0302.101.ru:8000/stream/pro/aac/64/114"
+        "working_url": "https://pub0302.101.ru:8000/stream/pro/aac/64/114"
     },
     {
         "name": "101.ru ABBA",
-        "url": "http://pub0101.101.ru:8000/stream/pro/aac/64/104?",
+        "url": "https://pub0101.101.ru:8000/stream/pro/aac/64/104?",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://pub0101.101.ru:8000/stream/pro/aac/64/104"
+        "working_url": "https://pub0101.101.ru:8000/stream/pro/aac/64/104"
     },
     {
         "name": "101.ru Madonna",
         "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/128",
         "country": "RU",
-        "tags": [
-            "64kbps",
-            "aac",
-            "discography",
-            "madonna",
-            "pop"
-        ],
         "favicon": "https://cdn2.101.ru/proxy/vardata/modules/channel/image/04253cd8538a11f3c3edb1220e491023.png",
         "codec": "AAC+",
         "bitrate": 64,
@@ -102,31 +55,17 @@
     },
     {
         "name": "101.ru Россия Топ 50",
-        "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac",
+        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac",
         "country": "RU",
-        "tags": [
-            "pop",
-            "rock",
-            "top 50"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac"
+        "working_url": "https://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac"
     },
     {
         "name": "1Z1 Radio",
         "url": "https://listen8.myradio24.com/1z1radio",
         "country": "RU",
-        "tags": [
-            "90s y más",
-            "dance",
-            "hits 80s",
-            "pop music",
-            "rnb",
-            "soft rock",
-            "top hits"
-        ],
         "favicon": "https://1z1radio.com/favicon-512x512.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -136,12 +75,6 @@
         "name": "32 Radio",
         "url": "https://online.guberniya.tv:8443/32radio",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -149,30 +82,17 @@
     },
     {
         "name": "7Nevo",
-        "url": "http://91.201.117.219:8000/stream",
+        "url": "https://91.201.117.219:8000/stream",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "dance",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://91.201.117.219:8000/stream"
+        "working_url": "https://91.201.117.219:8000/stream"
     },
     {
         "name": "90 Hits",
         "url": "https://stream.pcradio.ru/shitsradiopcradio90-hi",
         "country": "RU",
-        "tags": [
-            "90",
-            "disco",
-            "pop",
-            "retro"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -182,11 +102,6 @@
         "name": "90-Е",
         "url": "https://stream02.pcradio.biz/eradiopcradio90_2-hi",
         "country": "RU",
-        "tags": [
-            "90",
-            "disco  pop",
-            "retro"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -196,13 +111,6 @@
         "name": "90RU",
         "url": "https://stream.pcradio.ru/ru90pcradio-hi",
         "country": "RU",
-        "tags": [
-            "90",
-            "disco",
-            "pop",
-            "retro",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -212,19 +120,6 @@
         "name": "ABBA Radio",
         "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788",
         "country": "RU",
-        "tags": [
-            "1970s",
-            "1980s",
-            "70 80 hits",
-            "70s",
-            "70s disco",
-            "80s",
-            "classic hits 60s 70a 80s",
-            "dance pop",
-            "disco",
-            "pop dance",
-            "pop music"
-        ],
         "favicon": "https://cdn2.101.ru/proxy/vardata/modules/channel/dynamics/personal/178/1785788.jpg?w=300&h=300&pos=center&t=1681310271",
         "codec": "AAC+",
         "bitrate": 64,
@@ -234,12 +129,6 @@
         "name": "Anison.FM",
         "url": "https://pool.anison.fm/AniSonFM(128)",
         "country": "RU",
-        "tags": [
-            "anime",
-            "japanese",
-            "jpop",
-            "soundtrack"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -249,14 +138,6 @@
         "name": "ART City Radio",
         "url": "https://listen7.myradio24.com/artcity",
         "country": "RU",
-        "tags": [
-            "arts",
-            "classic",
-            "culture",
-            "musica",
-            "pop music",
-            "regional music"
-        ],
         "favicon": "http://www.cityeden.info/_si/0/05750984.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -264,96 +145,62 @@
     },
     {
         "name": "Avtoradio - Moscow",
-        "url": "http://185.40.31.28:8000/station_93",
+        "url": "https://185.40.31.28:8000/station_93",
         "country": "RU",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://185.40.31.28:8000/station_93"
+        "working_url": "https://185.40.31.28:8000/station_93"
     },
     {
         "name": "Avtoradio 105.5 FM Serpukhov",
-        "url": "http://77.73.90.46:1055/avtoradio",
+        "url": "https://77.73.90.46:1055/avtoradio",
         "country": "RU",
-        "tags": [
-            "local news",
-            "pop",
-            "pop music",
-            "russian",
-            "russian pop",
-            "traffic"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://77.73.90.46:1055/avtoradio"
+        "working_url": "https://77.73.90.46:1055/avtoradio"
     },
     {
         "name": "Avtoradio-Balakovo",
-        "url": "http://control1.craftradio.ru:8000/153_328f858f",
+        "url": "https://control1.craftradio.ru:8000/153_328f858f",
         "country": "RU",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://control1.craftradio.ru:8000/153_328f858f"
+        "working_url": "https://control1.craftradio.ru:8000/153_328f858f"
     },
     {
         "name": "Baltiyskiy Bereg",
-        "url": "http://91.203.171.138:8080/stream",
+        "url": "https://91.203.171.138:8080/stream",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "oldies",
-            "pop",
-            "top100"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://91.203.171.138:8080/stream"
+        "working_url": "https://91.203.171.138:8080/stream"
     },
     {
         "name": "C-Pop (Chinese Popular Music)",
-        "url": "http://213.141.131.10:8000/cpop",
+        "url": "https://213.141.131.10:8000/cpop",
         "country": "RU",
-        "tags": [
-            "chinese pop",
-            "cpop"
-        ],
         "favicon": "http://radcap.ru/graf2/radcaplogo.png",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://213.141.131.10:8000/cpop"
+        "working_url": "https://213.141.131.10:8000/cpop"
     },
     {
         "name": "Capital FM Moscow",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
     },
     {
         "name": "CAPITAL FM Москва",
         "url": "https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music"
-        ],
         "favicon": "https://capitalfm.moscow/img/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -361,28 +208,17 @@
     },
     {
         "name": "Caprice Dance Pop",
-        "url": "http://79.120.77.11:8000/dancepop",
+        "url": "https://79.120.77.11:8000/dancepop",
         "country": "RU",
-        "tags": [
-            "caprice",
-            "dance",
-            "pop"
-        ],
         "favicon": "http://radcap.ru/stylegraf/dancepop2.jpg",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.77.11:8000/dancepop"
+        "working_url": "https://79.120.77.11:8000/dancepop"
     },
     {
         "name": "Comedy Radio new link",
-        "url": "http://ic6.101.ru:8000/stream/air/aac/64/202",
+        "url": "https://ic6.101.ru:8000/stream/air/aac/64/202",
         "country": "RU",
-        "tags": [
-            "comedy",
-            "humor",
-            "pop",
-            "sketches"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
@@ -392,10 +228,6 @@
         "name": "Comedy радио Сыктывкар 100.8 FM",
         "url": "https://cast.severmedia.ru:5443/Comedy_11_01",
         "country": "RU",
-        "tags": [
-            "humour",
-            "pop music"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_204929966.jpg?alt=media&token=b32f8438-39b0-4fdd-aff6-96e778cc9bdf",
         "codec": "MP3",
         "bitrate": 128,
@@ -403,26 +235,17 @@
     },
     {
         "name": "Country Pop Music - Caprice Radio",
-        "url": "http://79.111.119.111:8000/countrypop",
+        "url": "https://79.111.119.111:8000/countrypop",
         "country": "RU",
-        "tags": [
-            "country pop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.111.119.111:8000/countrypop"
+        "working_url": "https://79.111.119.111:8000/countrypop"
     },
     {
         "name": "DFM - Dancehall",
         "url": "https://dfm-dancehall.hostingradio.ru/dancehall96.aacp",
         "country": "RU",
-        "tags": [
-            "dance",
-            "dance pop",
-            "house",
-            "mix"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
@@ -432,14 +255,6 @@
         "name": "DFM - Party",
         "url": "https://dfm-party.hostingradio.ru/dfmparty96.aacp",
         "country": "RU",
-        "tags": [
-            "dance",
-            "dance pop",
-            "hits",
-            "party",
-            "pop",
-            "various"
-        ],
         "favicon": "https://dfm.ru/uploads/favicon.ico",
         "codec": "AAC+",
         "bitrate": 96,
@@ -449,12 +264,6 @@
         "name": "DFM - Pop Dance",
         "url": "https://dfm-popdance.hostingradio.ru/popdance96.aacp",
         "country": "RU",
-        "tags": [
-            "dance",
-            "dance pop",
-            "pop",
-            "pop dance"
-        ],
         "favicon": "https://dfm.ru/uploads/favicon.ico",
         "codec": "AAC+",
         "bitrate": 96,
@@ -464,12 +273,6 @@
         "name": "DFM 101,2 FM",
         "url": "https://dfm.hostingradio.ru/dfm96.aacp",
         "country": "RU",
-        "tags": [
-            "club",
-            "dance",
-            "electronic",
-            "pop"
-        ],
         "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DFM_radio_logo.svg/1200px-DFM_radio_logo.svg.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -479,12 +282,6 @@
         "name": "DFM 101.2",
         "url": "https://dfm.hostingradio.ru/dfm128.mp3",
         "country": "RU",
-        "tags": [
-            "dance",
-            "dance pop",
-            "house",
-            "tech house"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -494,11 +291,6 @@
         "name": "DFM K-POP",
         "url": "https://dfm-kpop.hostingradio.ru/kpop96.aacp",
         "country": "RU",
-        "tags": [
-            "k-pop",
-            "kpop",
-            "music"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -508,12 +300,6 @@
         "name": "DFM POP GOLD 1990s",
         "url": "https://dfm-popgold90.hostingradio.ru/popgold9096.aacp",
         "country": "RU",
-        "tags": [
-            "1990s",
-            "90s",
-            "music",
-            "pop"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -523,12 +309,6 @@
         "name": "DFM POP GOLD 2000s",
         "url": "https://dfm-popgold00.hostingradio.ru/popgold0096.aacp",
         "country": "RU",
-        "tags": [
-            "00s",
-            "2000s",
-            "music",
-            "pop"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -538,11 +318,6 @@
         "name": "DFM POP GOLD 2010s",
         "url": "https://dfm-popgold10.hostingradio.ru/popgold1096.aacp",
         "country": "RU",
-        "tags": [
-            "2010s",
-            "music",
-            "pop"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -552,11 +327,6 @@
         "name": "DFM POP GOLD 2020s",
         "url": "https://dfm-popgold20.hostingradio.ru/popgold2096.aacp",
         "country": "RU",
-        "tags": [
-            "2020s",
-            "music",
-            "pop"
-        ],
         "favicon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -564,84 +334,53 @@
     },
     {
         "name": "DFM Вологда 103.2 FM",
-        "url": "http://online-2.gkvr.ru:8000/dfm11_vld_64.aac",
+        "url": "https://online-2.gkvr.ru:8000/dfm11_vld_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_150752358.jpg?alt=media&token=9e73d5e7-6cdf-47e0-8c3b-c89c6b4bae56",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online-2.gkvr.ru:8000/dfm11_vld_64.aac"
+        "working_url": "https://online-2.gkvr.ru:8000/dfm11_vld_64.aac"
     },
     {
         "name": "DFM Воронеж 104.3 FM",
-        "url": "http://82.146.46.30:8000/dfm",
+        "url": "https://82.146.46.30:8000/dfm",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "dfm",
-            "music",
-            "pop",
-            "voronezh"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://82.146.46.30:8000/dfm"
+        "working_url": "https://82.146.46.30:8000/dfm"
     },
     {
         "name": "DFM Краснодар 106.0 FM",
-        "url": "http://listen1.myradio24.com:9000/dfm106",
+        "url": "https://listen1.myradio24.com:9000/dfm106",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_220851744.jpg?alt=media&token=a634dc40-70dd-4f82-aa4d-2d5cf28d5b04",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen1.myradio24.com:9000/dfm106"
+        "working_url": "https://listen1.myradio24.com:9000/dfm106"
     },
     {
         "name": "DFM Ростов-на-Дону 104.6 FM",
-        "url": "http://online2.gkvr.ru:8000/dfm_rnd_64.aac",
+        "url": "https://online2.gkvr.ru:8000/dfm_rnd_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_203646646.jpg?alt=media&token=73bc0e95-2f3e-40d3-b5eb-b2c1dcc4aa28",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://online2.gkvr.ru:8000/dfm_rnd_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/dfm_rnd_64.aac"
     },
     {
         "name": "DFM Смоленск 105.6 FM",
-        "url": "http://92.241.103.200:8081/dfm_sm",
+        "url": "https://92.241.103.200:8081/dfm_sm",
         "country": "RU",
-        "tags": [
-            "105_6 fm",
-            "dance radio",
-            "dfm",
-            "music",
-            "pop",
-            "smolensk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://92.241.103.200:8081/dfm_sm"
+        "working_url": "https://92.241.103.200:8081/dfm_sm"
     },
     {
         "name": "DFM Сыктывкар 103.2 FM",
         "url": "https://cast.severmedia.ru:5443/DIFM_11_01",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_205058171.jpg?alt=media&token=b76b0948-4d38-43ec-9bd4-9a0f9a40fba2",
         "codec": "MP3",
         "bitrate": 128,
@@ -649,45 +388,26 @@
     },
     {
         "name": "DLS-ФМ Десногорск 102.1 FM",
-        "url": "http://213.137.248.211:8000/dls",
+        "url": "https://213.137.248.211:8000/dls",
         "country": "RU",
-        "tags": [
-            "102_1 fm",
-            "desnogorsk",
-            "dls fm",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://213.137.248.211:8000/dls"
+        "working_url": "https://213.137.248.211:8000/dls"
     },
     {
         "name": "Dream Pop - Radio Caprice",
-        "url": "http://79.111.14.76:8000/dreampop",
+        "url": "https://79.111.14.76:8000/dreampop",
         "country": "RU",
-        "tags": [
-            "dream pop",
-            "indie"
-        ],
         "favicon": "http://www.radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.111.14.76:8000/dreampop"
+        "working_url": "https://79.111.14.76:8000/dreampop"
     },
     {
         "name": "Dzhon Radio",
         "url": "https://stream.drugradio.ru:8000/stream128",
         "country": "RU",
-        "tags": [
-            "ambient",
-            "jungle",
-            "pop",
-            "ragga jungle",
-            "rock",
-            "trip-hop"
-        ],
         "favicon": "https://dzradio.ru/wp-content/uploads/2023/12/logo_2023_428.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -697,10 +417,6 @@
         "name": "Euro Hits 101",
         "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/82",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music"
-        ],
         "favicon": "https://cdn0.101.ru/proxy/vardata/modules/channel/image/82c52129b63ffc4ce28d2761a015e7fe.png?w=300&h=300&pos=center&t=1574857562",
         "codec": "AAC+",
         "bitrate": 64,
@@ -708,89 +424,53 @@
     },
     {
         "name": "Europa Plus",
-        "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+        "url": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
         "country": "RU",
-        "tags": [
-            "dance",
-            "house",
-            "pop"
-        ],
         "favicon": "http://liveam.tv/img/2494.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3"
+        "working_url": "https://ep256.hostingradio.ru:8052/europaplus256.mp3"
     },
     {
         "name": "Europa Plus (128 kbps)",
-        "url": "http://ep128.streamr.ru/",
+        "url": "https://ep128.streamr.ru/",
         "country": "RU",
-        "tags": [
-            "dance",
-            "house",
-            "pop"
-        ],
         "favicon": "http://www.europaplus.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ep128.hostingradio.ru:8030/ep128"
+        "working_url": "https://ep128.hostingradio.ru:8030/ep128"
     },
     {
         "name": "Europa Plus Light",
-        "url": "http://emg02.hostingradio.ru/ep-light128.mp3",
+        "url": "https://emg02.hostingradio.ru/ep-light128.mp3",
         "country": "RU",
-        "tags": [
-            "ballads",
-            "europe",
-            "pop",
-            "relax",
-            "romantic"
-        ],
         "favicon": "https://europaplus.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emg02.hostingradio.ru/ep-light128.mp3"
+        "working_url": "https://emg02.hostingradio.ru/ep-light128.mp3"
     },
     {
         "name": "Eurovision Radio",
-        "url": "http://misato.ru-hoster.com:8038/live",
+        "url": "https://misato.ru-hoster.com:8038/live",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://misato.ru-hoster.com:8038/live"
+        "working_url": "https://misato.ru-hoster.com:8038/live"
     },
     {
         "name": "Fresh ФМ Кингисепп 96.5 FM",
-        "url": "http://s0.radioheart.ru:8000/COMEDY_KING_96.5",
+        "url": "https://s0.radioheart.ru:8000/COMEDY_KING_96.5",
         "country": "RU",
-        "tags": [
-            "fresh fm",
-            "kingisepp",
-            "music",
-            "pop",
-            "region 47"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://s0.radioheart.ru:8000/COMEDY_KING_96.5"
+        "working_url": "https://s0.radioheart.ru:8000/COMEDY_KING_96.5"
     },
     {
         "name": "Global-ФМ Тамбов 99.5 FM",
         "url": "https://globalfm.radio-tochka.com/gfm128",
         "country": "RU",
-        "tags": [
-            "global radio",
-            "music",
-            "pop",
-            "region 68",
-            "tambov"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241215_232534726.jpg?alt=media&token=a8b15da2-7bad-4d83-9536-721635f8d411",
         "codec": "MP3",
         "bitrate": 0,
@@ -798,25 +478,17 @@
     },
     {
         "name": "Golden 70's",
-        "url": "http://pub0201.101.ru:8000/stream/pro/aac/64/192",
+        "url": "https://pub0201.101.ru:8000/stream/pro/aac/64/192",
         "country": "RU",
-        "tags": [
-            "pop",
-            "retro"
-        ],
         "favicon": "https://w7.pngwing.com/pngs/846/542/png-transparent-golden-earth-70th-anniversary-gold-atmosphere-70th-anniversary.png",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://pub0201.101.ru:8000/stream/pro/aac/64/192"
+        "working_url": "https://pub0201.101.ru:8000/stream/pro/aac/64/192"
     },
     {
         "name": "HIT FM",
         "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
         "country": "RU",
-        "tags": [
-            "dance",
-            "pop"
-        ],
         "favicon": "http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
         "codec": "AAC",
         "bitrate": 0,
@@ -826,9 +498,6 @@
         "name": "Kalina Krasnaya",
         "url": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 160,
@@ -836,47 +505,17 @@
     },
     {
         "name": "KCH Radio FM",
-        "url": "http://radiokchr.ru/kchrfm.aac",
+        "url": "https://radiokchr.ru/kchrfm.aac",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://radiokchr.ru/kchrfm.aac"
+        "working_url": "https://radiokchr.ru/kchrfm.aac"
     },
     {
         "name": "Kinozal.TV",
         "url": "https://listen4.myradio24.com/kinozaltv",
         "country": "RU",
-        "tags": [
-            "2023",
-            "adult conterporary",
-            "best",
-            "club",
-            "club house",
-            "dance",
-            "dance pop",
-            "deep house",
-            "electro",
-            "electronic",
-            "fresh",
-            "hot",
-            "house",
-            "misc",
-            "new",
-            "party",
-            "pop",
-            "remix",
-            "russian",
-            "russian pop",
-            "variety",
-            "various"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -884,26 +523,17 @@
     },
     {
         "name": "Kitap Radiosy",
-        "url": "http://radio.tatmedia.com:8800/kitapfm",
+        "url": "https://radio.tatmedia.com:8800/kitapfm",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "oldies",
-            "pop"
-        ],
         "favicon": "http://kitap.fm/wp-content/themes/kitap.fm/assets/images/icon/favicon-120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.tatmedia.com:8800/kitapfm"
+        "working_url": "https://radio.tatmedia.com:8800/kitapfm"
     },
     {
         "name": "LightRadio",
         "url": "https://lightradio.radiostream.pro/mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/9/80149.v2.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -911,128 +541,71 @@
     },
     {
         "name": "Like ФМ Воронеж 88.8 FM",
-        "url": "http://s0.radioheart.ru:8000/like36tuner",
+        "url": "https://s0.radioheart.ru:8000/like36tuner",
         "country": "RU",
-        "tags": [
-            "like fm",
-            "music",
-            "pop",
-            "voronezh"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://s0.radioheart.ru:8000/like36tuner"
+        "working_url": "https://s0.radioheart.ru:8000/like36tuner"
     },
     {
         "name": "Love Radio Брянск 107.6 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933",
         "country": "RU",
-        "tags": [
-            "107_6 fm",
-            "bryansk",
-            "love radio",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933"
     },
     {
         "name": "Love radio Иваново 87.9 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_76196",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_76196",
         "country": "RU",
-        "tags": [
-            "ivanovo",
-            "love radio",
-            "music",
-            "pop",
-            "region 37"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241227_192556408.jpg?alt=media&token=97479766-3070-4b73-a10b-65b7f366aabe",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_76196"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_76196"
     },
     {
         "name": "Love Radio Москва 106.6 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_44",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_44",
         "country": "RU",
-        "tags": [
-            "177",
-            "197",
-            "77",
-            "love radio",
-            "moscow",
-            "music",
-            "pop",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_44"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_44"
     },
     {
         "name": "Love Radio Нижний Новгород 104.9 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202",
         "country": "RU",
-        "tags": [
-            "love radio",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194150530.jpg?alt=media&token=bbd7a1cf-4f00-4331-9732-df851936dcb1",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202"
     },
     {
         "name": "Love radio Ростов-на-Дону 101.6 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_97162",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_97162",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204037752.jpg?alt=media&token=2942e94c-cd25-4378-b211-deaa7058119d",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_97162"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_97162"
     },
     {
         "name": "Love Radio Санкт-Петербург 105.3 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45",
         "country": "RU",
-        "tags": [
-            "105_3",
-            "178",
-            "78",
-            "love radio",
-            "music",
-            "pop",
-            "spb"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250118_182500328.jpg?alt=media&token=358adac3-5b69-4989-ace2-91622cb31ea7",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45"
     },
     {
         "name": "Love Radio Симферополь 88.6 FM",
         "url": "https://radio.promedia.ru/love-simf",
         "country": "RU",
-        "tags": [
-            "88_6",
-            "krym",
-            "love radio",
-            "music",
-            "pop",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_114437214.jpg?alt=media&token=5803a766-8c4c-4232-8d8a-fdcacd131373",
         "codec": "MP3",
         "bitrate": 256,
@@ -1040,56 +613,35 @@
     },
     {
         "name": "Love radio Тверь 105.5 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_20149",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_20149",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_220304915.jpg?alt=media&token=d72de2db-51a0-4ef3-8d37-322279083d49",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_20149"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_20149"
     },
     {
         "name": "Love Radio Туапсе 90.8 FM",
-        "url": "http://control1.craftradio.ru:8000/195_0bf80e58",
+        "url": "https://control1.craftradio.ru:8000/195_0bf80e58",
         "country": "RU",
-        "tags": [
-            "love radio",
-            "music",
-            "pop",
-            "tuapse"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://control1.craftradio.ru:8000/195_0bf80e58"
+        "working_url": "https://control1.craftradio.ru:8000/195_0bf80e58"
     },
     {
         "name": "Love radio Ярославль 100.6 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239",
         "country": "RU",
-        "tags": [
-            "love radio",
-            "music",
-            "pop",
-            "region 76",
-            "yaroslavl"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113014358.jpg?alt=media&token=baf5ebdb-844c-4642-a88f-360fad466b36",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239"
     },
     {
         "name": "Maria FM 102.9",
         "url": "https://online.mariafm.ru:8443/MariaFM",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music"
-        ],
         "favicon": "https://mariafm.ru/static/icons/general/favicon.37e459d7fe2a.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1099,13 +651,6 @@
         "name": "MAXIMUM",
         "url": "https://maximum.hostingradio.ru/maximum96.aacp",
         "country": "RU",
-        "tags": [
-            "alternative",
-            "pop",
-            "rock",
-            "russian",
-            "top40"
-        ],
         "favicon": "https://maximum.ru/static/images/logo.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -1113,27 +658,17 @@
     },
     {
         "name": "Mestnoye Radio",
-        "url": "http://93.190.204.101:8000/live_100_4.mp3",
+        "url": "https://93.190.204.101:8000/live_100_4.mp3",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "russian hits",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://93.190.204.101:8000/live_100_4.mp3"
+        "working_url": "https://93.190.204.101:8000/live_100_4.mp3"
     },
     {
         "name": "Metaradio",
         "url": "https://s2.metaradio.ru/mradio.aacp",
         "country": "RU",
-        "tags": [
-            "russian dance electronic pop hits radio"
-        ],
         "favicon": "https://s2.metaradio.ru/Metaradio_ID.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -1143,13 +678,6 @@
         "name": "Mixadance FM Fitness",
         "url": "https://stream.mixadance.fm/fitness",
         "country": "RU",
-        "tags": [
-            "electronic",
-            "fitness",
-            "music",
-            "pop",
-            "workout"
-        ],
         "favicon": "http://www.mixadance.fm/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -1159,10 +687,6 @@
         "name": "Monte Carlo",
         "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
         "country": "RU",
-        "tags": [
-            "lounge downtempo chillout ambient easy listening",
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
@@ -1172,10 +696,6 @@
         "name": "Murka FM",
         "url": "https://murka.amgradio.ru/MurkaFM",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian hits"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1183,45 +703,26 @@
     },
     {
         "name": "N-Radio 107.9 FM",
-        "url": "http://178.47.34.174:8000/n-radio",
+        "url": "https://178.47.34.174:8000/n-radio",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "oldies",
-            "pop",
-            "russian hits"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://178.47.34.174:8000/n-radio"
+        "working_url": "https://178.47.34.174:8000/n-radio"
     },
     {
         "name": "Nashe Radio 106.0 FM Serpukhov",
-        "url": "http://77.73.90.46:1055/nasheradio",
+        "url": "https://77.73.90.46:1055/nasheradio",
         "country": "RU",
-        "tags": [
-            "festival",
-            "pop",
-            "pop music",
-            "pop rock",
-            "rock music",
-            "russian pop",
-            "russian rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://77.73.90.46:1055/nasheradio"
+        "working_url": "https://77.73.90.46:1055/nasheradio"
     },
     {
         "name": "Nostalgie Russia",
         "url": "https://listen8.myradio24.com/alexx333",
         "country": "RU",
-        "tags": [
-            "pop rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1229,45 +730,26 @@
     },
     {
         "name": "NRJ Туапсе 105.0 FM",
-        "url": "http://185.185.69.62:8000/energy",
+        "url": "https://185.185.69.62:8000/energy",
         "country": "RU",
-        "tags": [
-            "krasnodar kraj",
-            "music",
-            "nrj",
-            "pop",
-            "tuapse"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.185.69.62:8000/energy"
+        "working_url": "https://185.185.69.62:8000/energy"
     },
     {
         "name": "NRJ Тула 101.4 FM",
-        "url": "http://87.244.47.90:8000/NRJ",
+        "url": "https://87.244.47.90:8000/NRJ",
         "country": "RU",
-        "tags": [
-            "energy",
-            "energy radio",
-            "music",
-            "pop",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_230341149.jpg?alt=media&token=80c1fc65-ec0b-4807-b40d-fe27c9e38ece",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/NRJ"
+        "working_url": "https://87.244.47.90:8000/NRJ"
     },
     {
         "name": "Online Radio Rashi",
         "url": "https://s2.free-shoutcast.com/stream/18214",
         "country": "RU",
-        "tags": [
-            "broken beat",
-            "pop"
-        ],
         "favicon": "https://i.imgur.com/totzCmb.png",
         "codec": "MP3",
         "bitrate": 96,
@@ -1275,333 +757,206 @@
     },
     {
         "name": "Pervoesetevoe FM",
-        "url": "http://streamer.radiovseti.ru:8000/320",
+        "url": "https://streamer.radiovseti.ru:8000/320",
         "country": "RU",
-        "tags": [
-            "club dance",
-            "dance",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://streamer.radiovseti.ru:8000/320"
+        "working_url": "https://streamer.radiovseti.ru:8000/320"
     },
     {
         "name": "Pop (Popular) Music - Caprice Radio",
-        "url": "http://79.120.77.11:8000/pop",
+        "url": "https://79.120.77.11:8000/pop",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "http://radcap.ru/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.77.11:8000/pop"
+        "working_url": "https://79.120.77.11:8000/pop"
     },
     {
         "name": "Pop Soul - Caprice Radio",
-        "url": "http://213.141.131.10:8000/popsoul",
+        "url": "https://213.141.131.10:8000/popsoul",
         "country": "RU",
-        "tags": [
-            "pop soul"
-        ],
         "favicon": "http://radcap.ru/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://213.141.131.10:8000/popsoul"
+        "working_url": "https://213.141.131.10:8000/popsoul"
     },
     {
         "name": "Primorskaya Volna",
-        "url": "http://45.143.94.106:8000/primvolna-ussuriysk",
+        "url": "https://45.143.94.106:8000/primvolna-ussuriysk",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://45.143.94.106:8000/primvolna-ussuriysk"
+        "working_url": "https://45.143.94.106:8000/primvolna-ussuriysk"
     },
     {
         "name": "RadCap - Britpop",
-        "url": "http://79.120.39.202:8004/britpop",
+        "url": "https://79.120.39.202:8004/britpop",
         "country": "RU",
-        "tags": [
-            "britpop",
-            "radio caprice",
-            "rock"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.39.202:8004/britpop"
+        "working_url": "https://79.120.39.202:8004/britpop"
     },
     {
         "name": "RadCap - Synthpop",
-        "url": "http://79.120.77.11:8002/synthpop",
+        "url": "https://79.120.77.11:8002/synthpop",
         "country": "RU",
-        "tags": [
-            "pop",
-            "radio caprice"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.120.77.11:8002/synthpop"
+        "working_url": "https://79.120.77.11:8002/synthpop"
     },
     {
         "name": "Radio 2 Komsomolsk-na-Amure",
-        "url": "http://212.19.18.133:8000/stream",
+        "url": "https://212.19.18.133:8000/stream",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "classic rock",
-            "hits",
-            "pop"
-        ],
         "favicon": "https://radio2.online/favicon.ico",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://212.19.18.133:8000/stream"
+        "working_url": "https://212.19.18.133:8000/stream"
     },
     {
         "name": "Radio 53 Novgorod",
-        "url": "http://84.242.241.66:8000/;",
+        "url": "https://84.242.241.66:8000/;",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "https://radio53.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://84.242.241.66:8000/;"
+        "working_url": "https://84.242.241.66:8000/;"
     },
     {
         "name": "Radio 7 Tyumen",
-        "url": "http://live.radio7.su:9000/radio7_128",
+        "url": "https://live.radio7.su:9000/radio7_128",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://live.radio7.su:9000/radio7_128"
+        "working_url": "https://live.radio7.su:9000/radio7_128"
     },
     {
         "name": "Radio Caprice - Arabic Pop",
-        "url": "http://79.120.39.202:8000/arabicpop",
+        "url": "https://79.120.39.202:8000/arabicpop",
         "country": "RU",
-        "tags": [
-            "arabic",
-            "pop",
-            "radcap",
-            "radio caprice"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.39.202:8000/arabicpop"
+        "working_url": "https://79.120.39.202:8000/arabicpop"
     },
     {
         "name": "Radio Caprice - Britpop / Post Britpop",
-        "url": "http://79.120.39.202:8002/britpop",
+        "url": "https://79.120.39.202:8002/britpop",
         "country": "RU",
-        "tags": [
-            "britpop",
-            "post britpop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.120.39.202:8002/britpop"
+        "working_url": "https://79.120.39.202:8002/britpop"
     },
     {
         "name": "Radio Caprice - Bulgarian Pop-Folk/Ethnopop/Chalga",
-        "url": "http://213.141.131.10:8000/chalga",
+        "url": "https://213.141.131.10:8000/chalga",
         "country": "RU",
-        "tags": [
-            "bulgarian",
-            "chalga",
-            "ethnic",
-            "folk",
-            "pop folk",
-            "radcap",
-            "radio caprice"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://213.141.131.10:8000/chalga"
+        "working_url": "https://213.141.131.10:8000/chalga"
     },
     {
         "name": "Radio Caprice - Cantopop",
-        "url": "http://79.120.12.130:8000/cantopop",
+        "url": "https://79.120.12.130:8000/cantopop",
         "country": "RU",
-        "tags": [
-            "cantopop",
-            "chinese pop",
-            "radcap",
-            "radio caprice"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.12.130:8000/cantopop"
+        "working_url": "https://79.120.12.130:8000/cantopop"
     },
     {
         "name": "Radio Caprice - Chamber / Baroque / Pop / Rock",
-        "url": "http://79.111.14.76:8002/chamberpop",
+        "url": "https://79.111.14.76:8002/chamberpop",
         "country": "RU",
-        "tags": [
-            "chamber pop"
-        ],
         "favicon": "http://radcap.ru/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.111.14.76:8002/chamberpop"
+        "working_url": "https://79.111.14.76:8002/chamberpop"
     },
     {
         "name": "Radio Caprice - Dance Pop",
-        "url": "http://79.120.77.11:8002/dancepop",
+        "url": "https://79.120.77.11:8002/dancepop",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/2/59362.v12.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.120.77.11:8002/dancepop"
+        "working_url": "https://79.120.77.11:8002/dancepop"
     },
     {
         "name": "Radio Caprice - Electroclash / Synthcore / Tech Pop / Nouveau Disco [1]",
-        "url": "http://79.120.39.202:8002/electroclash",
+        "url": "https://79.120.39.202:8002/electroclash",
         "country": "RU",
-        "tags": [
-            "electroclash",
-            "electronic",
-            "nouveau disco",
-            "radcap",
-            "synthcore",
-            "tech pop"
-        ],
         "favicon": "http://radcap.ru/graf2/rclogo.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.120.39.202:8002/electroclash"
+        "working_url": "https://79.120.39.202:8002/electroclash"
     },
     {
         "name": "Radio Caprice - Electroclash / Synthcore / Tech Pop / Nouveau Disco [2]",
-        "url": "http://79.120.39.202:8000/electroclash",
+        "url": "https://79.120.39.202:8000/electroclash",
         "country": "RU",
-        "tags": [
-            "electroclash",
-            "electronic",
-            "nouveau disco",
-            "radcap",
-            "synthcore",
-            "tech pop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.39.202:8000/electroclash"
+        "working_url": "https://79.120.39.202:8000/electroclash"
     },
     {
         "name": "Radio Caprice - French Pop",
-        "url": "http://79.120.12.130:8000/frenchpop",
+        "url": "https://79.120.12.130:8000/frenchpop",
         "country": "RU",
-        "tags": [
-            "french",
-            "french music",
-            "french pop",
-            "pop",
-            "radcap",
-            "radio caprice"
-        ],
         "favicon": "http://radcap.ru/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.12.130:8000/frenchpop"
+        "working_url": "https://79.120.12.130:8000/frenchpop"
     },
     {
         "name": "Radio Caprice - J-Pop",
-        "url": "http://79.111.119.111:8000/jpop",
+        "url": "https://79.111.119.111:8000/jpop",
         "country": "RU",
-        "tags": [
-            "j-pop",
-            "japanese",
-            "jpop",
-            "radcap",
-            "radio caprice"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.111.119.111:8000/jpop"
+        "working_url": "https://79.111.119.111:8000/jpop"
     },
     {
         "name": "Radio caprice - pop ballads",
-        "url": "http://79.120.77.11:8002/popballads",
+        "url": "https://79.120.77.11:8002/popballads",
         "country": "RU",
-        "tags": [
-            "ballads",
-            "pop ballads"
-        ],
         "favicon": "http://radcap.ru/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.120.77.11:8002/popballads"
+        "working_url": "https://79.120.77.11:8002/popballads"
     },
     {
         "name": "Radio Caprice - Pop Punk",
-        "url": "http://79.111.14.76:8002/poppunk",
+        "url": "https://79.111.14.76:8002/poppunk",
         "country": "RU",
-        "tags": [
-            "pop punk"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 48,
-        "working_url": "http://79.111.14.76:8002/poppunk"
+        "working_url": "https://79.111.14.76:8002/poppunk"
     },
     {
         "name": "Radio Caprice - Russian Pop Music",
-        "url": "http://79.120.77.11:8000/popru",
+        "url": "https://79.120.77.11:8000/popru",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music",
-            "radcap",
-            "radio caprice",
-            "russian",
-            "russian pop"
-        ],
         "favicon": "http://radcap.ru/favicon.ico",
         "codec": "AAC+",
         "bitrate": 320,
-        "working_url": "http://79.120.77.11:8000/popru"
+        "working_url": "https://79.120.77.11:8000/popru"
     },
     {
         "name": "Radio Fish",
         "url": "https://listen1.myradio24.com/8317",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop",
-            "russian hits",
-            "top40"
-        ],
         "favicon": "https://radio.fish/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -1611,12 +966,6 @@
         "name": "Radio Free Music",
         "url": "https://radio-holding.ru:9433/rfm",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1626,13 +975,6 @@
         "name": "Radio GLAGOL - Радио Глагол",
         "url": "https://radio.glagol-radio.ru:8443/radio",
         "country": "RU",
-        "tags": [
-            "best podcast in the universe",
-            "podcasts",
-            "pop music",
-            "russian radio",
-            "science"
-        ],
         "favicon": "https://glagol-radio.ru/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1640,103 +982,62 @@
     },
     {
         "name": "Radio Grand FM",
-        "url": "http://grandfm.ru:8000/radio",
+        "url": "https://grandfm.ru:8000/radio",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop",
-            "russian hits"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://grandfm.ru:8000/radio"
+        "working_url": "https://grandfm.ru:8000/radio"
     },
     {
         "name": "Radio Guberniya",
-        "url": "http://www.gubernia-media.ru:8000/gubernia",
+        "url": "https://www.gubernia-media.ru:8000/gubernia",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://www.gubernia-media.ru:8000/gubernia"
+        "working_url": "https://www.gubernia-media.ru:8000/gubernia"
     },
     {
         "name": "Radio Kirishi",
-        "url": "http://79.173.124.92:8000/stream",
+        "url": "https://79.173.124.92:8000/stream",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "http://kirfakel.ru/templates/kirfakel.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://79.173.124.92:8000/stream"
+        "working_url": "https://79.173.124.92:8000/stream"
     },
     {
         "name": "Radio Kuray",
-        "url": "http://av.bimradio.ru:8066/kurai_mp3",
+        "url": "https://av.bimradio.ru:8066/kurai_mp3",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://av.bimradio.ru:8066/kurai_mp3"
+        "working_url": "https://av.bimradio.ru:8066/kurai_mp3"
     },
     {
         "name": "Radio Militseyskaya Volna",
-        "url": "http://87.244.47.90:8000/MV",
+        "url": "https://87.244.47.90:8000/MV",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/MV"
+        "working_url": "https://87.244.47.90:8000/MV"
     },
     {
         "name": "Radio Novaya Rossiya",
-        "url": "http://91.194.120.107:8000/256",
+        "url": "https://91.194.120.107:8000/256",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "dance",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://91.194.120.107:8000/256"
+        "working_url": "https://91.194.120.107:8000/256"
     },
     {
         "name": "Radio OldHit",
         "url": "https://oldhit.ru/stream?1778250827993",
         "country": "RU",
-        "tags": [
-            "80s",
-            "90s",
-            "dance",
-            "hits",
-            "oldies",
-            "pop",
-            "rock"
-        ],
         "favicon": "https://oldhit.ru/img/fav/favicon180.png",
         "codec": "AAC",
         "bitrate": 128,
@@ -1744,42 +1045,26 @@
     },
     {
         "name": "Radio Piramida",
-        "url": "http://www.nazarovo-online.ru:8080/piramida/nazarovo",
+        "url": "https://www.nazarovo-online.ru:8080/piramida/nazarovo",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "classic rock",
-            "hits",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://www.nazarovo-online.ru:8080/piramida/nazarovo"
+        "working_url": "https://www.nazarovo-online.ru:8080/piramida/nazarovo"
     },
     {
         "name": "Radio Portal Novovoronezh",
-        "url": "http://icecast-ext.dimfm.ru:8000/portal",
+        "url": "https://icecast-ext.dimfm.ru:8000/portal",
         "country": "RU",
-        "tags": [
-            "eurodance",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://icecast-ext.dimfm.ru:8000/portal"
+        "working_url": "https://icecast-ext.dimfm.ru:8000/portal"
     },
     {
         "name": "Radio Record - Russian Hits",
         "url": "https://radiorecord.hostingradio.ru/russianhits96.aacp",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian"
-        ],
         "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -1789,12 +1074,6 @@
         "name": "Radio Record - Summer Dance",
         "url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
         "country": "RU",
-        "tags": [
-            "dance",
-            "dance music",
-            "dance pop",
-            "eurodance"
-        ],
         "favicon": "https://i.imgur.com/n5PBous.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -1804,10 +1083,6 @@
         "name": "Radio Rodnykh Dorog",
         "url": "https://stream1.radiord.ru:8000/live128.aac",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop"
-        ],
         "favicon": "https://radiord.ru/favicon.ico",
         "codec": "AAC",
         "bitrate": 128,
@@ -1815,14 +1090,8 @@
     },
     {
         "name": "Radio RUS Belgorod",
-        "url": "http://radio-holding.ru:9000/rus",
+        "url": "https://radio-holding.ru:9000/rus",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1830,29 +1099,17 @@
     },
     {
         "name": "Radio Samara Maksimum",
-        "url": "http://85.236.172.22:8000/maximum",
+        "url": "https://85.236.172.22:8000/maximum",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "classic rock",
-            "hits",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://85.236.172.22:8000/maximum"
+        "working_url": "https://85.236.172.22:8000/maximum"
     },
     {
         "name": "Radio Shok",
         "url": "https://spb.radioshock.ru/radioshock64",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
@@ -1862,14 +1119,6 @@
         "name": "Radio Sputnik Volgograd 105.1FM",
         "url": "https://online.sputnikfm.ru/sputnik_mp3",
         "country": "RU",
-        "tags": [
-            "2000s",
-            "80s",
-            "90s",
-            "pop",
-            "rock",
-            "talk"
-        ],
         "favicon": "https://www.sputnikfm.ru/favicon2020.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1877,27 +1126,17 @@
     },
     {
         "name": "Radio Tourist",
-        "url": "http://stream.radiojar.com/av2rrf6547zuv",
+        "url": "https://stream.radiojar.com/av2rrf6547zuv",
         "country": "RU",
-        "tags": [
-            "dance",
-            "hot hits",
-            "pop music",
-            "r&b/urban",
-            "travel"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n10.radiojar.com/av2rrf6547zuv?rj-ttl=5&rj-tok=AAABn-ypZcYAmMWkStZb9YKD9g"
+        "working_url": "https://n10.radiojar.com/av2rrf6547zuv?rj-ttl=5&rj-tok=AAABn-ypZcYAmMWkStZb9YKD9g"
     },
     {
         "name": "Radio Vanya",
         "url": "https://omskfm.ru:8443/881-128.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -1905,28 +1144,17 @@
     },
     {
         "name": "Radio Voice of Burma",
-        "url": "http://listen4.myradio24.com/39982",
+        "url": "https://listen4.myradio24.com/39982",
         "country": "RU",
-        "tags": [
-            "news talk",
-            "pop",
-            "pop music",
-            "pop rock",
-            "talk",
-            "talk radio"
-        ],
         "favicon": "http://www.voiceofburma.ru/_si/0/66602499.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen4.myradio24.com/39982"
+        "working_url": "https://listen4.myradio24.com/39982"
     },
     {
         "name": "Radio Yuldash",
         "url": "https://radio.mediacdn.ru/uldash.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -1934,26 +1162,17 @@
     },
     {
         "name": "Rebyachya Respublika",
-        "url": "http://live.radio7.su:9000/deti256",
+        "url": "https://live.radio7.su:9000/deti256",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "https://static.tildacdn.com/tild6464-3137-4433-b332-663333396665/152.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://live.radio7.su:9000/deti256"
+        "working_url": "https://live.radio7.su:9000/deti256"
     },
     {
         "name": "Relax FM christmas",
         "url": "https://pub0101.101.ru/stream/trust/mp3/128/258",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1963,9 +1182,6 @@
         "name": "Relax Life",
         "url": "https://pub0101.101.ru/stream/trust/mp3/128/267?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJmZGEzNTE4Nzk2MTRmYjkxZmJjZWUwZjBkN2NiMDEwMSIsIklQIjoiMTU2LjIxOC4xNTEuMTYyIiwiVUEiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTA0LjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwiUmVmIjoiaHR0cHM6XC9cLzEwMS5ydVwvIiwidWlkX2NoYW5uZWwiOiIyNjciLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkNocm9tZSIsIkJyb3dzZXJWZXJzaW9uIjoiMTA0LjAuMC4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY2MDk2NzE4OH0.cEjEybJ8rYlV8kiv_su7cSgAc9qgQS5XyS7UsWqRelY",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1973,49 +1189,26 @@
     },
     {
         "name": "ROCK FM",
-        "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
+        "url": "https://nashe1.hostingradio.ru/rock-128.mp3",
         "country": "RU",
-        "tags": [
-            "classic rock",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://lh3.googleusercontent.com/D3taObR7tfyhwDFY40VS8DIVri7iif5RuzI9C-mXxRwF41vGZ_dO_n6MWM57P-mZczFC=w300",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://nashe1.hostingradio.ru/rock-128.mp3"
+        "working_url": "https://nashe1.hostingradio.ru/rock-128.mp3"
     },
     {
         "name": "Royal Club",
-        "url": "http://193.33.170.218:8000/RoyalClub",
+        "url": "https://193.33.170.218:8000/RoyalClub",
         "country": "RU",
-        "tags": [
-            "club",
-            "dance",
-            "mix",
-            "pop",
-            "royal",
-            "royalradio.ru",
-            "various",
-            "танцевальная"
-        ],
         "favicon": "http://royalradio.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://193.33.170.218:8000/RoyalClub"
+        "working_url": "https://193.33.170.218:8000/RoyalClub"
     },
     {
         "name": "RTFM.fm",
         "url": "https://stream.rtfm.fm/aac256",
         "country": "RU",
-        "tags": [
-            "alternative rock",
-            "downtempo",
-            "electronic",
-            "jazz",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://rtfm.fm/favicon.ico",
         "codec": "AAC",
         "bitrate": 256,
@@ -2025,9 +1218,6 @@
         "name": "Russian Drive",
         "url": "https://rusdriveradio.ru:8000/live_aac64",
         "country": "RU",
-        "tags": [
-            "pop dance"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -2037,12 +1227,6 @@
         "name": "Russian Rock - РУССКИЙ РОК - AMG Radio",
         "url": "https://dirxiph.amgradio.ru/RusRock",
         "country": "RU",
-        "tags": [
-            "classic rock",
-            "pop",
-            "rock",
-            "russian"
-        ],
         "favicon": "https://volna.top/logoradio/rusrock.svg",
         "codec": "MP3",
         "bitrate": 128,
@@ -2050,26 +1234,17 @@
     },
     {
         "name": "Sevastopol FM",
-        "url": "http://air6.amgradio.ru/SFM",
+        "url": "https://air6.amgradio.ru/SFM",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop",
-            "russian hits",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://mega.amgradio.ru/mega.aacp"
+        "working_url": "https://mega.amgradio.ru/mega.aacp"
     },
     {
         "name": "Sputnik FM",
         "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -2077,26 +1252,17 @@
     },
     {
         "name": "Strana FM",
-        "url": "http://icecast.stranafm.cdnvideo.ru/stranafm",
+        "url": "https://icecast.stranafm.cdnvideo.ru/stranafm",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "hits",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://icecast.stranafm.cdnvideo.ru/stranafm"
+        "working_url": "https://icecast.stranafm.cdnvideo.ru/stranafm"
     },
     {
         "name": "Studio 21 (Хабаровск)",
         "url": "https://stream.studio21.ru/studio2196.aacp",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
@@ -2104,29 +1270,17 @@
     },
     {
         "name": "Studio 21 Киров 101.8 FM",
-        "url": "http://185.76.147.85:8000/studio21_kirov",
+        "url": "https://185.76.147.85:8000/studio21_kirov",
         "country": "RU",
-        "tags": [
-            "kirov",
-            "music",
-            "pop",
-            "region 43",
-            "studio 21"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_181202068.jpg?alt=media&token=45117720-2d13-4d68-9d6a-a7412bb38977",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.76.147.85:8000/studio21_kirov"
+        "working_url": "https://185.76.147.85:8000/studio21_kirov"
     },
     {
         "name": "SUPER RADIO remix",
         "url": "https://listen2.myradio24.com/serz",
         "country": "RU",
-        "tags": [
-            "dance",
-            "pop",
-            "танцевальная"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240324_095134480.jpg?alt=media&token=49fdc253-75ce-4fde-9556-bc1b599a842c",
         "codec": "MP3",
         "bitrate": 128,
@@ -2134,39 +1288,26 @@
     },
     {
         "name": "super-radio",
-        "url": "http://aska.ru-hoster.com:8000/stream",
+        "url": "https://aska.ru-hoster.com:8000/stream",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://aska.ru-hoster.com:8000/stream"
+        "working_url": "https://aska.ru-hoster.com:8000/stream"
     },
     {
         "name": "THT Music Radio",
-        "url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+        "url": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3",
         "country": "RU",
-        "tags": [
-            "dance",
-            "hits",
-            "pop"
-        ],
         "favicon": "https://tntmusic.ru/static/favicon/favicon-32x32.png",
         "codec": "AAC",
         "bitrate": 160,
-        "working_url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3"
+        "working_url": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3"
     },
     {
         "name": "Volna FM",
         "url": "https://listen5.myradio24.com/nvolna",
         "country": "RU",
-        "tags": [
-            "dance",
-            "pop",
-            "rock"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
@@ -2176,15 +1317,6 @@
         "name": "Wave Anime Radio",
         "url": "https://channel_1.waveani.fun/stream",
         "country": "RU",
-        "tags": [
-            "animation",
-            "anime",
-            "j-pop",
-            "ost",
-            "trance",
-            "trance progressive",
-            "trance uplifting"
-        ],
         "favicon": "https://www.waveani.fun/favicon.ico",
         "codec": "AAC",
         "bitrate": 96,
@@ -2194,10 +1326,6 @@
         "name": "Zaycev.FM Pop",
         "url": "https://abs.zaycev.fm/pop128k",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop music"
-        ],
         "favicon": "https://pcradio.ru/images/stations/61b09c69159cc.jpg",
         "codec": "MP3",
         "bitrate": 0,
@@ -2205,235 +1333,143 @@
     },
     {
         "name": "Авторадио Калуга 101.1 FM",
-        "url": "http://online2.gkvr.ru:8000/avtoradio_klg_64.aac",
+        "url": "https://online2.gkvr.ru:8000/avtoradio_klg_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_223329561.jpg?alt=media&token=3ba25d10-3ef4-4df1-af24-28a2b12bd090",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://online2.gkvr.ru:8000/avtoradio_klg_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/avtoradio_klg_64.aac"
     },
     {
         "name": "Авторадио Тихвин 107.7 FM",
-        "url": "http://79.173.124.23:1121/Avtotih",
+        "url": "https://79.173.124.23:1121/Avtotih",
         "country": "RU",
-        "tags": [
-            "47",
-            "auto",
-            "music",
-            "pop",
-            "region 47",
-            "tikhvin"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_174642351.jpg?alt=media&token=43814588-ce10-4c24-9547-ab8dc4f63c5b",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://79.173.124.23:1121/Avtotih"
+        "working_url": "https://79.173.124.23:1121/Avtotih"
     },
     {
         "name": "Авторадио Тула 104.4 FM",
-        "url": "http://87.244.47.90:8000/ABTO",
+        "url": "https://87.244.47.90:8000/ABTO",
         "country": "RU",
-        "tags": [
-            "auto",
-            "auto radio",
-            "car",
-            "music",
-            "pop",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_230714323.jpg?alt=media&token=ac1e4a98-bc4d-41d6-bb9b-3d9e368ad1cd",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/ABTO"
+        "working_url": "https://87.244.47.90:8000/ABTO"
     },
     {
         "name": "Апекс-Радио Кемерово 101.0 FM",
-        "url": "http://62.152.59.3:8000/kem",
+        "url": "https://62.152.59.3:8000/kem",
         "country": "RU",
-        "tags": [
-            "dance",
-            "pop",
-            "russian",
-            "spanish",
-            "top 40"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://62.152.59.3:8000/kem"
+        "working_url": "https://62.152.59.3:8000/kem"
     },
     {
         "name": "Апекс-Радио Новокузнецк 100.5 FM",
-        "url": "http://62.152.59.3:8000/nkz",
+        "url": "https://62.152.59.3:8000/nkz",
         "country": "RU",
-        "tags": [
-            "dance",
-            "pop",
-            "russian",
-            "top 40"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://62.152.59.3:8000/nkz"
+        "working_url": "https://62.152.59.3:8000/nkz"
     },
     {
         "name": "Балтик Плюс",
-        "url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3",
+        "url": "https://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3",
         "country": "RU",
-        "tags": [
-            "adult contemporary",
-            "news",
-            "pop",
-            "soft rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"
+        "working_url": "https://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"
     },
     {
         "name": "БИМ-Радио Казань 102.8 FM",
-        "url": "http://av.bimradio.ru:8066/bim_mp3_128k",
+        "url": "https://av.bimradio.ru:8066/bim_mp3_128k",
         "country": "RU",
-        "tags": [
-            "bim radio",
-            "kazan'",
-            "music",
-            "pop",
-            "tatarstan"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://av.bimradio.ru:8066/bim_mp3_128k"
+        "working_url": "https://av.bimradio.ru:8066/bim_mp3_128k"
     },
     {
         "name": "Брежнев FM",
-        "url": "http://185.20.226.222:8000/brezhnev",
+        "url": "https://185.20.226.222:8000/brezhnev",
         "country": "RU",
-        "tags": [
-            "90s",
-            "news",
-            "pop"
-        ],
         "favicon": "http://stv-media.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://185.20.226.222:8000/brezhnev"
+        "working_url": "https://185.20.226.222:8000/brezhnev"
     },
     {
         "name": "Бурлеск FM",
-        "url": "http://burlesquefm.ru:8000/radio",
+        "url": "https://burlesquefm.ru:8000/radio",
         "country": "RU",
-        "tags": [
-            "easy listening",
-            "jazz",
-            "music",
-            "pop",
-            "tango"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://burlesquefm.ru:8000/radio"
+        "working_url": "https://burlesquefm.ru:8000/radio"
     },
     {
         "name": "Валдай ФМ 100.1 FM",
-        "url": "http://r1071.zapto.org:1071/valday",
+        "url": "https://r1071.zapto.org:1071/valday",
         "country": "RU",
-        "tags": [
-            "different",
-            "music",
-            "pop",
-            "valday fm"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://r1071.zapto.org:1071/valday"
+        "working_url": "https://r1071.zapto.org:1071/valday"
     },
     {
         "name": "Вечная молодость",
-        "url": "http://misato.ru-hoster.com:8037/stream",
+        "url": "https://misato.ru-hoster.com:8037/stream",
         "country": "RU",
-        "tags": [
-            "pop",
-            "retro",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://misato.ru-hoster.com:8037/stream"
+        "working_url": "https://misato.ru-hoster.com:8037/stream"
     },
     {
         "name": "Волгоград-ФМ 101.5 FM",
-        "url": "http://online.volgogradfm.ru:8000/vfm",
+        "url": "https://online.volgogradfm.ru:8000/vfm",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240907_180932816.jpg?alt=media&token=6a73d8a8-5422-4100-8f2d-43192b478d99",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://online.volgogradfm.ru:8000/vfm"
+        "working_url": "https://online.volgogradfm.ru:8000/vfm"
     },
     {
         "name": "Волхов ФМ 99.3 FM",
-        "url": "http://player.vfmradio.ru/stream.ogg",
+        "url": "https://player.vfmradio.ru/stream.ogg",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://player.vfmradio.ru/stream.ogg"
+        "working_url": "https://player.vfmradio.ru/stream.ogg"
     },
     {
         "name": "Восток FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_18_vostok_64_reg_1",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_18_vostok_64_reg_1",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_18_vostok_64_reg_1"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_18_vostok_64_reg_1"
     },
     {
         "name": "Вторая Волна Костомукша 102.3 FM",
-        "url": "http://93.190.204.101:8000/live_102_3.mp3",
+        "url": "https://93.190.204.101:8000/live_102_3.mp3",
         "country": "RU",
-        "tags": [
-            "kostomuksha",
-            "music",
-            "pop",
-            "second wave"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://93.190.204.101:8000/live_102_3.mp3"
+        "working_url": "https://93.190.204.101:8000/live_102_3.mp3"
     },
     {
         "name": "Вячеслав Добрынин",
         "url": "https://stream02.pcradio.biz/Dobrynin_Vjacheslav-hi",
         "country": "RU",
-        "tags": [
-            "discography",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -2441,30 +1477,17 @@
     },
     {
         "name": "ГОЛОС АНГАРЫ",
-        "url": "http://91.189.162.134:8016/stream",
+        "url": "https://91.189.162.134:8016/stream",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://91.189.162.134:8016/stream"
+        "working_url": "https://91.189.162.134:8016/stream"
     },
     {
         "name": "ГУСЬ.Рус",
         "url": "https://stream1.radiogoose.ru/listen/rus/play",
         "country": "RU",
-        "tags": [
-            "pop music",
-            "post-punk",
-            "russia",
-            "russian hits",
-            "russian music",
-            "russian pop",
-            "russian rave",
-            "russian rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -2472,25 +1495,17 @@
     },
     {
         "name": "Детский Хит - Kids Hit",
-        "url": "http://deti.volna.top/Deti",
+        "url": "https://deti.volna.top/Deti",
         "country": "RU",
-        "tags": [
-            "amg",
-            "pop",
-            "russian"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://deti.amgradio.ru/deti.aacp"
+        "working_url": "https://deti.amgradio.ru/deti.aacp"
     },
     {
         "name": "Джем ФМ",
         "url": "https://online.jamfm.ru/jam_aacplus?v=1784622790465",
         "country": "RU",
-        "tags": [
-            "pop-музыка"
-        ],
         "favicon": "https://jamfm.ru/img/logo.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -2500,14 +1515,6 @@
         "name": "Дорожное радио Анадырь 100.0 FM",
         "url": "https://stream.stvradio.ru/radio/8000/DR_ANA",
         "country": "RU",
-        "tags": [
-            "anadyr",
-            "dorognoe",
-            "music",
-            "north",
-            "pop",
-            "road"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241230_153034328.jpg?alt=media&token=27f36b7c-b607-4f8a-9b2d-8e16966e4e24",
         "codec": "AAC",
         "bitrate": 128,
@@ -2515,139 +1522,80 @@
     },
     {
         "name": "Дорожное радио Волхов 102.2 FM",
-        "url": "http://78.140.197.238:9877/DR-Volhov",
+        "url": "https://78.140.197.238:9877/DR-Volhov",
         "country": "RU",
-        "tags": [
-            "102_2",
-            "dorognoe radio",
-            "music",
-            "pop",
-            "volkhov"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://78.140.197.238:9877/DR-Volhov"
+        "working_url": "https://78.140.197.238:9877/DR-Volhov"
     },
     {
         "name": "Дорожное радио Воронеж 102.3 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "dorognoe radio",
-            "music",
-            "pop",
-            "voronezh"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио Киров 106.7 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/kirov.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/kirov.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "dorognoe",
-            "kirov",
-            "music",
-            "nostalgia",
-            "pop",
-            "road"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250108_193804128.jpg?alt=media&token=19e61021-7a6d-478f-b6e8-be380d8b83a2",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgregion.hostingradio.ru:8064/kirov.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/kirov.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио Кострома 106.2 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "dorognoe radio",
-            "kostroma",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250426_105604744.jpg?alt=media&token=e5abcfcb-f24b-4732-97bb-6f3bf7240157",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио Котельнич 100.8 FM",
-        "url": "http://185.76.147.85:8000/dorozhnoe_kotelnich",
+        "url": "https://185.76.147.85:8000/dorozhnoe_kotelnich",
         "country": "RU",
-        "tags": [
-            "dorognoe",
-            "koteľnich",
-            "music",
-            "nostalgia",
-            "pop",
-            "road"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250108_194425393.jpg?alt=media&token=cc879f0a-2245-4bbd-bac0-f5ac19258c62",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.76.147.85:8000/dorozhnoe_kotelnich"
+        "working_url": "https://185.76.147.85:8000/dorozhnoe_kotelnich"
     },
     {
         "name": "Дорожное радио Луга 106.5 FM",
-        "url": "http://78.140.197.238:9877/DR-Luga",
+        "url": "https://78.140.197.238:9877/DR-Luga",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "luga",
-            "music",
-            "nostalgia",
-            "pop",
-            "region 47"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241031_131258249.jpg?alt=media&token=93bf0293-c4ee-416d-b585-de3f45f8ef1c",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://78.140.197.238:9877/DR-Luga"
+        "working_url": "https://78.140.197.238:9877/DR-Luga"
     },
     {
         "name": "Дорожное радио Москва 96.0 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "dorognoe radio",
-            "moscow",
-            "moskva",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио Нижний Новгород 105.4 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "dorognoe radio",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195153111.jpg?alt=media&token=d24c3b8e-9bbf-4c1e-a760-64b8e548a5bd",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио НН",
         "url": "https://dorognoe.hostingradio.ru/dorognoe_acc",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
@@ -2655,28 +1603,17 @@
     },
     {
         "name": "Дорожное радио Самара 97.3 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/samara.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/samara.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225037691.jpg?alt=media&token=366b4b6a-5222-4cfb-aa3e-29737012355f",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://emgregion.hostingradio.ru:8064/samara.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/samara.dorognoe.mp3"
     },
     {
         "name": "Дорожное радио Симферополь 91.5 FM",
         "url": "https://radio.promedia.ru/dorozh-simf",
         "country": "RU",
-        "tags": [
-            "dorognoe radio",
-            "krym",
-            "music",
-            "pop",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_114837488.jpg?alt=media&token=34040953-7ad8-4296-bd7c-bb709bf478dd",
         "codec": "MP3",
         "bitrate": 256,
@@ -2684,62 +1621,35 @@
     },
     {
         "name": "Дорожное радио Сосновый Бор 98.3 FM",
-        "url": "http://78.140.197.238:9877/DR-SosnoviyBor",
+        "url": "https://78.140.197.238:9877/DR-SosnoviyBor",
         "country": "RU",
-        "tags": [
-            "47",
-            "chanson",
-            "music",
-            "nostalgia",
-            "pop",
-            "sosnoviy bor"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241030_182930460.jpg?alt=media&token=dd6dd904-ce0a-477b-8d14-9a9d2626eb25",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://78.140.197.238:9877/DR-SosnoviyBor"
+        "working_url": "https://78.140.197.238:9877/DR-SosnoviyBor"
     },
     {
         "name": "Дорожное радио Тула 90.7 FM",
-        "url": "http://87.244.47.90:8000/DorognoeTula",
+        "url": "https://87.244.47.90:8000/DorognoeTula",
         "country": "RU",
-        "tags": [
-            "car",
-            "music",
-            "nostalgia",
-            "pop",
-            "region 71",
-            "road",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_231232378.jpg?alt=media&token=cb18bdda-c516-4213-aecf-c2f265b39b77",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/DorognoeTula"
+        "working_url": "https://87.244.47.90:8000/DorognoeTula"
     },
     {
         "name": "Дорожное радио Ярославль 103.8 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/yaroslavl.dorognoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/yaroslavl.dorognoe.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "nostalgia",
-            "pop",
-            "region 76",
-            "yaroslavl"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241124_164747384.jpg?alt=media&token=4381dcf0-898d-4ea0-9282-dfc23d8f1fb5",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://emgregion.hostingradio.ru:8064/yaroslavl.dorognoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/yaroslavl.dorognoe.mp3"
     },
     {
         "name": "Дядя Ваня на даче (18+)",
         "url": "https://ic1.radiosignal.one/vanya-mp3",
         "country": "RU",
-        "tags": [
-            "música pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2747,223 +1657,134 @@
     },
     {
         "name": "Европа Плюс Владивосток 104.2 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 82,
-        "working_url": "http://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Владикавказ 102.0 FM",
-        "url": "http://broadcast.osetiafm.ru/europa.mp3",
+        "url": "https://broadcast.osetiafm.ru/europa.mp3",
         "country": "RU",
-        "tags": [
-            "europa plus",
-            "music",
-            "pop",
-            "region 15",
-            "vladikavkaz"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_195231965.jpg?alt=media&token=9ba545f3-045c-4bfc-9f0c-3e005d35b547",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://broadcast.osetiafm.ru/europa.mp3"
+        "working_url": "https://broadcast.osetiafm.ru/europa.mp3"
     },
     {
         "name": "Европа Плюс Владимир 102.9 FM",
-        "url": "http://radio.vladregion.ru:8000/live",
+        "url": "https://radio.vladregion.ru:8000/live",
         "country": "RU",
-        "tags": [
-            "102_9 fm",
-            "evropa plus",
-            "music",
-            "pop",
-            "vladimir"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://radio.vladregion.ru:8000/live"
+        "working_url": "https://radio.vladregion.ru:8000/live"
     },
     {
         "name": "Европа Плюс Воронеж 100.3 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "euro hits",
-            "evropa plus",
-            "music",
-            "pop",
-            "voronezh"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Иваново 106.0 FM",
-        "url": "http://patyk.ru:8002/stream",
+        "url": "https://patyk.ru:8002/stream",
         "country": "RU",
-        "tags": [
-            "evropa plus",
-            "ivanovo",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250429_124651786.jpg?alt=media&token=a73e8b23-ccb6-4182-933d-b4679d095022",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://patyk.ru:8002/stream"
+        "working_url": "https://patyk.ru:8002/stream"
     },
     {
         "name": "Европа Плюс Калуга 102.6 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/kaluga.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/kaluga.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224146509.jpg?alt=media&token=ba33cb06-bef1-4e0b-86c2-fa31bbbae41b",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://emgregion.hostingradio.ru:8064/kaluga.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/kaluga.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Киров 102.2 FM",
-        "url": "http://185.76.147.85:8000/europapluskirov",
+        "url": "https://185.76.147.85:8000/europapluskirov",
         "country": "RU",
-        "tags": [
-            "europe plus",
-            "evropa plus",
-            "kirov",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_182232607.jpg?alt=media&token=40b9cf5f-fd65-4461-94fe-717818f87805",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.76.147.85:8000/europapluskirov"
+        "working_url": "https://185.76.147.85:8000/europapluskirov"
     },
     {
         "name": "Европа Плюс Клин 107.1 FM",
-        "url": "http://control.craftradio.ru:8000/28_f3e24438",
+        "url": "https://control.craftradio.ru:8000/28_f3e24438",
         "country": "RU",
-        "tags": [
-            "107_1 fm",
-            "euro hits",
-            "evropa plus",
-            "klin",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://control.craftradio.ru:8000/28_f3e24438"
+        "working_url": "https://control.craftradio.ru:8000/28_f3e24438"
     },
     {
         "name": "Европа Плюс Краснодар 102.2 FM",
-        "url": "http://online2.gkvr.ru:8000/europa_krd_128.aac",
+        "url": "https://online2.gkvr.ru:8000/europa_krd_128.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_221543378.jpg?alt=media&token=9956a941-683c-49dc-a709-1e6e40714ca1",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://online2.gkvr.ru:8000/europa_krd_128.aac"
+        "working_url": "https://online2.gkvr.ru:8000/europa_krd_128.aac"
     },
     {
         "name": "Европа Плюс Москва 106.2 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "106_2 fm",
-            "evropa plus",
-            "moskva",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Нижний Новгород 103.9 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "evropa plus",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195315137.jpg?alt=media&token=48fce875-eec4-49a0-bedd-3665d907f1a3",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Обнинск 94.6 FM",
-        "url": "http://77.244.74.133:1956/epobninsk",
+        "url": "https://77.244.74.133:1956/epobninsk",
         "country": "RU",
-        "tags": [
-            "evropa plus",
-            "music",
-            "obninsk",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://77.244.74.133:1956/epobninsk"
+        "working_url": "https://77.244.74.133:1956/epobninsk"
     },
     {
         "name": "Европа Плюс Ростов-на-Дону 105.7 FM",
-        "url": "http://online-2.gkvr.ru:8000/europa_rnd_64.aac",
+        "url": "https://online-2.gkvr.ru:8000/europa_rnd_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204634084.jpg?alt=media&token=3d88fbb0-5d4c-432d-b0fd-306959b4906a",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://online-2.gkvr.ru:8000/europa_rnd_64.aac"
+        "working_url": "https://online-2.gkvr.ru:8000/europa_rnd_64.aac"
     },
     {
         "name": "Европа Плюс Самара 99.9 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/samara.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/samara.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225158272.jpg?alt=media&token=abe443f8-ece2-4353-bca8-386d5811c471",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgregion.hostingradio.ru:8064/samara.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/samara.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Симферополь 89.7 FM",
         "url": "https://radio.promedia.ru/europa-simf",
         "country": "RU",
-        "tags": [
-            "89_7",
-            "evropa plus",
-            "krym",
-            "music",
-            "pop",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115012456.jpg?alt=media&token=37fba570-7c19-47c2-a827-d93f33c09edd",
         "codec": "MP3",
         "bitrate": 256,
@@ -2971,104 +1792,62 @@
     },
     {
         "name": "Европа Плюс Сосновый Бор 99.9 FM",
-        "url": "http://79.173.124.23:1121/Europasosna",
+        "url": "https://79.173.124.23:1121/Europasosna",
         "country": "RU",
-        "tags": [
-            "europa plus",
-            "music",
-            "pop",
-            "region 47",
-            "sosnovy bor"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241207_145658152.jpg?alt=media&token=bbea6dfd-4bb1-4037-9304-73c6bb9a7d84",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://79.173.124.23:1121/Europasosna"
+        "working_url": "https://79.173.124.23:1121/Europasosna"
     },
     {
         "name": "Европа Плюс Хабаровск 105.6 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241009_225642241.jpg?alt=media&token=b29a70c4-be77-4331-b538-4bd869a39b3b",
         "codec": "MP3",
         "bitrate": 120,
-        "working_url": "http://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3"
     },
     {
         "name": "Европа Плюс Ярославль 105.1 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/yaroslavl.europaplus.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/yaroslavl.europaplus.mp3",
         "country": "RU",
-        "tags": [
-            "europa plus",
-            "music",
-            "pop",
-            "region 76",
-            "yaroslavl"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113349450.jpg?alt=media&token=ec546757-659f-49d5-836f-90882e0936c9",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://emgregion.hostingradio.ru:8064/yaroslavl.europaplus.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/yaroslavl.europaplus.mp3"
     },
     {
         "name": "Казак ФМ Краснодар 105.2 FM",
-        "url": "http://radio.kazak.fm/kazak_fm.mp3",
+        "url": "https://radio.kazak.fm/kazak_fm.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_221801545.jpg?alt=media&token=7d0524e8-1145-42b7-b1eb-f156323e69ab",
         "codec": "MP3",
         "bitrate": 185,
-        "working_url": "http://radio.kazak.fm/kazak_fm.mp3"
+        "working_url": "https://radio.kazak.fm/kazak_fm.mp3"
     },
     {
         "name": "Калина Красная Владимир 106.9 FM",
-        "url": "http://vladregion.ru:8000/kalina",
+        "url": "https://vladregion.ru:8000/kalina",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "kalina krasnaya",
-            "music",
-            "pop",
-            "vladimir"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://vladregion.ru:8000/kalina"
+        "working_url": "https://vladregion.ru:8000/kalina"
     },
     {
         "name": "Күңел радиосы",
-        "url": "http://live.kunelradio.ru:8000/128.mp3",
+        "url": "https://live.kunelradio.ru:8000/128.mp3",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "music",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "http://kunelradio.ru/images/favicon-192x192.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://live.kunelradio.ru:8000/128.mp3"
+        "working_url": "https://live.kunelradio.ru:8000/128.mp3"
     },
     {
         "name": "Леонид Агутин",
         "url": "https://stream02.pcradio.biz/Leonid_Agutin-hi",
         "country": "RU",
-        "tags": [
-            "discography",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -3078,10 +1857,6 @@
         "name": "Лира FM",
         "url": "https://listen4.myradio24.com/23737",
         "country": "RU",
-        "tags": [
-            "pop",
-            "pop music"
-        ],
         "favicon": "https://lirafm.ru/favicon-144x144.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -3089,53 +1864,35 @@
     },
     {
         "name": "Макс ФМ Сочи 107.4 FM",
-        "url": "http://maksfm.hostingradio.ru/maksfm128.mp3",
+        "url": "https://maksfm.hostingradio.ru/maksfm128.mp3",
         "country": "RU",
-        "tags": [
-            "107_4 fm",
-            "maks fm",
-            "music",
-            "pop",
-            "sochi"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://maksfm.hostingradio.ru/maksfm128.mp3"
+        "working_url": "https://maksfm.hostingradio.ru/maksfm128.mp3"
     },
     {
         "name": "Матур Радио",
-        "url": "http://radio.matur-tv.ru/radio/radio-mp3-128k",
+        "url": "https://radio.matur-tv.ru/radio/radio-mp3-128k",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.matur-tv.ru/radio/radio-mp3-128k"
+        "working_url": "https://radio.matur-tv.ru/radio/radio-mp3-128k"
     },
     {
         "name": "МВ Диапазон Малая Вишера 101.5 FM",
-        "url": "http://onair.mvdiapazon.ru:8000/live",
+        "url": "https://onair.mvdiapazon.ru:8000/live",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_194844901.jpg?alt=media&token=c6c749e0-7663-4f30-bc15-d9ae34ce423b",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://onair.mvdiapazon.ru:8000/live"
+        "working_url": "https://onair.mvdiapazon.ru:8000/live"
     },
     {
         "name": "Мега ФМ Архангельск 106.4 FM",
         "url": "https://s0.radioheart.ru:8000/RH23554",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241023_130444173.jpg?alt=media&token=15622934-4fac-45a3-bbc2-d404203c495e",
         "codec": "MP3",
         "bitrate": 0,
@@ -3143,27 +1900,17 @@
     },
     {
         "name": "Милицейская Волна Москва 107.8 FM",
-        "url": "http://radiomv.hostingradio.ru/radiomv128.mp3",
+        "url": "https://radiomv.hostingradio.ru/radiomv128.mp3",
         "country": "RU",
-        "tags": [
-            "107_8 fm",
-            "moskva",
-            "music",
-            "pop",
-            "radio mv"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radiomv.hostingradio.ru/radiomv128.mp3"
+        "working_url": "https://radiomv.hostingradio.ru/radiomv128.mp3"
     },
     {
         "name": "Милицейская волна НН",
         "url": "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -3171,59 +1918,35 @@
     },
     {
         "name": "Монте-Карло Нижний Новгород 102.4 FM",
-        "url": "http://online2.gkvr.ru:8000/mc_nno_64.aac",
+        "url": "https://online2.gkvr.ru:8000/mc_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "monte carlo",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195819835.jpg?alt=media&token=79ca18a4-0ea0-43cc-acac-08a94408dfd9",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/mc_nno_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/mc_nno_64.aac"
     },
     {
         "name": "Монте-Карло Обнинск 99.0 FM",
-        "url": "http://77.244.74.133:1956/mc",
+        "url": "https://77.244.74.133:1956/mc",
         "country": "RU",
-        "tags": [
-            "easy music",
-            "monte carlo",
-            "music",
-            "obninsk",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://77.244.74.133:1956/mc"
+        "working_url": "https://77.244.74.133:1956/mc"
     },
     {
         "name": "НАШЕ Радио Тюмень",
-        "url": "http://nashe1.hostingradio.ru/nashe-256",
+        "url": "https://nashe1.hostingradio.ru/nashe-256",
         "country": "RU",
-        "tags": [
-            "alternative rock",
-            "classic rock",
-            "pop rock",
-            "rock"
-        ],
         "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://nashe1.hostingradio.ru/nashe-256"
+        "working_url": "https://nashe1.hostingradio.ru/nashe-256"
     },
     {
         "name": "Нестандарт (aac • 64)",
         "url": "https://listen.radionestandart.ru:8200/64.aac",
         "country": "RU",
-        "tags": [
-            "jazz",
-            "pop music",
-            "rock"
-        ],
         "favicon": "https://radionestandart.ru/favicon.png",
         "codec": "AAC",
         "bitrate": 64,
@@ -3231,242 +1954,152 @@
     },
     {
         "name": "Новое радио Владимир 100.1 FM",
-        "url": "http://vladregion.ru:8000/novoe",
+        "url": "https://vladregion.ru:8000/novoe",
         "country": "RU",
-        "tags": [
-            "music",
-            "new",
-            "new radio",
-            "novoe radio",
-            "pop",
-            "vladimir"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://vladregion.ru:8000/novoe"
+        "working_url": "https://vladregion.ru:8000/novoe"
     },
     {
         "name": "Новое радио Воронеж 98.5 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/voronezh.novoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/voronezh.novoe.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_192247177.jpg?alt=media&token=82653953-3626-4480-979d-9d8ec6f3c626",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://emgregion.hostingradio.ru:8064/voronezh.novoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/voronezh.novoe.mp3"
     },
     {
         "name": "Новое радио Выборг 93.1 FM",
-        "url": "http://79.173.124.23:1121/Novoevib",
+        "url": "https://79.173.124.23:1121/Novoevib",
         "country": "RU",
-        "tags": [
-            "leningrad region",
-            "music",
-            "new radio",
-            "pop",
-            "vyborg"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://79.173.124.23:1121/Novoevib"
+        "working_url": "https://79.173.124.23:1121/Novoevib"
     },
     {
         "name": "Новое радио Кингисепп 90.8 FM",
-        "url": "http://79.173.124.23:1121/Novoeking",
+        "url": "https://79.173.124.23:1121/Novoeking",
         "country": "RU",
-        "tags": [
-            "kingisepp",
-            "leningrad region",
-            "music",
-            "new radio",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://79.173.124.23:1121/Novoeking"
+        "working_url": "https://79.173.124.23:1121/Novoeking"
     },
     {
         "name": "Новое радио Киров 90.0 FM",
-        "url": "http://audio.mariafm.ru:8100/NR_Kirov_256",
+        "url": "https://audio.mariafm.ru:8100/NR_Kirov_256",
         "country": "RU",
-        "tags": [
-            "kirov",
-            "music",
-            "new radio",
-            "pop",
-            "region 43"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_182500310.jpg?alt=media&token=b6c977d3-7e4c-45a3-9c61-c7cac544bc6b",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://audio.mariafm.ru:8100/NR_Kirov_256"
+        "working_url": "https://audio.mariafm.ru:8100/NR_Kirov_256"
     },
     {
         "name": "Новое радио Краснодар 89.3 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_222223176.jpg?alt=media&token=d3d1f53b-3c81-4743-a658-2704ed466054",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3"
     },
     {
         "name": "Новое радио Нижний Новгород 96.0 FM",
-        "url": "http://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3",
+        "url": "https://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "novoe radio",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211750251.jpg?alt=media&token=c36509a0-9695-424a-8994-547af0a9bb5c",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3"
+        "working_url": "https://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3"
     },
     {
         "name": "Новое радио Санкт-Петербург 91.1 FM",
-        "url": "http://emgspb.hostingradio.ru/novoespb128.mp3",
+        "url": "https://emgspb.hostingradio.ru/novoespb128.mp3",
         "country": "RU",
-        "tags": [
-            "78",
-            "music",
-            "pop",
-            "sankt petersburg",
-            "super hits"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241118_180235443.jpg?alt=media&token=882e8757-3db1-4d3e-aa3a-03a1fa5151a1",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgspb.hostingradio.ru/novoespb128.mp3"
+        "working_url": "https://emgspb.hostingradio.ru/novoespb128.mp3"
     },
     {
         "name": "Первое радио Краснодар 102.7 FM",
-        "url": "http://stream.pervoe.fm:8000/",
+        "url": "https://stream.pervoe.fm:8000/",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240817_133508480.jpg?alt=media&token=4e4046d6-677b-4352-873a-109d6f6a1f23",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://stream.pervoe.fm:8000/"
+        "working_url": "https://stream.pervoe.fm:8000/"
     },
     {
         "name": "Первое радио Кубани",
-        "url": "http://188.170.219.153:8000/",
+        "url": "https://188.170.219.153:8000/",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://188.170.219.153:8000/"
+        "working_url": "https://188.170.219.153:8000/"
     },
     {
         "name": "Первое Сетевое Липецк 104.2 FM",
-        "url": "http://streamer.radiovseti.ru:8000/128",
+        "url": "https://streamer.radiovseti.ru:8000/128",
         "country": "RU",
-        "tags": [
-            "different music",
-            "music",
-            "pervoe setevoe",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250512_120442952.jpg?alt=media&token=13dac08f-89c2-40aa-8742-88ec8eb5129d",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streamer.radiovseti.ru:8000/128"
+        "working_url": "https://streamer.radiovseti.ru:8000/128"
     },
     {
         "name": "Первое спортивное радио Москва 94.4 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_20_sport_64_reg_1",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_20_sport_64_reg_1",
         "country": "RU",
-        "tags": [
-            "first sport radio",
-            "moscow",
-            "music",
-            "pop",
-            "sport"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241222_171040255.jpg?alt=media&token=15289224-a49f-4fd5-8595-d2d3b6719a36",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_20_sport_64_reg_1"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_20_sport_64_reg_1"
     },
     {
         "name": "Пи-ФМ Тамбов 99.1 FM",
-        "url": "http://st01.pifm.ru/tambov",
+        "url": "https://st01.pifm.ru/tambov",
         "country": "RU",
-        "tags": [
-            "music",
-            "pi fm",
-            "pop",
-            "region 68",
-            "tambov"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241215_233114732.jpg?alt=media&token=5a4c722e-bfdf-47e6-88c3-b4fc20c06518",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://st01.pifm.ru/tambov"
+        "working_url": "https://st01.pifm.ru/tambov"
     },
     {
         "name": "Пилигрим",
-        "url": "http://radiopiligrim.ru:8000/live",
+        "url": "https://radiopiligrim.ru:8000/live",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiopiligrim.ru:8000/live"
+        "working_url": "https://radiopiligrim.ru:8000/live"
     },
     {
         "name": "Пилигрим. Библия",
-        "url": "http://radiopiligrim.ru:8000/bible",
+        "url": "https://radiopiligrim.ru:8000/bible",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiopiligrim.ru:8000/bible"
+        "working_url": "https://radiopiligrim.ru:8000/bible"
     },
     {
         "name": "Пилигрим. Музыка",
-        "url": "http://radiopiligrim.ru:8000/none-stop",
+        "url": "https://radiopiligrim.ru:8000/none-stop",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radiopiligrim.ru:8000/none-stop"
+        "working_url": "https://radiopiligrim.ru:8000/none-stop"
     },
     {
         "name": "Пилот FM",
         "url": "https://online.pilotfm.ru/pilot",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "https://pilotfm.ru/apple-touch-icon-114x114.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -3474,23 +2107,17 @@
     },
     {
         "name": "Приморская Волна 90.0 FM",
-        "url": "http://inhold.org:8000/primvolna-ussuriysk",
+        "url": "https://inhold.org:8000/primvolna-ussuriysk",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://inhold.org:8000/primvolna-ussuriysk"
+        "working_url": "https://inhold.org:8000/primvolna-ussuriysk"
     },
     {
         "name": "Радио 10",
         "url": "https://ic.radio10.live/stream.mp3",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -3498,53 +2125,35 @@
     },
     {
         "name": "Радио 19-22",
-        "url": "http://onair.radio1922.ru:8000/192.mp3",
+        "url": "https://onair.radio1922.ru:8000/192.mp3",
         "country": "RU",
-        "tags": [
-            "pop",
-            "rock",
-            "sports"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://onair.radio1922.ru:8000/192.mp3"
+        "working_url": "https://onair.radio1922.ru:8000/192.mp3"
     },
     {
         "name": "Радио 53 Великий Новгород",
-        "url": "http://84.242.241.66:8000/;stream.nsv",
+        "url": "https://84.242.241.66:8000/;stream.nsv",
         "country": "RU",
-        "tags": [
-            "pop",
-            "поп"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://84.242.241.66:8000/;stream.nsv"
+        "working_url": "https://84.242.241.66:8000/;stream.nsv"
     },
     {
         "name": "Радио 54",
-        "url": "http://91.202.68.50:8000/;stream.mp3",
+        "url": "https://91.202.68.50:8000/;stream.mp3",
         "country": "RU",
-        "tags": [
-            "pop-music"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://91.202.68.50:8000/;stream.mp3"
+        "working_url": "https://91.202.68.50:8000/;stream.mp3"
     },
     {
         "name": "Радио 7 Нижний Новгород 100.0 FM",
         "url": "https://online2.gkvr.ru:8000/radio7_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "radio 7"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211448521.jpg?alt=media&token=fd0784f0-4a86-41f0-89aa-0bf592c5e6e9",
         "codec": "AAC+",
         "bitrate": 64,
@@ -3552,28 +2161,17 @@
     },
     {
         "name": "РАДИО ENERGY - Москва 104.2 FM",
-        "url": "http://ic7.101.ru:8000/v1_1",
+        "url": "https://ic7.101.ru:8000/v1_1",
         "country": "RU",
-        "tags": [
-            "dance",
-            "electronic",
-            "hit",
-            "pop",
-            "r&b",
-            "top"
-        ],
         "favicon": "https://cdn0.energyfm.ru/design/images/site-design/placeholder-v2.svg",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://ic7.101.ru:8000/v1_1"
+        "working_url": "https://ic7.101.ru:8000/v1_1"
     },
     {
         "name": "Радио Monte Carlo 102.1FM",
         "url": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
@@ -3581,57 +2179,35 @@
     },
     {
         "name": "Радио Nostalgie Сосновый Бор 97.4 FM",
-        "url": "http://s0.radioheart.ru:8000/NOSTALGIE_SBOR",
+        "url": "https://s0.radioheart.ru:8000/NOSTALGIE_SBOR",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "retro"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241030_182408770.jpg?alt=media&token=bafc64f8-a6b6-40a7-8b8c-620ff29757b7",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://s0.radioheart.ru:8000/NOSTALGIE_SBOR"
+        "working_url": "https://s0.radioheart.ru:8000/NOSTALGIE_SBOR"
     },
     {
         "name": "Радио Алания Владикавказ 104.5 FM",
-        "url": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
+        "url": "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
         "country": "RU",
-        "tags": [
-            "15",
-            "alanya",
-            "pop music",
-            "region 15",
-            "vladikavkaz"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_194959206.jpg?alt=media&token=69dc9603-5aa5-4c84-a2e3-edc1edf9d5ea",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
+        "working_url": "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
     },
     {
         "name": "Радио Балтийский Берег Сосновый Бор 103.0 FM",
-        "url": "http://91.203.171.138:8080/",
+        "url": "https://91.203.171.138:8080/",
         "country": "RU",
-        "tags": [
-            "baltic coats",
-            "music",
-            "pop",
-            "region 47",
-            "sosnovy bor"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241207_114010715.jpg?alt=media&token=69d4f579-c97b-4ffe-9594-a9d16c5400e3",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://91.203.171.138:8080/"
+        "working_url": "https://91.203.171.138:8080/"
     },
     {
         "name": "РАДИО ВАНЯ",
         "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
@@ -3639,118 +2215,62 @@
     },
     {
         "name": "Радио Ваня Боровичи 102.9 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.vanyab",
+        "url": "https://nov.rlnk.ru:8000/radio.vanyab",
         "country": "RU",
-        "tags": [
-            "borovichi",
-            "music",
-            "pop",
-            "region 53",
-            "vanya"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241125_232925109.jpg?alt=media&token=a114cc47-2bea-41cb-af2e-b74c589c8043",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.vanyab"
+        "working_url": "https://nov.rlnk.ru:8000/radio.vanyab"
     },
     {
         "name": "Радио Ваня Великий Новгород 106.8 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.vanya",
+        "url": "https://nov.rlnk.ru:8000/radio.vanya",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_191441358.jpg?alt=media&token=ea75a873-aa59-45b5-bfcb-f3ed98072f69",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.vanya"
+        "working_url": "https://nov.rlnk.ru:8000/radio.vanya"
     },
     {
         "name": "Радио Ваня Кострома 91.0 FM",
-        "url": "http://194.58.182.69:8000/Radio_Vanya_Kostroma",
+        "url": "https://194.58.182.69:8000/Radio_Vanya_Kostroma",
         "country": "RU",
-        "tags": [
-            "kostroma",
-            "music",
-            "pop",
-            "radio vanya"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250426_105308958.jpg?alt=media&token=a321a011-534a-4d75-b286-39acb650eeea",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://194.58.182.69:8000/Radio_Vanya_Kostroma"
+        "working_url": "https://194.58.182.69:8000/Radio_Vanya_Kostroma"
     },
     {
         "name": "Радио Ваня Санкт-Петербург 90.6 FM",
-        "url": "http://icecast-radiovanya.cdnvideo.ru:8000/rv_spb",
+        "url": "https://icecast-radiovanya.cdnvideo.ru:8000/rv_spb",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "radio vanya",
-            "spb"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://icecast-radiovanya.cdnvideo.ru:8000/rv_spb"
+        "working_url": "https://icecast-radiovanya.cdnvideo.ru:8000/rv_spb"
     },
     {
         "name": "Радио Ваня Туапсе 100.5 FM",
-        "url": "http://185.185.69.62:8000/vanya",
+        "url": "https://185.185.69.62:8000/vanya",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "radio vanya",
-            "tuapse"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://185.185.69.62:8000/vanya"
+        "working_url": "https://185.185.69.62:8000/vanya"
     },
     {
         "name": "Радио Гордость Ярославль 98.7 FM",
-        "url": "http://s0.radioheart.ru:8000/rgfm",
+        "url": "https://s0.radioheart.ru:8000/rgfm",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "radio gordost",
-            "yaroslavl"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s0.radioheart.ru:8000/rgfm"
+        "working_url": "https://s0.radioheart.ru:8000/rgfm"
     },
     {
         "name": "РАДИО ГУСЬ",
         "url": "https://stream4.radiogoose.ru/listen/radiogoose/play",
         "country": "RU",
-        "tags": [
-            "bigroom",
-            "dance",
-            "dancecore",
-            "deep",
-            "dnb",
-            "edm",
-            "electro",
-            "hardcore",
-            "hardstyle",
-            "house",
-            "metal",
-            "midtempo",
-            "phonk",
-            "pop",
-            "radio hit",
-            "rave",
-            "rock",
-            "techno",
-            "trance"
-        ],
         "favicon": "https://radiogoose.ru/res/logo/radiogoose.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -3758,270 +2278,161 @@
     },
     {
         "name": "Радио Дача Волоколамск 87.6 FM",
-        "url": "http://control1.craftradio.ru:8000/145_8bcdcddd",
+        "url": "https://control1.craftradio.ru:8000/145_8bcdcddd",
         "country": "RU",
-        "tags": [
-            "dacha",
-            "music",
-            "pop",
-            "region 50",
-            "volokolamsk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241202_225352050.jpg?alt=media&token=279c4ddb-087f-4b52-9142-837d82effb2b",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://control1.craftradio.ru:8000/145_8bcdcddd"
+        "working_url": "https://control1.craftradio.ru:8000/145_8bcdcddd"
     },
     {
         "name": "Радио Дача Калуга 105.6 FM",
-        "url": "http://online2.gkvr.ru:8000/dacha_klg_64.aac",
+        "url": "https://online2.gkvr.ru:8000/dacha_klg_64.aac",
         "country": "RU",
-        "tags": [
-            "105_6",
-            "kaluga",
-            "music",
-            "pop",
-            "radio dacha",
-            "rus hits"
-        ],
         "favicon": "null",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/dacha_klg_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/dacha_klg_64.aac"
     },
     {
         "name": "Радио Дача Киров 91.6 FM",
-        "url": "http://185.76.147.85:8000/dacha_kirov",
+        "url": "https://185.76.147.85:8000/dacha_kirov",
         "country": "RU",
-        "tags": [
-            "kirov",
-            "music",
-            "pop",
-            "radio dacha",
-            "region 43"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_182017872.jpg?alt=media&token=dbf12847-d8b3-438d-a5ee-c38a20e6abe0",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.76.147.85:8000/dacha_kirov"
+        "working_url": "https://185.76.147.85:8000/dacha_kirov"
     },
     {
         "name": "Радио Дача Краснодар 88.3 FM",
-        "url": "http://online-1.gkvr.ru:8000/dacha_krd_128.aac",
+        "url": "https://online-1.gkvr.ru:8000/dacha_krd_128.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_221355773.jpg?alt=media&token=769edf76-8e71-4485-a4e5-40f62bb7aa82",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "http://online-1.gkvr.ru:8000/dacha_krd_128.aac"
+        "working_url": "https://online-1.gkvr.ru:8000/dacha_krd_128.aac"
     },
     {
         "name": "Радио Дача Нижний Новгород 104.5 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "radio dacha"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194834420.jpg?alt=media&token=96e16374-2d2e-4a1d-a913-61a998de38b7",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412"
     },
     {
         "name": "Радио Дача Ростов-на-Дону 103.3 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_602",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_602",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_602"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_602"
     },
     {
         "name": "Радио Дача Самара 102.1 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_319",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_319",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_224743350.jpg?alt=media&token=4c4d28bc-45aa-4563-a280-f903cb0fef01",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_319"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_319"
     },
     {
         "name": "Радио Дача Санкт-Петербург 97.0 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_3375",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_3375",
         "country": "RU",
-        "tags": [
-            "97_0 fm",
-            "chanson",
-            "music",
-            "pop",
-            "radio dacha",
-            "spb"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_3375"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_3375"
     },
     {
         "name": "Радио Дача Смоленск 89.9 FM",
-        "url": "http://92.241.103.200:9913/dacha_sm",
+        "url": "https://92.241.103.200:9913/dacha_sm",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "music",
-            "pop",
-            "radio dacha",
-            "smolensk"
-        ],
         "favicon": "null",
         "codec": "OGG",
         "bitrate": 256,
-        "working_url": "http://92.241.103.200:9913/dacha_sm"
+        "working_url": "https://92.241.103.200:9913/dacha_sm"
     },
     {
         "name": "Радио Дача Тверь 107.2 FM",
-        "url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_1109",
+        "url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_1109",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_220630085.jpg?alt=media&token=330c837a-9217-47fb-aa2e-626269c716c8",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_1109"
+        "working_url": "https://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_1109"
     },
     {
         "name": "Радио Дача Тула 106.9 FM",
-        "url": "http://87.244.47.90:8000/Dacha",
+        "url": "https://87.244.47.90:8000/Dacha",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "radio dacha",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_231101593.jpg?alt=media&token=b06f7852-9cea-45e4-bae2-68f3da69c6cf",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/Dacha"
+        "working_url": "https://87.244.47.90:8000/Dacha"
     },
     {
         "name": "Радио для двоих Кострома 88.4 FM",
-        "url": "http://194.58.182.69:8000/Radio_for_2_Kostroma",
+        "url": "https://194.58.182.69:8000/Radio_for_2_Kostroma",
         "country": "RU",
-        "tags": [
-            "kostroma",
-            "music",
-            "pop"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://194.58.182.69:8000/Radio_for_2_Kostroma"
+        "working_url": "https://194.58.182.69:8000/Radio_for_2_Kostroma"
     },
     {
         "name": "радио Забытая кассета",
-        "url": "http://casseta-disco.ru:1090/stream",
+        "url": "https://casseta-disco.ru:1090/stream",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "https://disk.yandex.ru/i/kQwGQ7rnl3GAYw",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://casseta-disco.ru:1090/stream"
+        "working_url": "https://casseta-disco.ru:1090/stream"
     },
     {
         "name": "РАДИО КАФЕ - Radio CAFE",
-        "url": "http://cafe.volna.top/Cafe",
+        "url": "https://cafe.volna.top/Cafe",
         "country": "RU",
-        "tags": [
-            "amg",
-            "chillout",
-            "easy",
-            "gold",
-            "instrumental",
-            "pop",
-            "relax"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://cafe.amgradio.ru/cafe.aacp"
+        "working_url": "https://cafe.amgradio.ru/cafe.aacp"
     },
     {
         "name": "Радио Комета Донецк 98.6 FM",
-        "url": "http://online.kometa.fm:8000/kometa_donetsk_inet.ogg",
+        "url": "https://online.kometa.fm:8000/kometa_donetsk_inet.ogg",
         "country": "RU",
-        "tags": [
-            "98_6 fm",
-            "dnr",
-            "donetsk",
-            "music",
-            "pop",
-            "radio kometa"
-        ],
         "favicon": "null",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://online.kometa.fm:8000/kometa_donetsk_inet.ogg"
+        "working_url": "https://online.kometa.fm:8000/kometa_donetsk_inet.ogg"
     },
     {
         "name": "Радио Комета Чехов 92.6 FM",
-        "url": "http://online.kometa.fm:8000/live",
+        "url": "https://online.kometa.fm:8000/live",
         "country": "RU",
-        "tags": [
-            "chekhov",
-            "kometa",
-            "moscow region",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241221_115255238.jpg?alt=media&token=0e3dccc3-42d8-465a-91a2-b35a9df536ad",
         "codec": "OGG",
         "bitrate": 128,
-        "working_url": "http://online.kometa.fm:8000/live"
+        "working_url": "https://online.kometa.fm:8000/live"
     },
     {
         "name": "Радио Красная Армия Тюмень 104.6 FM",
-        "url": "http://live.rzs.ru/ka.128.mp3",
+        "url": "https://live.rzs.ru/ka.128.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241005_151549470.jpg?alt=media&token=c2791bcb-c4a3-4120-ba5f-49c3b987c8c6",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://live.rzs.ru/ka.128.mp3"
+        "working_url": "https://live.rzs.ru/ka.128.mp3"
     },
     {
         "name": "Радио Крым Симферополь 100.1 FM",
         "url": "https://fm.1tvcrimea.ru:19000/stream.mp3",
         "country": "RU",
-        "tags": [
-            "100_1 fm",
-            "music",
-            "pop",
-            "radio krym",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115203716.jpg?alt=media&token=6a8810b5-ea25-4d78-be29-3504cbfe780a",
         "codec": "MP3",
         "bitrate": 256,
@@ -4031,9 +2442,6 @@
         "name": "Радио Лисица",
         "url": "https://a7.radioheart.ru:8005/RH24945",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/6/71476.v3.png",
         "codec": "MP3",
         "bitrate": 64,
@@ -4041,168 +2449,107 @@
     },
     {
         "name": "радио МЕГАПОЛИС 128 kb/s",
-        "url": "http://online.radio-megapolis.ru:8000/megapolis_mp3",
+        "url": "https://online.radio-megapolis.ru:8000/megapolis_mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn-profiles.tunein.com/s11094/logog.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://online.radio-megapolis.ru:8000/megapolis_mp3"
+        "working_url": "https://online.radio-megapolis.ru:8000/megapolis_mp3"
     },
     {
         "name": "Радио Мегаполис Самара 103.6 FM",
-        "url": "http://online2.radio-megapolis.ru:8000/megapolis",
+        "url": "https://online2.radio-megapolis.ru:8000/megapolis",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225518367.jpg?alt=media&token=6c2bed2c-9677-410f-a70d-07ebd706821a",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.radio-megapolis.ru:8000/megapolis"
+        "working_url": "https://online2.radio-megapolis.ru:8000/megapolis"
     },
     {
         "name": "Радио Мелодия Воронеж 106.8 FM",
-        "url": "http://icecast.mediaalliance.cdnvideo.ru/mediaalliance",
+        "url": "https://icecast.mediaalliance.cdnvideo.ru/mediaalliance",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_192027471.jpg?alt=media&token=27e2ae46-af80-45e8-a422-8c0f73f85c6f",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://icecast.mediaalliance.cdnvideo.ru/mediaalliance"
+        "working_url": "https://icecast.mediaalliance.cdnvideo.ru/mediaalliance"
     },
     {
         "name": "Радио Мир Великий Новгород 104.5 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.mir",
+        "url": "https://nov.rlnk.ru:8000/radio.mir",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_191150008.jpg?alt=media&token=254d0d73-0a64-4d56-bb37-5081e4d908b2",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.mir"
+        "working_url": "https://nov.rlnk.ru:8000/radio.mir"
     },
     {
         "name": "Радио Мир Владикавказ 91.6 FM",
-        "url": "http://icecast.mir24.tv:8000/Mir_Vladikavkaz",
+        "url": "https://icecast.mir24.tv:8000/Mir_Vladikavkaz",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://icecast.mir24.tv:8000/Mir_Vladikavkaz"
+        "working_url": "https://icecast.mir24.tv:8000/Mir_Vladikavkaz"
     },
     {
         "name": "Радио Мир Ростов-на-Дону 90.6 FM",
-        "url": "http://icecast.mir24.tv:8000/mir_rostov",
+        "url": "https://icecast.mir24.tv:8000/mir_rostov",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_205431235.jpg?alt=media&token=af9ddf05-8686-46df-99d0-cb4f7c8206f1",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://icecast.mir24.tv:8000/mir_rostov"
+        "working_url": "https://icecast.mir24.tv:8000/mir_rostov"
     },
     {
         "name": "Радио Мир Смоленск 103.1 FM",
-        "url": "http://92.241.103.200:8083/mir_sm",
+        "url": "https://92.241.103.200:8083/mir_sm",
         "country": "RU",
-        "tags": [
-            "103_1 fm",
-            "music",
-            "pop",
-            "radio mir",
-            "smolensk",
-            "world"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://92.241.103.200:8083/mir_sm"
+        "working_url": "https://92.241.103.200:8083/mir_sm"
     },
     {
         "name": "Радио Монте Карло Владикавказ 107.5 FM",
-        "url": "http://broadcast.osetiafm.ru/mc.mp3",
+        "url": "https://broadcast.osetiafm.ru/mc.mp3",
         "country": "RU",
-        "tags": [
-            "15",
-            "music",
-            "pop",
-            "region 15",
-            "vladikavkaz"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_195510022.jpg?alt=media&token=3fe72f07-9849-49f1-9e19-7189262a73ed",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://broadcast.osetiafm.ru/mc.mp3"
+        "working_url": "https://broadcast.osetiafm.ru/mc.mp3"
     },
     {
         "name": "Радио Монте-Карло\nРостов-на-Дону 103.7 FM",
-        "url": "http://online-1.gkvr.ru:8000/mc_rnd_64.aac",
+        "url": "https://online-1.gkvr.ru:8000/mc_rnd_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_205630875.jpg?alt=media&token=e136d2eb-36a6-44c2-9bd7-de90e264f4be",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://online-1.gkvr.ru:8000/mc_rnd_64.aac"
+        "working_url": "https://online-1.gkvr.ru:8000/mc_rnd_64.aac"
     },
     {
         "name": "Радио Монте-Карло Калуга 96.7 FM",
-        "url": "http://online2.gkvr.ru:8000/mc_klg_64.aac",
+        "url": "https://online2.gkvr.ru:8000/mc_klg_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224621394.jpg?alt=media&token=280c2dd0-c8a5-4ed2-aae2-c7df02df142e",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/mc_klg_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/mc_klg_64.aac"
     },
     {
         "name": "Радио Монте-Карло Тула 106.4 FM",
-        "url": "http://87.244.47.90:8000/RMC",
+        "url": "https://87.244.47.90:8000/RMC",
         "country": "RU",
-        "tags": [
-            "monte carlo",
-            "music",
-            "pop",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_231801273.jpg?alt=media&token=f7c29238-8791-42f7-b679-4cb3868aa43e",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/RMC"
+        "working_url": "https://87.244.47.90:8000/RMC"
     },
     {
         "name": "Радио Море Симферополь 100.6 FM",
         "url": "https://sea.1tvcrimea.ru:19003/stream_sea.mp3",
         "country": "RU",
-        "tags": [
-            "100_6'",
-            "krym",
-            "music",
-            "pop",
-            "radio more",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115407498.jpg?alt=media&token=19af0426-3ee8-4a87-918a-d9698f3defbe",
         "codec": "MP3",
         "bitrate": 256,
@@ -4210,28 +2557,17 @@
     },
     {
         "name": "Радио МСС Владикавказ 104.9 FM",
-        "url": "http://85.172.206.196:8000/radio",
+        "url": "https://85.172.206.196:8000/radio",
         "country": "RU",
-        "tags": [
-            "15",
-            "music",
-            "pop",
-            "region 15",
-            "vladikavkaz"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_195740172.jpg?alt=media&token=535ef69e-3d10-4300-8255-1a4b83ad5680",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://85.172.206.196:8000/radio"
+        "working_url": "https://85.172.206.196:8000/radio"
     },
     {
         "name": "Радио Орфей - Классика эстрады",
         "url": "https://channels.fonotron.ru:8000/Chan_7_192.mp3",
         "country": "RU",
-        "tags": [
-            "classic pop",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
@@ -4241,12 +2577,6 @@
         "name": "Радио Орфей Санкт-Петербург 97.6 FM",
         "url": "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3",
         "country": "RU",
-        "tags": [
-            "classical music",
-            "orpheu",
-            "popular classics",
-            "spb"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 192,
@@ -4254,197 +2584,116 @@
     },
     {
         "name": "Радио Пассаж",
-        "url": "http://listen.radiopassazh.ru/aac-48",
+        "url": "https://listen.radiopassazh.ru/aac-48",
         "country": "RU",
-        "tags": [
-            "french",
-            "hits",
-            "pop",
-            "russian",
-            "spanish",
-            "top40",
-            "world music"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://listen.radiopassazh.ru/aac-48"
+        "working_url": "https://listen.radiopassazh.ru/aac-48"
     },
     {
         "name": "Радио Пи-ФМ Тула 91.7 FM",
-        "url": "http://87.244.47.90:8000/PiFM",
+        "url": "https://87.244.47.90:8000/PiFM",
         "country": "RU",
-        "tags": [
-            "music",
-            "pi fm",
-            "pop",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_232114763.jpg?alt=media&token=60964194-cab7-45a2-bd0b-0934708e8cf1",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://87.244.47.90:8000/PiFM"
+        "working_url": "https://87.244.47.90:8000/PiFM"
     },
     {
         "name": "Радио Пи-ФМ Тюмень 101.4 FM",
-        "url": "http://89.204.58.59:8000/pi_72_01",
+        "url": "https://89.204.58.59:8000/pi_72_01",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241005_150902763.jpg?alt=media&token=1a32d1c6-2769-450a-bb29-6f992e8c0a76",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://89.204.58.59:8000/pi_72_01"
+        "working_url": "https://89.204.58.59:8000/pi_72_01"
     },
     {
         "name": "Радио Рандеву Нижний Новгород 103.4 FM",
-        "url": "http://stream.randevuradio.ru:8000/randevu",
+        "url": "https://stream.randevuradio.ru:8000/randevu",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "radio randevy"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212142668.jpg?alt=media&token=019d863a-3c34-4da9-bb88-ed0cd2edecd0",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://stream.randevuradio.ru:8000/randevu"
+        "working_url": "https://stream.randevuradio.ru:8000/randevu"
     },
     {
         "name": "Радио Рекорд Боровичи 104.7 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.recrdb",
+        "url": "https://nov.rlnk.ru:8000/radio.recrdb",
         "country": "RU",
-        "tags": [
-            "borovichi",
-            "music",
-            "pop",
-            "record",
-            "region 53"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241125_232732944.jpg?alt=media&token=8c5ad863-1ee9-470c-9524-8b91b3040089",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.recrdb"
+        "working_url": "https://nov.rlnk.ru:8000/radio.recrdb"
     },
     {
         "name": "Радио Рекорд Великий Новгород 100.0 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.recrdn",
+        "url": "https://nov.rlnk.ru:8000/radio.recrdn",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_191932506.jpg?alt=media&token=d506106b-6b17-4ca6-a45e-6359ecc24ead",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.recrdn"
+        "working_url": "https://nov.rlnk.ru:8000/radio.recrdn"
     },
     {
         "name": "Радио Рекорд Казань 101.9 FM",
-        "url": "http://online-2.gkvr.ru:8000/record_kaz_64.aac",
+        "url": "https://online-2.gkvr.ru:8000/record_kaz_64.aac",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "kazan'",
-            "music",
-            "pop",
-            "record",
-            "tatarstan"
-        ],
         "favicon": "null",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online-2.gkvr.ru:8000/record_kaz_64.aac"
+        "working_url": "https://online-2.gkvr.ru:8000/record_kaz_64.aac"
     },
     {
         "name": "Радио Рекорд Кириши 104.9 FM",
-        "url": "http://79.173.124.23:1121/Recordkir",
+        "url": "https://79.173.124.23:1121/Recordkir",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "kirishi",
-            "music",
-            "pop",
-            "radio record"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241225_211219683.jpg?alt=media&token=1642b2ae-5549-4acf-93fd-499068f4b77c",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://79.173.124.23:1121/Recordkir"
+        "working_url": "https://79.173.124.23:1121/Recordkir"
     },
     {
         "name": "Радио Рекорд Москва 89.9 FM",
-        "url": "http://icecast-record.cdnvideo.ru/record",
+        "url": "https://icecast-record.cdnvideo.ru/record",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240712_210723953.jpg?alt=media&token=b074e3ba-75e0-41cb-ae9d-f6b74f975a5c",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://icecast-record.cdnvideo.ru/record"
+        "working_url": "https://icecast-record.cdnvideo.ru/record"
     },
     {
         "name": "Радио Рекорд Нижний Новгород 100.9 FM",
-        "url": "http://online2.gkvr.ru:8000/record_nno_64.aac",
+        "url": "https://online2.gkvr.ru:8000/record_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "record"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212321094.jpg?alt=media&token=81370aaa-06b1-4dcf-81f4-e48a075cc237",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/record_nno_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/record_nno_64.aac"
     },
     {
         "name": "Радио Рекорд Петрозаводск 95.0 FM",
-        "url": "http://ic.radio10.live/record.mp3",
+        "url": "https://ic.radio10.live/record.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_230557074.jpg?alt=media&token=8fd504d5-782d-4019-9b98-a76a237bbb59",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://ic.radio10.live/record.mp3"
+        "working_url": "https://ic.radio10.live/record.mp3"
     },
     {
         "name": "Радио Рекорд Самара 101.5 FM",
-        "url": "http://online-1.gkvr.ru:8000/record_sam_96.aac",
+        "url": "https://online-1.gkvr.ru:8000/record_sam_96.aac",
         "country": "RU",
-        "tags": [
-            "dance",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225808382.jpg?alt=media&token=c0d36d8b-0c87-45eb-8b05-265b9354dc74",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://online-1.gkvr.ru:8000/record_sam_96.aac"
+        "working_url": "https://online-1.gkvr.ru:8000/record_sam_96.aac"
     },
     {
         "name": "Радио Рекорд Симферополь 104.8 FM",
         "url": "https://radio.promedia.ru/record-simf",
         "country": "RU",
-        "tags": [
-            "104_8 fm",
-            "krym",
-            "music",
-            "pop",
-            "record",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115553153.jpg?alt=media&token=b8c012f8-fe16-4a73-9460-957c1b9c38e0",
         "codec": "MP3",
         "bitrate": 256,
@@ -4452,46 +2701,26 @@
     },
     {
         "name": "Радио Рекорд Ставрополь (Михайловск) 100.1 FM",
-        "url": "http://77.39.8.49:8000/hit_stv",
+        "url": "https://77.39.8.49:8000/hit_stv",
         "country": "RU",
-        "tags": [
-            "club",
-            "dance",
-            "pop",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://77.39.8.49:8000/hit_stv"
+        "working_url": "https://77.39.8.49:8000/hit_stv"
     },
     {
         "name": "Радио Рекорд Тула 91.3 FM",
-        "url": "http://87.244.47.90:8000/Record",
+        "url": "https://87.244.47.90:8000/Record",
         "country": "RU",
-        "tags": [
-            "dance radio",
-            "music",
-            "pop",
-            "record",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_232240732.jpg?alt=media&token=b471bb8f-87c5-432f-8616-2e42ab7065dd",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/Record"
+        "working_url": "https://87.244.47.90:8000/Record"
     },
     {
         "name": "Радио Родных Дорог",
         "url": "https://stream1.radiord.ru:8000/live128.mp3",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "music",
-            "pop",
-            "rrd"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
@@ -4499,31 +2728,17 @@
     },
     {
         "name": "Радио Родных Дорог Семёнов 106.7 FM",
-        "url": "http://195.16.33.158:8000/live",
+        "url": "https://195.16.33.158:8000/live",
         "country": "RU",
-        "tags": [
-            "music",
-            "nostalgia",
-            "pop",
-            "rrd",
-            "semenov"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_000229150.jpg?alt=media&token=d7b2a8c7-5700-4c55-98c2-8846031700ca",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://195.16.33.158:8000/live"
+        "working_url": "https://195.16.33.158:8000/live"
     },
     {
         "name": "Радио Родных Дорог Ярославль 93.0 FM",
         "url": "https://s0.radioheart.ru:8000/r93fm",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "music",
-            "pop",
-            "radio native roads",
-            "yaroslavl"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113621685.jpg?alt=media&token=6a20331f-6cc0-4186-ae92-e177bfface40",
         "codec": "MP3",
         "bitrate": 128,
@@ -4533,12 +2748,6 @@
         "name": "Радио Романтика",
         "url": "https://pub0202.101.ru:8443/stream/air/aac/64/101",
         "country": "RU",
-        "tags": [
-            "chillout",
-            "covers",
-            "pop",
-            "relax"
-        ],
         "favicon": "https://www.radioromantika.ru/design/images/new_romantika_images/img_for_design/icons/touch-icon-ipad.png",
         "codec": "AAC",
         "bitrate": 0,
@@ -4548,9 +2757,6 @@
         "name": "Радио Русские Песни",
         "url": "https://listen.rusongs.ru/ru-aac-64",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/9/149.v6.png",
         "codec": "AAC",
         "bitrate": 64,
@@ -4558,56 +2764,35 @@
     },
     {
         "name": "Радио Русский Хит 99.6 FM Москва",
-        "url": "http://stream2.ruhit.fm:9000/19_ruhit_64_reg_1",
+        "url": "https://stream2.ruhit.fm:9000/19_ruhit_64_reg_1",
         "country": "RU",
-        "tags": [
-            "moskva",
-            "music",
-            "pop",
-            "russian hit"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://stream2.ruhit.fm:9000/19_ruhit_64_reg_1"
+        "working_url": "https://stream2.ruhit.fm:9000/19_ruhit_64_reg_1"
     },
     {
         "name": "Радио СПУТНИК / Radio Sputnik",
-        "url": "http://online.sputnikfm.ru:8000/sputnik_mp3",
+        "url": "https://online.sputnikfm.ru:8000/sputnik_mp3",
         "country": "RU",
-        "tags": [
-            "russian pop",
-            "russian programming"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://online.sputnikfm.ru:8000/sputnik_mp3"
+        "working_url": "https://online.sputnikfm.ru:8000/sputnik_mp3"
     },
     {
         "name": "Радио ТОРНАДО",
-        "url": "http://listen1.myradio24.com/torrnado",
+        "url": "https://listen1.myradio24.com/torrnado",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "https://sun9-62.userapi.com/sun9-22/s/v1/if1/DnVc3gZvdRquHMXjWv9YUmm_UmpIvPf6wm4rnYckQVmKG0X5XAj15MLHuCwZCmrk3DJnBiUs.jpg?size=200x200&quality=96&crop=0,0,200,200&ava=1",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen1.myradio24.com/torrnado"
+        "working_url": "https://listen1.myradio24.com/torrnado"
     },
     {
         "name": "Радио Точка Симферополь 98.7 FM",
         "url": "https://fm.1tvcrimea.ru:19001/stream_provod.mp3",
         "country": "RU",
-        "tags": [
-            "98_7",
-            "krym",
-            "music",
-            "pop",
-            "radio tochka",
-            "simferopol'"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115811217.jpg?alt=media&token=eacb14c1-44c8-439d-9def-2be9d5143936",
         "codec": "MP3",
         "bitrate": 256,
@@ -4615,40 +2800,26 @@
     },
     {
         "name": "Радио ФМ-на-Дону\nРостов-на-Дону 100.7 FM",
-        "url": "http://radio.mediacdn.ru/fm_na_donu.mp3",
+        "url": "https://radio.mediacdn.ru/fm_na_donu.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_203855155.jpg?alt=media&token=8f2bb2cb-f674-44da-a912-388c29cadc4e",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.mediacdn.ru/fm_na_donu.mp3"
+        "working_url": "https://radio.mediacdn.ru/fm_na_donu.mp3"
     },
     {
         "name": "РАДИО ФРЕШ - Radio FRESH",
-        "url": "http://fresh.volna.top/Fresh",
+        "url": "https://fresh.volna.top/Fresh",
         "country": "RU",
-        "tags": [
-            "amg",
-            "chr",
-            "pop",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://fresh.amgradio.ru/fresh.aacp"
+        "working_url": "https://fresh.amgradio.ru/fresh.aacp"
     },
     {
         "name": "Радио Хит-FM Ярославль 105.6",
-        "url": "http://gtk.tv/hitfmhls/hitfm.m3u8",
+        "url": "https://gtk.tv/hitfmhls/hitfm.m3u8",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240814_224151168.jpg?alt=media&token=bcd91854-c1e8-45b8-8ff0-52d63395f012",
         "codec": "UNKNOWN",
         "bitrate": 0,
@@ -4656,83 +2827,53 @@
     },
     {
         "name": "Радио Хит-ФМ Калуга 103.6 FM",
-        "url": "http://online2.gkvr.ru:8000/hitfm_klg_64.aac",
+        "url": "https://online2.gkvr.ru:8000/hitfm_klg_64.aac",
         "country": "RU",
-        "tags": [
-            "hits",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224926598.jpg?alt=media&token=b6b6198f-815e-42a6-a9c3-53ef16984223",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://online2.gkvr.ru:8000/hitfm_klg_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/hitfm_klg_64.aac"
     },
     {
         "name": "Радио Шансон - Radio Shanson",
-        "url": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
+        "url": "https://chanson.hostingradio.ru:8041/chanson256.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://chanson.hostingradio.ru:8041/chanson256.mp3"
+        "working_url": "https://chanson.hostingradio.ru:8041/chanson256.mp3"
     },
     {
         "name": "Радио Шансон Киров 91.2 FM",
-        "url": "http://185.76.147.85:8000/chanson_kirov",
+        "url": "https://185.76.147.85:8000/chanson_kirov",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "kirov",
-            "music",
-            "pop",
-            "region 43"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_182642724.jpg?alt=media&token=8fbb6252-831a-4cf5-a7b1-854429fb5c38",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.76.147.85:8000/chanson_kirov"
+        "working_url": "https://185.76.147.85:8000/chanson_kirov"
     },
     {
         "name": "Радио Шансон Нижний Новгород 106.9 FM",
-        "url": "http://online2.gkvr.ru:8000/chanson_nno_64.aac",
+        "url": "https://online2.gkvr.ru:8000/chanson_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "chanson",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_213117323.jpg?alt=media&token=a8cb6bc5-2c70-441d-9d44-11bc4d6dfc58",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/chanson_nno_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/chanson_nno_64.aac"
     },
     {
         "name": "Радио Шоколад Нижний Новгород 96.4 FM",
-        "url": "http://online2.gkvr.ru:8000/chocolate_nno_64.aac",
+        "url": "https://online2.gkvr.ru:8000/chocolate_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "radio chocolate"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_213242425.jpg?alt=media&token=712b301a-cd07-47d1-bfe7-0c8a47f3e49b",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/chocolate_nno_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/chocolate_nno_64.aac"
     },
     {
         "name": "Радио Юнак",
         "url": "https://xn--80anjg9azcr.xn--p1ai/listen/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D1%8E%D0%BD%D0%B0%D0%BA/radio.mp3",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "https://xn--80anjg9azcr.xn--p1ai/static/uploads/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D1%8E%D0%BD%D0%B0%D0%BA/album_art.1778912989.jpg",
         "codec": "MP3",
         "bitrate": 192,
@@ -4742,9 +2883,6 @@
         "name": "Радио Юнитон Новосибирск 100.7 FM",
         "url": "https://online.uniton.ru/mp3/uniton",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241006_225416953.jpg?alt=media&token=8ba3f312-8064-4027-80c6-ada044f84158",
         "codec": "MP3",
         "bitrate": 0,
@@ -4752,45 +2890,26 @@
     },
     {
         "name": "Ретро FM",
-        "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+        "url": "https://retroserver.streamr.ru:8043/retro256.mp3",
         "country": "RU",
-        "tags": [
-            "classic hits",
-            "moscow",
-            "music",
-            "pop",
-            "retro",
-            "russia",
-            "russian pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://retroserver.streamr.ru:8043/retro256.mp3"
+        "working_url": "https://retroserver.streamr.ru:8043/retro256.mp3"
     },
     {
         "name": "Ретро FM 70e",
-        "url": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
+        "url": "https://retro70.hostingradio.ru:8025/retro70-128.mp3",
         "country": "RU",
-        "tags": [
-            "1970s",
-            "pop",
-            "retro"
-        ],
         "favicon": "https://avatars.yandex.net/get-music-user-playlist/34120/116109732.1208.35284/m1000x1000?1659064505655&webp=false",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://retro70.hostingradio.ru:8025/retro70-128.mp3"
+        "working_url": "https://retro70.hostingradio.ru:8025/retro70-128.mp3"
     },
     {
         "name": "Ретро FM 80e",
         "url": "https://retro80.hostingradio.ru:8025/retro80-128.mp3",
         "country": "RU",
-        "tags": [
-            "1980's",
-            "pop",
-            "retro"
-        ],
         "favicon": "https://www.radiogrom.com/paint_new/logo_big/radio-retro-fm-80e.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -4798,47 +2917,26 @@
     },
     {
         "name": "Ретро FM Санкт-Петербург (128 kbps, mp3)",
-        "url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3",
+        "url": "https://emgspb.hostingradio.ru/retrofmspb128.mp3",
         "country": "RU",
-        "tags": [
-            "disco",
-            "pop",
-            "rock"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3"
+        "working_url": "https://emgspb.hostingradio.ru/retrofmspb128.mp3"
     },
     {
         "name": "РЕТРО ХИТ - RETRO HIT",
-        "url": "http://retro.volna.top/Retro",
+        "url": "https://retro.volna.top/Retro",
         "country": "RU",
-        "tags": [
-            "adult",
-            "amg",
-            "gold",
-            "pop",
-            "retro",
-            "russian"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://retro.amgradio.ru/retro.aacp"
+        "working_url": "https://retro.amgradio.ru/retro.aacp"
     },
     {
         "name": "Роксана радиосы",
         "url": "https://listen1.myradio24.com/2761",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "http://roksanaradio.ru/assets/icon_256x256.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -4848,9 +2946,6 @@
         "name": "Русская Волна",
         "url": "https://ru2.volna.top/RuWave48",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://cdn.onlineradiobox.com/img/l/8/73538.v14.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -4858,38 +2953,26 @@
     },
     {
         "name": "Русский Хит",
-        "url": "http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1",
+        "url": "https://stream2.ruhit.fm:9000/19_ruhit_128_reg_1",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "russian"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1"
+        "working_url": "https://stream2.ruhit.fm:9000/19_ruhit_128_reg_1"
     },
     {
         "name": "РУССКОЕ 1995-2005 [HDR FLAC]",
-        "url": "http://harddanceradio.ddns.is74.ru:9000/russian.ogg",
+        "url": "https://harddanceradio.ddns.is74.ru:9000/russian.ogg",
         "country": "RU",
-        "tags": [
-            "pop",
-            "rock"
-        ],
         "favicon": "https://telegram.org/img/apple-touch-icon.png",
         "codec": "OGG",
         "bitrate": 320,
-        "working_url": "http://harddanceradio.ddns.is74.ru:9000/russian.ogg"
+        "working_url": "https://harddanceradio.ddns.is74.ru:9000/russian.ogg"
     },
     {
         "name": "Русское радио",
         "url": "https://radio.promedia.ru/rr-simf",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
@@ -4899,9 +2982,6 @@
         "name": "Русское Радио Moscow",
         "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
         "country": "RU",
-        "tags": [
-            "pop music"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 0,
@@ -4909,44 +2989,26 @@
     },
     {
         "name": "Русское радио Великий Новгород 100.4 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.rus_vn",
+        "url": "https://nov.rlnk.ru:8000/radio.rus_vn",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240915_192138227.jpg?alt=media&token=3c605f74-292e-405e-bd07-2d10b89f06e8",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.rus_vn"
+        "working_url": "https://nov.rlnk.ru:8000/radio.rus_vn"
     },
     {
         "name": "Русское радио Владикавказ 107.9 FM",
-        "url": "http://broadcast.osetiafm.ru/rr.mp3",
+        "url": "https://broadcast.osetiafm.ru/rr.mp3",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "region 15",
-            "russian hits",
-            "vladikavkaz"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_200537271.jpg?alt=media&token=22d50f28-7634-418d-b9bb-16913f6a6c52",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://broadcast.osetiafm.ru/rr.mp3"
+        "working_url": "https://broadcast.osetiafm.ru/rr.mp3"
     },
     {
         "name": "Русское радио Волоколамск 88.0 FM",
         "url": "https://control1.craftradio.ru:8000/163_67f34ca9",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "region 50",
-            "russian radio",
-            "volokolamsk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241202_225640295.jpg?alt=media&token=4aa635b1-53ef-4e52-b95d-0b29fa8625fe",
         "codec": "MP3",
         "bitrate": 0,
@@ -4954,57 +3016,35 @@
     },
     {
         "name": "Русское радио Иваново 107.7 FM",
-        "url": "http://stream.ivpromedia.ru:8000/Russkoe-radio.mp3",
+        "url": "https://stream.ivpromedia.ru:8000/Russkoe-radio.mp3",
         "country": "RU",
-        "tags": [
-            "ivanovo",
-            "music",
-            "pop",
-            "russkoe radio"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250429_125353615.jpg?alt=media&token=97e56b51-a1ad-476e-9151-b323286f645d",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://stream.ivpromedia.ru:8000/Russkoe-radio.mp3"
+        "working_url": "https://stream.ivpromedia.ru:8000/Russkoe-radio.mp3"
     },
     {
         "name": "Русское радио Калуга 102.1 FM",
-        "url": "http://online2.gkvr.ru:8000/rusradio_klg_64.aac",
+        "url": "https://online2.gkvr.ru:8000/rusradio_klg_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224800675.jpg?alt=media&token=e6ac10bb-c8f1-43da-85ec-0ae9ead2f082",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online2.gkvr.ru:8000/rusradio_klg_64.aac"
+        "working_url": "https://online2.gkvr.ru:8000/rusradio_klg_64.aac"
     },
     {
         "name": "Русское радио Кострома 104.8 FM",
-        "url": "http://s0.radioheart.ru:8000/rr_44",
+        "url": "https://s0.radioheart.ru:8000/rr_44",
         "country": "RU",
-        "tags": [
-            "kostroma",
-            "music",
-            "pop",
-            "russkoe radio"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s0.radioheart.ru:8000/rr_44"
+        "working_url": "https://s0.radioheart.ru:8000/rr_44"
     },
     {
         "name": "Русское радио Нижний Новгород 102.9 FM",
         "url": "https://online2.gkvr.ru:8000/rusradio_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "nizhniy novgorod",
-            "pop",
-            "russkoe radio"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212802425.jpg?alt=media&token=a88102da-4ba4-450f-9ea1-38ce79f8115b",
         "codec": "AAC+",
         "bitrate": 64,
@@ -5012,58 +3052,35 @@
     },
     {
         "name": "Русское радио Ростов-на-Дону 103.0 FM",
-        "url": "http://online-2.gkvr.ru:8000/rusradio_rnd_64.aac",
+        "url": "https://online-2.gkvr.ru:8000/rusradio_rnd_64.aac",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_210216676.jpg?alt=media&token=2de3423a-bd95-4fd3-bd5c-e22065d3ae88",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "http://online-2.gkvr.ru:8000/rusradio_rnd_64.aac"
+        "working_url": "https://online-2.gkvr.ru:8000/rusradio_rnd_64.aac"
     },
     {
         "name": "Русское радио Смоленск 103.5 FM",
-        "url": "http://92.241.103.200:8082/rr_sm",
+        "url": "https://92.241.103.200:8082/rr_sm",
         "country": "RU",
-        "tags": [
-            "103_5 fm",
-            "music",
-            "pop",
-            "russkoe radio",
-            "smolensk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://92.241.103.200:8082/rr_sm"
+        "working_url": "https://92.241.103.200:8082/rr_sm"
     },
     {
         "name": "Русское радио Сосновый Бор 97.9 FM",
-        "url": "http://79.173.124.23:1121/Russosna",
+        "url": "https://79.173.124.23:1121/Russosna",
         "country": "RU",
-        "tags": [
-            "47",
-            "chanson",
-            "music",
-            "pop",
-            "russian hits",
-            "sosnovy bor"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241030_183643753.jpg?alt=media&token=43dfba1b-00ac-4b93-a800-476c9e0e509a",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://79.173.124.23:1121/Russosna"
+        "working_url": "https://79.173.124.23:1121/Russosna"
     },
     {
         "name": "Русское радио Сыктывкар 105.2 FM",
         "url": "https://cast.severmedia.ru:5443/RR_11_01",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_205818099.jpg?alt=media&token=311a6fb2-bd1d-470d-ab41-e8274fd8356c",
         "codec": "MP3",
         "bitrate": 128,
@@ -5071,59 +3088,35 @@
     },
     {
         "name": "Русское радио Тула 105.3 FM",
-        "url": "http://87.244.47.90:8000/Rus",
+        "url": "https://87.244.47.90:8000/Rus",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop",
-            "region 71",
-            "russian hits",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_232536766.jpg?alt=media&token=f482aaad-c9e8-4d07-be7b-9cbb46086c51",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://87.244.47.90:8000/Rus"
+        "working_url": "https://87.244.47.90:8000/Rus"
     },
     {
         "name": "Саба дулкыннары",
-        "url": "http://radio.tatmedia.com:8800/Saba",
+        "url": "https://radio.tatmedia.com:8800/Saba",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "music",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://radio.tatmedia.com:8800/Saba"
+        "working_url": "https://radio.tatmedia.com:8800/Saba"
     },
     {
         "name": "Самарское губернское радио 92.5 FM",
-        "url": "http://46.20.71.66:8000/fm",
+        "url": "https://46.20.71.66:8000/fm",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_230222322.jpg?alt=media&token=9ec4c39b-bac0-428c-9b69-f88ae73ddad9",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://46.20.71.66:8000/fm"
+        "working_url": "https://46.20.71.66:8000/fm"
     },
     {
         "name": "Севастополь FM",
         "url": "https://sevfm.ru:9006/stream",
         "country": "RU",
-        "tags": [
-            "pop",
-            "russian"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -5131,46 +3124,26 @@
     },
     {
         "name": "ХАЙП FM - HYPE FM",
-        "url": "http://hfm.volna.top/HypeFM",
+        "url": "https://hfm.volna.top/HypeFM",
         "country": "RU",
-        "tags": [
-            "amg",
-            "chr",
-            "pop",
-            "russian",
-            "top40"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://hfm.amgradio.ru/hypefm.aacp"
+        "working_url": "https://hfm.amgradio.ru/hypefm.aacp"
     },
     {
         "name": "Хит ФМ Великий Новгород 88.1 FM",
-        "url": "http://nov.rlnk.ru:8000/radio.hitfmn",
+        "url": "https://nov.rlnk.ru:8000/radio.hitfmn",
         "country": "RU",
-        "tags": [
-            "hit fm",
-            "music",
-            "pop",
-            "russian hits",
-            "velikiy novgorod"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://nov.rlnk.ru:8000/radio.hitfmn"
+        "working_url": "https://nov.rlnk.ru:8000/radio.hitfmn"
     },
     {
         "name": "Хит ФМ Нижний Новгород 101.4 FM",
         "url": "https://online2.gkvr.ru:8000/hitfm_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "hit fm",
-            "music",
-            "nizhniy novgorod",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212932011.jpg?alt=media&token=c83c96ee-b8ae-4c53-b134-c4f2fb4eedca",
         "codec": "AAC+",
         "bitrate": 64,
@@ -5180,10 +3153,6 @@
         "name": "Хит ФМ Сыктывкар 102.7 FM",
         "url": "https://cast.severmedia.ru:5443/HIT_11_01",
         "country": "RU",
-        "tags": [
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_205913794.jpg?alt=media&token=294d53ec-e4be-49fc-9460-fbeef4f94451",
         "codec": "MP3",
         "bitrate": 128,
@@ -5191,12 +3160,8 @@
     },
     {
         "name": "ЭкоРадио",
-        "url": "http://online.ekoradio.ru/stream.mp3",
+        "url": "https://online.ekoradio.ru/stream.mp3",
         "country": "RU",
-        "tags": [
-            "local news",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -5204,53 +3169,35 @@
     },
     {
         "name": "эльдорадио (Eldo Radio) 101.4 St. Petersburg",
-        "url": "http://emgspb.hostingradio.ru/eldoradio128.mp3",
+        "url": "https://emgspb.hostingradio.ru/eldoradio128.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "http://eldoradio.ru//favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://emgspb.hostingradio.ru/eldoradio128.mp3"
+        "working_url": "https://emgspb.hostingradio.ru/eldoradio128.mp3"
     },
     {
         "name": "Юлдаш PLUS",
-        "url": "http://radio.mediacdn.ru/uldash_new.mp3",
+        "url": "https://radio.mediacdn.ru/uldash_new.mp3",
         "country": "RU",
-        "tags": [
-            "pop"
-        ],
         "favicon": "https://bash.news/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.mediacdn.ru/uldash_new.mp3"
+        "working_url": "https://radio.mediacdn.ru/uldash_new.mp3"
     },
     {
         "name": "Юлдаш радиоһы",
-        "url": "http://radio.mediacdn.ru/uldash.mp3",
+        "url": "https://radio.mediacdn.ru/uldash.mp3",
         "country": "RU",
-        "tags": [
-            "bashkir",
-            "folk",
-            "live",
-            "news",
-            "pop"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.mediacdn.ru/uldash.mp3"
+        "working_url": "https://radio.mediacdn.ru/uldash.mp3"
     },
     {
         "name": "Юмор ФМ Сыктывкар 99.9 FM",
         "url": "https://cast.severmedia.ru:5443/HUMOR_11_01",
         "country": "RU",
-        "tags": [
-            "humour",
-            "music",
-            "pop"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241022_210023731.jpg?alt=media&token=ea09aed5-d5ea-4ab0-9565-2b87943d8420",
         "codec": "MP3",
         "bitrate": 128,
@@ -5258,33 +3205,20 @@
     },
     {
         "name": "Юмор ФМ Туапсе 93.6 FM",
-        "url": "http://185.185.69.62:8000/humor",
+        "url": "https://185.185.69.62:8000/humor",
         "country": "RU",
-        "tags": [
-            "humour fm",
-            "music",
-            "pop",
-            "tuapse"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://185.185.69.62:8000/humor"
+        "working_url": "https://185.185.69.62:8000/humor"
     },
     {
         "name": "Юмор ФМ Тула 102.7 FM",
-        "url": "http://87.244.47.90:8000/rh",
+        "url": "https://87.244.47.90:8000/rh",
         "country": "RU",
-        "tags": [
-            "humour fm",
-            "music",
-            "pop",
-            "region 71",
-            "tula"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241214_232848618.jpg?alt=media&token=ffc9a9d4-4dba-4c98-8425-b470018630ba",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://87.244.47.90:8000/rh"
+        "working_url": "https://87.244.47.90:8000/rh"
     }
 ]

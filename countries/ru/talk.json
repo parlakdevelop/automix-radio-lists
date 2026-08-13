@@ -1,46 +1,26 @@
 [
     {
         "name": "Capital FM Moscow",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
         "country": "RU",
-        "tags": [
-            "hits",
-            "pop",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"
     },
     {
         "name": "Christian Radio City of Eden",
-        "url": "http://listen7.myradio24.com/cityeden",
+        "url": "https://listen7.myradio24.com/cityeden",
         "country": "RU",
-        "tags": [
-            "christian",
-            "christian music",
-            "christian talk",
-            "christian-gospel",
-            "christianity",
-            "gospel",
-            "gospel music",
-            "religion",
-            "spirituality"
-        ],
         "favicon": "http://www.cityeden.info/_si/0/94656268.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen7.myradio24.com/cityeden"
+        "working_url": "https://listen7.myradio24.com/cityeden"
     },
     {
         "name": "DevZen Podcast",
         "url": "https://live.devzen.ru/stream?type=.mp3",
         "country": "RU",
-        "tags": [
-            "podcast",
-            "talking"
-        ],
         "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/90/f7/1a/90f71a87-096d-b3c1-c284-873b2eaf1a25/mza_4771468106753631555.jpg/1200x630wp.png",
         "codec": "MP3",
         "bitrate": 80,
@@ -50,9 +30,6 @@
         "name": "echofm.online",
         "url": "https://i1.echofm.online:8443/stream",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
@@ -60,55 +37,35 @@
     },
     {
         "name": "MOTORADIO",
-        "url": "http://stream.motoradio.online:8000/high-aac",
+        "url": "https://stream.motoradio.online:8000/high-aac",
         "country": "RU",
-        "tags": [
-            "classic rock",
-            "hard rock",
-            "rock",
-            "talk"
-        ],
         "favicon": "",
         "codec": "AAC",
         "bitrate": 320,
-        "working_url": "http://stream.motoradio.online:8000/high-aac"
+        "working_url": "https://stream.motoradio.online:8000/high-aac"
     },
     {
         "name": "MUŠ",
-        "url": "http://radio.myudm.ru:10010/efir",
+        "url": "https://radio.myudm.ru:10010/efir",
         "country": "RU",
-        "tags": [
-            "music",
-            "talks"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.myudm.ru:10010/efir"
+        "working_url": "https://radio.myudm.ru:10010/efir"
     },
     {
         "name": "NAC Radio",
-        "url": "http://icecast.ntrk21.ru:8000/nacradio",
+        "url": "https://icecast.ntrk21.ru:8000/nacradio",
         "country": "RU",
-        "tags": [
-            "hits",
-            "news",
-            "talk news"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.ntrk21.ru:8000/nacradio"
+        "working_url": "https://icecast.ntrk21.ru:8000/nacradio"
     },
     {
         "name": "Radio Blago",
-        "url": "http://live.radioblago.ru/live-1.mp3",
+        "url": "https://live.radioblago.ru/live-1.mp3",
         "country": "RU",
-        "tags": [
-            "news talk",
-            "political talk",
-            "talk radio"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -116,28 +73,17 @@
     },
     {
         "name": "Radio Fantastika",
-        "url": "http://fantasyradioru.no-ip.biz:8002/live",
+        "url": "https://fantasyradioru.no-ip.biz:8002/live",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://fantasyradioru.no-ip.biz:8002/live"
+        "working_url": "https://fantasyradioru.no-ip.biz:8002/live"
     },
     {
         "name": "Radio Sputnik Volgograd 105.1FM",
         "url": "https://online.sputnikfm.ru/sputnik_mp3",
         "country": "RU",
-        "tags": [
-            "2000s",
-            "80s",
-            "90s",
-            "pop",
-            "rock",
-            "talk"
-        ],
         "favicon": "https://www.sputnikfm.ru/favicon2020.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -145,38 +91,17 @@
     },
     {
         "name": "Radio Voice of Burma",
-        "url": "http://listen4.myradio24.com/39982",
+        "url": "https://listen4.myradio24.com/39982",
         "country": "RU",
-        "tags": [
-            "news talk",
-            "pop",
-            "pop music",
-            "pop rock",
-            "talk",
-            "talk radio"
-        ],
         "favicon": "http://www.voiceofburma.ru/_si/0/66602499.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen4.myradio24.com/39982"
+        "working_url": "https://listen4.myradio24.com/39982"
     },
     {
         "name": "Soloviev FM",
         "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
         "country": "RU",
-        "tags": [
-            "adult",
-            "analysis",
-            "live",
-            "nationalism",
-            "nationalist",
-            "news",
-            "opinion",
-            "politics",
-            "russia",
-            "russian",
-            "talk"
-        ],
         "favicon": "https://play.google.com/favicon.ico",
         "codec": "AAC",
         "bitrate": 0,
@@ -184,140 +109,89 @@
     },
     {
         "name": "Veda-radio",
-        "url": "http://listen.vedaradio.fm:8000/veryhigh",
+        "url": "https://listen.vedaradio.fm:8000/veryhigh",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "https://vedaradio.fm/wp-content/uploads/2024/01/vrlogo2.png",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://listen.vedaradio.fm:8000/veryhigh"
+        "working_url": "https://listen.vedaradio.fm:8000/veryhigh"
     },
     {
         "name": "WRN Rus",
-        "url": "http://shoutcast.wrn.org:8025/WRN-R",
+        "url": "https://shoutcast.wrn.org:8025/WRN-R",
         "country": "RU",
-        "tags": [
-            "international",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://shoutcast.wrn.org:8025/WRN-R"
+        "working_url": "https://shoutcast.wrn.org:8025/WRN-R"
     },
     {
         "name": "Алания FM",
-        "url": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
+        "url": "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "ossetian music",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
+        "working_url": "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
     },
     {
         "name": "Ашҡаҙар",
-        "url": "http://radio.mediacdn.ru/ashkadar.mp3",
+        "url": "https://radio.mediacdn.ru/ashkadar.mp3",
         "country": "RU",
-        "tags": [
-            "bashkir",
-            "cultural news",
-            "folk",
-            "instrumental",
-            "live",
-            "opera",
-            "symphonic",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.mediacdn.ru/ashkadar.mp3"
+        "working_url": "https://radio.mediacdn.ru/ashkadar.mp3"
     },
     {
         "name": "Бизнес ФМ Краснодар 106.8 FM",
-        "url": "http://195.128.153.153:8005/bfm_tuner",
+        "url": "https://195.128.153.153:8005/bfm_tuner",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_221032831.jpg?alt=media&token=0d824763-9ebb-4aa9-aafa-5edcb59303de",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://195.128.153.153:8005/bfm_tuner"
+        "working_url": "https://195.128.153.153:8005/bfm_tuner"
     },
     {
         "name": "Бизнес ФМ Нижний Новгород 107.8 FM",
-        "url": "http://online-2.gkvr.ru:8000/bfm_nno_64.aac",
+        "url": "https://online-2.gkvr.ru:8000/bfm_nno_64.aac",
         "country": "RU",
-        "tags": [
-            "army",
-            "business fm",
-            "news",
-            "nizhniy novgorod",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194525355.jpg?alt=media&token=333ccb31-8fa5-4ae1-bb36-f87e940d6abc",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://online-2.gkvr.ru:8000/bfm_nno_64.aac"
+        "working_url": "https://online-2.gkvr.ru:8000/bfm_nno_64.aac"
     },
     {
         "name": "Бизнес ФМ Санкт-Петербург 107.4 FM",
-        "url": "http://bfmreg.hostingradio.ru/spb.bfm128.mp3",
+        "url": "https://bfmreg.hostingradio.ru/spb.bfm128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240705_205115896.jpg?alt=media&token=87ab5341-29e1-4f50-9f7d-7dca873d69e6",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://bfmreg.hostingradio.ru/spb.bfm128.mp3"
+        "working_url": "https://bfmreg.hostingradio.ru/spb.bfm128.mp3"
     },
     {
         "name": "Благовест",
-        "url": "http://176.65.38.3:8000/blagovest",
+        "url": "https://176.65.38.3:8000/blagovest",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://176.65.38.3:8000/blagovest"
+        "working_url": "https://176.65.38.3:8000/blagovest"
     },
     {
         "name": "Вера",
-        "url": "http://77.39.8.49:8000/vera_air_96",
+        "url": "https://77.39.8.49:8000/vera_air_96",
         "country": "RU",
-        "tags": [
-            "96kbps",
-            "christian",
-            "gospel",
-            "orthodox",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://77.39.8.49:8000/vera_air_96"
+        "working_url": "https://77.39.8.49:8000/vera_air_96"
     },
     {
         "name": "Вести FM",
         "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100045127456557",
         "codec": "MP3",
         "bitrate": 128,
@@ -327,10 +201,6 @@
         "name": "Вести FM (AAC)",
         "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 32,
@@ -338,16 +208,8 @@
     },
     {
         "name": "Вести ФМ Киров 105.3 FM",
-        "url": "http://cast-vestifm.gtrk-vyatka.ru/",
+        "url": "https://cast-vestifm.gtrk-vyatka.ru/",
         "country": "RU",
-        "tags": [
-            "kirov",
-            "local news",
-            "news",
-            "politics",
-            "talk",
-            "vyatka"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_181905632.jpg?alt=media&token=2a3bcb43-2ddd-4eec-b172-d9d5c360780c",
         "codec": "MP3",
         "bitrate": 96,
@@ -357,13 +219,6 @@
         "name": "Вести ФМ Липецк 90.3 FM",
         "url": "https://icecast-vgtrk.cdnvideo.ru/vesti_lipetsk",
         "country": "RU",
-        "tags": [
-            "army",
-            "lipetsk",
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "AAC+",
         "bitrate": 36,
@@ -373,13 +228,6 @@
         "name": "Вести ФМ Мурманск 97.2 FM",
         "url": "https://radio.murman.tv/vesti/mp3",
         "country": "RU",
-        "tags": [
-            "local news",
-            "murmansk",
-            "news",
-            "talk",
-            "vesti fm"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
@@ -387,57 +235,35 @@
     },
     {
         "name": "Вести ФМ Нижний Новгород 98.6 FM",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
         "country": "RU",
-        "tags": [
-            "army",
-            "local news",
-            "news",
-            "nn",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194658731.jpg?alt=media&token=5940968d-3bd2-4ed0-ae5e-66ad74e96dae",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/vestifm_nn"
     },
     {
         "name": "Вести ФМ Ростов-на-Дону 90.2 FM",
-        "url": "http://radio.mediacdn.ru/vesti_don.mp3",
+        "url": "https://radio.mediacdn.ru/vesti_don.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_210720883.jpg?alt=media&token=0182c295-85cd-496d-929f-4d201fc4cd89",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://radio.mediacdn.ru/vesti_don.mp3"
+        "working_url": "https://radio.mediacdn.ru/vesti_don.mp3"
     },
     {
         "name": "Всемирная радиосеть // World Radio Network – Russia",
-        "url": "http://streaming.edmradio.online:8025/WRN-R",
+        "url": "https://streaming.edmradio.online:8025/WRN-R",
         "country": "RU",
-        "tags": [
-            "talk",
-            "world radio"
-        ],
         "favicon": "https://avatars.mds.yandex.net/i?id=9a45fac88b2373d96b5413f6651b4936_sr-4893015-images-thumbs&n=13",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://streaming.edmradio.online:8025/WRN-R"
+        "working_url": "https://streaming.edmradio.online:8025/WRN-R"
     },
     {
         "name": "Говорит Москва",
         "url": "https://media.govoritmoskva.ru/radio/ru64.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk & speech",
-            "вести"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -447,12 +273,6 @@
         "name": "Говорит Москва - Govorit Moskva",
         "url": "https://media.govoritmoskva.ru/radio/rufm.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk",
-            "вести",
-            "говорит"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -462,11 +282,6 @@
         "name": "Голос Бирмы",
         "url": "https://listen4.myradio24.com/39982",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "http://www.voiceofburma.ru/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -474,33 +289,17 @@
     },
     {
         "name": "Град Петров",
-        "url": "http://stream.grad-petrov.ru:8093/aac",
+        "url": "https://stream.grad-petrov.ru:8093/aac",
         "country": "RU",
-        "tags": [
-            "aac+",
-            "christian",
-            "orthodox",
-            "talk"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 44,
-        "working_url": "http://stream.grad-petrov.ru:8093/aac"
+        "working_url": "https://stream.grad-petrov.ru:8093/aac"
     },
     {
         "name": "Звезда",
         "url": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
         "country": "RU",
-        "tags": [
-            "news",
-            "russian",
-            "talk",
-            "новости",
-            "разговор",
-            "разговорное",
-            "россия",
-            "русский"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -510,13 +309,6 @@
         "name": "Звезда 95.6 FM",
         "url": "https://radio.mediacdn.ru/radio/zvezda/zvezda_96",
         "country": "RU",
-        "tags": [
-            "32 kbps",
-            "aac",
-            "audiobooks",
-            "news",
-            "talk"
-        ],
         "favicon": "https://radiozvezda.ru/_next/static/media/apple-touch-icon-120x120-precomposed.e280aea4.png",
         "codec": "AAC+",
         "bitrate": 32,
@@ -526,12 +318,6 @@
         "name": "Известия ТВ (звук)",
         "url": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk",
-            "новости",
-            "разговорное"
-        ],
         "favicon": "https://cdn.iz.ru/profiles/portal/themes/purple/images/favicons/apple-icon.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
@@ -541,13 +327,6 @@
         "name": "Коммерсантъ FM 93.6",
         "url": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3",
         "country": "RU",
-        "tags": [
-            "economics",
-            "finance",
-            "information",
-            "news",
-            "talk"
-        ],
         "favicon": "https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -557,10 +336,6 @@
         "name": "Комсомольская правда",
         "url": "https://kpradio.hostingradio.ru:8000/64",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://radiokp.ru/modules/custom/dna_kpradio/modules/kp_favicon/img/favicon-194x194.png?v=1.1",
         "codec": "MP3",
         "bitrate": 0,
@@ -568,62 +343,35 @@
     },
     {
         "name": "Комсомольская Правда Великие Луки 102.6 FM",
-        "url": "http://luki.ru:8000/lukifm",
+        "url": "https://luki.ru:8000/lukifm",
         "country": "RU",
-        "tags": [
-            "army",
-            "news",
-            "radio kp",
-            "talk",
-            "velikie luki",
-            "weather"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://luki.ru:8000/lukifm"
+        "working_url": "https://luki.ru:8000/lukifm"
     },
     {
         "name": "Комсомольская правда Владивосток 90.4 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3"
     },
     {
         "name": "Комсомольская Правда Владимир 104.3 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "army",
-            "news",
-            "politics",
-            "radio kp",
-            "talk",
-            "vladimir"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Вологда 97.2 FM",
         "url": "https://kpradio.hostingradio.ru:8000/vologda.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "army",
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241024_171340763.jpg?alt=media&token=9f998a18-aa3d-4066-a2ab-86b6c418635d",
         "codec": "MP3",
         "bitrate": 0,
@@ -631,171 +379,107 @@
     },
     {
         "name": "Комсомольская правда Воронеж 97.7 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/voroneg.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/voroneg.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_192953672.jpg?alt=media&token=971ea974-2353-4c3f-ab8b-d2bf3db7965f",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://kpradio.hostingradio.ru:8000/voroneg.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/voroneg.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Калуга 93.1 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/kaluga.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/kaluga.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_224310358.jpg?alt=media&token=187f43da-6dff-470c-b2fc-7074f54af5d2",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/kaluga.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/kaluga.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Краснодар 91.0 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/krasnodar.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/krasnodar.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240927_221927371.jpg?alt=media&token=2090a603-54e2-450f-8dda-57646363a310",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/krasnodar.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/krasnodar.radiokp128.mp3"
     },
     {
         "name": "Комсомольская Правда Нижний Новгород 92.8 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "army",
-            "news",
-            "nizhniy novgorod",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195446602.jpg?alt=media&token=e4125a03-4f29-4de6-9e25-8c7881ad87cf",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Ростов-на-Дону 89.8 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204733807.jpg?alt=media&token=0686f294-afea-465b-adac-e243ef19f516",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Самара 98.2 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_225311748.jpg?alt=media&token=a548f5ea-bc0f-4ab8-b0e7-a7d8905e4f2c",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Санкт-Петербург 92.0 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240914_183349704.jpg?alt=media&token=11343a97-5b6d-488f-ac2c-e3ad54e541e1",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Тверь 99.3 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_220931791.jpg?alt=media&token=9ac62e39-10cc-4a67-a2df-5fb9828ee2d3",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3"
     },
     {
         "name": "Комсомольская правда Хабаровск 88.3 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241009_225751625.jpg?alt=media&token=a17a8ff4-aef4-4d5f-b803-53af62c5a927",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3"
     },
     {
         "name": "Комсомольская правда Ярославль 96.2 FM",
-        "url": "http://kpradio.hostingradio.ru:8000/yaroslavl.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/yaroslavl.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240814_224403518.jpg?alt=media&token=5913b30e-d3de-4372-807c-99ab4ddc8745",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kpradio.hostingradio.ru:8000/yaroslavl.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/yaroslavl.radiokp128.mp3"
     },
     {
         "name": "Күңел радиосы",
-        "url": "http://live.kunelradio.ru:8000/128.mp3",
+        "url": "https://live.kunelradio.ru:8000/128.mp3",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "music",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "http://kunelradio.ru/images/favicon-192x192.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://live.kunelradio.ru:8000/128.mp3"
+        "working_url": "https://live.kunelradio.ru:8000/128.mp3"
     },
     {
         "name": "Мамонт",
         "url": "https://live-saha.cdnvideo.ru/saha2/mamont_live.smil/playlist.m3u8",
         "country": "RU",
-        "tags": [
-            "music",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 3440,
@@ -803,124 +487,71 @@
     },
     {
         "name": "Радио «Комсомольская Правда» | КП Россия",
-        "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
+        "url": "https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
         "country": "RU",
-        "tags": [
-            "moscow",
-            "music",
-            "news",
-            "russia",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3"
+        "working_url": "https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3"
     },
     {
         "name": "Радио Sputnik Москва 91.2 FM",
-        "url": "http://orig.video.ria.ru:8000/voicemsk1",
+        "url": "https://orig.video.ria.ru:8000/voicemsk1",
         "country": "RU",
-        "tags": [
-            "moscow",
-            "moskva",
-            "sputnik",
-            "talk & speech"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://orig.video.ria.ru:8000/voicemsk1"
+        "working_url": "https://orig.video.ria.ru:8000/voicemsk1"
     },
     {
         "name": "Радио Благовестие Воронеж 73.55 УКВ",
-        "url": "http://82.146.46.30:8000/blagovestie",
+        "url": "https://82.146.46.30:8000/blagovestie",
         "country": "RU",
-        "tags": [
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_191802339.jpg?alt=media&token=effe1fc4-6caf-4bb0-970f-6c525a1de9d0",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://82.146.46.30:8000/blagovestie"
+        "working_url": "https://82.146.46.30:8000/blagovestie"
     },
     {
         "name": "Радио Воскресение / Radio Voskresenie - 72.8",
-        "url": "http://217.24.181.164:8000/stream.mp3",
+        "url": "https://217.24.181.164:8000/stream.mp3",
         "country": "RU",
-        "tags": [
-            "christian orthodox",
-            "christian preaching",
-            "orthodox christian",
-            "orthodox church",
-            "orthodoxy",
-            "talk & speech"
-        ],
         "favicon": "https://www.radiogrom.com/paint_new/logo_big/radio_voskresenie_online.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://217.24.181.164:8000/stream.mp3"
+        "working_url": "https://217.24.181.164:8000/stream.mp3"
     },
     {
         "name": "Радио Град Петров / Radio Grad Petrov 73.1 FM",
-        "url": "http://stream.grad-petrov.ru:8093/mp3",
+        "url": "https://stream.grad-petrov.ru:8093/mp3",
         "country": "RU",
-        "tags": [
-            "christian orthodox",
-            "christian preaching",
-            "orthodox christian",
-            "orthodox church",
-            "orthodoxy",
-            "talk & speech"
-        ],
         "favicon": "https://static.wikia.nocookie.net/radiopedia/images/7/7f/Град_Петров_%28Санкт-Петербург%29.png/revision/latest?cb=20220208185534&path-prefix=ru",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "http://stream.grad-petrov.ru:8093/mp3"
+        "working_url": "https://stream.grad-petrov.ru:8093/mp3"
     },
     {
         "name": "Радио Книга",
-        "url": "http://bookradio.hostingradio.ru:8069/fm",
+        "url": "https://bookradio.hostingradio.ru:8069/fm",
         "country": "RU",
-        "tags": [
-            "audiobooks",
-            "literature",
-            "talk",
-            "аудиокниги",
-            "литература"
-        ],
         "favicon": "https://radiokniga.com/rk.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://bookradio.hostingradio.ru:8069/fm"
+        "working_url": "https://bookradio.hostingradio.ru:8069/fm"
     },
     {
         "name": "Радио Маяк (Radio Mayak)",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
     },
     {
         "name": "Радио Маяк Мурманск 103.5 FM",
         "url": "https://radio.murman.tv/mayak/mp3",
         "country": "RU",
-        "tags": [
-            "army",
-            "murman",
-            "music",
-            "news",
-            "politics",
-            "talk",
-            "weather"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250213_111053114.jpg?alt=media&token=319a7667-3401-4c2a-9bf4-8e496b01934c",
         "codec": "MP3",
         "bitrate": 128,
@@ -928,66 +559,35 @@
     },
     {
         "name": "Радио Маяк Нижний Новгород 92.4 FM",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/mayak_nn",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/mayak_nn",
         "country": "RU",
-        "tags": [
-            "army",
-            "news",
-            "nizhniy novgorod",
-            "politics",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_195613091.jpg?alt=media&token=9c285190-61b0-4906-90ab-df5411300c12",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/mayak_nn"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/mayak_nn"
     },
     {
         "name": "Радио Маяк Череповец 102.5 FM",
-        "url": "http://radio.gtrk35.ru/RadioMayak",
+        "url": "https://radio.gtrk35.ru/RadioMayak",
         "country": "RU",
-        "tags": [
-            "army",
-            "history's",
-            "music",
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://radio.gtrk35.ru/RadioMayak"
+        "working_url": "https://radio.gtrk35.ru/RadioMayak"
     },
     {
         "name": "Радио Москвы 105.3 FM",
-        "url": "http://icecast-vgtrk.cdnvideo.ru/moscowtalk128",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/moscowtalk128",
         "country": "RU",
-        "tags": [
-            "105_3 fm",
-            "moskva",
-            "music",
-            "news",
-            "radio moscow",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast-vgtrk.cdnvideo.ru/moscowtalk128"
+        "working_url": "https://icecast-vgtrk.cdnvideo.ru/moscowtalk128"
     },
     {
         "name": "Радио Образ / Radio Obraz - FM 98.0",
         "url": "https://radioobraz.ru/radio/",
         "country": "RU",
-        "tags": [
-            "christian orthodox",
-            "christian preaching",
-            "orthodox christian",
-            "orthodox church",
-            "orthodoxy",
-            "talk & speech"
-        ],
         "favicon": "https://radioobraz.ru/upload/CPriority/b76/1gavto24tliibdvqjzgue573v7fwh094.jpg",
         "codec": "MP3",
         "bitrate": 0,
@@ -995,72 +595,44 @@
     },
     {
         "name": "Радио Образ Нижний Новгород 98.0 FM",
-        "url": "http://213.177.106.78:8006/;",
+        "url": "https://213.177.106.78:8006/;",
         "country": "RU",
-        "tags": [
-            "christian",
-            "music",
-            "news",
-            "religious",
-            "talk",
-            "vera"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211946328.jpg?alt=media&token=9cd042e6-7d27-49f4-880a-999c76ef1763",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://213.177.106.78:8006/;"
+        "working_url": "https://213.177.106.78:8006/;"
     },
     {
         "name": "Радио Патриот",
-        "url": "http://radio.mixto.ru:8001/patriot",
+        "url": "https://radio.mixto.ru:8001/patriot",
         "country": "RU",
-        "tags": [
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.mixto.ru:8001/patriot"
+        "working_url": "https://radio.mixto.ru:8001/patriot"
     },
     {
         "name": "Радио Радонеж Москва 72.92 УКВ",
-        "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
+        "url": "https://icecast.radonezh.cdnvideo.ru:8000/rad128",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240712_210356929.jpg?alt=media&token=bbf3c104-101b-430e-8682-15e936ed830f",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128"
+        "working_url": "https://icecast.radonezh.cdnvideo.ru:8000/rad128"
     },
     {
         "name": "Радио Рансис",
-        "url": "http://radio.ransis.org:8000/ransis",
+        "url": "https://radio.ransis.org:8000/ransis",
         "country": "RU",
-        "tags": [
-            "news talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://radio.ransis.org:8000/ransis"
+        "working_url": "https://radio.ransis.org:8000/ransis"
     },
     {
         "name": "Радио РБЖ",
         "url": "https://rbj.recomedy.ru/online",
         "country": "RU",
-        "tags": [
-            "archive",
-            "comedy",
-            "retro",
-            "russian",
-            "spoken word",
-            "talk"
-        ],
         "favicon": "https://rbj.recomedy.ru/assets/radio-rbj-512.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1068,88 +640,53 @@
     },
     {
         "name": "Радио Ретроклуб",
-        "url": "http://retroclub.hostingradio.ru/retroclub128.aacp",
+        "url": "https://retroclub.hostingradio.ru/retroclub128.aacp",
         "country": "RU",
-        "tags": [
-            "retro",
-            "talk"
-        ],
         "favicon": "http://retroclub.online/images/apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 0,
-        "working_url": "http://retroclub.hostingradio.ru/retroclub128.aacp"
+        "working_url": "https://retroclub.hostingradio.ru/retroclub128.aacp"
     },
     {
         "name": "Радио России (AAC)",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps"
     },
     {
         "name": "Радио России (Radio Russia)",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps"
     },
     {
         "name": "Радио России Абакан 91.0 FM",
-        "url": "http://s0.radioheart.ru:8000/RR",
+        "url": "https://s0.radioheart.ru:8000/RR",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241008_175348838.jpg?alt=media&token=b1905511-da6f-4b07-8bb9-97ae9813ec68",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s0.radioheart.ru:8000/RR"
+        "working_url": "https://s0.radioheart.ru:8000/RR"
     },
     {
         "name": "Радио России Бабаево 106.0 FM",
-        "url": "http://radio.gtrk35.ru/RadioRossii",
+        "url": "https://radio.gtrk35.ru/RadioRossii",
         "country": "RU",
-        "tags": [
-            "army",
-            "local news",
-            "music",
-            "news",
-            "politics",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "http://radio.gtrk35.ru/RadioRossii"
+        "working_url": "https://radio.gtrk35.ru/RadioRossii"
     },
     {
         "name": "Радио России Выборг 104.6 FM",
         "url": "https://radio.rtr.spb.ru/live1",
         "country": "RU",
-        "tags": [
-            "104_6",
-            "local news",
-            "news",
-            "spb region",
-            "talk",
-            "vyborg"
-        ],
         "favicon": "null",
         "codec": "MP3",
         "bitrate": 64,
@@ -1157,38 +694,26 @@
     },
     {
         "name": "Радио России ГТРК Коми Гор 91.6 FM",
-        "url": "http://drh-connect.dline-media.com/radiokomigor",
+        "url": "https://drh-connect.dline-media.com/radiokomigor",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240822_233533187.jpg?alt=media&token=ed73ca07-ac66-42f0-93f9-f4f9bf660d89",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://drh-connect.dline-media.com/radiokomigor"
+        "working_url": "https://drh-connect.dline-media.com/radiokomigor"
     },
     {
         "name": "Радио России Липецк 89.1 FM",
-        "url": "http://icecast-vgtrk.cdnvideo.ru/lipetsk",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/lipetsk",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_193545369.jpg?alt=media&token=b4d1a729-a6bc-41af-8a5d-591ab25f9883",
         "codec": "AAC+",
         "bitrate": 36,
-        "working_url": "http://icecast-vgtrk.cdnvideo.ru/lipetsk"
+        "working_url": "https://icecast-vgtrk.cdnvideo.ru/lipetsk"
     },
     {
         "name": "Радио России Мурманск 107.4 FM",
         "url": "https://radio.murman.tv/ros/mp3",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240918_205646054.jpg?alt=media&token=7650c7cc-ae60-41d3-a8c3-e870c9f8c926",
         "codec": "MP3",
         "bitrate": 128,
@@ -1196,42 +721,26 @@
     },
     {
         "name": "Радио России Нижний Новгород",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/russiafm_nn",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/russiafm_nn",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/129/840/7.jpg",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/russiafm_nn"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/russiafm_nn"
     },
     {
         "name": "Радио России Хабаровск",
-        "url": "http://188.93.129.110:8085/vestikhv",
+        "url": "https://188.93.129.110:8085/vestikhv",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://188.93.129.110:8085/vestikhv"
+        "working_url": "https://188.93.129.110:8085/vestikhv"
     },
     {
         "name": "Радио Сахаров",
         "url": "https://icecast.correctiv.net/sacharow",
         "country": "RU",
-        "tags": [
-            "politics",
-            "talk",
-            "политика",
-            "разговорное"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1239,61 +748,35 @@
     },
     {
         "name": "Радио Спутник Санкт-Петербург 91.5 FM",
-        "url": "http://orig.video.ria.ru:8000/voicespb",
+        "url": "https://orig.video.ria.ru:8000/voicespb",
         "country": "RU",
-        "tags": [
-            "91_5",
-            "army",
-            "news",
-            "politics",
-            "spb",
-            "sputnik",
-            "talk"
-        ],
         "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250112_152656756.jpg?alt=media&token=2c098c2b-9993-4e58-8d4d-003685bed747",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://orig.video.ria.ru:8000/voicespb"
+        "working_url": "https://orig.video.ria.ru:8000/voicespb"
     },
     {
         "name": "Радиостация Маяк Москва 128kbs",
-        "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
+        "url": "https://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
         "country": "RU",
-        "tags": [
-            "music",
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps"
+        "working_url": "https://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps"
     },
     {
         "name": "Радонеж",
-        "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad",
+        "url": "https://icecast.radonezh.cdnvideo.ru:8000/rad",
         "country": "RU",
-        "tags": [
-            "christian",
-            "talk"
-        ],
         "favicon": "https://lh3.ggpht.com/mbSvb2pszUx49gNzpgO6kE_U9xmG1gCm5s6ZiVBdiaTTo0v4r2kkQNXoAuJ7wJ-c8w=w300",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://icecast.radonezh.cdnvideo.ru:8000/rad"
+        "working_url": "https://icecast.radonezh.cdnvideo.ru:8000/rad"
     },
     {
         "name": "Роксана радиосы",
         "url": "https://listen1.myradio24.com/2761",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "http://roksanaradio.ru/assets/icon_256x256.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1303,10 +786,6 @@
         "name": "Рязанское Епархиальное Радио",
         "url": "https://s01.radio-tochka.com:4995/radio",
         "country": "RU",
-        "tags": [
-            "orthodoxy",
-            "talk"
-        ],
         "favicon": "https://rer102-5fm.ru/images/logonw32.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1314,29 +793,17 @@
     },
     {
         "name": "Саба дулкыннары",
-        "url": "http://radio.tatmedia.com:8800/Saba",
+        "url": "https://radio.tatmedia.com:8800/Saba",
         "country": "RU",
-        "tags": [
-            "folk",
-            "live",
-            "music",
-            "news",
-            "pop",
-            "talk",
-            "tatar"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://radio.tatmedia.com:8800/Saba"
+        "working_url": "https://radio.tatmedia.com:8800/Saba"
     },
     {
         "name": "Словьев live",
         "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "https://lh3.googleusercontent.com/6LPBelhzf2xQiFMUwOE8DLjTSc151SJDZjOvwDq2bswRhtY4Z_ymLCU2znSBmg0oFPY",
         "codec": "AAC",
         "bitrate": 0,
@@ -1346,15 +813,6 @@
         "name": "СПРАВЕДЛИВАЯ РОССИЯ",
         "url": "https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3",
         "country": "RU",
-        "tags": [
-            "talk",
-            "информационный",
-            "миронов",
-            "партия",
-            "разговорное",
-            "россия",
-            "справедливая"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1364,10 +822,6 @@
         "name": "Спутник",
         "url": "https://icecast-rian.cdnvideo.ru/voicerus",
         "country": "RU",
-        "tags": [
-            "news",
-            "talk"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1377,9 +831,6 @@
         "name": "Читаем Евангелие (цся)",
         "url": "https://radio.azbyka.ru/chitaem-evangelie-csya",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -1389,10 +840,6 @@
         "name": "Шура Каретный 18+ Радио",
         "url": "https://stream02.pcradio.biz/Shura_Karetniy-hi",
         "country": "RU",
-        "tags": [
-            "music",
-            "talk"
-        ],
         "favicon": "null",
         "codec": "AAC",
         "bitrate": 0,
@@ -1402,9 +849,6 @@
         "name": "Эхо online",
         "url": "https://noasrv.caster.fm:10034/stream",
         "country": "RU",
-        "tags": [
-            "talk & speech"
-        ],
         "favicon": "https://play-lh.googleusercontent.com/n0Ow7jTeHolJS_2-a1D66oWPqtAHPPfJfx_yHjg35qrzjxwAroDPjTdMAAJDEnYCFA",
         "codec": "MP3",
         "bitrate": 96,
