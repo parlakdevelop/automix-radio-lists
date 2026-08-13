@@ -1,5 +1,29 @@
 [
     {
+        "name": "..tafsir coran",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "country": "CA",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://qurango.net/radio/mukhtasartafsir"
+    },
+    {
+        "name": ".Quran",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "country": "CA",
+        "tags": [
+            "classical"
+        ],
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+    },
+    {
         "name": "# 100 GREATEST CLASSICAL MUSIC",
         "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
         "country": "CA",
@@ -38,7 +62,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n13.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-yd2qgAzE9QzgWBSrI03g"
+        "working_url": "https://n13.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-yd2qgAzE9QzgWBSrI03g"
     },
     {
         "name": "Ancient FM",
@@ -74,7 +98,7 @@
     },
     {
         "name": "Calm Radio - Bach",
-        "url": "http://streams.calmradio.com:6828/stream",
+        "url": "https://streams.calmradio.com:6828/stream",
         "country": "CA",
         "tags": [
             "bach",
@@ -83,11 +107,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:6828/stream"
+        "working_url": "https://streams.calmradio.com:6828/stream"
     },
     {
         "name": "Calm Radio - Brahms - Sampler",
-        "url": "http://streams.calmradio.com/api/287/128/stream/;",
+        "url": "https://streams.calmradio.com/api/287/128/stream/;",
         "country": "CA",
         "tags": [
             "brahms",
@@ -96,11 +120,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:7128/stream/;"
+        "working_url": "https://streams.calmradio.com:7128/stream/;"
     },
     {
         "name": "Calm Radio - Cello",
-        "url": "http://streams.calmradio.com:4628/stream",
+        "url": "https://streams.calmradio.com:4628/stream",
         "country": "CA",
         "tags": [
             "cello",
@@ -109,11 +133,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:4628/stream"
+        "working_url": "https://streams.calmradio.com:4628/stream"
     },
     {
         "name": "Calm Radio - Chamber Music",
-        "url": "http://streams.calmradio.com:7528/stream",
+        "url": "https://streams.calmradio.com:7528/stream",
         "country": "CA",
         "tags": [
             "baroque",
@@ -123,11 +147,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:7528/stream"
+        "working_url": "https://streams.calmradio.com:7528/stream"
     },
     {
         "name": "Calm Radio - Debussy",
-        "url": "http://streams.calmradio.com:10228/stream",
+        "url": "https://streams.calmradio.com:10228/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -136,11 +160,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:10228/stream"
+        "working_url": "https://streams.calmradio.com:10228/stream"
     },
     {
         "name": "Calm Radio - Flute",
-        "url": "http://streams.calmradio.com:4828/;",
+        "url": "https://streams.calmradio.com:4828/;",
         "country": "CA",
         "tags": [
             "baroque",
@@ -149,11 +173,11 @@
         "favicon": "https://calmradio.com/images/logo/Calm-LOGO%202015.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:4828/;"
+        "working_url": "https://streams.calmradio.com:4828/;"
     },
     {
         "name": "Calm Radio - Johann Strauss II",
-        "url": "http://streams.calmradio.com:8328/stream",
+        "url": "https://streams.calmradio.com:8328/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -162,11 +186,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:8328/stream"
+        "working_url": "https://streams.calmradio.com:8328/stream"
     },
     {
         "name": "Calm Radio - Mozart",
-        "url": "http://streams.calmradio.com:7328/stream",
+        "url": "https://streams.calmradio.com:7328/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -175,11 +199,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:7328/stream"
+        "working_url": "https://streams.calmradio.com:7328/stream"
     },
     {
         "name": "Calm Radio - Oboe",
-        "url": "http://streams.calmradio.com:25028/stream/1/Calm%20Radio",
+        "url": "https://streams.calmradio.com:25028/stream/1/Calm%20Radio",
         "country": "CA",
         "tags": [
             "classical",
@@ -188,11 +212,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:25028/stream/1/Calm%20Radio"
+        "working_url": "https://streams.calmradio.com:25028/stream/1/Calm%20Radio"
     },
     {
         "name": "Calm Radio - Prokofiev",
-        "url": "http://streams.calmradio.com:16928/stream",
+        "url": "https://streams.calmradio.com:16928/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -201,11 +225,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:16928/stream"
+        "working_url": "https://streams.calmradio.com:16928/stream"
     },
     {
         "name": "Calm Radio - Puccini",
-        "url": "http://streams.calmradio.com:13028/stream",
+        "url": "https://streams.calmradio.com:13028/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -214,11 +238,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:13028/stream"
+        "working_url": "https://streams.calmradio.com:13028/stream"
     },
     {
         "name": "Calm Radio - Richard Strauss",
-        "url": "http://streams.calmradio.com:19328/stream",
+        "url": "https://streams.calmradio.com:19328/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -227,11 +251,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:19328/stream"
+        "working_url": "https://streams.calmradio.com:19328/stream"
     },
     {
         "name": "Calm Radio - Schubert",
-        "url": "http://streams.calmradio.com:8228/stream",
+        "url": "https://streams.calmradio.com:8228/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -240,11 +264,11 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:8228/stream"
+        "working_url": "https://streams.calmradio.com:8228/stream"
     },
     {
         "name": "Calm Radio - Symphony",
-        "url": "http://streams.calmradio.com:1028/stream",
+        "url": "https://streams.calmradio.com:1028/stream",
         "country": "CA",
         "tags": [
             "baroque",
@@ -254,11 +278,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:1028/stream"
+        "working_url": "https://streams.calmradio.com:1028/stream"
     },
     {
         "name": "Calm Radio - Tchaikovsky",
-        "url": "http://streams.calmradio.com:8728/stream",
+        "url": "https://streams.calmradio.com:8728/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -267,11 +291,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:8728/stream"
+        "working_url": "https://streams.calmradio.com:8728/stream"
     },
     {
         "name": "Calm Radio - Violin",
-        "url": "http://streams.calmradio.com:4528/stream",
+        "url": "https://streams.calmradio.com:4528/stream",
         "country": "CA",
         "tags": [
             "baroque",
@@ -280,11 +304,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:4528/stream"
+        "working_url": "https://streams.calmradio.com:4528/stream"
     },
     {
         "name": "Calm Radio - Vivaldi",
-        "url": "http://streams.calmradio.com:8928/stream",
+        "url": "https://streams.calmradio.com:8928/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -293,11 +317,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:8928/stream"
+        "working_url": "https://streams.calmradio.com:8928/stream"
     },
     {
         "name": "Calm Radio - Wagner",
-        "url": "http://streams.calmradio.com:11428/stream",
+        "url": "https://streams.calmradio.com:11428/stream",
         "country": "CA",
         "tags": [
             "classical",
@@ -306,11 +330,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:11428/stream"
+        "working_url": "https://streams.calmradio.com:11428/stream"
     },
     {
         "name": "Calm Radio-Opera",
-        "url": "http://streams.calmradio.com/api/59/128/stream",
+        "url": "https://streams.calmradio.com/api/59/128/stream",
         "country": "CA",
         "tags": [
             "classical"
@@ -318,7 +342,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:1128/stream"
+        "working_url": "https://streams.calmradio.com:1128/stream"
     },
     {
         "name": "Calmradio Rossini",
@@ -548,7 +572,7 @@
     },
     {
         "name": "Forest Green Radio",
-        "url": "http://s1.streamaudio.de:8000/forest-green",
+        "url": "https://s1.streamaudio.de:8000/forest-green",
         "country": "CA",
         "tags": [
             "celtic",
@@ -560,7 +584,7 @@
         "favicon": "https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s1.streamaudio.de:8000/forest-green"
+        "working_url": "https://s1.streamaudio.de:8000/forest-green"
     },
     {
         "name": "ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)",
@@ -632,7 +656,7 @@
     },
     {
         "name": "metalrock.fm",
-        "url": "http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889",
+        "url": "https://kathy.torontocast.com:2820/;?type=http&nocache=1594751889",
         "country": "CA",
         "tags": [
             "classical",
@@ -643,7 +667,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889"
+        "working_url": "https://kathy.torontocast.com:2820/;?type=http&nocache=1594751889"
     },
     {
         "name": "N10.AS",
@@ -876,7 +900,7 @@
     },
     {
         "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
         "country": "CA",
         "tags": [
             "classical"
@@ -884,6 +908,6 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://n02.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-yd4UMA6YewHAt2wAxA-g"
+        "working_url": "https://n02.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABn-yd4UMA6YewHAt2wAxA-g"
     }
 ]

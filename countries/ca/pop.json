@@ -335,7 +335,7 @@
     },
     {
         "name": "Calm Radio -J-pop",
-        "url": "http://streams.calmradio.com:21928/stream/;.m3u",
+        "url": "https://streams.calmradio.com:21928/stream/;.m3u",
         "country": "CA",
         "tags": [
             "j-pop",
@@ -346,11 +346,11 @@
         "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://streams.calmradio.com:21928/stream/;.m3u"
+        "working_url": "https://streams.calmradio.com:21928/stream/;.m3u"
     },
     {
         "name": "CamoesRadio.com - Toronto, ON",
-        "url": "http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3",
+        "url": "https://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3",
         "country": "CA",
         "tags": [
             "brazilian pop",
@@ -361,7 +361,7 @@
         "favicon": "https://camoesradio.com/ewrt87u6ythghrhfg/2018/07/camoesradio-com-icon-150x150.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://camoesradio.out.airtime.pro:8000/camoesradio_a"
+        "working_url": "https://camoesradio.out.airtime.pro:8000/camoesradio_a"
     },
     {
         "name": "Canada At Large",
@@ -483,7 +483,7 @@
     },
     {
         "name": "CISM 89.3",
-        "url": "http://stream03.ustream.ca:8000/cism128.mp3",
+        "url": "https://stream03.ustream.ca:8000/cism128.mp3",
         "country": "CA",
         "tags": [
             "commercial",
@@ -494,7 +494,7 @@
         "favicon": "https://www.allzicradio.com/media/radios/cism.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://stream03.ustream.ca:8000/cism128.mp3"
+        "working_url": "https://stream03.ustream.ca:8000/cism128.mp3"
     },
     {
         "name": "CISS - Kiss FM 105.3 Ottawa",
@@ -510,7 +510,7 @@
     },
     {
         "name": "CJLO 1690AM",
-        "url": "http://rosetta.shoutca.st:8883/;",
+        "url": "https://rosetta.shoutca.st:8883/;",
         "country": "CA",
         "tags": [
             "classic hits",
@@ -520,7 +520,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "http://rosetta.shoutca.st:8883/;"
+        "working_url": "https://rosetta.shoutca.st:8883/;"
     },
     {
         "name": "CKBF-FM 104.1 \"BFBS Canada\" CFB Suffield, AB",
@@ -537,7 +537,7 @@
     },
     {
         "name": "CKRW 96.1 \"The Rush\" Whitehorse, YT",
-        "url": "http://ckrw.streamon.fm:8000/CKRW-32k.aac",
+        "url": "https://ckrw.streamon.fm:8000/CKRW-32k.aac",
         "country": "CA",
         "tags": [
             "pop",
@@ -546,7 +546,7 @@
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "http://ais-sa1.streamon.fm/7222_32k.aac"
+        "working_url": "https://ais-sa1.streamon.fm/7222_32k.aac"
     },
     {
         "name": "CKXS 99.1 FM",
@@ -566,7 +566,7 @@
     },
     {
         "name": "Classic Hits 109 - Classic Rock 109",
-        "url": "http://listen.classicrock109.com:10042/;",
+        "url": "https://listen.classicrock109.com:10042/;",
         "country": "CA",
         "tags": [
             "classics rock",
@@ -575,7 +575,7 @@
         "favicon": "http://www.classichits109.torontocast.stream/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.classicrock109.com:10042/;"
+        "working_url": "https://listen.classicrock109.com:10042/;"
     },
     {
         "name": "ClassicHitsOnline.com",
@@ -598,7 +598,7 @@
     },
     {
         "name": "Forest Green Radio",
-        "url": "http://s1.streamaudio.de:8000/forest-green",
+        "url": "https://s1.streamaudio.de:8000/forest-green",
         "country": "CA",
         "tags": [
             "celtic",
@@ -610,7 +610,7 @@
         "favicon": "https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://s1.streamaudio.de:8000/forest-green"
+        "working_url": "https://s1.streamaudio.de:8000/forest-green"
     },
     {
         "name": "Hits 93 Toronto",
@@ -667,7 +667,7 @@
     },
     {
         "name": "ItaloDance Fm",
-        "url": "http://hubble.shoutca.st:8120/stream",
+        "url": "https://hubble.shoutca.st:8120/stream",
         "country": "CA",
         "tags": [
             "pop"
@@ -675,11 +675,11 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://hubble.shoutca.st:8120/stream"
+        "working_url": "https://hubble.shoutca.st:8120/stream"
     },
     {
         "name": "J-Pop Powerplay (Asia DREAM Radio)",
-        "url": "http://kathy.torontocast.com:3560/",
+        "url": "https://kathy.torontocast.com:3560/",
         "country": "CA",
         "tags": [
             "boysband",
@@ -692,7 +692,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kathy.torontocast.com:3560/"
+        "working_url": "https://kathy.torontocast.com:3560/"
     },
     {
         "name": "J-Pop Powerplay Kawaii",
@@ -710,7 +710,7 @@
     },
     {
         "name": "J-Pop Powerplay Kawaii (http)",
-        "url": "http://kathy.torontocast.com:3060/;",
+        "url": "https://kathy.torontocast.com:3060/;",
         "country": "CA",
         "tags": [
             "idol",
@@ -721,7 +721,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://kathy.torontocast.com:3060/;"
+        "working_url": "https://kathy.torontocast.com:3060/;"
     },
     {
         "name": "J1 GOLD",
@@ -770,7 +770,7 @@
     },
     {
         "name": "KiSS 103.1 Victoria",
-        "url": "http://rogers.leanstream.co/rogers/vic1031.stream/icy",
+        "url": "https://rogers.leanstream.co/rogers/vic1031.stream/icy",
         "country": "CA",
         "tags": [
             "black",
@@ -781,7 +781,7 @@
         "favicon": "https://www.jack1031.ca/wp-content/uploads/sites/67/2021/03/cropped-jack1031-logo-192x192.png",
         "codec": "AAC",
         "bitrate": 198,
-        "working_url": "http://rogers.leanstream.co/rogers/vic1031.stream/icy"
+        "working_url": "https://rogers.leanstream.co/rogers/vic1031.stream/icy"
     },
     {
         "name": "Labgate Hitwave Rewind",
@@ -883,7 +883,7 @@
     },
     {
         "name": "Nighthaven Enclave Radio",
-        "url": "http://cast3.my-control-panel.com:7695/live",
+        "url": "https://cast3.my-control-panel.com:7695/live",
         "country": "CA",
         "tags": [
             "alternative",
@@ -898,7 +898,7 @@
         "favicon": "https://neaura.net/assets/images/nighthaven-your-haven-card-cropped.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "http://cast3.my-control-panel.com:7695/live"
+        "working_url": "https://cast3.my-control-panel.com:7695/live"
     },
     {
         "name": "One Station",
@@ -940,7 +940,7 @@
     },
     {
         "name": "Radio 42° North (R42N) [AAC+ 64kbps]",
-        "url": "http://ice66.securenetsystems.net/R42N",
+        "url": "https://ice66.securenetsystems.net/R42N",
         "country": "CA",
         "tags": [
             "70s",
@@ -955,7 +955,7 @@
         "favicon": "http://www.radio42north.com/favicon.ico",
         "codec": "AAC",
         "bitrate": 64,
-        "working_url": "http://ice66.securenetsystems.net/R42N"
+        "working_url": "https://ice66.securenetsystems.net/R42N"
     },
     {
         "name": "Radio 854",
@@ -1114,6 +1114,6 @@
         "favicon": "https://cdn.cogecolive.com/websites-public/logo_beat_color_default.svg",
         "codec": "UNKNOWN",
         "bitrate": 0,
-        "working_url": "http://cdn.cogecolive.com/geoblock/stream_geoblocked_en.m3u8"
+        "working_url": "https://cdn.cogecolive.com/geoblock/stream_geoblocked_en.m3u8"
     }
 ]

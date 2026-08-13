@@ -252,7 +252,7 @@
     },
     {
         "name": "CFBW \"BWR 91.3\" Hanover, ON",
-        "url": "http://s41.myradiostream.com:29922/listen.mp3",
+        "url": "https://s41.myradiostream.com:29922/listen.mp3",
         "country": "CA",
         "tags": [
             "blues",
@@ -266,7 +266,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 160,
-        "working_url": "http://s41.myradiostream.com:29922/listen.mp3"
+        "working_url": "https://s41.myradiostream.com:29922/listen.mp3"
     },
     {
         "name": "CIWV-FM \"Wave 98.3\" Vancouver, BC",
@@ -422,7 +422,7 @@
     },
     {
         "name": "Radio BluesFlac",
-        "url": "http://streams.radiomast.io/radioblues-flac",
+        "url": "https://streams.radiomast.io/radioblues-flac",
         "country": "CA",
         "tags": [
             "jazz"
@@ -430,7 +430,7 @@
         "favicon": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
         "codec": "OGG",
         "bitrate": 1500,
-        "working_url": "http://audio-edge-3mayu.fra.h.radiomast.io/radioblues-flac"
+        "working_url": "https://audio-edge-3mayu.fra.h.radiomast.io/radioblues-flac"
     },
     {
         "name": "Radio Canada Ici Musique  - Québec City, QC",
@@ -599,7 +599,7 @@
     },
     {
         "name": "RadioSky Music Jazz",
-        "url": "http://jazz.radioskymusic.com:7006/live",
+        "url": "https://jazz.radioskymusic.com:7006/live",
         "country": "CA",
         "tags": [
             "jazz"
@@ -607,11 +607,11 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://jazz.radioskymusic.com:7006/live"
+        "working_url": "https://jazz.radioskymusic.com:7006/live"
     },
     {
         "name": "RadioSkyMusic Jazz",
-        "url": "http://listen.radioskymusic.com:7006/live",
+        "url": "https://listen.radioskymusic.com:7006/live",
         "country": "CA",
         "tags": [
             "jazz"
@@ -619,7 +619,7 @@
         "favicon": "https://radioskymusic.com/img/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://listen.radioskymusic.com:7006/live"
+        "working_url": "https://listen.radioskymusic.com:7006/live"
     },
     {
         "name": "SENSUAL LOUNGE RADIO",
@@ -678,7 +678,7 @@
     },
     {
         "name": "Soul Good Radio",
-        "url": "http://c3.radioboss.fm:8090/autodj",
+        "url": "https://c3.radioboss.fm:8090/autodj",
         "country": "CA",
         "tags": [
             "jazz",
@@ -687,7 +687,7 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://c3.radioboss.fm:8090/autodj"
+        "working_url": "https://c3.radioboss.fm:8090/autodj"
     },
     {
         "name": "Suite Jazz Radio",
@@ -711,7 +711,7 @@
     },
     {
         "name": "WAVE.FM",
-        "url": "http://14993.live.streamtheworld.com:3690/CIWVFM_SC",
+        "url": "https://14993.live.streamtheworld.com:3690/CIWVFM_SC",
         "country": "CA",
         "tags": [
             "jazz",
@@ -720,6 +720,6 @@
         "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "http://14993.live.streamtheworld.com:3690/CIWVFM_SC"
+        "working_url": "https://14993.live.streamtheworld.com:3690/CIWVFM_SC"
     }
 ]

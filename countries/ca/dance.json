@@ -246,11 +246,11 @@
         "favicon": "https://dancewave.online/dw_logo.png",
         "codec": "OGG",
         "bitrate": 0,
-        "working_url": "http://stream1.dancewave.online:8080/dance.flac.ogg"
+        "working_url": "https://stream1.dancewave.online:8080/dance.flac.ogg"
     },
     {
         "name": "DJFM.ca Toronto, ON",
-        "url": "http://mux.mtl.djfmradio.com/djfm",
+        "url": "https://mux.mtl.djfmradio.com/djfm",
         "country": "CA",
         "tags": [
             "dance",
@@ -260,7 +260,7 @@
         "favicon": "https://djfm.ca/wp-content/uploads/2016/07/logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://mux.mtl.djfmradio.com/djfm"
+        "working_url": "https://mux.mtl.djfmradio.com/djfm"
     },
     {
         "name": "Euro Nation",
@@ -281,7 +281,7 @@
     },
     {
         "name": "Eurodance Classic ... Pure - Classic - Addictive",
-        "url": "http://quincy.torontocast.com:2380/stream",
+        "url": "https://quincy.torontocast.com:2380/stream",
         "country": "CA",
         "tags": [
             "90's",
@@ -291,7 +291,7 @@
         "favicon": "https://www.radio-eurodance-classic.eu/images/logo_rec_kdj_300.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "http://quincy.torontocast.com:2380/stream"
+        "working_url": "https://quincy.torontocast.com:2380/stream"
     },
     {
         "name": "Hits 93 Toronto",
