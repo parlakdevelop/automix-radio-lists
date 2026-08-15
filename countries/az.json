@@ -1,75 +1,129 @@
 [
     {
-        "name": "Anti Radio",
-        "url": "https://stream.antiradio.net/listen/anti_radio/mp3",
+        "name": "106 fm",
+        "url": "https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581.m3u8",
         "country": "AZ",
-        "favicon": "https://antiradio.net/wp-content/uploads/2024/04/cropped-favicon-192x192.png",
+        "tags": "",
+        "favicon": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "106.3 fm Azad Azərbaycan radiosu",
+        "url": "https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700.m3u8",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "Anti Radio",
+        "url": "https://stream.antiradio.net/radio/8000/mp3",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "https://antiradio.net/favicon.ico",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://stream.antiradio.net/listen/anti_radio/mp3"
+        "bitrate": 128
     },
     {
         "name": "Araz fm 103.3",
-        "url": "https://s14.myradiostream.com/30454/listen.mp3",
+        "url": "http://s39.myradiostream.com/5458/listen.mp3",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://s14.myradiostream.com/:30454/listen.mp3?nocache=1786223474"
+        "bitrate": 128
     },
     {
         "name": "Araz Supermarket Radio",
-        "url": "https://5.191.241.101:8000/arazmarket",
+        "url": "http://5.191.241.101:8000/arazmarket",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 64,
-        "working_url": "https://5.191.241.101:8000/arazmarket"
+        "bitrate": 64
     },
     {
-        "name": "ASAN Radio",
-        "url": "https://play.asanradio.az/",
+        "name": "Asan Radio",
+        "url": "http://94.20.74.206:4448/stream1",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 112,
-        "working_url": "https://play.asanradio.az/"
+        "bitrate": 112
     },
     {
         "name": "AutoLife Azerbaijan",
         "url": "https://radio.autoliferadio.com:8005/radio",
         "country": "AZ",
+        "tags": "",
         "favicon": "https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://radio.autoliferadio.com:8005/radio"
+        "bitrate": 128
     },
     {
         "name": "AVTO FM",
-        "url": "https://5.191.241.101:8000/avtofm",
+        "url": "http://5.191.241.101:8000/avtofm",
         "country": "AZ",
+        "tags": "classic hits",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://5.191.241.101:8000/avtofm"
+        "bitrate": 128
     },
     {
         "name": "Azerbaycan Radiosu 105.0 FM",
-        "url": "https://str.yodacdn.net/radio_respublica/video.m3u8",
+        "url": "http://str.yodacdn.net/radio_respublica/video.m3u8",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
-        "bitrate": 220,
-        "working_url": "https://str.yodacdn.net/radio_respublica/video.m3u8"
+        "bitrate": 220
+    },
+    {
+        "name": "Azərbaycan Beynəlxalq Radiosu",
+        "url": "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "Baku Hit FM",
+        "url": "http://5.191.241.101:8000/bakuhitfm",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 144
+    },
+    {
+        "name": "Baku Jukebox",
+        "url": "http://78.109.52.73:8000/listening-from-radio-garden-1696020096",
+        "country": "AZ",
+        "tags": "pop",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Baku Retro Fm",
+        "url": "http://5.191.241.101:8000/bakuretrofm",
+        "country": "AZ",
+        "tags": "folk",
+        "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_231946336.jpg?alt=media&token=4aed92f8-f8f5-479f-b60b-68b56f1bb844",
+        "codec": "MP3",
+        "bitrate": 144
     },
     {
         "name": "Bravo Supermarket Radio",
-        "url": "https://5.191.241.101:8000/bravo",
+        "url": "http://5.191.241.101:8000/bravo",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 64,
-        "working_url": "https://5.191.241.101:8000/bravo"
+        "bitrate": 64
     },
     {
         "name": "Caspian Business Radio BOSS",
@@ -77,115 +131,168 @@
         "country": "AZ",
         "favicon": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://listen6.myradio24.com/bosscomaz"
+        "bitrate": 192
     },
     {
         "name": "DalğaFM 92.5",
         "url": "https://live.dinle.az/dalgafm",
         "country": "AZ",
+        "tags": "pop",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://live.dinle.az/dalgafm"
+        "bitrate": 128
+    },
+    {
+        "name": "İctimai Radio – 90 FM",
+        "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 322
     },
     {
         "name": "Kepez FM",
-        "url": "https://85.132.78.122:3344/now",
+        "url": "http://85.132.78.122:3344/now",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
-        "bitrate": 128,
-        "working_url": "https://85.132.78.122:3344/now"
+        "bitrate": 128
     },
     {
         "name": "Media Fm 105.5",
         "url": "https://icecast.livetv.az/mediafm",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://icecast.livetv.az/mediafm"
+        "bitrate": 192
     },
     {
         "name": "Naxçıvan Radiosu",
-        "url": "https://s33.myradiostream.com:12782/listen.mp3",
+        "url": "http://s33.myradiostream.com:12782/listen.mp3",
         "country": "AZ",
+        "tags": "general, music",
         "favicon": "https://radio.ntv.az/images/logo.png?v=2",
         "codec": "AAC+",
-        "bitrate": 64,
-        "working_url": "https://s33.myradiostream.com:12782/listen.mp3"
+        "bitrate": 64
     },
     {
         "name": "NAZ RADIO",
         "url": "https://s2.myradiostream.com/5286/listen.mp3",
         "country": "AZ",
+        "tags": "music, pop",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://s2.myradiostream.com:5286/listen.mp3?nocache=1786223474"
+        "bitrate": 192
     },
     {
         "name": "PlanetFM 88.7",
         "url": "https://live.dinle.az/planetfm",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://live.dinle.az/planetfm"
+        "bitrate": 128
     },
     {
         "name": "Radio Enerji 101.1 FM",
         "url": "https://icecast.livetv.az/antennfm",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://icecast.livetv.az/antennfm"
+        "bitrate": 128
+    },
+    {
+        "name": "Radio Space 104FM",
+        "url": "https://stream.zeno.fm/noozxmffa38uv",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Radio Veten",
+        "url": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u",
+        "country": "AZ",
+        "tags": "classical, oldies, pop, rap, rock",
+        "favicon": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
     },
     {
         "name": "Rahat Supermarket Radio",
-        "url": "https://5.191.241.101:8000/rahatmarket",
+        "url": "http://5.191.241.101:8000/rahatmarket",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 64,
-        "working_url": "https://5.191.241.101:8000/rahatmarket"
+        "bitrate": 64
     },
     {
         "name": "Real FM 107",
-        "url": "https://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
+        "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 256,
-        "working_url": "https://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a"
+        "bitrate": 256
+    },
+    {
+        "name": "Sağlam Radio",
+        "url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
+        "country": "AZ",
+        "tags": "",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Soothing jazz",
+        "url": "http://193.111.125.15:8020/soothingjazz",
+        "country": "AZ",
+        "tags": "jazz, piano jazz, smooth jazz, soft jazz",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Soothing radio",
+        "url": "http://193.111.125.15:8010/soothingradio",
+        "country": "AZ",
+        "tags": "ambient and relaxation music, new age piano, relax, relaxation, relaxation music, relaxing, soft music",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128
     },
     {
         "name": "TMB 100.5",
-        "url": "https://s39.myradiostream.com:5458/",
+        "url": "http://s39.myradiostream.com:5458/",
         "country": "AZ",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://s39.myradiostream.com:5458/"
+        "bitrate": 128
     },
     {
         "name": "Xezer FM",
         "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
         "country": "AZ",
+        "tags": "classic hits, hits",
         "favicon": "http://xezerfm.az/favicon.ico",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://s40.myradiostream.com/:22546/listen.mp3"
+        "bitrate": 192
     },
     {
         "name": "Yurd FM",
         "url": "https://icecast.livetv.az/yurdfm",
         "country": "AZ",
+        "tags": "folk music",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://icecast.livetv.az/yurdfm"
+        "bitrate": 192
     }
 ]

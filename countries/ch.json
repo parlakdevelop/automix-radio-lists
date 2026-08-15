@@ -3,240 +3,277 @@
         "name": "A Fine Jazz Gumbo Radio",
         "url": "https://streaming.smartradio.ch:9502/stream",
         "country": "CH",
-        "favicon": "https://jazzgumboradio.com/favicon.ico",
+        "tags": "jazz",
+        "favicon": "",
         "codec": "AAC+",
         "bitrate": 48,
         "working_url": "https://streaming.smartradio.ch:9502/stream"
     },
     {
-        "name": "1.FM - A List 80s",
-        "url": "https://strm112.1.fm/back280s_mobile_mp3",
+        "name": "Radio Bern RaBe (HD Stream)",
+        "url": "http://stream.rabe.ch/livestream/rabe-hd.mp3",
         "country": "CH",
+        "tags": "",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "http://stream.rabe.ch/livestream/rabe-hd.mp3"
+    },
+    {
+        "name": "1.FM - A List 80s",
+        "url": "http://strm112.1.fm/back280s_mobile_mp3",
+        "country": "CH",
+        "tags": "80s",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/back280s_mobile_mp3"
+        "working_url": "http://strm112.1.fm/back280s_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute 70's Pop Radio",
-        "url": "https://strm112.1.fm/70s_mobile_mp3",
+        "url": "http://strm112.1.fm/70s_mobile_mp3",
         "country": "CH",
+        "tags": "70s",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/70s_mobile_mp3"
+        "working_url": "http://strm112.1.fm/70s_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute 90s Party Zone Radio",
-        "url": "https://strm112.1.fm/partyzone90s_mobile_mp3",
+        "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
         "country": "CH",
+        "tags": "90s, party",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/partyzone90s_mobile_mp3"
+        "working_url": "http://strm112.1.fm/partyzone90s_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute Country Hits Radio",
         "url": "https://strmreg.1.fm/acountry_mobile_mp3",
         "country": "CH",
-        "favicon": "https://cdn.onlineradiobox.com/img/l/0/2730.v5.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://strmreg.1.fm/acountry_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute Pop Latino Radio",
-        "url": "https://strm112.1.fm/latino_mobile_mp3",
+        "url": "http://strm112.1.fm/latino_mobile_mp3",
         "country": "CH",
+        "tags": "latin, pop",
         "favicon": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/latino_mobile_mp3"
+        "working_url": "http://strm112.1.fm/latino_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute TOP 40 Radio",
-        "url": "https://strm112.1.fm/top40_mobile_mp3",
+        "url": "http://strm112.1.fm/top40_mobile_mp3",
         "country": "CH",
+        "tags": "pop, top 40",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/top40_mobile_mp3"
+        "working_url": "http://strm112.1.fm/top40_mobile_mp3"
     },
     {
         "name": "1.FM - Absolute Trance (Euro) Radio",
-        "url": "https://strm112.1.fm/trance_mobile_mp3",
+        "url": "http://strm112.1.fm/trance_mobile_mp3",
         "country": "CH",
+        "tags": "trance",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/trance_mobile_mp3"
+        "working_url": "http://strm112.1.fm/trance_mobile_mp3"
     },
     {
         "name": "1.FM - Acappella Radio",
-        "url": "https://strm112.1.fm/acpl_mobile_mp3",
+        "url": "http://strm112.1.fm/acpl_mobile_mp3",
         "country": "CH",
+        "tags": "gospel",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/acpl_mobile_mp3"
+        "working_url": "http://strm112.1.fm/acpl_mobile_mp3"
     },
     {
         "name": "1.FM - Adore Jazz Radio",
-        "url": "https://strm112.1.fm/ajazz_mobile_mp3",
+        "url": "http://strm112.1.fm/ajazz_mobile_mp3",
         "country": "CH",
+        "tags": "jazz",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/ajazz_mobile_mp3"
+        "working_url": "http://strm112.1.fm/ajazz_mobile_mp3"
     },
     {
         "name": "1.FM - Adult Urban Hits Choice Radio",
-        "url": "https://strm112.1.fm/oldschool_mobile_mp3",
+        "url": "http://strm112.1.fm/oldschool_mobile_mp3",
         "country": "CH",
+        "tags": "rnb, soul, urban adult contemporary",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/oldschool_mobile_mp3"
+        "working_url": "http://strm112.1.fm/oldschool_mobile_mp3"
     },
     {
         "name": "1.FM - Afterbeat Electronica Radio",
-        "url": "https://strm112.1.fm/electronica_mobile_mp3",
+        "url": "http://strm112.1.fm/electronica_mobile_mp3",
         "country": "CH",
+        "tags": "chillout",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/electronica_mobile_mp3"
+        "working_url": "http://strm112.1.fm/electronica_mobile_mp3"
     },
     {
         "name": "1.FM - All Euro 80's Radio",
-        "url": "https://strm112.1.fm/80s_90s_mobile_mp3",
+        "url": "http://strm112.1.fm/80s_90s_mobile_mp3",
         "country": "CH",
+        "tags": "80s, european music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/80s_90s_mobile_mp3"
+        "working_url": "http://strm112.1.fm/80s_90s_mobile_mp3"
     },
     {
         "name": "1.FM - All Times & Urban Gospel Radio",
-        "url": "https://strm112.1.fm/gospel_mobile_mp3",
+        "url": "http://strm112.1.fm/gospel_mobile_mp3",
         "country": "CH",
+        "tags": "gospel",
         "favicon": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/gospel_mobile_mp3"
+        "working_url": "http://strm112.1.fm/gospel_mobile_mp3"
     },
     {
         "name": "1.FM - Alternative Rock X Hits Radio",
-        "url": "https://strm112.1.fm/x_mobile_mp3",
+        "url": "http://strm112.1.fm/x_mobile_mp3",
         "country": "CH",
+        "tags": "alternative rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/x_mobile_mp3"
+        "working_url": "http://strm112.1.fm/x_mobile_mp3"
     },
     {
         "name": "1.FM - Always-Christmas Radio",
-        "url": "https://strm112.1.fm/christmas_mobile_mp3",
+        "url": "http://strm112.1.fm/christmas_mobile_mp3",
         "country": "CH",
+        "tags": "christmas music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/christmas_mobile_mp3"
+        "working_url": "http://strm112.1.fm/christmas_mobile_mp3"
     },
     {
         "name": "1.FM - Ambient Psychill",
-        "url": "https://strm112.1.fm/ambientpsy_mobile_mp3",
+        "url": "http://strm112.1.fm/ambientpsy_mobile_mp3",
         "country": "CH",
+        "tags": "downtempo, psychedelic chillout grooves, slow trance",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/ambientpsy_mobile_mp3"
+        "working_url": "http://strm112.1.fm/ambientpsy_mobile_mp3"
     },
     {
         "name": "1.FM - America's Best Ballads Radio",
-        "url": "https://strm112.1.fm/onelive_mobile_mp3",
+        "url": "http://strm112.1.fm/onelive_mobile_mp3",
         "country": "CH",
+        "tags": "ballads",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/onelive_mobile_mp3"
+        "working_url": "http://strm112.1.fm/onelive_mobile_mp3"
     },
     {
         "name": "1.FM - Amsterdam Trance Radio",
-        "url": "https://strm112.1.fm/atr_mobile_mp3",
+        "url": "http://strm112.1.fm/atr_mobile_mp3",
         "country": "CH",
+        "tags": "trance",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/atr_mobile_mp3"
+        "working_url": "http://strm112.1.fm/atr_mobile_mp3"
     },
     {
         "name": "1.FM - Back To The 50's & 60's Radio",
-        "url": "https://strm112.1.fm/60s_70s_mobile_mp3",
+        "url": "http://strm112.1.fm/60s_70s_mobile_mp3",
         "country": "CH",
+        "tags": "50s, 60s",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/60s_70s_mobile_mp3"
+        "working_url": "http://strm112.1.fm/60s_70s_mobile_mp3"
     },
     {
         "name": "1.FM - Bay Smooth Jazz Radio",
-        "url": "https://strm112.1.fm/smoothjazz_mobile_mp3",
+        "url": "http://strm112.1.fm/smoothjazz_mobile_mp3",
         "country": "CH",
+        "tags": "smooth jazz",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/smoothjazz_mobile_mp3"
+        "working_url": "http://strm112.1.fm/smoothjazz_mobile_mp3"
     },
     {
         "name": "1.FM - Blues Radio",
-        "url": "https://strm112.1.fm/blues_mobile_mp3",
+        "url": "http://strm112.1.fm/blues_mobile_mp3",
         "country": "CH",
+        "tags": "blues",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/blues_mobile_mp3"
+        "working_url": "http://strm112.1.fm/blues_mobile_mp3"
     },
     {
         "name": "1.FM - BOM Psytrance Radio",
-        "url": "https://strm112.1.fm/psytrance_mobile_mp3",
+        "url": "http://strm112.1.fm/psytrance_mobile_mp3",
         "country": "CH",
+        "tags": "full-on, progressive psytrance, psytrance",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/psytrance_mobile_mp3"
+        "working_url": "http://strm112.1.fm/psytrance_mobile_mp3"
     },
     {
         "name": "1.FM - Bombay Beats India Radio",
-        "url": "https://strm112.1.fm/bombaybeats_mobile_mp3",
+        "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
         "country": "CH",
+        "tags": "bollywood",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/bombaybeats_mobile_mp3"
+        "working_url": "http://strm112.1.fm/bombaybeats_mobile_mp3"
     },
     {
         "name": "1.FM - Bossa Nova Hits",
-        "url": "https://strm112.1.fm/bossanova_mobile_mp3",
+        "url": "http://strm112.1.fm/bossanova_mobile_mp3",
         "country": "CH",
+        "tags": "latin",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/bossanova_mobile_mp3"
+        "working_url": "http://strm112.1.fm/bossanova_mobile_mp3"
     },
     {
         "name": "1.FM - Cafe Radio",
-        "url": "https://strm112.1.fm/caferadio_mobile_mp3",
+        "url": "http://strm112.1.fm/caferadio_mobile_mp3",
         "country": "CH",
+        "tags": "latin, pop, world music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/caferadio_mobile_mp3"
+        "working_url": "http://strm112.1.fm/caferadio_mobile_mp3"
     },
     {
         "name": "1.fm - Calming Piano",
         "url": "https://strm112.1.fm/gospel_mobile_mp3",
         "country": "CH",
+        "tags": "calm, classical piano, piano, relax, relaxing",
         "favicon": "https://radio.1cloud.fm/favicon/favicon.svg?v=2",
         "codec": "MP3",
         "bitrate": 192,
@@ -244,368 +281,409 @@
     },
     {
         "name": "1.FM - Chillout Lounge Radio",
-        "url": "https://strm112.1.fm/chilloutlounge_mobile_mp3",
+        "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
         "country": "CH",
+        "tags": "chillout, lounge",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/chilloutlounge_mobile_mp3"
+        "working_url": "http://strm112.1.fm/chilloutlounge_mobile_mp3"
     },
     {
         "name": "1.FM - Circuit Pride Radio",
-        "url": "https://strm112.1.fm/circuitpride_mobile_mp3",
+        "url": "http://strm112.1.fm/circuitpride_mobile_mp3",
         "country": "CH",
+        "tags": "gay, lgbt",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/circuitpride_mobile_mp3"
+        "working_url": "http://strm112.1.fm/circuitpride_mobile_mp3"
     },
     {
         "name": "1.FM - Classic Country Radio",
         "url": "https://strmreg.1.fm/ccountry_mobile_mp3",
         "country": "CH",
-        "favicon": "https://cdn.onlineradiobox.com/img/l/9/2619.v4.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://strmreg.1.fm/ccountry_mobile_mp3"
     },
     {
         "name": "1.FM - Classic Rock Replay Radio",
-        "url": "https://strm112.1.fm/crock_mobile_mp3",
+        "url": "http://strm112.1.fm/crock_mobile_mp3",
         "country": "CH",
+        "tags": "classic rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/crock_mobile_mp3"
+        "working_url": "http://strm112.1.fm/crock_mobile_mp3"
     },
     {
         "name": "1.FM - Club 1 Radio",
-        "url": "https://strm112.1.fm/club_mobile_mp3",
+        "url": "http://strm112.1.fm/club_mobile_mp3",
         "country": "CH",
+        "tags": "electronica",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/club_mobile_mp3"
+        "working_url": "http://strm112.1.fm/club_mobile_mp3"
     },
     {
         "name": "1.FM - Costa Del Mar",
-        "url": "https://strm112.1.fm/costadelmarchillout_mobile_mp3",
+        "url": "http://strm112.1.fm/costadelmarchillout_mobile_mp3",
         "country": "CH",
+        "tags": "chillout",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/costadelmarchillout_mobile_mp3"
+        "working_url": "http://strm112.1.fm/costadelmarchillout_mobile_mp3"
     },
     {
         "name": "1.FM - Country One Radio",
         "url": "https://strmreg.1.fm/country_mobile_mp3",
         "country": "CH",
-        "favicon": "https://cdn.onlineradiobox.com/img/l/5/2685.v4.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://strmreg.1.fm/country_mobile_mp3"
     },
     {
         "name": "1.FM - Dance One Radio",
-        "url": "https://strm112.1.fm/dance_mobile_mp3",
+        "url": "http://strm112.1.fm/dance_mobile_mp3",
         "country": "CH",
+        "tags": "electronica",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/dance_mobile_mp3"
+        "working_url": "http://strm112.1.fm/dance_mobile_mp3"
     },
     {
         "name": "1.FM - Deep House Radio",
-        "url": "https://strm112.1.fm/deephouse_mobile_mp3",
+        "url": "http://strm112.1.fm/deephouse_mobile_mp3",
         "country": "CH",
+        "tags": "deep house, techno",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/deephouse_mobile_mp3"
+        "working_url": "http://strm112.1.fm/deephouse_mobile_mp3"
     },
     {
         "name": "1.FM - Deep Techno & Deep House",
-        "url": "https://strm112.1.fm/deeptech_mobile_mp3",
+        "url": "http://strm112.1.fm/deeptech_mobile_mp3",
         "country": "CH",
+        "tags": "deep house, techno",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/deeptech_mobile_mp3"
+        "working_url": "http://strm112.1.fm/deeptech_mobile_mp3"
     },
     {
         "name": "1.FM - Destination: SPA Radio",
-        "url": "https://strm112.1.fm/spa_mobile_mp3",
+        "url": "http://strm112.1.fm/spa_mobile_mp3",
         "country": "CH",
+        "tags": "new age, relax",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/spa_mobile_mp3"
+        "working_url": "http://strm112.1.fm/spa_mobile_mp3"
     },
     {
         "name": "1.FM - Disco Ball 70's-80's Radio",
-        "url": "https://strm112.1.fm/disco_mobile_mp3",
+        "url": "http://strm112.1.fm/disco_mobile_mp3",
         "country": "CH",
+        "tags": "70s, 80s, disco",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/disco_mobile_mp3"
+        "working_url": "http://strm112.1.fm/disco_mobile_mp3"
     },
     {
         "name": "1.FM - Dubstep Forward Radio",
-        "url": "https://strm112.1.fm/dubstep_mobile_mp3",
+        "url": "http://strm112.1.fm/dubstep_mobile_mp3",
         "country": "CH",
+        "tags": "dubstep",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/dubstep_mobile_mp3"
+        "working_url": "http://strm112.1.fm/dubstep_mobile_mp3"
     },
     {
         "name": "1.FM - Eternal Praise & Worship Radio",
-        "url": "https://strm112.1.fm/praise_mobile_mp3",
+        "url": "http://strm112.1.fm/praise_mobile_mp3",
         "country": "CH",
+        "tags": "christian contemporary",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/praise_mobile_mp3"
+        "working_url": "http://strm112.1.fm/praise_mobile_mp3"
     },
     {
         "name": "1.FM - Exitos del Ayer Radio",
-        "url": "https://strm112.1.fm/spanisholdies_mobile_mp3",
+        "url": "http://strm112.1.fm/spanisholdies_mobile_mp3",
         "country": "CH",
+        "tags": "spanish",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/spanisholdies_mobile_mp3"
+        "working_url": "http://strm112.1.fm/spanisholdies_mobile_mp3"
     },
     {
         "name": "1.FM - Full Throttle Phonk",
-        "url": "https://strm112.1.fm/fullthrottlephonk_mobile_mp3",
+        "url": "http://strm112.1.fm/fullthrottlephonk_mobile_mp3",
         "country": "CH",
+        "tags": "brazilian, drift, electronic, phonk",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://strm112.1.fm/fullthrottlephonk_mobile_mp3"
+        "working_url": "http://strm112.1.fm/fullthrottlephonk_mobile_mp3"
     },
     {
         "name": "1.FM - Funky Express",
-        "url": "https://strm112.1.fm/funkyexpress_mobile_mp3",
+        "url": "http://strm112.1.fm/funkyexpress_mobile_mp3",
         "country": "CH",
+        "tags": "funk, groove, rb, soul",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://strm112.1.fm/funkyexpress_mobile_mp3"
+        "working_url": "http://strm112.1.fm/funkyexpress_mobile_mp3"
     },
     {
         "name": "1.FM - Gorilla FM Radio",
-        "url": "https://strm112.1.fm/gorillafm_mobile_mp3",
+        "url": "http://strm112.1.fm/gorillafm_mobile_mp3",
         "country": "CH",
+        "tags": "alternative rock, indie rock, progressive rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/gorillafm_mobile_mp3"
+        "working_url": "http://strm112.1.fm/gorillafm_mobile_mp3"
     },
     {
         "name": "1.FM - High Voltage Radio",
-        "url": "https://strm112.1.fm/highvoltage_mobile_mp3",
+        "url": "http://strm112.1.fm/highvoltage_mobile_mp3",
         "country": "CH",
+        "tags": "alternative rock, metal, rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/highvoltage_mobile_mp3"
+        "working_url": "http://strm112.1.fm/highvoltage_mobile_mp3"
     },
     {
         "name": "1.FM - Ibiza Chill Tropical",
-        "url": "https://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true",
+        "url": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true",
         "country": "CH",
+        "tags": "1fm, chillout, ibiza, tropical, tropical music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true"
+        "working_url": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true"
     },
     {
         "name": "1.FM - Italia On Air Radio",
-        "url": "https://strm112.1.fm/italiaonair_mobile_mp3",
+        "url": "http://strm112.1.fm/italiaonair_mobile_mp3",
         "country": "CH",
+        "tags": "italian pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/italiaonair_mobile_mp3"
+        "working_url": "http://strm112.1.fm/italiaonair_mobile_mp3"
     },
     {
         "name": "1.FM - Jamz Radio",
-        "url": "https://strm112.1.fm/jamz_mobile_mp3",
+        "url": "http://strm112.1.fm/jamz_mobile_mp3",
         "country": "CH",
+        "tags": "hiphop, rnb, soul",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/jamz_mobile_mp3"
+        "working_url": "http://strm112.1.fm/jamz_mobile_mp3"
     },
     {
         "name": "1.FM - Kids FM Radio",
-        "url": "https://strm112.1.fm/kidsfm_mobile_mp3",
+        "url": "http://strm112.1.fm/kidsfm_mobile_mp3",
         "country": "CH",
+        "tags": "kids",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/kidsfm_mobile_mp3"
+        "working_url": "http://strm112.1.fm/kidsfm_mobile_mp3"
     },
     {
         "name": "1.FM - Love Classics Radio",
         "url": "https://strmreg.1.fm/loveclassics_mobile_mp3",
         "country": "CH",
-        "favicon": "https://cdn.onlineradiobox.com/img/l/1/2731.v5.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://strmreg.1.fm/loveclassics_mobile_mp3"
     },
     {
         "name": "1.FM - Magic 80 Radio",
-        "url": "https://strm112.1.fm/magic80_mobile_mp3",
+        "url": "http://strm112.1.fm/magic80_mobile_mp3",
         "country": "CH",
+        "tags": "80s",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/magic80_mobile_mp3"
+        "working_url": "http://strm112.1.fm/magic80_mobile_mp3"
     },
     {
         "name": "1.FM - Millennial Nostalgia",
-        "url": "https://strm112.1.fm/eurovision_mobile_mp3",
+        "url": "http://strm112.1.fm/eurovision_mobile_mp3",
         "country": "CH",
+        "tags": "2000s, electronic, pop, rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://strm112.1.fm/eurovision_mobile_mp3"
+        "working_url": "http://strm112.1.fm/eurovision_mobile_mp3"
     },
     {
         "name": "1.FM - Movie Soundtrack",
-        "url": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
+        "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
         "country": "CH",
+        "tags": "movie soundtracks",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/moviesoundtracks_mobile_mp3"
+        "working_url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3"
     },
     {
         "name": "1.FM - MPB Hits Radio",
-        "url": "https://strm112.1.fm/mpb_mobile_mp3",
+        "url": "http://strm112.1.fm/mpb_mobile_mp3",
         "country": "CH",
+        "tags": "brazilian music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/mpb_mobile_mp3"
+        "working_url": "http://strm112.1.fm/mpb_mobile_mp3"
     },
     {
         "name": "1.FM - Otto's Baroque Music Radio",
-        "url": "https://strm112.1.fm/baroque_mobile_mp3",
+        "url": "http://strm112.1.fm/baroque_mobile_mp3",
         "country": "CH",
+        "tags": "baroque, classical",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/baroque_mobile_mp3"
+        "working_url": "http://strm112.1.fm/baroque_mobile_mp3"
     },
     {
         "name": "1.FM - Otto's Opera House",
-        "url": "https://strm112.1.fm/opera_mobile_mp3",
+        "url": "http://strm112.1.fm/opera_mobile_mp3",
         "country": "CH",
+        "tags": "opera",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/opera_mobile_mp3"
+        "working_url": "http://strm112.1.fm/opera_mobile_mp3"
     },
     {
         "name": "1.FM - Radio Gaia",
-        "url": "https://strm112.1.fm/radiogaia_mobile_mp3",
+        "url": "http://strm112.1.fm/radiogaia_mobile_mp3",
         "country": "CH",
+        "tags": "world music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/radiogaia_mobile_mp3"
+        "working_url": "http://strm112.1.fm/radiogaia_mobile_mp3"
     },
     {
         "name": "1.FM - Rap Pregame",
-        "url": "https://strm112.1.fm/edm_mobile_mp3",
+        "url": "http://strm112.1.fm/edm_mobile_mp3",
         "country": "CH",
+        "tags": "electronic, hip hop, party, rap",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://strm112.1.fm/edm_mobile_mp3"
+        "working_url": "http://strm112.1.fm/edm_mobile_mp3"
     },
     {
         "name": "1.FM - Reggaeton Heat",
-        "url": "https://strm112.1.fm/reggaeton_mobile_mp3",
+        "url": "http://strm112.1.fm/reggaeton_mobile_mp3",
         "country": "CH",
+        "tags": "caribbean, hip hop, latin, reggaeton",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://strm112.1.fm/reggaeton_mobile_mp3"
+        "working_url": "http://strm112.1.fm/reggaeton_mobile_mp3"
     },
     {
         "name": "1.FM - ReggaeTrade Radio",
-        "url": "https://strm112.1.fm/reggae_mobile_mp3",
+        "url": "http://strm112.1.fm/reggae_mobile_mp3",
         "country": "CH",
+        "tags": "reggae",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/reggae_mobile_mp3"
+        "working_url": "http://strm112.1.fm/reggae_mobile_mp3"
     },
     {
         "name": "1.FM - Rock Classics Radio",
-        "url": "https://strm112.1.fm/rockclassics_mobile_mp3",
+        "url": "http://strm112.1.fm/rockclassics_mobile_mp3",
         "country": "CH",
+        "tags": "classic rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/rockclassics_mobile_mp3"
+        "working_url": "http://strm112.1.fm/rockclassics_mobile_mp3"
     },
     {
         "name": "1.FM - Samba Hits Brazil Radio",
-        "url": "https://strm112.1.fm/samba_mobile_mp3",
+        "url": "http://strm112.1.fm/samba_mobile_mp3",
         "country": "CH",
+        "tags": "samba",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/samba_mobile_mp3"
+        "working_url": "http://strm112.1.fm/samba_mobile_mp3"
     },
     {
         "name": "1.FM - Samba Rock Radio",
-        "url": "https://strm112.1.fm/sambarock_mobile_mp3",
+        "url": "http://strm112.1.fm/sambarock_mobile_mp3",
         "country": "CH",
+        "tags": "samba",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/sambarock_mobile_mp3"
+        "working_url": "http://strm112.1.fm/sambarock_mobile_mp3"
     },
     {
         "name": "1.FM - Sax4Love",
-        "url": "https://strm112.1.fm/sax4ever_mobile_mp3",
+        "url": "http://strm112.1.fm/sax4ever_mobile_mp3",
         "country": "CH",
+        "tags": "jazz",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/sax4ever_mobile_mp3"
+        "working_url": "http://strm112.1.fm/sax4ever_mobile_mp3"
     },
     {
         "name": "1.FM - Sertaneja Hits Radio",
-        "url": "https://strm112.1.fm/sertanejo_mobile_mp3",
+        "url": "http://strm112.1.fm/sertanejo_mobile_mp3",
         "country": "CH",
+        "tags": "brazilian music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://strm112.1.fm/sertanejo_mobile_mp3"
+        "working_url": "http://strm112.1.fm/sertanejo_mobile_mp3"
     },
     {
         "name": "1.FM - Slow Jamz Radio",
-        "url": "https://strm112.1.fm/slowjamz_mobile_mp3",
+        "url": "http://strm112.1.fm/slowjamz_mobile_mp3",
         "country": "CH",
+        "tags": "rnb, soul",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/slowjamz_mobile_mp3"
+        "working_url": "http://strm112.1.fm/slowjamz_mobile_mp3"
     },
     {
         "name": "1.FM - Sunshine",
         "url": "https://strm112.1.fm/allmixedup_mobile_mp3?",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -613,26 +691,29 @@
     },
     {
         "name": "1.FM - Top Fiesta Radio",
-        "url": "https://strm112.1.fm/spanishparty_mobile_mp3",
+        "url": "http://strm112.1.fm/spanishparty_mobile_mp3",
         "country": "CH",
+        "tags": "latin music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/spanishparty_mobile_mp3"
+        "working_url": "http://strm112.1.fm/spanishparty_mobile_mp3"
     },
     {
         "name": "1.FM - Total Hits En Español Radio",
-        "url": "https://strm112.1.fm/spanishtophits_mobile_mp3",
+        "url": "http://strm112.1.fm/spanishtophits_mobile_mp3",
         "country": "CH",
+        "tags": "spanish",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/spanishtophits_mobile_mp3"
+        "working_url": "http://strm112.1.fm/spanishtophits_mobile_mp3"
     },
     {
         "name": "1.FM Absolute 90's Radio",
         "url": "https://strm112.1.fm/90s_mobile_mp3",
         "country": "CH",
+        "tags": "90s, pop",
         "favicon": "https://www.1.fm/images/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -642,6 +723,7 @@
         "name": "1.fm Back To The 50's",
         "url": "https://strm112.1.fm/60s_70s_mobile_mp3?",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -651,6 +733,7 @@
         "name": "1.FM Beloved Ballads",
         "url": "https://strm112.1.fm/onelive_mobile_mp3?",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -660,6 +743,7 @@
         "name": "1.fm classic rock",
         "url": "https://strm112.1.fm/crock_mobile_mp3",
         "country": "CH",
+        "tags": "classic rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -667,26 +751,29 @@
     },
     {
         "name": "1.FM Essential Classical",
-        "url": "https://strm112.1.fm/polskafm_mobile_mp3",
+        "url": "http://strm112.1.fm/polskafm_mobile_mp3",
         "country": "CH",
+        "tags": "classic hits",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/polskafm_mobile_mp3"
+        "working_url": "http://strm112.1.fm/polskafm_mobile_mp3"
     },
     {
         "name": "1.FM Hot Country Hits Radio",
-        "url": "https://strm112.1.fm/acountry_mobile_mp3",
+        "url": "http://strm112.1.fm/acountry_mobile_mp3",
         "country": "CH",
-        "favicon": "https://www.radio.net/images/broadcasts/f6/95/8431/2/c300.png",
+        "tags": "country, hot, hot country, todays hits",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/acountry_mobile_mp3"
+        "working_url": "http://strm112.1.fm/acountry_mobile_mp3"
     },
     {
         "name": "1.fm Movie Soundtrack Hits",
         "url": "https://strm112.1.fm/moviesoundtracks_mobile_mp3?",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -694,17 +781,19 @@
     },
     {
         "name": "1.fm Otto's Baroque music",
-        "url": "https://strm112.1.fm/baroque_mobile_aac",
+        "url": "http://strm112.1.fm/baroque_mobile_aac",
         "country": "CH",
-        "favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png",
+        "tags": "baroque, classical baroque, classical music",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/baroque_mobile_aac"
+        "working_url": "http://strm112.1.fm/baroque_mobile_aac"
     },
     {
         "name": "1.fm Otto's Classical music",
         "url": "https://strm112.1.fm/classical_mobile_aac",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -712,26 +801,29 @@
     },
     {
         "name": "1.fm Otto's Classical music (http/mp3)",
-        "url": "https://strm112.1.fm/classical_mobile_mp3",
+        "url": "http://strm112.1.fm/classical_mobile_mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/classical_mobile_mp3"
+        "working_url": "http://strm112.1.fm/classical_mobile_mp3"
     },
     {
         "name": "1.FM Top 40 Ballads Radio",
-        "url": "https://strm112.1.fm/top40ballads_mobile_mp3",
+        "url": "http://strm112.1.fm/top40ballads_mobile_mp3",
         "country": "CH",
-        "favicon": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png",
+        "tags": "ballads, hits, pop, top 40",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/top40ballads_mobile_mp3"
+        "working_url": "http://strm112.1.fm/top40ballads_mobile_mp3"
     },
     {
         "name": "1.fm top rap",
         "url": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue",
         "country": "CH",
+        "tags": "rap hiphop rnb",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -739,17 +831,19 @@
     },
     {
         "name": "1.FM Y2K Radio (2000s)",
-        "url": "https://strm112.1.fm/hits2000_mobile_mp3",
+        "url": "http://strm112.1.fm/hits2000_mobile_mp3",
         "country": "CH",
-        "favicon": "https://radio-online.ch/uploads/img/1-fm-y2k.png",
+        "tags": "2000, 2000s, decades, early 2000s, y2k",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://strm112.1.fm/hits2000_mobile_mp3"
+        "working_url": "http://strm112.1.fm/hits2000_mobile_mp3"
     },
     {
         "name": "20minuten.radio DAB+ (GOAT Radio)",
         "url": "https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25",
         "country": "CH",
+        "tags": "pop music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
@@ -759,15 +853,17 @@
         "name": "80ies dot radio",
         "url": "https://stream.radiojar.com/6cbvkaa1mrruv?1643199882",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://n0f.radiojar.com/6cbvkaa1mrruv?1643199882=&rj-tok=AAABn_HzC-0AN-tV7K4YR-jBVw&rj-ttl=5"
+        "working_url": "https://n07.radiojar.com/6cbvkaa1mrruv?1643199882=&rj-tok=AAABoADjwaEAFvaRRzO1Emqc_Q&rj-ttl=5"
     },
     {
         "name": "80s Forever - We Keep The 80s Alive",
         "url": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
         "country": "CH",
+        "tags": "80s, alternative rock, eighties, gothic, indie, indie pop, manchester rave, new wave, power pop, rare 80s, rock, synthpop",
         "favicon": "https://www.80sforever.radio/favicon.ico",
         "codec": "MP3",
         "bitrate": 256,
@@ -775,27 +871,30 @@
     },
     {
         "name": "Adonia-KidsRadio",
-        "url": "https://puma.streemlion.com:1930/stream",
+        "url": "http://puma.streemlion.com:1930/stream",
         "country": "CH",
+        "tags": "children, christian, kids, kinder, teens",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://puma.streemlion.com:1930/stream"
+        "working_url": "http://puma.streemlion.com:1930/stream"
     },
     {
         "name": "Agaune Radio",
         "url": "https://stream.zeno.fm/0r0xa792kwzuv",
         "country": "CH",
+        "tags": "general",
         "favicon": "https://www.agaune.radio/upload/design/69a67c2b9ba951.58189328.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream-285.surfernetwork.com/0r0xa792kwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcjB4YTc5Mmt3enV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJBTjJ1WUVvTVJseUM3T3pNODJwRDVBIiwiaWF0IjoxNzg2NDcwMDY1LCJleHAiOjE3ODY0NzAxMjV9.5a2kBMPZVq0PBUA99eak8rM0aK2OFpxsuaQc_Wlf_D8"
+        "working_url": "https://stream-285.surfernetwork.com/0r0xa792kwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcjB4YTc5Mmt3enV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpnTTdfOXJRUXdtR1hGaXpXdkFSWEEiLCJpYXQiOjE3ODY3MjA3MjEsImV4cCI6MTc4NjcyMDc4MX0.oZ-3B5_geO9bueC6iQKUcFAugfeZ-qKKPTbaAXQi-ko"
     },
     {
         "name": "Ambi Nature Radio",
         "url": "https://nature-rex.radioca.st/stream",
         "country": "CH",
-        "favicon": "https://cdn-radiotime-logos.tunein.com/s266086d.png",
+        "tags": "field recording, nature, sounds of nature",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
         "working_url": "https://nature-rex.radioca.st/stream"
@@ -804,6 +903,7 @@
         "name": "Arc Musique",
         "url": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
         "country": "CH",
+        "tags": "classic hits",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -811,26 +911,29 @@
     },
     {
         "name": "Audioasyl",
-        "url": "https://stream.audioasyl.net:8000/audioasyl",
+        "url": "http://stream.audioasyl.net:8000/audioasyl",
         "country": "CH",
+        "tags": "electronic",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://stream.audioasyl.net:8000/audioasyl"
+        "working_url": "http://stream.audioasyl.net:8000/audioasyl"
     },
     {
         "name": "Bachata Nation Radio",
         "url": "https://stream.zeno.fm/vwcq5n2rruhvv",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream-177.surfernetwork.com/vwcq5n2rruhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d2NxNW4ycnJ1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMNzB2YUUyalRZYWJ1STc4azBtY2JBIiwiaWF0IjoxNzg2NDcwMDY1LCJleHAiOjE3ODY0NzAxMjV9.gTrbyuKtBcwEGyI3yQFT-Aju1WBJ139hMffTDI2Sehc"
+        "working_url": "https://stream-177.surfernetwork.com/vwcq5n2rruhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d2NxNW4ycnJ1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im0wZ0FZa1ZEUldLM0U4R0JDSmxmWEEiLCJpYXQiOjE3ODY3MjA3MjEsImV4cCI6MTc4NjcyMDc4MX0.H_tKTfS9ZGnXhe_OKyIWiDqWh6XigRajy87DBgtBwxs"
     },
     {
         "name": "Back2Noize Radio",
         "url": "https://securestreams4.autopo.st:1558/Back2Noize",
         "country": "CH",
+        "tags": "club, club dance, dance, dance music, dnb, drum  bass, drum n bass, drum and bass, electro, electronic, electronic dance music, hard dance, hardstyle, house, techno, trance",
         "favicon": "https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg",
         "codec": "MP3",
         "bitrate": 320,
@@ -838,35 +941,29 @@
     },
     {
         "name": "Barix Radio",
-        "url": "https://barix-ice.streamguys1.com/barix_hi",
+        "url": "http://barix-ice.streamguys1.com/barix_hi",
         "country": "CH",
+        "tags": "classic hits, oldies, promo",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://barix-ice.streamguys1.com/barix_hi"
+        "working_url": "http://barix-ice.streamguys1.com/barix_hi"
     },
     {
         "name": "Basspistol Radio",
         "url": "https://radio.basspistol.com/radio.mp3",
         "country": "CH",
+        "tags": "dance, electronic, experimental, hiphop, indie",
         "favicon": "https://basspistol.com/siteicon.png",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://radio.basspistol.com/listen/basspistol/radio.mp3"
     },
     {
-        "name": "Bear Metal Radio",
-        "url": "https://cast5.asurahosting.com/proxy/bear?mp=/stream",
-        "country": "CH",
-        "favicon": "https://www.bearmetalradio.com/images/logo.png",
-        "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://cast5.asurahosting.com/proxy/bear?mp=/stream"
-    },
-    {
         "name": "Brazilian Birds Radio",
         "url": "https://strm112.1.fm/brazilianbirds_mobile_mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0",
         "codec": "MP3",
         "bitrate": 320,
@@ -876,24 +973,27 @@
         "name": "Break Radio",
         "url": "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3",
         "country": "CH",
-        "favicon": "https://www.breakradio.ch/apple-touch-icon.png",
+        "tags": "hip-hop, hip-hop and rap oldies, hiphop, rap, rap hiphop rnb, rnb, trap",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3"
     },
     {
         "name": "BurningStation.com",
-        "url": "https://176.9.148.80:8750/stream",
+        "url": "http://176.9.148.80:8750/stream",
         "country": "CH",
+        "tags": "charts, oldies",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://176.9.148.80:8750/stream"
+        "working_url": "http://176.9.148.80:8750/stream"
     },
     {
         "name": "Canal3 deutsch",
         "url": "https://radio.upstream-cloud.ch/canal3allemand-192.aac",
         "country": "CH",
+        "tags": "local news, news, pop",
         "favicon": "https://web.canal3.ch/de/sites/all/themes/canal3_theme_v2/favicon.ico",
         "codec": "AAC",
         "bitrate": 192,
@@ -901,17 +1001,19 @@
     },
     {
         "name": "Christmas Radio",
-        "url": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+        "url": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
         "country": "CH",
+        "tags": "christian contemporary, christmas music, classical, country, rnb, soul",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+        "working_url": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
     },
     {
         "name": "Christmas Radio FM",
         "url": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -921,15 +1023,17 @@
         "name": "Classic | Radio Swiss",
         "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
         "country": "CH",
+        "tags": "classical, mp3, radio swiss",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_de/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_de/mp3/128"
     },
     {
         "name": "CM Radio Crans-Montana",
         "url": "https://listen.radioking.com/radio/605899/stream/669205",
         "country": "CH",
+        "tags": "diversity",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -937,17 +1041,19 @@
     },
     {
         "name": "Couleur3",
-        "url": "https://stream.srg-ssr.ch/m/couleur3/aacp_96",
+        "url": "http://stream.srg-ssr.ch/m/couleur3/aacp_96",
         "country": "CH",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png",
+        "tags": "indie, pop, rock",
+        "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/couleur3/aac/96"
     },
     {
         "name": "Country Radio Switzerland",
         "url": "https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -955,26 +1061,29 @@
     },
     {
         "name": "Country Radio Switzerland (CRS)",
-        "url": "https://stream.countryradio.ch/crs-128.mp3",
+        "url": "http://stream.countryradio.ch/crs-128.mp3",
         "country": "CH",
+        "tags": "undefined",
         "favicon": "https://www.countryradio.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://stream.countryradio.ch/crs-128.mp3"
+        "working_url": "http://stream.countryradio.ch/crs-128.mp3"
     },
     {
         "name": "DBC radio",
-        "url": "https://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656",
+        "url": "http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656",
         "country": "CH",
-        "favicon": "https://www.digital-broadcast-channel.com/_images/radio_dbcplayer.fw.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 64,
-        "working_url": "https://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656"
+        "working_url": "http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656"
     },
     {
         "name": "DIKS ДИКС",
         "url": "https://icecast.correctiv.net/sacharow",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -984,6 +1093,7 @@
         "name": "Dream Sequence",
         "url": "https://listen.radioking.com/radio/453296/stream/508976",
         "country": "CH",
+        "tags": "",
         "favicon": "https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png",
         "codec": "MP3",
         "bitrate": 192,
@@ -991,35 +1101,39 @@
     },
     {
         "name": "Electro Radio",
-        "url": "https://stream.radiojar.com/fkyxx4q35k0uv",
+        "url": "http://stream.radiojar.com/fkyxx4q35k0uv",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://n12.radiojar.com/fkyxx4q35k0uv?rj-ttl=5&rj-tok=AAABn_HzD-QAZoCtefFf4dUUxg"
+        "working_url": "http://n03.radiojar.com/fkyxx4q35k0uv?rj-ttl=5&rj-tok=AAABoADjxlwATJda2cZR-pgSyw"
     },
     {
         "name": "Electrons Libres",
         "url": "https://listen.radioking.com/radio/427889/stream/481505",
         "country": "CH",
-        "favicon": "https://electronslibres.ch/wp-content/uploads/2021/06/cropped-LogoRadioSimpleSansTxt-1.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://listen.radioking.com/radio/427889/stream/481505"
     },
     {
         "name": "electroradio.fm",
-        "url": "https://n05.radiojar.com/fkyxx4q35k0uv",
+        "url": "http://n05.radiojar.com/fkyxx4q35k0uv",
         "country": "CH",
+        "tags": "electronic",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://n0d.radiojar.com/fkyxx4q35k0uv?rj-ttl=5&rj-tok=AAABn_HzEEoAnQET4yl47arTsA"
+        "working_url": "http://n13.radiojar.com/fkyxx4q35k0uv?rj-ttl=5&rj-tok=AAABoADjxt8AuTcvDwSOHFdB3w"
     },
     {
         "name": "Energy Basel (NRJ)",
         "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
         "country": "CH",
+        "tags": "charts, local news, pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1029,15 +1143,7 @@
         "name": "Energy Bern",
         "url": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
         "country": "CH",
-        "favicon": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://energybern.ice.infomaniak.ch/energybern-high.mp3"
-    },
-    {
-        "name": "Energy Bern (NRJ)",
-        "url": "https://broadcast.infomaniak.ch/energybern-high.mp3",
-        "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1045,44 +1151,69 @@
     },
     {
         "name": "Energy Blick Trendz",
-        "url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+        "url": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3"
-    },
-    {
-        "name": "Energy Zürich (NRJ)",
-        "url": "https://broadcast.infomaniak.ch/energyzuerich-high.mp3",
-        "country": "CH",
-        "favicon": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3"
+        "working_url": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3"
     },
     {
         "name": "ERF LifeChannel",
         "url": "https://stream1.lifechannel.ch/LIFECHANNEL",
         "country": "CH",
+        "tags": "ccm, christian",
         "favicon": "https://lifechannel.ch/wp-content/uploads/sites/2/cropped-Life-Channel-Profil-Logo-32x32.png",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://stream1.lifechannel.ch/LIFECHANNEL"
     },
     {
-        "name": "FLASHBACK FM",
-        "url": "https://flashback.streambase.ch/001",
+        "name": "Flowstate Chill Radio",
+        "url": "https://radio.flowstateradio.net/listen/chill/radio.mp3",
         "country": "CH",
+        "tags": "247, ambient music, chill, chill music, chillout, relaxing music, study music",
+        "favicon": "https://flowstateradio.net/assets/img/station/chill-logo-128.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://radio.flowstateradio.net/listen/chill/radio.mp3"
+    },
+    {
+        "name": "Flowstate Classical Radio",
+        "url": "https://radio.flowstateradio.net/listen/classical/radio.mp3",
+        "country": "CH",
+        "tags": "247, background music, classical, classical music, focus music, instrumental music, study music",
+        "favicon": "https://flowstateradio.net/assets/img/station/classical-logo-128.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://radio.flowstateradio.net/listen/classical/radio.mp3"
+    },
+    {
+        "name": "Flowstate Deep Radio",
+        "url": "https://radio.flowstateradio.net/listen/deep/radio.mp3",
+        "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
-        "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-ffm-mp3-192-2470075"
+        "bitrate": 320,
+        "working_url": "https://radio.flowstateradio.net/listen/deep/radio.mp3"
+    },
+    {
+        "name": "Flowstate House Radio",
+        "url": "https://radio.flowstateradio.net/listen/house/radio.mp3",
+        "country": "CH",
+        "tags": "247, dance, electronic, funky house, house, house music, workout music",
+        "favicon": "https://flowstateradio.net/assets/img/station/house-logo-128.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://radio.flowstateradio.net/listen/house/radio.mp3"
     },
     {
         "name": "GDS.FM",
         "url": "https://live.gds.fm/main.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1090,35 +1221,39 @@
     },
     {
         "name": "Geneva Latina Radio",
-        "url": "https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3",
+        "url": "http://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://genevalatina.ch/wp-content/uploads/2021/02/cropped-Logo-Geneva-Latina-sans-text-v2-1.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3"
+        "working_url": "http://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3"
     },
     {
         "name": "Global FM",
-        "url": "https://globalfm.ice.infomaniak.ch/globalfm-high.mp3",
+        "url": "http://globalfm.ice.infomaniak.ch/globalfm-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://globalfm.ice.infomaniak.ch/globalfm-high.mp3"
+        "working_url": "http://globalfm.ice.infomaniak.ch/globalfm-high.mp3"
     },
     {
         "name": "Global Sport - Genève",
-        "url": "https://live9.avf.ch:8000/globalfmdabge",
+        "url": "http://live9.avf.ch:8000/globalfmdabge",
         "country": "CH",
-        "favicon": "https://www.globalsport.ch/uploads/images/illustrations/Logos%20Cantons/btn-geneve.png",
+        "tags": "football, hockey, live sports",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://live9.avf.ch:8000/globalfmdabge"
+        "working_url": "http://live9.avf.ch:8000/globalfmdabge"
     },
     {
         "name": "Global Sport Canal Romand",
         "url": "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.globalsport.ch/player/bouton_player.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1126,17 +1261,19 @@
     },
     {
         "name": "Global Sport Suisse",
-        "url": "https://live7.avf.ch:8000/globalfm",
+        "url": "http://live7.avf.ch:8000/globalfm",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "https://live7.avf.ch:8000/globalfm"
+        "working_url": "http://live7.avf.ch:8000/globalfm"
     },
     {
         "name": "Gnu Radio - Metal FM",
         "url": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802",
         "country": "CH",
+        "tags": "classic metal, drgnu, gnu, gnu radio, metal, metal fm, radio",
         "favicon": "https://www.gnuradio.org/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
@@ -1146,6 +1283,7 @@
         "name": "GOAT Radio",
         "url": "https://20min.dmd2streaming.com/20minuten_radio_64.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png",
         "codec": "AAC+",
         "bitrate": 64,
@@ -1155,6 +1293,7 @@
         "name": "Gorilla.fm",
         "url": "https://strm112.1.fm/gorillafm_mobile_mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1164,6 +1303,7 @@
         "name": "GRRIF",
         "url": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
         "country": "CH",
+        "tags": "blues, eclectic, electronic, indie, rock, soul",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1173,6 +1313,7 @@
         "name": "Happy Radio",
         "url": "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995",
         "country": "CH",
+        "tags": "",
         "favicon": "https://goodtimeradio.broadcast.radio/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1180,62 +1321,69 @@
     },
     {
         "name": "IP music",
-        "url": "https://live9.avf.ch:8000/ipmusicaacplus96",
+        "url": "http://live9.avf.ch:8000/ipmusicaacplus96",
         "country": "CH",
+        "tags": "80s, adult hits, pop, rock",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "https://live9.avf.ch:8000/ipmusicaacplus96"
+        "working_url": "http://live9.avf.ch:8000/ipmusicaacplus96"
     },
     {
         "name": "ip music 320",
-        "url": "https://live7.avf.ch:8000/ipmusic320",
+        "url": "http://live7.avf.ch:8000/ipmusic320",
         "country": "CH",
+        "tags": "pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://live7.avf.ch:8000/ipmusic320"
+        "working_url": "http://live7.avf.ch:8000/ipmusic320"
     },
     {
         "name": "IP Music Slow",
-        "url": "https://live7.avf.ch:8000/ipmusicslow256",
+        "url": "http://live7.avf.ch:8000/ipmusicslow256",
         "country": "CH",
+        "tags": "rburban",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 256,
-        "working_url": "https://live7.avf.ch:8000/ipmusicslow256"
+        "working_url": "http://live7.avf.ch:8000/ipmusicslow256"
     },
     {
         "name": "IP music SLOW - aacPlus@96 Kb/s",
         "url": "https://live9.avf.ch/ipmusicslowaacp96",
         "country": "CH",
-        "favicon": "https://www.ipmusicslow.ch/images/logo-ipmusicslow.png",
+        "tags": "",
+        "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
         "working_url": "https://live9.avf.ch/ipmusicslowaacp96"
     },
     {
         "name": "IP music slow (128 kbps AAC)",
-        "url": "https://live7.avf.ch:8000/ipmusicslowaacp128",
+        "url": "http://live7.avf.ch:8000/ipmusicslowaacp128",
         "country": "CH",
+        "tags": "pop",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "https://live7.avf.ch:8000/ipmusicslowaacp128"
+        "working_url": "http://live7.avf.ch:8000/ipmusicslowaacp128"
     },
     {
         "name": "IP music slow (96 kbps AAC)",
-        "url": "https://live7.avf.ch:8000/ipmusicslowaacp96",
+        "url": "http://live7.avf.ch:8000/ipmusicslowaacp96",
         "country": "CH",
+        "tags": "pop",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "https://live7.avf.ch:8000/ipmusicslowaacp96"
+        "working_url": "http://live7.avf.ch:8000/ipmusicslowaacp96"
     },
     {
         "name": "Jam On Radio",
         "url": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://jam-on.ch/img/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1245,6 +1393,7 @@
         "name": "JAMES FM",
         "url": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1254,42 +1403,37 @@
         "name": "Jazz | Radio Swiss",
         "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
         "country": "CH",
+        "tags": "jazz, mp3, radio swiss",
         "favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsj/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsj/mp3/128"
     },
     {
         "name": "Jazz Black Music",
-        "url": "https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac",
+        "url": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac"
-    },
-    {
-        "name": "Jazz Radio",
-        "url": "https://broadcast.infomaniak.ch/jazzlounge-high.mp3",
-        "country": "CH",
-        "favicon": "",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3"
+        "working_url": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac"
     },
     {
         "name": "Jazz Radio Lounge",
-        "url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac",
+        "url": "http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 64,
-        "working_url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac"
+        "working_url": "http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac"
     },
     {
         "name": "Jukebox - Nonstop Music",
         "url": "https://kreuzbergswiss.spcast.eu/stream",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1299,24 +1443,27 @@
         "name": "Kanal K",
         "url": "https://play.kanalk.ch/kanalk/mp3-192/webstream",
         "country": "CH",
+        "tags": "",
         "favicon": "https://backend.kanalk.ch/wp-content/uploads/2023/10/Kanal_K_Icon_WeissAufSchwarz.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=6n7o5ro4%230%2326op9o06s6539s8p440p917443o45297%23jrofgernz&aw_0_1st.playerid=webstream&amsparams=playerid:webstream;skey:1786470068"
+        "working_url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=6n7s31q5%230%2326op9o06s6539s8p440p917443o45297%23jrofgernz&aw_0_1st.playerid=webstream&amsparams=playerid:webstream;skey:1786720725"
     },
     {
         "name": "kanalk",
         "url": "https://play.kanalk.ch/kanalk/mp3-192/",
         "country": "CH",
+        "tags": "alternative  indie",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=6n7o5ro4%230%2326op9o06s6539s8p440p917443o45297%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786470068"
+        "working_url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=6n7s31q5%230%2326op9o06s6539s8p440p917443o45297%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786720725"
     },
     {
         "name": "Kiss Collector Radio",
         "url": "https://dr2101.ice.infomaniak.ch/dr2101.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://kisscollector.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 320,
@@ -1326,6 +1473,7 @@
         "name": "Klassik Radio (Switzerland)",
         "url": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
@@ -1335,6 +1483,7 @@
         "name": "Kontrafunk",
         "url": "https://s5.radio.co/sca4082ebb/listen",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1344,6 +1493,7 @@
         "name": "Kontrafunk (AAC 64)",
         "url": "https://s5.radio.co/sca4082ebb/low",
         "country": "CH",
+        "tags": "conservative, news, politics, talk",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
@@ -1353,6 +1503,7 @@
         "name": "Kontrafunk (Mobil)",
         "url": "https://icecast.multhielemedia.de/listen/kontrafunk/mobil",
         "country": "CH",
+        "tags": "news, opinion, talk",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 64,
@@ -1362,6 +1513,7 @@
         "name": "Kontrafunk (MP3 192)",
         "url": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
         "country": "CH",
+        "tags": "conservative, news, politics, talk",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1371,6 +1523,7 @@
         "name": "KTfm Geneva - THE BEST OF 70'S AND 80'S",
         "url": "https://ktfm.ice.infomaniak.ch/ktfm-high.mp3",
         "country": "CH",
+        "tags": "70s, 70s disco, 80s, disco",
         "favicon": "https://i0.wp.com/ktfm-radio.ch/wp-content/uploads/2019/12/KTFM-1.png?fit=50%2C50&ssl=1",
         "codec": "MP3",
         "bitrate": 128,
@@ -1380,6 +1533,7 @@
         "name": "La Radio du bord de l’eau",
         "url": "https://listen.radioking.com/radio/181657/stream/223420",
         "country": "CH",
+        "tags": "chillout, house, smooth lounge, world music",
         "favicon": "https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg",
         "codec": "MP3",
         "bitrate": 128,
@@ -1387,17 +1541,19 @@
     },
     {
         "name": "LeMixx Radio",
-        "url": "https://maxxima.mine.nu/lemixx",
+        "url": "http://maxxima.mine.nu/lemixx",
         "country": "CH",
+        "tags": "commercial-free, disco, funk, funky, groove, no ads, rare groove, rnb, soul, soulful",
         "favicon": "https://horizons-cdn.hostinger.com/6fc7f52e-1444-494c-bd09-fbd1e898c6de/d660e9f52cb5da0a7ea1ba0734ff1cc1.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://maxxima.mine.nu/lemixx"
+        "working_url": "http://maxxima.mine.nu/lemixx"
     },
     {
         "name": "LFM",
         "url": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1405,17 +1561,19 @@
     },
     {
         "name": "Lounge Radio",
-        "url": "https://de1.streamhosting.ch/",
+        "url": "http://de1.streamhosting.ch/",
         "country": "CH",
+        "tags": "",
         "favicon": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://de1.streamhosting.ch/"
+        "working_url": "http://de1.streamhosting.ch/"
     },
     {
         "name": "lounge-radio.com",
         "url": "https://fr1.streamhosting.ch/lounge128.mp3",
         "country": "CH",
+        "tags": "chilloutlounge",
         "favicon": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1425,6 +1583,7 @@
         "name": "LOUNGE-RADIO.COM - swiss made",
         "url": "https://player.streamhosting.ch/lounge128.ogg",
         "country": "CH",
+        "tags": "",
         "favicon": "https://lounge-radio.com/images/lounge-radio_logo.png",
         "codec": "OGG",
         "bitrate": 0,
@@ -1432,17 +1591,19 @@
     },
     {
         "name": "Loungemain Radio Jazz-Chill-Funk",
-        "url": "https://185.238.128.191:8002/live",
+        "url": "http://185.238.128.191:8002/live",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://185.238.128.191:8002/live"
+        "working_url": "http://185.238.128.191:8002/live"
     },
     {
         "name": "Love Hardstyle",
         "url": "https://ca.azura.linkodev.ch/listen/lovehardstyle/radio.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1452,6 +1613,7 @@
         "name": "LUX RADIO",
         "url": "https://live7.avf.ch/lux_main",
         "country": "CH",
+        "tags": "",
         "favicon": "https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png",
         "codec": "OGG",
         "bitrate": 1200,
@@ -1461,6 +1623,7 @@
         "name": "MaXXima",
         "url": "https://maxxima.mine.nu/maxxima.aac",
         "country": "CH",
+        "tags": "club, dance, deep house, edm, electro house, electronic, house, progressive house",
         "favicon": "https://maxxima.ch/wp-content/uploads/2018/03/cropped-maxxima_radio_512-180x180.png",
         "codec": "AAC",
         "bitrate": 80,
@@ -1468,179 +1631,199 @@
     },
     {
         "name": "Musikwälle",
-        "url": "https://stream.srg-ssr.ch/srgssr/srfmw/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128",
         "country": "CH",
+        "tags": "pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/srfmw/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srfmw/mp3/128"
     },
     {
         "name": "my105 - All The Hits",
-        "url": "https://stream01.my105.ch/my105allthehits.mp3",
+        "url": "http://stream01.my105.ch/my105allthehits.mp3",
         "country": "CH",
+        "tags": "hits",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-allthehits_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9MzM0MTIyNTAwZDMzNTZlMTdjODY"
+        "working_url": "http://my105.stream16.radiohost.de/my105-allthehits_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9ZjE3OTA5ZjY5MzRlYjM3ZGY3ZTk"
     },
     {
         "name": "my105 - Charts",
-        "url": "https://stream01.my105.ch/my105charts.mp3",
+        "url": "http://stream01.my105.ch/my105charts.mp3",
         "country": "CH",
+        "tags": "top 40",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-charts_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9YzFhOTc0NGQ2MDA3ZTM3Y2E4MGI"
+        "working_url": "http://my105.stream37.radiohost.de/my105-charts_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OWY2ZjQzYmIwMjcxMTNjZjA3ODQ"
     },
     {
         "name": "my105 - Chill",
-        "url": "https://stream01.my105.ch/my105chill.mp3",
+        "url": "http://stream01.my105.ch/my105chill.mp3",
         "country": "CH",
+        "tags": "chillout, relax",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-chill_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY4JmQ9YzIxOGI2OGVmZDIyNzhjNzFkOWM"
+        "working_url": "http://my105.stream37.radiohost.de/my105-chill_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OWYwZDBiZThhYTBlMmI4M2U0Nzk"
     },
     {
         "name": "my105 - Dance",
-        "url": "https://stream01.my105.ch/my105dance.mp3",
+        "url": "http://stream01.my105.ch/my105dance.mp3",
         "country": "CH",
+        "tags": "electro, house",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-dance_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY4JmQ9NWMyYTMzNjJmOWU3OWI0OTZhNjA"
+        "working_url": "http://my105.stream37.radiohost.de/my105-dance_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9YWQ5ZWM1ZDUyZWJjODlhMzVlY2U"
     },
     {
         "name": "my105 - Deep",
-        "url": "https://stream01.my105.ch/my105deep.mp3",
+        "url": "http://stream01.my105.ch/my105deep.mp3",
         "country": "CH",
+        "tags": "deep house",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-deep_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9NjQ0MjYzMzgyYjYxMmZiNjZjZTk"
+        "working_url": "http://my105.stream37.radiohost.de/my105-deep_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9ZmI4MmFkNTNlNWUxNTRkYzkwODU"
     },
     {
         "name": "my105 - Deluxe",
-        "url": "https://stream01.my105.ch/my105deluxe.mp3",
+        "url": "http://stream01.my105.ch/my105deluxe.mp3",
         "country": "CH",
+        "tags": "lounge",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-nightbeatsdeluxe_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9Njg1Njk3YTg2YTdjZWM3M2Y4OWI"
+        "working_url": "http://my105.stream37.radiohost.de/my105-nightbeatsdeluxe_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9MTI4YWRjYTQyOTMwZTdiMzg5MTE"
     },
     {
         "name": "my105 - DJ Mixes",
-        "url": "https://stream01.my105.ch/my105djnights.mp3",
+        "url": "http://stream01.my105.ch/my105djnights.mp3",
         "country": "CH",
+        "tags": "dj sets",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-dance_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY4JmQ9NWMyYTMzNjJmOWU3OWI0OTZhNjA"
+        "working_url": "http://my105.stream37.radiohost.de/my105-dance_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9YWQ5ZWM1ZDUyZWJjODlhMzVlY2U"
     },
     {
         "name": "my105 - Dreist",
-        "url": "https://stream01.my105.ch/my105dreist.mp3",
+        "url": "http://stream01.my105.ch/my105dreist.mp3",
         "country": "CH",
+        "tags": "rap",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream17.radiohost.de/my105-thebattle_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9OWJiODEwY2M4ZGFlYjI4MmU5YTE"
+        "working_url": "http://my105.stream37.radiohost.de/my105-thebattle_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OTA1YjhiZTZlYjM4MzA4MDUxYmE"
     },
     {
         "name": "my105 - Fresh",
-        "url": "https://stream01.my105.ch/my105fresh.mp3",
+        "url": "http://stream01.my105.ch/my105fresh.mp3",
         "country": "CH",
+        "tags": "new music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-fresh_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9Y2Q5MTc3ZDc3ZDdjMjdmM2E1MWE"
+        "working_url": "http://my105.stream37.radiohost.de/my105-fresh_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OWU0MWRhNjRlYzk4MmExNDhiOGU"
     },
     {
         "name": "my105 - Love",
-        "url": "https://stream01.my105.ch/my105love.mp3",
+        "url": "http://stream01.my105.ch/my105love.mp3",
         "country": "CH",
+        "tags": "love songs",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-chill_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY4JmQ9YzIxOGI2OGVmZDIyNzhjNzFkOWM"
+        "working_url": "http://my105.stream37.radiohost.de/my105-chill_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OWYwZDBiZThhYTBlMmI4M2U0Nzk"
     },
     {
         "name": "my105 - Mashup",
-        "url": "https://stream01.my105.ch/my105mashup.mp3",
+        "url": "http://stream01.my105.ch/my105mashup.mp3",
         "country": "CH",
+        "tags": "mashup",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream17.radiohost.de/my105-mashup_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9YzgxMTczN2ZmZjFkYTViM2Q4YTg"
+        "working_url": "http://my105.stream37.radiohost.de/my105-mashup_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI3JmQ9YWE0YzAwNDEwODE1MmY1MzRkOTU"
     },
     {
         "name": "my105 - Original",
-        "url": "https://stream01.my105.ch/my105original.mp3",
+        "url": "http://stream01.my105.ch/my105original.mp3",
         "country": "CH",
+        "tags": "dance, hits, pop, top 40",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-todaysbestmusic_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9NTY2MTFhZTZmNjdkNjk4NTM0NzU"
+        "working_url": "http://my105.stream37.radiohost.de/my105-todaysbestmusic_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9MDliMWM2ZDQ0MzA5NzUyZThmOGM"
     },
     {
         "name": "my105 - Party",
-        "url": "https://stream01.my105.ch/my105party.mp3",
+        "url": "http://stream01.my105.ch/my105party.mp3",
         "country": "CH",
+        "tags": "party",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-party_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9Yzg0Y2Y2NGYzNjFkZTRjOWM3ZTA"
+        "working_url": "http://my105.stream37.radiohost.de/my105-party_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OTE4NDY4YTUyZTg5MDY3OTY4NjQ"
     },
     {
         "name": "my105 - Ritmo Latino",
-        "url": "https://stream01.my105.ch/my105ritmolatino.mp3",
+        "url": "http://stream01.my105.ch/my105ritmolatino.mp3",
         "country": "CH",
+        "tags": "latin",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-ritmolatino_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9MmU2M2I5MDNhZGQwMTQ3Y2U2YjQ"
+        "working_url": "http://my105.stream16.radiohost.de/my105-ritmolatino_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9YTBmZjQwZDZiZDI0NDRkMGEzMGE"
     },
     {
         "name": "my105 - Rock",
-        "url": "https://stream01.my105.ch/my105rock.mp3",
+        "url": "http://stream01.my105.ch/my105rock.mp3",
         "country": "CH",
+        "tags": "rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-todaysbestmusic_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9NTY2MTFhZTZmNjdkNjk4NTM0NzU"
+        "working_url": "http://my105.stream16.radiohost.de/my105-todaysbestmusic_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI3JmQ9NzU0NzRiNDUzMTZhYzdhYTQyYjc"
     },
     {
         "name": "my105 - The Battle",
-        "url": "https://stream01.my105.ch/my105thebattle.mp3",
+        "url": "http://stream01.my105.ch/my105thebattle.mp3",
         "country": "CH",
+        "tags": "hiphop, urban",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream17.radiohost.de/my105-thebattle_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NDcwMzY5JmQ9OWJiODEwY2M4ZGFlYjI4MmU5YTE"
+        "working_url": "http://my105.stream37.radiohost.de/my105-thebattle_mp3-192?upd-meta=1&upd-scheme=http&_art=dD0xNzg2NzIxMDI2JmQ9OTA1YjhiZTZlYjM4MzA4MDUxYmE"
     },
     {
         "name": "my105 X-MAS",
         "url": "https://stream01.my105.ch/my105xmas.mp3",
         "country": "CH",
+        "tags": "weihnachten, x-mas",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://my105.stream37.radiohost.de/my105-xmas_mp3-192?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NDcwMzcwJmQ9Yzk3MjQyODQxYzJkYmQzMjk0ZjY"
+        "working_url": "https://my105.stream37.radiohost.de/my105-xmas_mp3-192?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NzIxMDI3JmQ9N2I2MzM5MGI3MmQ5YzdlMTk5NDk"
     },
     {
         "name": "my105 X-MAS Radio (AAC)",
         "url": "https://stream01.my105.ch/my105xmas-aac.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "https://my105.stream17.radiohost.de/my105-xmas_aac-96?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NDcwMzcwJmQ9NDFlMjQ0YjRjMmFmOTA0ZGUzMjE"
+        "working_url": "https://my105.stream17.radiohost.de/my105-xmas_aac-96?upd-meta=1&upd-scheme=https&_art=dD0xNzg2NzIxMDI3JmQ9YTBlMTQ2NzY5OGI5NGYxZWI2MmI"
     },
     {
         "name": "Neo1",
         "url": "https://neo1.ice.infomaniak.ch/neo1.mp3",
         "country": "CH",
+        "tags": "local news, pop, rock",
         "favicon": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg",
         "codec": "MP3",
         "bitrate": 192,
@@ -1648,8 +1831,9 @@
     },
     {
         "name": "New Clear Radio",
-        "url": "https://live.ncradio.fm/320",
+        "url": "http://live.ncradio.fm/320",
         "country": "CH",
+        "tags": "brit pop, classic rock, indie",
         "favicon": "http://ncradio.fm/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 320,
@@ -1659,6 +1843,7 @@
         "name": "One Dance Ticino",
         "url": "https://ice15.fluidstream.net/onedancech.aac",
         "country": "CH",
+        "tags": "dance, electronic, pop, top 40",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
@@ -1668,6 +1853,7 @@
         "name": "One FM",
         "url": "https://onefm.ice.infomaniak.ch/onefm-high.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
         "codec": "AAC+",
         "bitrate": 64,
@@ -1677,6 +1863,7 @@
         "name": "One FM 2000s",
         "url": "https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3",
         "country": "CH",
+        "tags": "00s, 2000s",
         "favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1686,6 +1873,7 @@
         "name": "One FM 90s",
         "url": "https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1695,6 +1883,7 @@
         "name": "One FM New Hits",
         "url": "https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1704,6 +1893,7 @@
         "name": "One FM Rock Oldies",
         "url": "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -1713,15 +1903,17 @@
         "name": "OnFlow Hot",
         "url": "https://stream.zeno.fm/pxqdhcb7gqutv",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream-177.surfernetwork.com/pxqdhcb7gqutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweHFkaGNiN2dxdXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ3MmlTVWFGOVNyYWprdW9zR0xIWkNBIiwiaWF0IjoxNzg2NDcwMDcwLCJleHAiOjE3ODY0NzAxMzB9._id6TwyyVUpn_IKC7uoroUdjBiqH2TpuyD-7uabOFds"
+        "working_url": "https://stream-177.surfernetwork.com/pxqdhcb7gqutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweHFkaGNiN2dxdXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im1Gb3lUcjJyU3hHNmw5SThjMnU1RFEiLCJpYXQiOjE3ODY3MjA3MjcsImV4cCI6MTc4NjcyMDc4N30.j6qs5RAnlH20f4UmxpXrvPu7ILm5Y1iosXDOVH1ZJEw"
     },
     {
         "name": "Open Broadcast",
         "url": "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352",
         "country": "CH",
+        "tags": "eclectic",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1729,17 +1921,19 @@
     },
     {
         "name": "open broadcast radio",
-        "url": "https://stream.openbroadcast.ch/320.mp3",
+        "url": "http://stream.openbroadcast.ch/320.mp3",
         "country": "CH",
+        "tags": "afro, deep house, dub, eclectic, electronic, folk, funk, hip hop, house, jazz, latin, neo soul, pop, reggae, rnb, rock, soul, world music",
         "favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://stream.openbroadcast.ch/320.mp3"
+        "working_url": "http://stream.openbroadcast.ch/320.mp3"
     },
     {
         "name": "openbroadcast.ch",
         "url": "https://stream.openbroadcast.ch/16bit.flac",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 0,
@@ -1747,53 +1941,59 @@
     },
     {
         "name": "Option Musique",
-        "url": "https://stream.srg-ssr.ch/m/option-musique/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/option-musique/mp3_128",
         "country": "CH",
+        "tags": "classical",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/option-musique/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/option-musique/mp3/128"
     },
     {
         "name": "pinkradio.com | samo najbolji hitovi",
-        "url": "https://pink.exyuserver.com/;type=mp3",
+        "url": "http://pink.exyuserver.com/;type=mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://pinkradio.com/images/pinkradio-logo.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://pink.exyuserver.com/;type=mp3"
+        "working_url": "http://pink.exyuserver.com/;type=mp3"
     },
     {
         "name": "Piratenradio",
-        "url": "https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3",
+        "url": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3",
         "country": "CH",
+        "tags": "alternative, non-commercial",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3"
+        "working_url": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3"
     },
     {
         "name": "Planet Ambi HD",
-        "url": "https://philae.shoutca.st:9019/stream",
+        "url": "http://philae.shoutca.st:9019/stream",
         "country": "CH",
+        "tags": "ambient, drone",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://philae.shoutca.st:9019/stream"
+        "working_url": "http://philae.shoutca.st:9019/stream"
     },
     {
         "name": "Pop | Radio Swiss",
         "url": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
         "country": "CH",
+        "tags": "mp3, pop, radio swiss",
         "favicon": "https://www.radioswisspop.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsp/mp3/128"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/rsp/mp3/128"
     },
     {
         "name": "Provoda.ch LEGACY MP3",
         "url": "https://station.waveradio.org/provodach.mp3?irqlzgjdlfohjixsouex",
         "country": "CH",
+        "tags": "",
         "favicon": "https://provoda.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -1801,80 +2001,89 @@
     },
     {
         "name": "Public Domain Classical",
-        "url": "https://relay.publicdomainradio.org/classical.mp3",
+        "url": "http://relay.publicdomainradio.org/classical.mp3",
         "country": "CH",
+        "tags": "classical, public domain, royalty free",
         "favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://relay.publicdomainradio.org/classical.mp3"
+        "working_url": "http://relay.publicdomainradio.org/classical.mp3"
     },
     {
         "name": "Public Domain Jazz",
-        "url": "https://relay.publicdomainradio.org/jazz_swing.mp3",
+        "url": "http://relay.publicdomainradio.org/jazz_swing.mp3",
         "country": "CH",
+        "tags": "royalty free",
         "favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://relay.publicdomainradio.org/jazz_swing.mp3"
+        "working_url": "http://relay.publicdomainradio.org/jazz_swing.mp3"
     },
     {
         "name": "Public Domain Swiss Schlager",
-        "url": "https://relay.publicdomainradio.org/swiss_schlager.mp3",
+        "url": "http://relay.publicdomainradio.org/swiss_schlager.mp3",
         "country": "CH",
+        "tags": "folk, public domain, royalty free, swiss, swiss folk schlager",
         "favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://relay.publicdomainradio.org/swiss_schlager.mp3"
+        "working_url": "http://relay.publicdomainradio.org/swiss_schlager.mp3"
     },
     {
         "name": "publicdomainproject   classic",
-        "url": "https://relay.publicdomainproject.org/classical.mp3",
+        "url": "http://relay.publicdomainproject.org/classical.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://relay.publicdomainproject.org/classical.mp3"
+        "working_url": "http://relay.publicdomainproject.org/classical.mp3"
     },
     {
         "name": "PureGlow Radio",
         "url": "https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://2023.pureglowradio.com/wp-content/uploads/2016/09/logo-dark-pgr-2.png",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3"
     },
     {
-        "name": "QUEER RADIO",
-        "url": "https://solid67.streamupsolutions.com/proxy/eyprxrqz?mp=/stream",
-        "country": "CH",
-        "favicon": "https://www.queerradio.ch/wp-content/uploads/2019/10/QUEER-RADIO-HEART-PLAYER-180-180-pixel-150x150.jpg",
-        "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://solid67.streamupsolutions.com/proxy/eyprxrqz?mp=/stream"
-    },
-    {
         "name": "R102",
-        "url": "https://94.23.66.155:9334/stream",
+        "url": "http://94.23.66.155:9334/stream",
         "country": "CH",
+        "tags": "variety",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://94.23.66.155:9334/stream"
+        "working_url": "http://94.23.66.155:9334/stream"
+    },
+    {
+        "name": "RaBe Radio Bern Switzerland",
+        "url": "http://stream.rabe.ch/livestream/rabe-mid.mp3",
+        "country": "CH",
+        "tags": "multikulti",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "http://stream.rabe.ch/livestream/rabe-mid.mp3"
     },
     {
         "name": "Radio 1",
-        "url": "https://stream.radio1.ch/128k.m3u",
+        "url": "http://stream.radio1.ch/128k.m3u",
         "country": "CH",
+        "tags": "misc",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://stream.radio1.ch/128k.m3u"
+        "working_url": "http://stream.radio1.ch/128k.m3u"
     },
     {
         "name": "Radio 1 - FM 93.6",
         "url": "https://stream.radio1.ch/128k",
         "country": "CH",
+        "tags": "rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1884,16 +2093,18 @@
         "name": "Radio 24",
         "url": "https://stream.streambase.ch/radio24/mp3-192/direct/",
         "country": "CH",
+        "tags": "classic rock, easy listening, pop music",
         "favicon": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=6n7s31q9%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720729"
     },
     {
         "name": "Radio 2Go",
         "url": "https://uksoutha.streaming.broadcast.radio:15830/radio2go",
         "country": "CH",
-        "favicon": "https://radio2go.fm/wp-content/uploads/2020/06/favicon.png",
+        "tags": "adult contemporary, pop, top hits",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
         "working_url": "https://uksoutha.streaming.broadcast.radio:15830/radio2go"
@@ -1902,24 +2113,27 @@
         "name": "Radio 32",
         "url": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web",
         "country": "CH",
+        "tags": "local news, news, pop",
         "favicon": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-r32-mp3-192-5284783?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23puzrqvn-gbqnl-jro&aw_0_1st.playerid=chmedia-today-web&amsparams=playerid:chmedia-today-web;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-r32-mp3-192-5284783?sABC=6n7s31q9%230%2326op9o06s6539s8p440p917443o45297%23puzrqvn-gbqnl-jro&aw_0_1st.playerid=chmedia-today-web&amsparams=playerid:chmedia-today-web;skey:1786720729"
     },
     {
         "name": "Radio 32 Goldies",
         "url": "https://stream.streambase.ch/r32goldies/mp3-192/direct/",
         "country": "CH",
+        "tags": "",
         "favicon": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-goldies-mp3-192-3811722?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-goldies-mp3-192-3811722?sABC=6n7s31q9%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720729"
     },
     {
         "name": "Radio 3FACH",
         "url": "https://stream01.3fach.ch/live",
         "country": "CH",
+        "tags": "",
         "favicon": "https://3fach.ch/themes/3fach/assets/logo_black@2x.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -1929,6 +2143,7 @@
         "name": "Radio Alta",
         "url": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
         "country": "CH",
+        "tags": "christian, gospel, louange, worship",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -1938,24 +2153,27 @@
         "name": "Radio Argovia",
         "url": "https://stream.streambase.ch/argovia/mp3-192/direct/",
         "country": "CH",
+        "tags": "",
         "favicon": "https://ch.az-cdn.ch/static/4.46.3/argovia/device-icons/48x48.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=6n7s31q9%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720729"
     },
     {
         "name": "Radio Basilisk",
-        "url": "https://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3",
+        "url": "http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3"
+        "working_url": "http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3"
     },
     {
         "name": "Radio BeO",
         "url": "https://streaming.radiobeo.ch/beo/mp3_192/web",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -1965,15 +2183,17 @@
         "name": "RADIO BERN1",
         "url": "https://stream.streambase.ch/radiobern1/mp3-192/direct/",
         "country": "CH",
+        "tags": "",
         "favicon": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-rbern1-mp3-192-7860422?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-rbern1-mp3-192-7860422?sABC=6n7s31q9%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720729"
     },
     {
         "name": "Radio Bollwerk",
         "url": "https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
@@ -1983,51 +2203,57 @@
         "name": "Radio Central",
         "url": "https://stream.streambase.ch/rcentral/mp3-192/direct/",
         "country": "CH",
+        "tags": "local radio",
         "favicon": "https://ch.az-cdn.ch/static/4.3.0/radiocentral/device-icons/192x192.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-rcentral-mp3-192-5577010?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-rcentral-mp3-192-5577010?sABC=6n7s31qn%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720730"
     },
     {
         "name": "Radio Chablais",
-        "url": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
+        "url": "http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3"
+        "working_url": "http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3"
     },
     {
         "name": "Radio Chablais - 100% Français",
-        "url": "https://stream.radiochablais.ch/chablais-100francais.mp3",
+        "url": "http://stream.radiochablais.ch/chablais-100francais.mp3",
         "country": "CH",
+        "tags": "france",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://stream.radiochablais.ch/chablais-100francais.mp3"
+        "working_url": "http://stream.radiochablais.ch/chablais-100francais.mp3"
     },
     {
         "name": "Radio Chablais Rock'n'Blues",
-        "url": "https://stream.radiochablais.ch/chablais-rocknblues.mp3",
+        "url": "http://stream.radiochablais.ch/chablais-rocknblues.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radiochablais.ch/images/site/radiochablais1.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://stream.radiochablais.ch/chablais-rocknblues.mp3"
+        "working_url": "http://stream.radiochablais.ch/chablais-rocknblues.mp3"
     },
     {
         "name": "Radio Drachenblut",
-        "url": "https://radio-drachenblut.ch:8000/stream/3/",
+        "url": "http://radio-drachenblut.ch:8000/stream/3/",
         "country": "CH",
+        "tags": "",
         "favicon": "http://radio-drachenblut.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radio-drachenblut.ch:8000/stream/3/"
+        "working_url": "http://radio-drachenblut.ch:8000/stream/3/"
     },
     {
         "name": "Radio Electrons Libres",
         "url": "https://listen.radioking.com/radio/427889/stream/481499",
         "country": "CH",
+        "tags": "",
         "favicon": "https://electronslibres.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -2037,15 +2263,17 @@
         "name": "Radio Eviva",
         "url": "https://stream.streambase.ch/reviva/mp3-192/direct/",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-reviva-mp3-192-3783812?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-reviva-mp3-192-3783812?sABC=6n7s31qn%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720730"
     },
     {
         "name": "Radio FM1",
         "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894",
         "country": "CH",
+        "tags": "",
         "favicon": "https://ch.az-cdn.ch/static/4.18.0/radiofm1/device-icons/48x48.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -2055,6 +2283,7 @@
         "name": "Radio Freiburg",
         "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -2064,6 +2293,7 @@
         "name": "Radio Freundes-Dienst Schweiz",
         "url": "https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser",
         "country": "CH",
+        "tags": "christian music, news",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -2071,17 +2301,19 @@
     },
     {
         "name": "Radio Freundesdienst Schweiz",
-        "url": "https://radiofdch.ice.infomaniak.ch/radiofdch.mp3",
+        "url": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3",
         "country": "CH",
+        "tags": "christian",
         "favicon": "http://www.freundesdienst.org/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radiofdch.ice.infomaniak.ch/radiofdch.mp3"
+        "working_url": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3"
     },
     {
         "name": "Radio Gaia",
         "url": "https://strm112.1.fm/radiogaia_128",
         "country": "CH",
+        "tags": "chillout",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2091,42 +2323,57 @@
         "name": "Radio Gloria",
         "url": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
         "country": "CH",
+        "tags": "christian, katholik",
         "favicon": "https://radiogloria.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 96,
         "working_url": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo"
     },
     {
+        "name": "Radio grenzenlos,Radio grenzenlos [SPCast]",
+        "url": "https://grenzenlos.sp.radio.fm/stream",
+        "country": "CH",
+        "tags": "charts, dance, gay, mainstream, mundart, oldies, pop, queer, schlager, schweiz, top 40",
+        "favicon": "https://radio.grenzenlos.ch/logo.png",
+        "codec": "MP3",
+        "bitrate": 320,
+        "working_url": "https://grenzenlos.spcast.eu/stream?time=1786720730"
+    },
+    {
         "name": "Radio Grischa",
         "url": "https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO",
         "country": "CH",
-        "favicon": "https://rso.ch/themes/custom/rso/images/RadioGrischa.svg",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO"
     },
     {
         "name": "Radio Gugelhopf",
-        "url": "https://uk3.internet-radio.com:8113/stream",
+        "url": "http://uk3.internet-radio.com:8113/stream",
         "country": "CH",
+        "tags": "experimental rock, punk, ska, world music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://uk3.internet-radio.com:8113/stream"
+        "working_url": "http://uk3.internet-radio.com:8113/stream"
     },
     {
         "name": "Radio Gwendalyn",
-        "url": "https://stream.radiojar.com/h6eddm4h9quvv",
+        "url": "http://stream.radiojar.com/h6eddm4h9quvv",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://n09.radiojar.com/h6eddm4h9quvv?rj-ttl=5&rj-tok=AAABn_HzKFcAB4KpVTuLXkdxLQ"
+        "working_url": "http://n13.radiojar.com/h6eddm4h9quvv?rj-ttl=5&rj-tok=AAABoADj5goA7Hk-hyXDhmi67Q"
     },
     {
         "name": "Radio HOF—BAR",
         "url": "https://hofbar.beatnik.ch/stream",
         "country": "CH",
+        "tags": "ambient",
         "favicon": "https://hof-bar.ch/assets/favicon.png",
         "codec": "OGG",
         "bitrate": 0,
@@ -2136,7 +2383,8 @@
         "name": "Radio Jura bernois",
         "url": "https://rjb.ice.infomaniak.ch/rjb-128.aac",
         "country": "CH",
-        "favicon": "https://www.rjb.ch/Htdocs/Images/Theme/rjb/HeadIcons/apple-touch-icon.png",
+        "tags": "",
+        "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
         "working_url": "https://rjb.ice.infomaniak.ch/rjb-128.aac"
@@ -2145,6 +2393,7 @@
         "name": "Radio Lac",
         "url": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
         "country": "CH",
+        "tags": "genève, lac, yes fm",
         "favicon": "https://www.radiolac.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -2154,6 +2403,7 @@
         "name": "Radio LoRa",
         "url": "https://livestream.lora.ch/lora.mp3",
         "country": "CH",
+        "tags": "community radio, feminist, freies radio, queer",
         "favicon": "https://www.lora.ch/images/favicon/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -2161,26 +2411,29 @@
     },
     {
         "name": "RADIO MARIA SWITZERLAND",
-        "url": "https://dreamsiteradiocp2.com:8106/stream",
+        "url": "http://dreamsiteradiocp2.com:8106/stream",
         "country": "CH",
+        "tags": "catholic, christian, katholic, religion, talk",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
-        "working_url": "https://dreamsiteradiocp2.com:8106/stream"
+        "working_url": "http://dreamsiteradiocp2.com:8106/stream"
     },
     {
         "name": "Radio Maschinengeist",
-        "url": "https://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3",
+        "url": "http://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3",
         "country": "CH",
+        "tags": "ambient",
         "favicon": "https://forum.maschinengeist.org/",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3"
+        "working_url": "http://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3"
     },
     {
         "name": "Radio Maxxima",
         "url": "https://maxxima.mine.nu/maxxima.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2190,6 +2443,7 @@
         "name": "Radio Melody",
         "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374",
         "country": "CH",
+        "tags": "classic hits, hits, top40",
         "favicon": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -2199,24 +2453,27 @@
         "name": "Radio Melody Schweiz",
         "url": "https://stream.streambase.ch/rm/mp3-192/mytuner/",
         "country": "CH",
+        "tags": "",
         "favicon": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=6n7s31qo%230%2326op9o06s6539s8p440p917443o45297%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1786720731"
     },
     {
         "name": "Radio Morcote International",
-        "url": "https://streaming.radiomorcoteinternational.com:8000/;",
+        "url": ";",
         "country": "CH",
+        "tags": "morcote, pop, rock",
         "favicon": "https://www.radiomorcoteinternational.com/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://streaming.radiomorcoteinternational.com:8000/;"
+        "working_url": ";"
     },
     {
         "name": "Radio Munot",
         "url": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2226,6 +2483,7 @@
         "name": "Radio neue Hoffnung (RNH)",
         "url": "https://s5.radio.co/seeece1f6b/listen",
         "country": "CH",
+        "tags": "christian, christian music, talk  speech",
         "favicon": "https://www.mnr.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -2233,26 +2491,29 @@
     },
     {
         "name": "Radio Niesen",
-        "url": "https://server31677.streamplus.de:10074/stream.mp3",
+        "url": "http://server31677.streamplus.de:10074/stream.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://server31677.streamplus.de:10074/stream.mp3"
+        "working_url": "http://server31677.streamplus.de:10074/stream.mp3"
     },
     {
         "name": "Radio Onyx",
-        "url": "https://nr4.newradio.it:9432/stream",
+        "url": "http://nr4.newradio.it:9432/stream",
         "country": "CH",
+        "tags": "italian pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://nr4.newradio.it:9432/stream"
+        "working_url": "http://nr4.newradio.it:9432/stream"
     },
     {
         "name": "RADIO OUISTITI",
         "url": "https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2262,24 +2523,27 @@
         "name": "Radio Pilatus",
         "url": "https://stream.streambase.ch/radiopilatus/mp3-192/direct/",
         "country": "CH",
-        "favicon": "https://static.az-cdn.ch/__ip/-mJfyVrl_jY3yNiQEv1P6bDVERI/e2f4da8bbaacde7412f8067126f84818cfc72783/remote.adjust.rotate=0",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-pilatus-mp3-192-4664468?sABC=6n7o5ro8%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470072"
+        "working_url": "https://chmedia.streamabc.net/79-pilatus-mp3-192-4664468?sABC=6n7s31qo%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720731"
     },
     {
         "name": "Radio R",
-        "url": "https://radior.ice.infomaniak.ch/radior-128.mp3",
+        "url": "http://radior.ice.infomaniak.ch/radior-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radior.ice.infomaniak.ch/radior-128.mp3"
+        "working_url": "http://radior.ice.infomaniak.ch/radior-128.mp3"
     },
     {
         "name": "Radio R Louange",
         "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
         "country": "CH",
+        "tags": "",
         "favicon": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -2289,6 +2553,7 @@
         "name": "Radio Rasa Schaffhausen",
         "url": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
         "country": "CH",
+        "tags": "alternative, independent, indie",
         "favicon": "https://www.rasa.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
@@ -2298,42 +2563,37 @@
         "name": "Radio Rocher",
         "url": "https://play.radioking.io/radio-rocher/429886",
         "country": "CH",
+        "tags": "community radio, suisse, swiss made",
         "favicon": "https://image.radioking.io/radios/321905/logo/26ca805b-11bd-49c0-a13d-d357fb33ffd0.jpeg",
         "codec": "MP3",
         "bitrate": 192,
         "working_url": "https://listen.radioking.com/radio/321905/stream/429886"
     },
     {
-        "name": "Radio Rocket",
-        "url": "https://i9.streams.ovh/sc/radioroc/stream",
-        "country": "CH",
-        "favicon": "",
-        "codec": "MP3",
-        "bitrate": 320,
-        "working_url": "https://i9.streams.ovh/sc/radioroc/stream"
-    },
-    {
         "name": "Radio RTR",
-        "url": "https://stream.srg-ssr.ch/srgssr/rr/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/rr/aac/96",
         "country": "CH",
-        "favicon": "https://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+        "tags": "",
+        "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rr/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rr/aac/96"
     },
     {
         "name": "Radio Rumantsch",
-        "url": "https://stream.srg-ssr.ch/m/rr/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/rr/mp3_128",
         "country": "CH",
-        "favicon": "http://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+        "tags": "public radio, srg ssr",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rr/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rr/mp3/128"
     },
     {
         "name": "Radio S",
         "url": "https://stream.radio-s.ch:8443/pssend",
         "country": "CH",
+        "tags": "eclectic, hospita",
         "favicon": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png",
         "codec": "MP3",
         "bitrate": 185,
@@ -2343,6 +2603,7 @@
         "name": "Radio Schlagerpark",
         "url": "https://radio.schlagerpark.com/",
         "country": "CH",
+        "tags": "partyschlager, schlager",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 0,
@@ -2350,17 +2611,19 @@
     },
     {
         "name": "Radio SRF 1",
-        "url": "https://stream.srg-ssr.ch/srgssr/srf1/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/srf1/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srf1/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf1/aac/96"
     },
     {
         "name": "Radio SRF 1 (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/srf1/aac/192",
         "country": "CH",
+        "tags": "information, news, pop, srg ssr",
         "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 176,
@@ -2368,242 +2631,269 @@
     },
     {
         "name": "Radio SRF 1 Aargau Solothurn",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
     },
     {
         "name": "Radio SRF 1 Basel Baselland",
-        "url": "https://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96",
+        "url": "http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 112,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_bs_bl/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_bs_bl/aac/96"
     },
     {
         "name": "Radio SRF 1 Bern Freibourg Wallis",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96"
     },
     {
         "name": "Radio SRF 1 Bern Freiburg Wallis | 96k AAC+",
         "url": "https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96",
         "country": "CH",
+        "tags": "commercial free, contemporary, culture, mixed programming, pop",
         "favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96"
     },
     {
         "name": "Radio SRF 1 Graubünden | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/regi_gr/aacp_32",
         "country": "CH",
+        "tags": "commercial free, contemporary, culture, mixed programming, pop",
         "favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_gr/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_gr/aac/96"
     },
     {
         "name": "Radio SRF 1 Graubünden | 96k AAC+",
         "url": "https://stream.srg-ssr.ch/m/regi_gr/aacp_96",
         "country": "CH",
+        "tags": "commercial free, contemporary, culture, mixed programming, pop",
         "favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_gr/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_gr/aac/96"
     },
     {
         "name": "Radio SRF 1 Ostschweiz",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_ost/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_ost/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_ost/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ost/aac/96"
     },
     {
         "name": "Radio SRF 1 Ostschweiz | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/regi_ost/aacp_32",
         "country": "CH",
+        "tags": "commercial free, contemporary, culture, mixed programming, pop",
         "favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_ost/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ost/aac/96"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Aargau, Solothurn",
-        "url": "https://stream.srg-ssr.ch/m/regi_ag_so/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio, srg ssr",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ag_so/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ag_so/mp3/128"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Basel, Baselland",
-        "url": "https://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/regi_bs_bl/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_bs_bl/mp3/128"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis",
-        "url": "https://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/regi_be_fr_vs/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_be_fr_vs/mp3/128"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Graubünden",
-        "url": "https://stream.srg-ssr.ch/m/regi_gr/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_gr/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_gr/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_gr/mp3/128"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Ostschweiz",
-        "url": "https://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_ost/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ost/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ost/mp3/128"
     },
     {
         "name": "Radio SRF 1 Regionaljournal Zürich, Schaffhausen",
-        "url": "https://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128",
         "country": "CH",
+        "tags": "local news, news, public radio",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_zh_sh/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_zh_sh/mp3/128"
     },
     {
         "name": "Radio SRF 1 Zentralschweiz",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_zentr/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_zentr/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_zentr/aac/96"
     },
     {
         "name": "Radio SRF 1 Zentralschweiz | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/regi_zentr/aacp_32",
         "country": "CH",
+        "tags": "commercial free, contemporary, culture, mixed programming, pop",
         "favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/regi_zentr/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_zentr/aac/96"
     },
     {
         "name": "Radio SRF 1 Zürich Schaffhausen",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_zh_sh/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_zh_sh/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
     },
     {
         "name": "Radio SRF 2 Kultur",
         "url": "https://stream.srg-ssr.ch/m/drs2/aacp_32",
         "country": "CH",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+        "tags": "classical, culture, jazz",
+        "favicon": "",
         "codec": "AAC",
         "bitrate": 40,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/srf2/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf2/aac/96"
     },
     {
         "name": "Radio SRF 2 Kultur (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/srf2/aac/192",
         "country": "CH",
+        "tags": "classical, culture, jazz, srg ssr",
         "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/srf2/aac/192"
+        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srf2/aac/192"
     },
     {
         "name": "Radio SRF 3",
         "url": "https://stream.srg-ssr.ch/m/drs3/aacp_96",
         "country": "CH",
+        "tags": "entertainment, pop, rock",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srf3/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/srf3/aac/96"
     },
     {
         "name": "Radio SRF 3 (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/srf3/aac/192",
         "country": "CH",
+        "tags": "pop, rock, srg ssr",
         "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 184,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srf3/aac/192"
+        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srf3/aac/192"
     },
     {
         "name": "Radio SRF 4 News",
         "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_96",
         "country": "CH",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png",
+        "tags": "information, news",
+        "favicon": "",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/aac/96"
     },
     {
         "name": "Radio SRF 4 News (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/srf4news/aac/192",
         "country": "CH",
+        "tags": "information, news, srg ssr",
         "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 224,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srf4news/aac/192"
+        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/aac/192"
     },
     {
         "name": "Radio SRF Musikwelle",
-        "url": "https://stream.srg-ssr.ch/srgssr/srfmw/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/srfmw/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srfmw/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srfmw/aac/96"
     },
     {
         "name": "Radio SRF Virus",
-        "url": "https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/srfvirus/aac/96",
         "country": "CH",
+        "tags": "high quality audio, srg ssr",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srfvirus/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srfvirus/aac/96"
     },
     {
         "name": "Radio SRF Virus - Indie Rock",
-        "url": "https://streaming.swisstxt.ch/m/drsvirus/mp3_128",
+        "url": "http://streaming.swisstxt.ch/m/drsvirus/mp3_128",
         "country": "CH",
+        "tags": "indie rock, public radio, srf",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srfvirus/mp3/128"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/srfvirus/mp3/128"
     },
     {
         "name": "Radio Stadtfilter (DAB+)",
         "url": "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7",
         "country": "CH",
+        "tags": "city, pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 160,
@@ -2613,7 +2903,8 @@
         "name": "Radio Südostschweiz",
         "url": "https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO",
         "country": "CH",
-        "favicon": "https://www.suedostschweiz.ch/themes/suedostschweiz/logo.svg",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO"
@@ -2622,96 +2913,107 @@
         "name": "Radio Suisse Classique",
         "url": "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
         "country": "CH",
+        "tags": "classical",
         "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_fr/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_fr/mp3/128"
     },
     {
         "name": "Radio Suisse Jazz",
         "url": "https://stream.srg-ssr.ch/m/rsj/aacp_96",
         "country": "CH",
+        "tags": "blues, jazz, smooth jazz",
         "favicon": "https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rsj/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsj/aac/96"
     },
     {
         "name": "Radio Svizzera Classica",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsc_it/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsc_it/aac/96",
         "country": "CH",
+        "tags": "classical",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rsc_it/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_it/aac/96"
     },
     {
         "name": "Radio Swiss Classic",
         "url": "https://stream.srg-ssr.ch/m/rsc_de/aacp_96",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_de/aac/96"
     },
     {
         "name": "Radio Swiss Classic DE (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192",
         "country": "CH",
+        "tags": "classical, srg ssr",
         "favicon": "https://www.radioswissclassic.ch/social-media/rsc-web.png",
         "codec": "AAC",
         "bitrate": 184,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/aac/192"
+        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rsc_de/aac/192"
     },
     {
         "name": "Radio Swiss Classic French",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96",
         "country": "CH",
+        "tags": "classical, french, public radio, srg ssr",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 104,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_fr/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsc_fr/aac/96"
     },
     {
         "name": "Radio Swiss Classic German",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsc_de/aac/48",
         "country": "CH",
+        "tags": "classical, srg ssr",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_de/aac/96"
     },
     {
         "name": "RADIO SWISS CLASSICA ITALIA",
         "url": "https://stream.srg-ssr.ch/m/rsc_it/mp3_128",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radioswissclassic.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_it/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_it/mp3/128"
     },
     {
         "name": "Radio Swiss Jazz",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsj/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsj/aac/96",
         "country": "CH",
+        "tags": "jazz, public radio, srg ssr",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsj/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsj/aac/96"
     },
     {
         "name": "Radio Swiss Jazz (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/rsj/aac/192",
         "country": "CH",
+        "tags": "jazz, srg ssr",
         "favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
         "codec": "AAC",
         "bitrate": 184,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rsj/aac/192"
+        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsj/aac/192"
     },
     {
         "name": "Radio Swiss Pop",
         "url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128",
         "country": "CH",
+        "tags": "pop",
         "favicon": "https://www.radioswisspop.ch/_nuxt/img/rsp-logo-35.2e0febd.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2721,33 +3023,37 @@
         "name": "Radio Swiss Pop (AAC 192)",
         "url": "https://stream.srg-ssr.ch/srgssr/rsp/aac/192",
         "country": "CH",
+        "tags": "pop, srg ssr",
         "favicon": "https://www.radioswisspop.ch/social-media/rsp-web.png",
         "codec": "AAC",
         "bitrate": 216,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/aac/192"
+        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rsp/aac/192"
     },
     {
         "name": "Radio Television Suisse 1",
-        "url": "https://stream.srg-ssr.ch/srgssr/la-1ere/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/la-1ere/mp3/128",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/mp3/128"
     },
     {
         "name": "Radio Tell",
-        "url": "https://stream.radiotell.ch/radiotell.mp3",
+        "url": "http://stream.radiotell.ch/radiotell.mp3",
         "country": "CH",
+        "tags": "folklore, volksmusik",
         "favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-180x180.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://stream.radiotell.ch/radiotell.mp3"
+        "working_url": "http://stream.radiotell.ch/radiotell.mp3"
     },
     {
         "name": "Radio Tell Bodeständig",
         "url": "https://radiotell.dmd2streaming.com/radiotell03.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-32x32.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2757,6 +3063,7 @@
         "name": "Radio Top (Ostschweiz)",
         "url": "https://radiotop.ice.infomaniak.ch/radiotop96.aac",
         "country": "CH",
+        "tags": "news, pop",
         "favicon": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png",
         "codec": "AAC+",
         "bitrate": 96,
@@ -2766,6 +3073,7 @@
         "name": "RADIO VINTAGE",
         "url": "https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3?ua=RADIO%20VINTAGE%20-%20audio%20player%201",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radio-vintage.com/wp-content/uploads/2020/12/cropped-logo-4.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2773,35 +3081,39 @@
     },
     {
         "name": "Radio Vostok",
-        "url": "https://radiovostok.ice.infomaniak.ch/radiovostok.aac",
+        "url": "http://radiovostok.ice.infomaniak.ch/radiovostok.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 96,
-        "working_url": "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
+        "working_url": "http://radiovostok.ice.infomaniak.ch/radiovostok.aac"
     },
     {
         "name": "Radio X Basel (MP3 Stream)",
-        "url": "https://mp3.radiox.ch:8000/standard.mp3",
+        "url": "http://mp3.radiox.ch:8000/standard.mp3",
         "country": "CH",
+        "tags": "drum and bass, electronica, hiphop, house, indie, reggae, trance",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://mp3.radiox.ch:8000/standard.mp3"
+        "working_url": "http://mp3.radiox.ch:8000/standard.mp3"
     },
     {
         "name": "Radio X Basel (OGG Stream)",
-        "url": "https://mp3.radiox.ch:8000/standard.ogg",
+        "url": "http://mp3.radiox.ch:8000/standard.ogg",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 2000,
-        "working_url": "https://mp3.radiox.ch:8000/standard.ogg"
+        "working_url": "http://mp3.radiox.ch:8000/standard.ogg"
     },
     {
         "name": "Radio X FLAC",
         "url": "https://mp3.radiox.ch/standard.ogg",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "OGG",
         "bitrate": 2000,
@@ -2811,6 +3123,7 @@
         "name": "Radio Zuerich Nord: Musikbox",
         "url": "https://bayern.streampanel.cloud:11145/stream",
         "country": "CH",
+        "tags": "",
         "favicon": "https://radio-zuerich-nord.ch/s3/a/wsw.website.1097/public/images/pages/1493162-436252646518688-612187691-njpg2.jpeg",
         "codec": "MP3",
         "bitrate": 128,
@@ -2818,17 +3131,19 @@
     },
     {
         "name": "Radio Zuerisee",
-        "url": "https://mp3.radio.ch/radiozuerisee128k",
+        "url": "http://mp3.radio.ch/radiozuerisee128k",
         "country": "CH",
+        "tags": "dance, hits, pop, top100",
         "favicon": "https://radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://mp3.radio.ch/radiozuerisee128k"
+        "working_url": "http://mp3.radio.ch/radiozuerisee128k"
     },
     {
         "name": "Radio Zürisee",
         "url": "https://mp3.radio.ch/radiozuerisee256k",
         "country": "CH",
+        "tags": "classic hits, classic rock, pop, top 100",
         "favicon": "https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
         "codec": "MP3",
         "bitrate": 256,
@@ -2838,6 +3153,7 @@
         "name": "Radio-Drachenblut",
         "url": "https://radio-drachenblut.ch:8443/listen.mp3",
         "country": "CH",
+        "tags": "metal, rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -2845,17 +3161,19 @@
     },
     {
         "name": "Radio15.ch",
-        "url": "https://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc",
+        "url": "http://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc",
         "country": "CH",
+        "tags": "folk",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
-        "working_url": "https://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc"
+        "working_url": "http://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc"
     },
     {
         "name": "Radio24",
         "url": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=696840ro%230%23srp58oqr2q0127pq92r8qr5o3p87s1no%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1768440043",
         "country": "CH",
+        "tags": "main, mainstream",
         "favicon": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
         "codec": "MP3",
         "bitrate": 0,
@@ -2865,6 +3183,7 @@
         "name": "Radio4TNG",
         "url": "https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radio4tng.ch/media/Icon-60@3x-170x170.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -2872,17 +3191,19 @@
     },
     {
         "name": "RadioFr. Freiburg",
-        "url": "https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3",
+        "url": "http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
+        "working_url": "http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
     },
     {
         "name": "RadioFr. Fresh",
         "url": "https://radiofresh.ice.infomaniak.ch/radiofresh.aac",
         "country": "CH",
+        "tags": "pop",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
@@ -2890,26 +3211,29 @@
     },
     {
         "name": "RadioFr. Fribourg",
-        "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+        "url": "http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.radiofr.ch/favicons/apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+        "working_url": "http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
     },
     {
         "name": "Radiopolis",
-        "url": "https://rs01.swissnwx.ch:20080/stream",
+        "url": "http://rs01.swissnwx.ch:20080/stream",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://rs01.swissnwx.ch:20080/stream"
+        "working_url": "http://rs01.swissnwx.ch:20080/stream"
     },
     {
         "name": "RadioPungis",
         "url": "https://radio.second-hands.org/listen/radiopungis/radio.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://radio.second-hands.org/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -2917,53 +3241,59 @@
     },
     {
         "name": "RadioSouvenir.com",
-        "url": "https://radio12.pro-fhi.net/radio/9136/stream",
+        "url": "http://radio12.pro-fhi.net/radio/9136/stream",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.radiosouvenir.com/images/bandeau.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radio12.pro-fhi.net/radio/9136/stream"
+        "working_url": "http://radio12.pro-fhi.net/radio/9136/stream"
     },
     {
         "name": "Redline Radio",
-        "url": "https://listen.radioking.com/radio/81865/stream/161119",
+        "url": "http://listen.radioking.com/radio/81865/stream/161119",
         "country": "CH",
+        "tags": "variety",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
-        "working_url": "https://listen.radioking.com/radio/81865/stream/161119"
+        "working_url": "http://listen.radioking.com/radio/81865/stream/161119"
     },
     {
         "name": "Rete Due | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/retedue/aacp_32",
         "country": "CH",
+        "tags": "classical, commercial free, contemporary, culture, jazz, mixed programming, reflective, sophisticated, world music",
         "favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-due.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/retedue/aac/96"
     },
     {
         "name": "Rete Tre | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/retetre/aacp_32",
         "country": "CH",
+        "tags": "alternative, commercial free, contemporary, culture, energetic, mixed programming, pop, upbeat",
         "favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-tre.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/retetre/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/retetre/aac/96"
     },
     {
         "name": "Rete Uno | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/reteuno/aacp_32",
         "country": "CH",
+        "tags": "blues, classical, commercial free, contemporary, culture, folk, hip hop, italian singer-songwriter, jazz, mixed programming, pop, rock",
         "favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/reteuno/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/reteuno/aac/96"
     },
     {
         "name": "RFJ",
         "url": "https://rfj.ice.infomaniak.ch/rfj-high.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -2971,17 +3301,19 @@
     },
     {
         "name": "Rhône FM",
-        "url": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.aac",
+        "url": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.rhonefm.ch/favicon/4/120x120.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.aac"
+        "working_url": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac"
     },
     {
         "name": "Rockstar Radio",
         "url": "https://dr2101.ice.infomaniak.ch/dr2102.mp3",
         "country": "CH",
+        "tags": "classic rock, rock, rock music",
         "favicon": "https://dr21.mediaonegroup.ch/apps/assets/logo_rockstar_2.svg",
         "codec": "MP3",
         "bitrate": 192,
@@ -2991,6 +3323,7 @@
         "name": "ROCKSTATION",
         "url": "https://radio2.stream24.net:8130/live.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://rockstation.ch/wp-content/uploads/2023/03/cropped-favicon-basis-192x192.jpg",
         "codec": "MP3",
         "bitrate": 128,
@@ -2998,125 +3331,139 @@
     },
     {
         "name": "ROCKSTATION's Broadcast",
-        "url": "https://radio2.stream24.net:8130/live.mp3",
+        "url": "http://radio2.stream24.net:8130/live.mp3",
         "country": "CH",
+        "tags": "alternative rock, classic rock, rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://radio2.stream24.net:8130/live.mp3"
+        "working_url": "http://radio2.stream24.net:8130/live.mp3"
     },
     {
         "name": "Rouge",
-        "url": "https://rougefm.ice.infomaniak.ch/rougefm-high.aac",
+        "url": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac",
         "country": "CH",
+        "tags": "classic hits, top hits, top40",
         "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_rougefm1.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://rougefm.ice.infomaniak.ch/rougefm-high.aac"
+        "working_url": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac"
     },
     {
         "name": "Rouge FM 90s",
-        "url": "https://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3",
+        "url": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3",
         "country": "CH",
+        "tags": "90s",
         "favicon": "https://static.wixstatic.com/media/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3"
+        "working_url": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3"
     },
     {
         "name": "Rouge FM Latino",
-        "url": "https://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+        "url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
         "country": "CH",
+        "tags": "latin",
         "favicon": "http://www.rougefm.com/imgs/webradios/latino.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3"
+        "working_url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3"
     },
     {
         "name": "Rouge FM Lounge",
-        "url": "https://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+        "url": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
         "country": "CH",
+        "tags": "lounge",
         "favicon": "http://www.rougefm.com/imgs/webradios/lounge.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
+        "working_url": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
     },
     {
         "name": "Rouge FM Suisse",
-        "url": "https://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
+        "url": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
         "country": "CH",
+        "tags": "pop",
         "favicon": "http://www.rougefm.com/imgs/webradios/suisse.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3"
+        "working_url": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3"
     },
     {
         "name": "RSI Rete Due",
-        "url": "https://stream.srg-ssr.ch/srgssr/retedue/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/retedue/aac/48",
         "country": "CH",
-        "favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
-        "codec": "AAC",
-        "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/retedue/aac/96"
-    },
-    {
-        "name": "RSI Rete Tre",
-        "url": "https://stream.srg-ssr.ch/srgssr/retetre/aac/48",
-        "country": "CH",
-        "favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
-        "codec": "AAC",
-        "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/retetre/aac/96"
-    },
-    {
-        "name": "RSI Rete Uno",
-        "url": "https://stream.srg-ssr.ch/srgssr/reteuno/aac/48",
-        "country": "CH",
-        "favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
-        "codec": "AAC",
-        "bitrate": 48,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/aac/96"
-    },
-    {
-        "name": "RSR Couleur 3",
-        "url": "https://stream.srg-ssr.ch/srgssr/couleur3/aac/48",
-        "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/couleur3/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/retedue/aac/96"
+    },
+    {
+        "name": "RSI Rete Tre",
+        "url": "http://stream.srg-ssr.ch/srgssr/retetre/aac/48",
+        "country": "CH",
+        "tags": "",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/retetre/aac/96"
+    },
+    {
+        "name": "RSI Rete Uno",
+        "url": "http://stream.srg-ssr.ch/srgssr/reteuno/aac/48",
+        "country": "CH",
+        "tags": "",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 48,
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/reteuno/aac/96"
+    },
+    {
+        "name": "RSR Couleur 3",
+        "url": "http://stream.srg-ssr.ch/srgssr/couleur3/aac/48",
+        "country": "CH",
+        "tags": "",
+        "favicon": "",
+        "codec": "AAC",
+        "bitrate": 128,
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/couleur3/aac/96"
     },
     {
         "name": "RSR Espace 2",
-        "url": "https://stream.srg-ssr.ch/srgssr/espace-2/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/espace-2/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/espace-2/aac/96"
+        "working_url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/espace-2/aac/96"
     },
     {
         "name": "RSR La Premiere",
-        "url": "https://stream.srg-ssr.ch/srgssr/la-1ere/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/la-1ere/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/la-1ere/aac/96"
     },
     {
         "name": "RSR Option Musique",
-        "url": "https://stream.srg-ssr.ch/srgssr/option-musique/aac/48",
+        "url": "http://stream.srg-ssr.ch/srgssr/option-musique/aac/48",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/option-musique/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/option-musique/aac/96"
     },
     {
         "name": "RTN",
         "url": "https://rtn.ice.infomaniak.ch/rtn-high.mp3",
         "country": "CH",
+        "tags": "regional",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -3126,87 +3473,117 @@
         "name": "RTR | 32k AAC+",
         "url": "https://stream.srg-ssr.ch/m/rr/aacp_32",
         "country": "CH",
+        "tags": "alpine traditional music, commercial free, contemporary, culture, graubünden regional folk music, mixed programming, romansh-language pop, swiss folk music",
         "favicon": "https://download-media.srf.ch/world/image/audio/2020/07/45780e322f604be8973867ee03cf88e6.png",
         "codec": "AAC",
         "bitrate": 48,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/rr/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rr/aac/96"
     },
     {
         "name": "RTS Couleur 3",
-        "url": "https://stream.srg-ssr.ch/m/couleur3/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/couleur3/mp3/128"
     },
     {
         "name": "RTS Espace 2",
-        "url": "https://stream.srg-ssr.ch/srgssr/espace-2/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/espace-2/mp3/128",
         "country": "CH",
+        "tags": "classic, jazz, public radio, srg ssr",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/espace-2/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/espace-2/mp3/128"
     },
     {
         "name": "RTS La Première",
         "url": "https://stream.srg-ssr.ch/m/la-1ere/aacp_96",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "AAC",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/la-1ere/aac/96"
     },
     {
         "name": "RTS Option Musique",
-        "url": "https://stream.srg-ssr.ch/srgssr/option-musique/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/option-musique/mp3/128",
         "country": "CH",
+        "tags": "public radio, srg ssr",
         "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/option-musique/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/option-musique/mp3/128"
     },
     {
         "name": "RTS Première",
-        "url": "https://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
         "country": "CH",
-        "favicon": "https://i.postimg.cc/wTG6YwVj/1000002923.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/la-1ere/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/mp3/128"
     },
     {
         "name": "Rundfunk FM",
-        "url": "https://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3",
+        "url": "http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3",
         "country": "CH",
+        "tags": "easy listening",
         "favicon": "https://rundfunk.fm/static/assets/favicon/favicon-32x32.png",
         "codec": "MP3",
         "bitrate": 170,
-        "working_url": "https://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3"
+        "working_url": "http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3"
     },
     {
         "name": "Rundfunk.fm",
         "url": "https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3",
         "country": "CH",
+        "tags": "funky",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 320,
         "working_url": "https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3"
     },
     {
+        "name": "Sabaton радио",
+        "url": "https://stream.pcradio.ru/sabaton-hi",
+        "country": "CH",
+        "tags": "discography",
+        "favicon": "null",
+        "codec": "AAC",
+        "bitrate": 0,
+        "working_url": "https://stream06.pcradio.app/sabaton-hi"
+    },
+    {
         "name": "Skuizz Hits 90s-00s",
         "url": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3",
         "country": "CH",
+        "tags": "00s, 90s, pop, rock",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3"
     },
     {
+        "name": "Spoon Radio",
+        "url": "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192",
+        "country": "CH",
+        "tags": "rock",
+        "favicon": "https://www.spoonradio.com/newimages/logo.png",
+        "codec": "MP3",
+        "bitrate": 192,
+        "working_url": "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192"
+    },
+    {
         "name": "Spoon Radio - Acoustic Rock",
         "url": "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac",
         "country": "CH",
+        "tags": "acoustic, acoustic rock, commercial-free, no ads, rock",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3216,6 +3593,7 @@
         "name": "Spoon Radio - Alternative Rock",
         "url": "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3225,6 +3603,7 @@
         "name": "Spoon Radio - Classic Rock",
         "url": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac",
         "country": "CH",
+        "tags": "classic rock, commercial-free, no ads, rock",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3234,6 +3613,7 @@
         "name": "Spoon Radio - Hard Rock",
         "url": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3243,6 +3623,7 @@
         "name": "Spoon Radio - Modern Rock",
         "url": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac",
         "country": "CH",
+        "tags": "commercial-free, modern rock, no ads, rock",
         "favicon": "",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3252,6 +3633,7 @@
         "name": "Spoon Radio - Rock Ballads",
         "url": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac",
         "country": "CH",
+        "tags": "",
         "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3259,125 +3641,129 @@
     },
     {
         "name": "SRF 1",
-        "url": "https://stream.srg-ssr.ch/m/drs1/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
         "country": "CH",
+        "tags": "public radio, srg ssr",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srf1/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf1/mp3/128"
     },
     {
         "name": "SRF 2",
-        "url": "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
         "country": "CH",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+        "tags": "culture, kultur, public radio, srg ssr",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srf2/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf2/mp3/128"
     },
     {
         "name": "SRF 3",
-        "url": "https://stream.srg-ssr.ch/m/drs3/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
         "country": "CH",
-        "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+        "tags": "pop, public radio, srg ssr",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/srf3/mp3/128"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srf3/mp3/128"
     },
     {
         "name": "SRF 4 News",
-        "url": "https://stream.srg-ssr.ch/m/drs4news/mp3_128",
+        "url": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
         "country": "CH",
+        "tags": "news, public radio, srg ssr",
         "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/srf4news/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/mp3/128"
     },
     {
         "name": "SRF Virus",
-        "url": "https://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128",
         "country": "CH",
+        "tags": "alternative, alternative rock, public radio, srg ssr, youth",
         "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srfvirus/mp3/128"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srfvirus/mp3/128"
     },
     {
         "name": "SRF1 Radio",
-        "url": "https://stream.srg-ssr.ch/srgssr/srf1/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/srf1/aac/96",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/srf1/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srf1/aac/96"
     },
     {
         "name": "SRF1 Regionaljournal Aargau Solothurn",
-        "url": "https://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/96",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
         "codec": "AAC",
         "bitrate": 120,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
     },
     {
         "name": "SRF1 Regionaljournal Zürich-Schaffhausen",
-        "url": "https://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96",
+        "url": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
-        "working_url": "https://livestreaming-node-4.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
+        "working_url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
     },
     {
         "name": "Sunshine Radio (Switzerland)",
         "url": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080",
         "country": "CH",
+        "tags": "",
         "favicon": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-4746851?sABC=6n7o5roq%231%231699795900047_8633080%23puzrqvn-enqvb-jro&aw_0_1st.playerid=chmedia-radio-web&amsparams=playerid:chmedia-radio-web;skey:1786470077"
+        "working_url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-4746851?sABC=6n7s31r5%231%231699795900047_8633080%23puzrqvn-enqvb-jro&aw_0_1st.playerid=chmedia-radio-web&amsparams=playerid:chmedia-radio-web;skey:1786720741"
     },
     {
         "name": "Superyachtradio",
         "url": "https://stream.radio.co/s43a403d3a/listen",
         "country": "CH",
+        "tags": "",
         "favicon": "https://superyachtradio.com",
         "codec": "MP3",
         "bitrate": 128,
         "working_url": "https://stream.radio.co/s43a403d3a/listen"
     },
     {
-        "name": "Swiss Groove",
-        "url": "https://relay1.swissgroove.ch/",
-        "country": "CH",
-        "favicon": "https://www.swissgroove.ch/favicon.ico",
-        "codec": "MP3",
-        "bitrate": 128,
-        "working_url": "https://relay1.swissgroove.ch/"
-    },
-    {
         "name": "Swiss Pop",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsp/aac/96",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsp/aac/96",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 88,
-        "working_url": "https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96"
+        "working_url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/aac/96"
     },
     {
         "name": "SWISSCLASSICA ITALIA",
-        "url": "https://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128",
+        "url": "http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.radioswissclassic.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_it/mp3/128"
+        "working_url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsc_it/mp3/128"
     },
     {
         "name": "Ta Radio",
         "url": "https://stream.taradio.ch/dab",
         "country": "CH",
+        "tags": "dance, funk, hits, live, rnb, rock",
         "favicon": "",
         "codec": "AAC",
         "bitrate": 96,
@@ -3385,17 +3771,19 @@
     },
     {
         "name": "toxic.fm",
-        "url": "https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3",
+        "url": "http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.toxic.fm/player/assets/logo_toxicfm.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3"
+        "working_url": "http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3"
     },
     {
         "name": "TRANSITION RADIO",
         "url": "https://a9.asurahosting.com/listen/transition_radio/radio.mp3",
         "country": "CH",
+        "tags": "experimental, experimental electronic music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 192,
@@ -3405,6 +3793,7 @@
         "name": "Trasformatorio",
         "url": "https://radio.dyne.org/trasformatorio-archives.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://trasformatorio.net/wp-content/uploads/2013/07/cropped-logotondo-2.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -3412,197 +3801,229 @@
     },
     {
         "name": "Traxx FM - Ambient",
-        "url": "https://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
+        "url": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
         "country": "CH",
+        "tags": "ambient, ambient and relaxation music, chill, chillout, commercial-free, no ads, relax, relaxation, relaxation music, relaxing",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx011.ice.infomaniak.ch/traxx011-low.mp3"
+        "working_url": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3"
     },
     {
         "name": "Traxx FM - Classic",
-        "url": "https://traxx012.ice.infomaniak.ch/traxx012-low.mp3",
+        "url": "http://traxx012.ice.infomaniak.ch/traxx012-low.mp3",
         "country": "CH",
+        "tags": "classic",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx012.ice.infomaniak.ch/traxx012-low.mp3"
+        "working_url": "http://traxx012.ice.infomaniak.ch/traxx012-low.mp3"
     },
     {
         "name": "Traxx FM - Cool Jam",
-        "url": "https://traxx005.ice.infomaniak.ch/traxx005-low.mp3",
+        "url": "http://traxx005.ice.infomaniak.ch/traxx005-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, jazz, lounge, no ads, nu jazz, nu-jazz, relax, relaxing, smooth jazz",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx005.ice.infomaniak.ch/traxx005-low.mp3"
+        "working_url": "http://traxx005.ice.infomaniak.ch/traxx005-low.mp3"
     },
     {
         "name": "Traxx FM - Deep",
-        "url": "https://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+        "url": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, deep, deep house, electronic, house, no ads",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx013.ice.infomaniak.ch/traxx013-low.mp3"
+        "working_url": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3"
     },
     {
         "name": "Traxx FM - Deluxe",
-        "url": "https://traxx001.ice.infomaniak.ch/traxx001-low.mp3",
+        "url": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, edm, electro, electronic, house, no ads",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx001.ice.infomaniak.ch/traxx001-low.mp3"
+        "working_url": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3"
     },
     {
         "name": "Traxx FM - France",
-        "url": "https://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
+        "url": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
         "country": "CH",
+        "tags": "french",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx025.ice.infomaniak.ch/traxx025-1.mp3"
+        "working_url": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3"
     },
     {
         "name": "Traxx FM - Funk",
-        "url": "https://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
+        "url": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, funk, no ads",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx016.ice.infomaniak.ch/traxx016-low.mp3"
+        "working_url": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3"
     },
     {
         "name": "Traxx FM - Golden Oldies",
-        "url": "https://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
+        "url": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
         "country": "CH",
+        "tags": "1970s, 1980s, 70s, 80s, commercial-free, golden oldies, no ads, oldies",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx023.ice.infomaniak.ch/traxx023-1.mp3"
+        "working_url": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3"
+    },
+    {
+        "name": "Traxx FM - Hits",
+        "url": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3",
+        "country": "CH",
+        "tags": "",
+        "favicon": "",
+        "codec": "MP3",
+        "bitrate": 128,
+        "working_url": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3"
     },
     {
         "name": "Traxx FM - House",
-        "url": "https://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
+        "url": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, deep house, edm, electronic, house, no ads",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx002.ice.infomaniak.ch/traxx002-low.mp3"
+        "working_url": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3"
     },
     {
         "name": "Traxx FM - Italia",
-        "url": "https://traxx021.ice.infomaniak.ch/traxx021-1.mp3",
+        "url": "http://traxx021.ice.infomaniak.ch/traxx021-1.mp3",
         "country": "CH",
+        "tags": "italian",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx021.ice.infomaniak.ch/traxx021-1.mp3"
+        "working_url": "http://traxx021.ice.infomaniak.ch/traxx021-1.mp3"
     },
     {
         "name": "Traxx FM - Jazz",
-        "url": "https://traxx014.ice.infomaniak.ch/traxx014-low.mp3",
+        "url": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3",
         "country": "CH",
+        "tags": "classic jazz, commercial-free, jazz, jazz music, no ads, smooth jazz",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx014.ice.infomaniak.ch/traxx014-low.mp3"
+        "working_url": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3"
     },
     {
         "name": "Traxx FM - Latino",
-        "url": "https://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
+        "url": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, latin, latin music, latin pop, latino, latino-pop, musica latina, no ads, pop latino",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx008.ice.infomaniak.ch/traxx008-low.mp3"
+        "working_url": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3"
     },
     {
         "name": "Traxx FM - Latino Pop",
-        "url": "https://traxx022.ice.infomaniak.ch/traxx022-1.mp3",
+        "url": "http://traxx022.ice.infomaniak.ch/traxx022-1.mp3",
         "country": "CH",
+        "tags": "latino",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx022.ice.infomaniak.ch/traxx022-1.mp3"
+        "working_url": "http://traxx022.ice.infomaniak.ch/traxx022-1.mp3"
     },
     {
         "name": "Traxx FM - Lounge",
-        "url": "https://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
+        "url": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, lounge, lounge music, no ads, relax, relaxation, relaxation music, relaxing, smooth lounge",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx004.ice.infomaniak.ch/traxx004-low.mp3"
+        "working_url": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3"
     },
     {
         "name": "Traxx FM - Pop",
-        "url": "https://traxx009.ice.infomaniak.ch/traxx009-low.mp3",
+        "url": "http://traxx009.ice.infomaniak.ch/traxx009-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, no ads, pop, pop music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx009.ice.infomaniak.ch/traxx009-low.mp3"
+        "working_url": "http://traxx009.ice.infomaniak.ch/traxx009-low.mp3"
     },
     {
         "name": "Traxx FM - Rap",
-        "url": "https://traxx015.ice.infomaniak.ch/traxx015-low.mp3",
+        "url": "http://traxx015.ice.infomaniak.ch/traxx015-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, no ads, rap, rap hiphop rnb, urban, urban music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx015.ice.infomaniak.ch/traxx015-low.mp3"
+        "working_url": "http://traxx015.ice.infomaniak.ch/traxx015-low.mp3"
     },
     {
         "name": "Traxx FM - RnB",
-        "url": "https://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
+        "url": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, contemporary rnb, no ads, rhythm and blues, rnb",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx007.ice.infomaniak.ch/traxx007-low.mp3"
+        "working_url": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3"
     },
     {
         "name": "Traxx FM - Soul",
-        "url": "https://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
+        "url": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, no ads, soul, soulful",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx006.ice.infomaniak.ch/traxx006-low.mp3"
+        "working_url": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3"
     },
     {
         "name": "Traxx FM - Tech Minimal",
-        "url": "https://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
+        "url": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
         "country": "CH",
+        "tags": "commercial-free, electronic, minimal, minimal techno, no ads, tech minimal, techno",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://traxx020.ice.infomaniak.ch/traxx020-low.mp3"
+        "working_url": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3"
     },
     {
         "name": "True House Chill",
-        "url": "https://stream.truehouse.net:8000/chill",
+        "url": "http://stream.truehouse.net:8000/chill",
         "country": "CH",
+        "tags": "chillout",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream.truehouse.net:8000/chill"
+        "working_url": "http://stream.truehouse.net:8000/chill"
     },
     {
         "name": "True House Radio",
-        "url": "https://stream.truehouse.net:8000/house",
+        "url": "http://stream.truehouse.net:8000/house",
         "country": "CH",
+        "tags": "house",
         "favicon": "http://www.truehouse.net/favicon.ico",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream.truehouse.net:8000/house"
+        "working_url": "http://stream.truehouse.net:8000/house"
     },
     {
         "name": "URBN Radio",
         "url": "https://dr2101.ice.infomaniak.ch/dr2103.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://urbnradio.ch/favicon.ico",
         "codec": "MP3",
         "bitrate": 192,
@@ -3612,6 +4033,7 @@
         "name": "UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive",
         "url": "https://uzic.ice.infomaniak.ch/uzic-128.aac",
         "country": "CH",
+        "tags": "electro, house, minimal techno, progressive house, techno",
         "favicon": "https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png",
         "codec": "AAC+",
         "bitrate": 128,
@@ -3621,6 +4043,7 @@
         "name": "Vertical Radio",
         "url": "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "https://www.verticalradio.ch/media/image/11/base/logo-vertical-green.svg?undefined",
         "codec": "MP3",
         "bitrate": 128,
@@ -3628,71 +4051,69 @@
     },
     {
         "name": "Vibración Latina",
-        "url": "https://vibration.stream2net.eu:8410/;stream/1",
+        "url": "http://vibration.stream2net.eu:8410/;stream/1",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://vibration.stream2net.eu:8410/;stream/1"
+        "working_url": "http://vibration.stream2net.eu:8410/;stream/1"
     },
     {
         "name": "Vibration Chanson Française",
-        "url": "https://vibration.stream2net.eu:8510/;stream/1",
+        "url": "http://vibration.stream2net.eu:8510/;stream/1",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://vibration.stream2net.eu:8510/;stream/1"
+        "working_url": "http://vibration.stream2net.eu:8510/;stream/1"
     },
     {
         "name": "Vibration FM",
-        "url": "https://vibration-aac.stream2net.eu:8040/vibra108-64k.mp3",
+        "url": "http://vibration-aac.stream2net.eu:8040/vibra108-64k.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 96,
-        "working_url": "https://vibration-aac.stream2net.eu:8040/vibra108-64k.mp3"
+        "working_url": "http://vibration-aac.stream2net.eu:8040/vibra108-64k.mp3"
     },
     {
         "name": "Vibration Gayradio",
-        "url": "https://vibration.stream2net.eu:8480/;stream/1",
+        "url": "http://vibration.stream2net.eu:8480/;stream/1",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://vibration.stream2net.eu:8480/;stream/1"
-    },
-    {
-        "name": "Vibration Poprock",
-        "url": "https://vibrationpoprock.stream2net.eu:8030/;",
-        "country": "CH",
-        "favicon": "",
-        "codec": "MP3",
-        "bitrate": 96,
-        "working_url": "https://vibrationpoprock.stream2net.eu:8030/;"
+        "working_url": "http://vibration.stream2net.eu:8480/;stream/1"
     },
     {
         "name": "Vibration Soft Hits",
-        "url": "https://vibration.stream2net.eu:8350/;stream/1",
+        "url": "http://vibration.stream2net.eu:8350/;stream/1",
         "country": "CH",
-        "favicon": "https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png",
+        "tags": "",
+        "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://vibration.stream2net.eu:8350/;stream/1"
+        "working_url": "http://vibration.stream2net.eu:8350/;stream/1"
     },
     {
         "name": "Vibration Zen Relax",
-        "url": "https://vibration.stream2net.eu:8220/;stream/1",
+        "url": "http://vibration.stream2net.eu:8220/;stream/1",
         "country": "CH",
+        "tags": "",
         "favicon": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://vibration.stream2net.eu:8220/;stream/1"
+        "working_url": "http://vibration.stream2net.eu:8220/;stream/1"
     },
     {
         "name": "Vintage Radio",
         "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
         "country": "CH",
+        "tags": "music",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -3702,42 +4123,37 @@
         "name": "Virgin Radio Switzerland",
         "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=6n7o5rp0%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786470080"
+        "working_url": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=6n7s31r7%230%2326op9o06s6539s8p440p917443o45297%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1786720743"
     },
     {
         "name": "Volnadavida Radio",
-        "url": "https://transmiss.ion.ovh/listen/volnadavida/radio.mp3",
+        "url": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3",
         "country": "CH",
+        "tags": "",
         "favicon": "http://transmiss.ion.ovh/api/station/volnadavida/art/e8c237f255cb9ca7df3a9da1",
         "codec": "MP3",
         "bitrate": 128,
-        "working_url": "https://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
+        "working_url": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
     },
     {
         "name": "WALTS WELT",
         "url": "https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237",
         "country": "CH",
+        "tags": "",
         "favicon": "https://waltswelt.ch/wp-content/uploads/2017/06/cropped-favicon_512x512_2-150x150.png",
         "codec": "MP3",
         "bitrate": 64,
         "working_url": "https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237"
     },
     {
-        "name": "Wildmountain Radio",
-        "url": "https://wildmountain.ice.infomaniak.ch/wmr.mp3",
-        "country": "CH",
-        "favicon": "https://www.wildmountain.ch/favicon.png",
-        "codec": "MP3",
-        "bitrate": 192,
-        "working_url": "https://wildmountain.ice.infomaniak.ch/wmr.mp3"
-    },
-    {
         "name": "World Radio Switzerland",
         "url": "https://uksouth.streaming.broadcast.radio:10290/wrs",
         "country": "CH",
+        "tags": "",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -3747,6 +4163,7 @@
         "name": "WRS",
         "url": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910",
         "country": "CH",
+        "tags": "hits, pop",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 128,
@@ -3756,6 +4173,7 @@
         "name": "WRS \"Swiss Radio in English\"",
         "url": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217",
         "country": "CH",
+        "tags": "",
         "favicon": "https://mmo.aiircdn.com/29/61eaca66a914b.png",
         "codec": "MP3",
         "bitrate": 128,
@@ -3763,11 +4181,12 @@
     },
     {
         "name": "ஊரி தமிழ் வானொலி URI TAMIL RADIO",
-        "url": "https://stream.zenolive.com/u8nt64f6sfeuv",
+        "url": "http://stream.zenolive.com/u8nt64f6sfeuv",
         "country": "CH",
+        "tags": "classical",
         "favicon": "",
         "codec": "MP3",
         "bitrate": 0,
-        "working_url": "https://stream-179.surfernetwork.com/u8nt64f6sfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OG50NjRmNnNmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ0UFIzN3VvWlJWU1VQbFh6ZjZPampRIiwiaWF0IjoxNzg2NDcwMDgyLCJleHAiOjE3ODY0NzAxNDJ9.kypzQ9jtCcFC0KiQTxZH7aB4AFX093uuQDuOQ9RfAy8"
+        "working_url": "http://stream-179.surfernetwork.com/u8nt64f6sfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OG50NjRmNnNmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFtcUxVdFRkUjNHWkNaRkJvTG44bkEiLCJpYXQiOjE3ODY3MjA3NDMsImV4cCI6MTc4NjcyMDgwM30.tUNpdGVQjKfR1LaTaWJNv6fUKmIrfIcOdDul4K8mRjc"
     }
 ]
