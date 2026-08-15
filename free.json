@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Alem FM",
+    "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+    "country": "TR",
+    "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+    "codec": "AAC",
+    "bitrate": 128
+  },
+  {
+    "name": "SomaFM: Groove Salad",
+    "url": "https://ice5.somafm.com/groovesalad-128-mp3",
+    "country": "US",
+    "favicon": "https://somafm.com/img3/groovesalad-400.jpg",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "name": "Radio Paradise (Main Mix)",
+    "url": "http://stream.radioparadise.com/mp3-192",
+    "country": "US",
+    "favicon": "https://radioparadise.com/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 192
+  },
+ 
+  {
+    "name": "KEXP 90.3 FM",
+    "url": "https://kexp.streamguys1.com/kexp160.aac",
+    "country": "US",
+    "favicon": "https://www.kexp.org/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 160
+  },
+  {
+    "name": "Radio Swiss Jazz",
+    "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "country": "CH",
+    "favicon": "https://www.radioswissjazz.ch/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "name": "Radio Swiss Pop",
+    "url": "http://stream.srg-ssr.ch/m/rsp/aacp_96",
+    "country": "CH",
+    "favicon": "https://www.radioswisspop.ch/favicon.ico",
+    "codec": "AAC",
+    "bitrate": 96
+  },
+  {
+    "name": "France Inter",
+    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "country": "FR",
+    "favicon": "https://www.franceinter.fr/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "name": "France Musique",
+    "url": "https://direct.francemusique.fr/live/francemusique-midfi.mp3",
+    "country": "FR",
+    "favicon": "https://www.francemusique.fr/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "name": "Radio Classique",
+    "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+    "country": "FR",
+    "favicon": "https://www.radioclassique.fr/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128
+  },
+  {
+    "name": "Deutschlandfunk",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
+    "country": "DE",
+    "favicon": "https://www.deutschlandfunk.de/favicon.ico",
+    "codec": "MP3",
+    "bitrate": 128
+  }
+]
