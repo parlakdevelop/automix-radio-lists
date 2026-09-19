@@ -3,7 +3,7 @@
         "name": "Süper FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM32AAC.aac",
         "country": "TR",
-        "favicon": "",
+        "favicon": "https://superfm.com.tr/favicon.ico",
         "codec": "UNKNOWN",
         "bitrate": 0,
         "working_url":"https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM32AAC.aac"
@@ -12,7 +12,7 @@
         "name": "Alem FM",
         "url": "http://scturkmedya.radyotvonline.com/stream/80/",
         "country": "TR",
-        "favicon": "",
+        "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
         "working_url":"http://scturkmedya.radyotvonline.com/stream/80/"
@@ -57,7 +57,7 @@
     },
     {
         "name": "Aşk FM",
-        "url": ";",
+        "url": "http://yayin.asymedya.com:8020/;",
         "country": "TR",
         "tags": "pop music",
         "favicon": "https://www.radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
