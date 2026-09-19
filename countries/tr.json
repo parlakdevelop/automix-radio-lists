@@ -305,26 +305,7 @@
         "bitrate": 130,
         "working_url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
     },
-    {
-        "name": "Radyo Fenomen",
-        "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
-        "country": "TR",
-        "tags": "turkey",
-        "favicon": "",
-        "codec": "AAC+",
-        "bitrate": 56,
-        "working_url": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
-    },
-    {
-        "name": "Radyo Fenomen Clubbin",
-        "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
-        "country": "TR",
-        "tags": "club, clubbing, dance, edm, house, party, party hits, turkey",
-        "favicon": "https://cdn.radyofenomen.com/artwork/logo20.png",
-        "codec": "AAC+",
-        "bitrate": 56,
-        "working_url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
-    },
+    
     {
         "name": "RADYO SARI TRAMVAY",
         "url": "http://37.247.98.8/stream/27/",
