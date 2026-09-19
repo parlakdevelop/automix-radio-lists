@@ -31,7 +31,7 @@
         "name": "Lig Radyo",
         "url": "https://ligradyo.radyotvonline.net/ligradyo",
         "country": "TR",
-        "favicon": "",
+        "favicon": "https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
         "working_url":"https://ligradyo.radyotvonline.net/ligradyo"
@@ -40,7 +40,7 @@
         "name": "Best FM",
         "url": "https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
         "country": "TR",
-        "favicon": "",
+        "favicon": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
         "codec": "UNKNOWN",
         "bitrate": 0,
         "working_url":"https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8"
