@@ -135,11 +135,6 @@
     "url": "https://stream.antiradio.net/radio/8000/web"
   },
   {
-    "id": "588f7be3-ee74-48e1-ae4d-2de601036498",
-    "name": "Otomobil Hayatı",
-    "url": "https://radio.autoliferadio.com:8005/radio"
-  },
-  {
     "id": "5608161e-c1a9-4397-8d2d-1ecba831ebeb",
     "name": "Hazar İş Radyosu",
     "url": "https://myradio24.org/bosscomaz"
@@ -149,11 +144,7 @@
     "name": "Gurme Pazarı",
     "url": "http://5.191.241.101:8000/gourmet"
   },
-  {
-    "id": "6e88e6fa-6b15-4042-a2ff-8cb07f369899",
-    "name": "Planet Fm",
-    "url": "https://live.dinle.az/planetfm"
-  },
+  
   {
     "id": "7667e2a1-364d-44b4-9c36-61cdd0d774d0",
     "name": "Radio Tbm 105",
