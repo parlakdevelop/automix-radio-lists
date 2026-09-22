@@ -1,0 +1,172 @@
+[
+  {
+    "id": "9b585efa-26b3-4199-b0ac-22233427d3e2",
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/radio/8000/mp3"
+  },
+  {
+    "id": "0489548d-8f50-407b-b425-f991ac2e0382",
+    "name": "Araz fm 103.3",
+    "url": "http://s39.myradiostream.com/5458/listen.mp3"
+  },
+  {
+    "id": "02a4cfd6-9339-4dc3-b93e-da91189b45e5",
+    "name": "Araz Supermarket Radio",
+    "url": "http://5.191.241.101:8000/arazmarket"
+  },
+  {
+    "id": "b8754e8a-e131-40d3-916f-1056d22c7ad5",
+    "name": "Asan Radio",
+    "url": "http://94.20.74.206:4448/stream1"
+  },
+  {
+    "id": "8cd3a247-4405-4cb6-ac1a-cf87beac2fd9",
+    "name": "AutoLife Azerbaijan",
+    "url": "https://radio.autoliferadio.com:8005/radio"
+  },
+  {
+    "id": "720bddeb-b272-47be-ba38-e3cb6ae5d788",
+    "name": "Azerbaycan Radiosu 105.0 FM",
+    "url": "http://str.yodacdn.net/radio_respublica/video.m3u8"
+  },
+  {
+    "id": "c3c35387-8d14-49ed-8c1e-6899de99ead1",
+    "name": "Bravo Supermarket Radio",
+    "url": "http://5.191.241.101:8000/bravo"
+  },
+  {
+    "id": "0baef45a-b642-4a31-93b5-d844ff8ca884",
+    "name": "Caspian Business Radio BOSS",
+    "url": "https://myradio24.org/bosscomaz"
+  },
+  {
+    "id": "cafe7b3b-c708-4e89-a72a-a598966ab458",
+    "name": "DalğaFM 92.5",
+    "url": "https://live.dinle.az/dalgafm"
+  },
+  {
+    "id": "aef5e3ca-cf47-4546-b555-12556c3a903e",
+    "name": "İctimai Radio – 90 FM",
+    "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
+  },
+  {
+    "id": "47e27277-74c0-41ea-b8bc-5e95f69a95f7",
+    "name": "Media Fm 105.5",
+    "url": "https://icecast.livetv.az/mediafm"
+  },
+  {
+    "id": "2fd273e8-7a9f-44a5-8128-81172e36f5fe",
+    "name": "Naxçıvan Radiosu",
+    "url": "http://s33.myradiostream.com:12782/listen.mp3"
+  },
+  {
+    "id": "48630542-6e3a-41a5-8594-7d2728c76094",
+    "name": "NAZ RADIO",
+    "url": "https://s2.myradiostream.com/5286/listen.mp3"
+  },
+  {
+    "id": "8d06e3ec-d437-4682-8863-0f278af14886",
+    "name": "PlanetFM 88.7",
+    "url": "https://live.dinle.az/planetfm"
+  },
+  {
+    "id": "151dd2b8-73d1-4838-9642-7ec311251a89",
+    "name": "Radio Enerji 101.1 FM",
+    "url": "https://icecast.livetv.az/antennfm"
+  },
+  {
+    "id": "efc3fcc0-b8c6-4c61-85b8-ff3236322dc9",
+    "name": "Rahat Supermarket Radio",
+    "url": "http://5.191.241.101:8000/rahatmarket"
+  },
+  {
+    "id": "903275ef-b272-431f-87a8-a1362db7e066",
+    "name": "Real FM 107",
+    "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a"
+  },
+  {
+    "id": "38a99532-e31d-4d0f-b47a-ea3ead6ba96e",
+    "name": "Sağlam Radio",
+    "url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000"
+  },
+  {
+    "id": "fcf3f17c-4f29-484d-8d1f-0740dbf709d3",
+    "name": "TMB 100.5",
+    "url": "http://s39.myradiostream.com:5458/"
+  },
+  {
+    "id": "d13b03fa-0bc6-4137-ab43-674f0cd71625",
+    "name": "Xezer FM",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3?"
+  },
+  {
+    "id": "d85c690f-35d0-4e36-98eb-c3fdf357eadc",
+    "name": "Yurd FM",
+    "url": "https://icecast.livetv.az/yurdfm"
+  },
+  {
+    "id": "7c8314af-31a6-4354-8528-9c6e67002582",
+    "name": "Avto Fm",
+    "url": "http://5.191.241.101:8000/avtofm"
+  },
+  {
+    "id": "c11d56d6-99ae-4176-a817-559cf00f3e19",
+    "name": "Sehiyye Fm",
+    "url": "https://s24.myradiostream.com/:17446/listen.mp3/;"
+  },
+  {
+    "id": "e18824e5-39ff-4c10-b3f9-335b0ce541d5",
+    "name": "Mix Radyo 4",
+    "url": "https://eu.stream4cast.com/proxy/xfmradio/stream"
+  },
+  {
+    "id": "da34cb9e-502a-492c-898e-43229065a1a0",
+    "name": "106.3 Fm",
+    "url": "https://audiostr.atv.az/106.3fm"
+  },
+  {
+    "id": "d14b3ac1-0c78-4be0-9039-213eb52024dc",
+    "name": "Agdam Fm",
+    "url": "https://a2.asurahosting.com:6650/radio.mp3"
+  },
+  {
+    "id": "fbc22932-29c2-41aa-a188-42b6444a0c94",
+    "name": "Radio Karşıtı",
+    "url": "https://stream.antiradio.net/radio/8000/web"
+  },
+  {
+    "id": "588f7be3-ee74-48e1-ae4d-2de601036498",
+    "name": "Otomobil Hayatı",
+    "url": "https://radio.autoliferadio.com:8005/radio"
+  },
+  {
+    "id": "5608161e-c1a9-4397-8d2d-1ecba831ebeb",
+    "name": "Hazar İş Radyosu",
+    "url": "https://myradio24.org/bosscomaz"
+  },
+  {
+    "id": "c3d8fd52-7f74-4d16-8e2d-cd8ff84ef953",
+    "name": "Gurme Pazarı",
+    "url": "http://5.191.241.101:8000/gourmet"
+  },
+  {
+    "id": "6e88e6fa-6b15-4042-a2ff-8cb07f369899",
+    "name": "Planet Fm",
+    "url": "https://live.dinle.az/planetfm"
+  },
+  {
+    "id": "7667e2a1-364d-44b4-9c36-61cdd0d774d0",
+    "name": "Radio Tbm 105",
+    "url": "https://s39.myradiostream.com/:5458/listen.mp3"
+  },
+  {
+    "id": "ec9b07df-65f3-4995-89c4-769126778418",
+    "name": "UşaqlarRadyosu",
+    "url": "https://a2.asurahosting.com:7660/radio.mp3"
+  },
+  {
+    "id": "24b4ba6c-8cac-433e-af84-9d400ebc6e73",
+    "name": "Eski Radyo",
+    "url": "https://trucker.autoliferadio.com:1045/stream"
+  }
+]
